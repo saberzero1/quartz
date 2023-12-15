@@ -1,4 +1,5 @@
-// npx convert-sh-theme https://raw.githubusercontent.com/shikijs/shiki/main/packages/shiki/themes/github-light.json
+// OLD: npx convert-sh-theme https://raw.githubusercontent.com/shikijs/shiki/main/packages/shiki/themes/github-light.json
+// https://github.com/enkia/tokyo-night-vscode-theme/blob/master/themes/tokyo-night-light-color-theme.json
 :root {
   --shiki-color-text: #24292e;
   --shiki-color-background: #f8f8f8;
@@ -13,7 +14,8 @@
   --shiki-token-link: #24292e;
 }
 
-// npx convert-sh-theme https://raw.githubusercontent.com/shikijs/shiki/main/packages/shiki/themes/github-dark.json
+// OLD: npx convert-sh-theme https://raw.githubusercontent.com/shikijs/shiki/main/packages/shiki/themes/github-dark.json
+// https://github.com/enkia/tokyo-night-vscode-theme/blob/master/themes/tokyo-night-storm-color-theme.json
 [saved-theme="dark"] {
   --shiki-color-text: #e1e4e8 !important;
   --shiki-color-background: #24292e !important;
