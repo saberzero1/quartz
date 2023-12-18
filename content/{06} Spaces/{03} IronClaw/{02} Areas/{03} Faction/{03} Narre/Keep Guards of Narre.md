@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/03-narre/keep-guards-of-narre/","title":"Keep Guards of Narre"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{03} Narre/Keep Guards of Narre/","title":"Keep Guards of Narre"}
 ---
 
 <!--The Guards guarding the Keep near Narre. They follow orders from the Mages of Narre.-->
@@ -17,5 +17,12 @@ The guards of the Keep near Narre were an elite force, trained to obey the comma
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Faction 
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Faction")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
