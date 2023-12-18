@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/04-writing/04-lore/the-manor-of-muro-liva/","title":"The Manor of Muro Liva"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing/{04} Lore/The Manor of Muro Liva/","title":"The Manor of Muro Liva"}
 ---
 
 
