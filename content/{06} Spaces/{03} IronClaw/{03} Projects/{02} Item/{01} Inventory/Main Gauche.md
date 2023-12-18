@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/02-item/01-inventory/main-gauche/","title":"Main Gauche"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Main Gauche/","title":"Main Gauche"}
 ---
 
 <!--A parrying dagger. A gift from Norrix to better protect myself.-->
@@ -12,5 +12,12 @@ A gleaming parrying dagger, a gift from the strong Norrix, lay in my hands, an o
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Location
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Item")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
