@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/01-maps-of-content/","title":"{01} Maps of Content","pinned":true}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{01} Maps of Content/","title":"{01} Maps of Content","pinned":true}
 ---
 
 
