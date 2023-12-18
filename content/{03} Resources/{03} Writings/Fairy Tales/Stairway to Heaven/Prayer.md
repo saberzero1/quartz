@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-resources/03-writings/fairy-tales/stairway-to-heaven/prayer/","title":"Prayer"}
+{"dg-publish":true,"permalink":"/{03} Resources/{03} Writings/Fairy Tales/Stairway to Heaven/Prayer/","title":"Prayer"}
 ---
 
 
