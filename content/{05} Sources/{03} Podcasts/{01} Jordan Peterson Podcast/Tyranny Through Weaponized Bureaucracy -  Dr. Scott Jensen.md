@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-sources/03-podcasts/01-jordan-peterson-podcast/tyranny-through-weaponized-bureaucracy-dr-scott-jensen/","title":"Tyranny Through Weaponized Bureaucracy | Dr. Scott Jensen | EP 349","tags":["podcast","YouTube"]}
+{"dg-publish":true,"permalink":"/{05} Sources/{03} Podcasts/{01} Jordan Peterson Podcast/Tyranny Through Weaponized Bureaucracy -  Dr. Scott Jensen/","title":"Tyranny Through Weaponized Bureaucracy | Dr. Scott Jensen | EP 349","tags":["podcast","YouTube"]}
 ---
 
 
