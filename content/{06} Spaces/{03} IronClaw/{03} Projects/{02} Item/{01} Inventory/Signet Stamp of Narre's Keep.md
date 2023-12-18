@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/02-item/01-inventory/signet-stamp-of-narre-s-keep/","title":"Signet Stamp of Narre's Keep"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Signet Stamp of Narre's Keep/","title":"Signet Stamp of Narre's Keep"}
 ---
 
 <!--A stamp proving authencity of Narre's Keep. Used to sign letters.-->
@@ -12,5 +12,12 @@ This aged and weathered stamp is a relic from a bygone era, a testament to the a
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Location
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Item")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
