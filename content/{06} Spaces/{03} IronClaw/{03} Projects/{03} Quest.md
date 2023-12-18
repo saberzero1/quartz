@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/03-quest/","title":"{03} Quest","pinned":true}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/","title":"{03} Quest","pinned":true}
 ---
 
