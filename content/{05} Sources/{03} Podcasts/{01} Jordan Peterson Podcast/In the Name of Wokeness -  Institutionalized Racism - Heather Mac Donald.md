@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-sources/03-podcasts/01-jordan-peterson-podcast/in-the-name-of-wokeness-institutionalized-racism-heather-mac-donald/","title":"In the Name of Wokeness: Institutionalized Racism | Heather Mac Donald | EP 350","tags":["podcast","YouTube"]}
+{"dg-publish":true,"permalink":"/{05} Sources/{03} Podcasts/{01} Jordan Peterson Podcast/In the Name of Wokeness -  Institutionalized Racism - Heather Mac Donald/","title":"In the Name of Wokeness: Institutionalized Racism | Heather Mac Donald | EP 350","tags":["podcast","YouTube"]}
 ---
 
 
