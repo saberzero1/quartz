@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-sources/03-podcasts/01-jordan-peterson-podcast/konstantin-kisin-and-the-counter-woke-revolution/","title":"Konstantin Kisin and the Counter-Woke Revolution | EP 333","tags":["podcast","YouTube"]}
+{"dg-publish":true,"permalink":"/{05} Sources/{03} Podcasts/{01} Jordan Peterson Podcast/Konstantin Kisin and the Counter-Woke Revolution/","title":"Konstantin Kisin and the Counter-Woke Revolution | EP 333","tags":["podcast","YouTube"]}
 ---
 
 
