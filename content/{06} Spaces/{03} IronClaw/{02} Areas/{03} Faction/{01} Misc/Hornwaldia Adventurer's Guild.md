@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/01-misc/hornwaldia-adventurer-s-guild/","title":"Hornwaldia Adventurer's Guild"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Hornwaldia Adventurer's Guild/","title":"Hornwaldia Adventurer's Guild"}
 ---
 
 
@@ -25,5 +25,12 @@ Deep in the heart of Hornwaldia, a guild of adventurers has been formed. Here, b
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Faction 
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Faction")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
