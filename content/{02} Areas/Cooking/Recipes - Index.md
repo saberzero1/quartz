@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/cooking/recipes-index/","title":"Recipes - Index","pinned":true}
+{"dg-publish":true,"permalink":"/{02} Areas/Cooking/Recipes - Index/","title":"Recipes - Index","pinned":true}
 ---
 
 
-
-{ .block-language-dataview}
+```dataview
+LIST sort(rows.file.link)
+WHERE contains(file.folder, this.file.folder)
+WHERE file.folder != this.file.folder
+WHERE endswith(file.name, "Index")
+GROUP BY regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS Section
+```
