@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/03-quest/02-completed/defeat-the-bandits/","title":"Defeat the Bandits"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Bandits/","title":"Defeat the Bandits"}
 ---
 
 
@@ -25,5 +25,12 @@ A bunch of bandits are causing ruckus in the woods between Opeden and Narre. Fin
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Location
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Quest")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
