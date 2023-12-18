@@ -1,17 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/99-iron-claw/01-and-a-1000-years-more/iron-claw-and-a-1000-years-more-index/","title":"IronClaw - And a 1000 Years More - Index","pinned":true}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{99} IronClaw/{01} And a 1000 Years More/IronClaw - And a 1000 Years More - Index/","title":"IronClaw - And a 1000 Years More - Index","pinned":true}
 ---
 
 
 ## Character Notes
 
-
-{ .block-language-dataview}
+```dataview
+LIST sort(rows.file.link)
+WHERE contains(file.folder, this.file.folder)
+WHERE file.folder != this.file.folder
+WHERE endswith(file.name, "Index")
+WHERE !contains(file.name, ".excalidraw")
+WHERE contains(file.name, "Bestiary") OR contains(file.name, "Writing") OR contains(file.name, "Item") OR contains(file.name, "Diary")
+GROUP BY regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS Section
+```
 
 ## System Notes
 
-
-{ .block-language-dataview}
+```dataview
+LIST sort(rows.file.link)
+WHERE contains(file.folder, this.file.folder)
+WHERE file.folder != this.file.folder
+WHERE endswith(file.name, "Index")
+WHERE !contains(file.name, ".excalidraw")
+WHERE !contains(file.name, "Bestiary")
+WHERE !contains(file.name, "Writing")
+WHERE !contains(file.name, "Item")
+WHERE !contains(file.name, "Diary")
+GROUP BY regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS Section
+```
 
 ## Calendar
 
