@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/04-bestiary/02-undead/zombie/","title":"Zombie"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/{02} Undead/Zombie/","title":"Zombie"}
 ---
 
 
@@ -7,5 +7,12 @@ A walking corpse.
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Location
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Bestiary")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
