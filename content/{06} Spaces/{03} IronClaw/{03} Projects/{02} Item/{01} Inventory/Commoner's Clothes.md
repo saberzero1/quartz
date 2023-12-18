@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/02-item/01-inventory/commoner-s-clothes/","title":"Commoner's Clothes"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Commoner's Clothes/","title":"Commoner's Clothes"}
 ---
 
 <!--A set of clothes I got sewn in Narre. It allows me to disguise myself and blend in with the common folks.-->
@@ -12,5 +12,12 @@ I acquired an exquisite set of attire from the renowned tailor of Narre - a set 
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Location
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Item")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
