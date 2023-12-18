@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/01-sessions/session-008/","title":"Session 008"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 008/","title":"Session 008"}
 ---
 
 
