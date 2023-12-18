@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/04-wildt/wildt-mercenary-guild/","title":"Wildt Apothecary Guild"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{04} Wildt/Wildt Mercenary Guild/","title":"Wildt Apothecary Guild"}
 ---
 
 
@@ -16,5 +16,12 @@ Gottliejb
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Faction 
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Faction")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
