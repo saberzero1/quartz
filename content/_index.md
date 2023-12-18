@@ -5,9 +5,6 @@
 
 Welcome to my Second Brain.
 
-
-{ .block-language-dataview}
-
 ## Maps of Content
 
 ### Tabletop RPGs
