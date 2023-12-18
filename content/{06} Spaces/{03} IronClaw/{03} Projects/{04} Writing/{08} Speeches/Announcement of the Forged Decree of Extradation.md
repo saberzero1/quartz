@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/04-writing/08-speeches/announcement-of-the-forged-decree-of-extradation/","title":"Announcement of the Forged Decree of Extradation"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing/{08} Speeches/Announcement of the Forged Decree of Extradation/","title":"Announcement of the Forged Decree of Extradation"}
 ---
 
 
