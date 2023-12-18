@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/02-location/01-towns-and-cities/01-landmarks/01-opeden/opeden-guild-building/","title":"Opeden Guild Building"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Opeden Guild Building/","title":"Opeden Guild Building"}
 ---
 
 
@@ -23,5 +23,12 @@ The Hornwaldia Guild Building located in Opeden. It is place where adventurers g
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Location
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Location")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
