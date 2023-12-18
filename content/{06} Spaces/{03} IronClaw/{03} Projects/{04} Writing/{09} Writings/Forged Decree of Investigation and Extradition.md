@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/04-writing/09-writings/forged-decree-of-investigation-and-extradition/","title":"Forged Decree of Investigation and Extradition"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing/{09} Writings/Forged Decree of Investigation and Extradition/","title":"Forged Decree of Investigation and Extradition"}
 ---
 
 
