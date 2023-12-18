@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/01-characters/01-party/norrix/","title":"Norrix"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Norrix/","title":"Norrix"}
 ---
 
 
@@ -14,5 +14,12 @@
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Location
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Character")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
