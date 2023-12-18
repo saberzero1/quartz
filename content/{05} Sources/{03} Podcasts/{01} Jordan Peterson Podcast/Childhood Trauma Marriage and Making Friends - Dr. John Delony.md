@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-sources/03-podcasts/01-jordan-peterson-podcast/childhood-trauma-marriage-and-making-friends-dr-john-delony/","title":"Childhood Trauma Marriage and Making Friends | Dr. John Delony | EP 307","tags":["podcast","YouTube"]}
+{"dg-publish":true,"permalink":"/{05} Sources/{03} Podcasts/{01} Jordan Peterson Podcast/Childhood Trauma Marriage and Making Friends - Dr. John Delony/","title":"Childhood Trauma Marriage and Making Friends | Dr. John Delony | EP 307","tags":["podcast","YouTube"]}
 ---
 
 
