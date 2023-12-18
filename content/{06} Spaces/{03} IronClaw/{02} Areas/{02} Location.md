@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/02-location/","title":"{02} Location","pinned":true}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/","title":"{02} Location","pinned":true}
 ---
 
