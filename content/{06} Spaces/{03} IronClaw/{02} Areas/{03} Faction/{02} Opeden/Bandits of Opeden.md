@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/02-opeden/bandits-of-opeden/","title":"Bandits of Opeden"}
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{02} Opeden/Bandits of Opeden/","title":"Bandits of Opeden"}
 ---
 
 
@@ -18,5 +18,12 @@ A ragtag gang of bandits that had been terrorizing the peaceful hamlet of Opeden
 
 ## Mentions
 
-
-{ .block-language-dataview}
+```dataview
+LIST Lists.text
+FROM #Faction 
+FLATTEN file.lists AS Lists
+WHERE contains(Lists.tags, "#Faction")
+WHERE !Lists.task
+WHERE contains(Lists.outlinks, this.file.link)
+SORT Lists DESC
+```
