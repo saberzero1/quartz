@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/","title":"{04} Bestiary","pinned":true}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/04-bestiary/","title":"{04} Bestiary","pinned":true}
 ---
 
