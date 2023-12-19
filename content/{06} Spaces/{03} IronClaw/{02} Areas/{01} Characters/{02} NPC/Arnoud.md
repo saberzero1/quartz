@@ -15,12 +15,6 @@ Once a proud knight of a noble order of paladins, he was the sole survivor of a 
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Location
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Character")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Arnoud\|Arnoud]] points [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|us]] to [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Gourdlings\|another quest]]: a bunch of [[{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/{01} Plantlike/Gourdling\|Gourdlings]] are causing trouble to the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Town Ruins\|north]]. #Bestiary #Character #Faction #Quest #Location #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|We]] meet [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Arnoud\|Arnoud]] in the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Opeden Tavern\|tavern]]. #Character #Faction #Location #Event
+
