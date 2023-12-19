@@ -11,8 +11,4 @@ tags:: [[003_Resources/Tabletop/Dungeons and Dragons/Dungeons and Dragons\|003_R
 
 ## Dungeons and Dragons
 
-```dataview
-LIST
-FROM #idea
-WHERE tags = [[Dungeons and Dragons]] and (file.link != this.file.link)
-```
+
