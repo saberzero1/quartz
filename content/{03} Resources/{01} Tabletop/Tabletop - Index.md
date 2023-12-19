@@ -3,11 +3,4 @@
 ---
 
 
-```dataview
-LIST sort(rows.file.link)
-WHERE contains(file.folder, this.file.folder)
-WHERE file.folder != this.file.folder
-WHERE endswith(file.name, "Index")
-WHERE length(split(file.folder, "/")) = 4
-GROUP BY regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS Section
-```
+
