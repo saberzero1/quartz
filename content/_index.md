@@ -3,6 +3,8 @@
 ---
 
 
+Currently under construction.
+
 Welcome to my Second Brain.
 
 ## Maps of Content
