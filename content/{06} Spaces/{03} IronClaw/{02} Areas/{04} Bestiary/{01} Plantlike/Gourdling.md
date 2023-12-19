@@ -7,12 +7,8 @@ Pumpkin-like monster that throws other goudlings as projectiles.
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Location
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Bestiary")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|We]] swiftly [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Gourdlings\|strike down]] the animated [[{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/{01} Plantlike/Gourdling\|Gourdlings]] and return to [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/Opeden\|Opeden]]. #Faction #Quest #Bestiary #Location #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: As [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|we]] approach the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Town Ruins\|ruins of a town]], we notice a field of [[{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/{01} Plantlike/Gourdling\|Gourdlings]]. #Faction #Bestiary #Location #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|We]] travel to the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Town Ruins\|north]] to face the [[{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/{01} Plantlike/Gourdling\|Gourdlings]]. #Faction #Location #Bestiary #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Arnoud\|Arnoud]] points [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|us]] to [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Gourdlings\|another quest]]: a bunch of [[{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/{01} Plantlike/Gourdling\|Gourdlings]] are causing trouble to the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Town Ruins\|north]]. #Bestiary #Character #Faction #Quest #Location #Event
+
