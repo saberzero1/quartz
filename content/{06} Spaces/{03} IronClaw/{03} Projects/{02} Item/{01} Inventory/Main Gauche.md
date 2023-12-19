@@ -12,12 +12,4 @@ A gleaming parrying dagger, a gift from the strong Norrix, lay in my hands, an o
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Location
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Item")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+
