@@ -21,12 +21,5 @@ The forest between Opeden and Narre.
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Location
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Location")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: Suddenly [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] barges in. "Guys, [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Steven\|Steven]] is sneaking out of town towards the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Opeden Forest\|woods]]." #Character #Location #Event
+
