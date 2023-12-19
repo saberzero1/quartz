@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale/","title":"Morale"}
+---
+
+
+![Banner-Gravestone-polaroid.png|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Gravestone-polaroid.png)
+
+## Description
+
+- Full name: Morale Crow
+- Motto: "Fool me once, shame on you, fool me twice, shame on me."
+- Dives in way too fast
+
+## Mentions
+
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 003\|Session 003]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Eckart\|Eckart]] interrupts [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|me]]. "You're [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Clear the Sky Moss\|quests]], [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|Red badge level]]…[[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Green Level Guild Badge\|mostly]]" as he gives [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 003\|Session 003]]: The secretary interrupts me "[[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|He]] is demoted to a [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Green Level Guild Badge\|Green badge]]. Anything else I can do for you?" #Character #Item #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 003\|Session 003]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] point towards [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]]. "This one, he has come to apologize fo-" #Character #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 003\|Session 003]]: The secretary gives me a glare. "Which [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|one of your ravens]] is the one responsible for this?" #Character #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 003\|Session 003]]: "[[{05} Others/Templates/Resources/Tabletop/Party\|We]] have come to return something" [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] say as I put down the Blue level quest [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] took earlier. #Character #Faction #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: Suddenly [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] barges in. "Guys, [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Steven\|Steven]] is sneaking out of town towards the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Opeden Forest\|woods]]." #Character #Location #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] confesses stealing the quest. #Character #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] order two beers and take them to the [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] while [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] is scribbling [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Green Level Guild Badge\|something]] with his makeup. #Character #Item #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: "Did you get in?" [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] asks. "No," [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] respond. "We need [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|a red badge]]." #Character #Item #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] see a [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] in the corner and [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] at the bar. I walk up to [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]]. #Character #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] heads to the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Opeden Tavern\|tavern]] as the [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|rest of the party]] heads to the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Opeden Guild Building\|guild building]]. #Character #Faction #Location #Event
+
