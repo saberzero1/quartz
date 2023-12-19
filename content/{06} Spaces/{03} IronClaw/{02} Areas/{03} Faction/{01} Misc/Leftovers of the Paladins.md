@@ -18,12 +18,4 @@ The ruins of a once-mighty band of paladins lay scattered across the land, a gri
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Faction 
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Faction")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+
