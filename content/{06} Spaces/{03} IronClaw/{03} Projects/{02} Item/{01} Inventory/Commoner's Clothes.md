@@ -12,12 +12,4 @@ I acquired an exquisite set of attire from the renowned tailor of Narre - a set 
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Location
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Item")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+
