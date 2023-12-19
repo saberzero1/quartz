@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{01} Maps of Content/{08} Writing/","title":"Writing"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/01-maps-of-content/08-writing/","title":"Writing"}
 ---
 
 
