@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{99} IronClaw/{01} And a 1000 Years More/IronClaw - And a 1000 Years More - Index/","title":"IronClaw - And a 1000 Years More - Index","pinned":true}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/99-iron-claw/01-and-a-1000-years-more/iron-claw-and-a-1000-years-more-index/","title":"IronClaw - And a 1000 Years More - Index","pinned":true}
 ---
 
 
