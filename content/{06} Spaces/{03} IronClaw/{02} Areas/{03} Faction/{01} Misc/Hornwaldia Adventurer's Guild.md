@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Hornwaldia Adventurer's Guild/","title":"Hornwaldia Adventurer's Guild"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/01-misc/hornwaldia-adventurer-s-guild/","title":"Hornwaldia Adventurer's Guild"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Signet Stamp of Narre's Keep/","title":"Signet Stamp of Narre's Keep"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/02-item/01-inventory/signet-stamp-of-narre-s-keep/","title":"Signet Stamp of Narre's Keep"}
 ---
 
 <!--A stamp proving authencity of Narre's Keep. Used to sign letters.-->

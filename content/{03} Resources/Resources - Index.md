@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{03} Resources/Resources - Index/","title":"Resources - Index","pinned":true}
+{"dg-publish":true,"permalink":"/03-resources/resources-index/","title":"Resources - Index","pinned":true}
 ---
 
 

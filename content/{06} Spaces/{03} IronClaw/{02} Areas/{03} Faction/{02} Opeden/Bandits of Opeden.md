@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{02} Opeden/Bandits of Opeden/","title":"Bandits of Opeden"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/02-opeden/bandits-of-opeden/","title":"Bandits of Opeden"}
 ---
 
 

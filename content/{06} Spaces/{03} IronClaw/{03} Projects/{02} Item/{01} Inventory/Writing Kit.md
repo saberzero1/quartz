@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Writing Kit/","title":"Writing Kit"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/02-item/01-inventory/writing-kit/","title":"Writing Kit"}
 ---
 
 <!--My dad's writing kit I use for writing maps, letters, etc.-->

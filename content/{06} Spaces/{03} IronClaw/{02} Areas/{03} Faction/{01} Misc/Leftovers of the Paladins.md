@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Leftovers of the Paladins/","title":"Leftovers of the Paladins"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/01-misc/leftovers-of-the-paladins/","title":"Leftovers of the Paladins"}
 ---
 
 

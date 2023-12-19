@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Free the Miners/","title":"Free the Miners"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/03-quest/02-completed/free-the-miners/","title":"Free the Miners"}
 ---
 
 

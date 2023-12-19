@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{01} Projects/Projects - Index/","title":"Projects - Index","pinned":true}
+{"dg-publish":true,"permalink":"/01-projects/projects-index/","title":"Projects - Index","pinned":true}
 ---
 
 

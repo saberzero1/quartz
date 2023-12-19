@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{03} Narre/Mages of Narre/","title":"Mages of Narre"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/03-narre/mages-of-narre/","title":"Mages of Narre"}
 ---
 
 

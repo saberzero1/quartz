@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{03} Resources/{04} Videos/Podcasts/Jordan Peterson Podcast/ChatGPT and the Dawn of Computerized Hyper-Intelligence -  Brian Roemmele/","title":"ChatGPT and the Dawn of Computerized Hyper-Intelligence | Brian Roemmele | EP 357","tags":["podcast","YouTube"]}
+{"dg-publish":true,"permalink":"/03-resources/04-videos/podcasts/jordan-peterson-podcast/chat-gpt-and-the-dawn-of-computerized-hyper-intelligence-brian-roemmele/","title":"ChatGPT and the Dawn of Computerized Hyper-Intelligence | Brian Roemmele | EP 357","tags":["podcast","YouTube"]}
 ---
 
 

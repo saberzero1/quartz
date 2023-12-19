@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/","title":"{03} Projects","pinned":true}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/","title":"{03} Projects","pinned":true}
 ---
 
 

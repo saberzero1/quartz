@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Main Gauche/","title":"Main Gauche"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/02-item/01-inventory/main-gauche/","title":"Main Gauche"}
 ---
 
 <!--A parrying dagger. A gift from Norrix to better protect myself.-->

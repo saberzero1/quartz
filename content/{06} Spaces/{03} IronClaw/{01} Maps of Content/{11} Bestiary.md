@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{01} Maps of Content/{11} Bestiary/","title":"Bestiary"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/01-maps-of-content/11-bestiary/","title":"Bestiary"}
 ---
 
 

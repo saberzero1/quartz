@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{03} Resources/{03} Writings/Studies/Fasting/","title":"Fasting"}
+{"dg-publish":true,"permalink":"/03-resources/03-writings/studies/fasting/","title":"Fasting"}
 ---
 
 

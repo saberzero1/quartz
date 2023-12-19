@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/","title":"{02} NPC","pinned":true}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/01-characters/02-npc/","title":"{02} NPC","pinned":true}
 ---
 
 

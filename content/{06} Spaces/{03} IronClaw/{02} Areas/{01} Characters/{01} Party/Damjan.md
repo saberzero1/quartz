@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Damjan/","title":"Damjan"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/01-characters/01-party/damjan/","title":"Damjan"}
 ---
 
 
