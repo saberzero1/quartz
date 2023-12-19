@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{02} Gifts/Stitch in Time/","title":"Stitch in Time"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/02-item/02-gifts/stitch-in-time/","title":"Stitch in Time"}
 ---
 
 
