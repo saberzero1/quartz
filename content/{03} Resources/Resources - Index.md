@@ -5,11 +5,10 @@
 
 #Index
 
-```dataview
-LIST sort(rows.file.link)
-WHERE contains(file.folder, this.file.folder)
-WHERE file.folder != this.file.folder
-WHERE endswith(file.name, "Index")
-WHERE length(split(file.folder, "/")) = 2
-GROUP BY regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS Section
-```
+- {01} Tabletop: 
+    - [[{03} Resources/{01} Tabletop/Tabletop - Index\|Tabletop - Index]]
+
+- {04} Videos: 
+    - [[{03} Resources/{04} Videos/Videos - Index\|Videos - Index]]
+
+
