@@ -19,12 +19,16 @@
 
 ![Banner-Aleksi-polaroid.jpeg|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Aleksi-polaroid.jpeg)
 
-```dataview
-LIST sort(rows.file.link)
-WHERE contains(file.folder, "{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC")
-WHERE file.folder != this.file.folder
-WHERE length(split(file.folder, "/")) = 5
-WHERE !contains(file.name, ".excalidraw")
-GROUP BY regexreplace(file.folder, ".*\/\{[0-9]+\}([^\/]+)$", "$1") AS Section
-SORT Section DESC
-```
+-  NPC: 
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|Aleksi]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Anton\|Anton]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Arnoud\|Arnoud]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Eckart\|Eckart]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Hildegart\|Hildegart]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Imtrud\|Imtrud]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Leon\|Leon]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Peter\|Peter]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Sir Andre\|Sir Andre]]
+    - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Steven\|Steven]]
+
+
