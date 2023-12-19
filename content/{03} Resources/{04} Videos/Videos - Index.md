@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{03} Resources/{04} Videos/Videos - Index/","title":"Videos - Index","pinned":true}
+{"dg-publish":true,"permalink":"/03-resources/04-videos/videos-index/","title":"Videos - Index","pinned":true}
 ---
 
 
