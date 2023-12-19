@@ -25,12 +25,8 @@ A bunch of bandits are causing ruckus in the woods between Opeden and Narre. Fin
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Location
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Quest")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|We]] prepare to [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Bandits\|confront]] the [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{02} Opeden/Bandits of Opeden\|bandits]]. #Faction #Quest #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: "Leon. Terrible." The [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Leon\|figure]] responds. "[[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{02} Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to Narre. Business has been down as a result. [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|We]] decide to spend the night at the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{01} Opeden/Opeden Tavern\|tavern]]. The next day, we prepare to head out on a [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Bandits\|quest]]. #Faction #Location #Quest #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 001\|Session 001]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] wait until the [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] is done with his story and hand him a beer. The [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] introduces himself as [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|Aleksi]], a story collector. [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|He]] informs me about a [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/Narre\|Narre]]. #Character #Quest #Location #Event
+
