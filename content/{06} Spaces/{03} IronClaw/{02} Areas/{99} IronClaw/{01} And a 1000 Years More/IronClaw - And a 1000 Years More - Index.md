@@ -5,30 +5,11 @@
 
 ## Character Notes
 
-```dataview
-LIST sort(rows.file.link)
-WHERE contains(file.folder, this.file.folder)
-WHERE file.folder != this.file.folder
-WHERE endswith(file.name, "Index")
-WHERE !contains(file.name, ".excalidraw")
-WHERE contains(file.name, "Bestiary") OR contains(file.name, "Writing") OR contains(file.name, "Item") OR contains(file.name, "Diary")
-GROUP BY regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS Section
-```
+
 
 ## System Notes
 
-```dataview
-LIST sort(rows.file.link)
-WHERE contains(file.folder, this.file.folder)
-WHERE file.folder != this.file.folder
-WHERE endswith(file.name, "Index")
-WHERE !contains(file.name, ".excalidraw")
-WHERE !contains(file.name, "Bestiary")
-WHERE !contains(file.name, "Writing")
-WHERE !contains(file.name, "Item")
-WHERE !contains(file.name, "Diary")
-GROUP BY regexreplace(file.folder, ".*\/([^\/]+)$", "$1") AS Section
-```
+
 
 ## Calendar
 
