@@ -5,34 +5,24 @@
 
 Things [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] wrote down.
 
-```dataview
-LIST sort(rows.file.link)
-WHERE contains(file.folder, "{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing")
-WHERE file.folder != this.file.folder
-WHERE !contains(file.name, ".excalidraw")
-GROUP BY regexreplace(file.folder, ".*\/\{[0-9]+\}([^\/]+)$", "$1") AS Section
-```
+-  Lore: 
+    - [[{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing/{04} Lore/The Manor of Muro Liva\|The Manor of Muro Liva]]
+
+-  Maps: 
+    - [[{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing/{03} Maps/Hornwaldia Ley Lines\|Hornwaldia Ley Lines]]
+
+-  Speeches: 
+    - [[{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing/{08} Speeches/Announcement of the Forged Decree of Extradation\|Announcement of the Forged Decree of Extradation]]
+
+-  Writings: 
+    - [[{06} Spaces/{03} IronClaw/{03} Projects/{04} Writing/{09} Writings/Forged Decree of Investigation and Extradition\|Forged Decree of Investigation and Extradition]]
+
+
 
 ## System
 
-```dataview
-TASK FROM #Writing
-WHERE contains(tags, "#Writing")
-WHERE !completed
-```
 
-```dataview
-LIST Lists.text
-FROM #Writing
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Writing")
-WHERE !Lists.task
-SORT Lists DESC
-```
 
-```dataview
-TASK FROM #Writing
-WHERE contains(tags, "#Writing")
-WHERE completed
-LIMIT 300
-```
+
+
+
