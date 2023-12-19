@@ -25,12 +25,7 @@ Deep in the heart of Hornwaldia, a guild of adventurers has been formed. Here, b
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Faction 
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Faction")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 003\|Session 003]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Eckart\|Eckart]] interrupts [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|me]]. "You're [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Clear the Sky Moss\|quests]], [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|Red badge level]]…[[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Green Level Guild Badge\|mostly]]" as he gives [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|We]] report the [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Gourdlings\|Defeat the Gourdlings]] to the [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Hornwaldia Adventurer's Guild\|Guild]]. The next day they promote us to the [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|Red Level Guild Badge]]. #Faction #Quest #Item #Event
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 002\|Session 002]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Party\|We]] hand over the [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{02} Opeden/Bandits of Opeden\|bandits]] to the [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{01} Misc/Hornwaldia Adventurer's Guild\|guild]]. #Faction #Event
+
