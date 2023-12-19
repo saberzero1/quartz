@@ -17,12 +17,4 @@ Nestled in the misty groves of Narre, a circle of druids gathered in solemn sile
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Faction 
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Faction")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+
