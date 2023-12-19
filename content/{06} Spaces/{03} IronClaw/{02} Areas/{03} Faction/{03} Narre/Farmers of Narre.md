@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{03} Narre/Farmers of Narre/","title":"Farmers of Narre"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/03-narre/farmers-of-narre/","title":"Farmers of Narre"}
 ---
 
 <!--The farmers working on the outskirts of Narre.-->
