@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Clear the Farms of Punching Onions/","title":"Clear the Farms of Punching Onions"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/03-quest/02-completed/clear-the-farms-of-punching-onions/","title":"Clear the Farms of Punching Onions"}
 ---
 
 
