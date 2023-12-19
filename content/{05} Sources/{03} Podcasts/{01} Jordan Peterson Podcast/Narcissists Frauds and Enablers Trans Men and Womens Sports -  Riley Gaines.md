@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{05} Sources/{03} Podcasts/{01} Jordan Peterson Podcast/Narcissists Frauds and Enablers Trans Men and Womens Sports -  Riley Gaines/","title":"Narcissists Frauds and Enablers: Trans Men and Women's Sports | Riley Gaines | EP 356","tags":["podcast","YouTube"]}
+{"dg-publish":true,"permalink":"/05-sources/03-podcasts/01-jordan-peterson-podcast/narcissists-frauds-and-enablers-trans-men-and-womens-sports-riley-gaines/","title":"Narcissists Frauds and Enablers: Trans Men and Women's Sports | Riley Gaines | EP 356","tags":["podcast","YouTube"]}
 ---
 
 
