@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{02} Areas/Areas - Index/","title":"Areas - Index","pinned":true}
+{"dg-publish":true,"permalink":"/02-areas/areas-index/","title":"Areas - Index","pinned":true}
 ---
 
 
