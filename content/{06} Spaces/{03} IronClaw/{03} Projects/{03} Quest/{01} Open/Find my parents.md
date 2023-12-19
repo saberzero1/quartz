@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{01} Open/Find my parents/","title":"Find my parents"}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/03-projects/03-quest/01-open/find-my-parents/","title":"Find my parents"}
 ---
 
 
