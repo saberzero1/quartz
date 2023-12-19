@@ -12,12 +12,5 @@ My father's writing kit is like a portal to a world of imagination and possibili
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Location
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Item")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 009\|Session 009]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] introduce myself as a [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Writing Kit\|writer]] looking for stories. #Character #Item #Event
+
