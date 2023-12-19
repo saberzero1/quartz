@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{03} Resources/{01} Tabletop/Tabletop - Index/","title":"Tabletop - Index","pinned":true}
+{"dg-publish":true,"permalink":"/03-resources/01-tabletop/tabletop-index/","title":"Tabletop - Index","pinned":true}
 ---
 
 
