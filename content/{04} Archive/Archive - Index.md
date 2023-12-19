@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{04} Archive/Archive - Index/","title":"Archive - Index","pinned":true}
+{"dg-publish":true,"permalink":"/04-archive/archive-index/","title":"Archive - Index","pinned":true}
 ---
 
 
