@@ -4,5 +4,6 @@
       "main": false,
       "master": false
     }
-  }
+  },
+  "cleanUrls": true
 }
