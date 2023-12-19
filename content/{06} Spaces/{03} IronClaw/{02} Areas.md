@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/","title":"{02} Areas","pinned":true}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/","title":"{02} Areas","pinned":true}
 ---
 
 
