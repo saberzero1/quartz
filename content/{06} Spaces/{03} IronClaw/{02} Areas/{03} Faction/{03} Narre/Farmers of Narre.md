@@ -16,12 +16,5 @@ On the distant outskirts of the bustling city of Narre, a group of hard-working 
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Faction 
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Faction")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 003\|Session 003]]: [[{05} Others/Templates/Resources/Tabletop/Party\|We]] head over to the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{02} Narre/Narre's Farmfields\|farms]]. The [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{03} Narre/Farmers of Narre\|farmers]] point us to the field. "[[{06} Spaces/{03} IronClaw/{02} Areas/{04} Bestiary/{01} Plantlike/Punching Onion\|Those Onions]] will pummel you if you're not careful." #Faction #Location #Bestiary #Event
+
