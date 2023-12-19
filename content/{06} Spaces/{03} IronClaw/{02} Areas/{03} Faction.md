@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/","title":"{03} Faction","pinned":true}
+{"dg-publish":true,"permalink":"/06-spaces/03-iron-claw/02-areas/03-faction/","title":"{03} Faction","pinned":true}
 ---
 
