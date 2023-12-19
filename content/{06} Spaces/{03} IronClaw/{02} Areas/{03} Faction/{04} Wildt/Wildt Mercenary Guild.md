@@ -16,12 +16,5 @@ Gottliejb
 
 ## Mentions
 
-```dataview
-LIST Lists.text
-FROM #Faction 
-FLATTEN file.lists AS Lists
-WHERE contains(Lists.tags, "#Faction")
-WHERE !Lists.task
-WHERE contains(Lists.outlinks, this.file.link)
-SORT Lists DESC
-```
+- [[{06} Spaces/{03} IronClaw/{03} Projects/{01} Sessions/Session 009\|Session 009]]: There is an selection fight to decide the [[{06} Spaces/{03} IronClaw/{02} Areas/{03} Faction/{04} Wildt/Wildt Mercenary Guild\|guild]] champion for the [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{03} Wildt/Wildt's Fair\|event]]. [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Norrix\|Norrix]] decides to participate. #Character #Faction #Location #Event
+
