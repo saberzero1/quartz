@@ -339,22 +339,20 @@ Callouts
 Base
 ---------- */
 
-/*
-
 body,
 section {
-  background-color: var(--light);
+  background-color: var(--fg);
   font-family: var(--bodyFont);
-  color: var(--darkgray);
+  color: var(--fg_dark);
 }
 
 .text-highlight {
-  background-color: #fff23688;
+  background-color: rgba(var(--yellow_x), 136);
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 75%, transparent);
-  color: var(--darkgray);
+  background: color-mix(in srgb, var(--yellow) 75%, transparent);
+  color: var(--fg_dark);
 }
 
 p,
@@ -368,19 +366,19 @@ ol,
 ul,
 .katex,
 .math {
-  color: var(--darkgray);
-  fill: var(--darkgray);
+  color: var(--fg_dark);
+  fill: var(--fg_dark);
 }
 
 a {
-  color: var(--secondary);
+  color: rgba(var(--orange_x), 136);
 
   &:hover {
-    color: var(--tertiary) !important;
+    color: var(--orange) !important;
   }
 
   &.internal {
-    background-color: var(--highlight);
+    background-color: var(--bg_highlight);
   }
 }
 
@@ -398,32 +396,32 @@ a {
     }
 
     p > strong {
-      color: var(--dark);
+      color: var(--bg_dark);
     }
   }
 }
 
 .footnotes {
-  border-top: 1px solid var(--lightgray);
+  border-top: 1px solid var(--fg);
 }
 
 input[type="checkbox"] {
-  color: var(--secondary);
-  border: 1px solid var(--lightgray);
-  background-color: var(--light);
+  color: var(--green);
+  border: 1px solid var(--fg);
+  background-color: var(--fg);
 
   &:checked {
-    border-color: var(--secondary);
-    background-color: var(--secondary);
+    border-color: var(--green);
+    background-color: var(--green);
 
     &::after {
-      border: solid var(--light);
+      border: solid var(--fg);
     }
   }
 }
 
 blockquote {
-  border-left: 3px solid var(--secondary);
+  border-left: 3px solid rgba(var(--orange_x), 136);
 }
 
 h1,
@@ -434,10 +432,10 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  color: var(--dark);
+  color: var(--bg-dark);
 
   article > & > a {
-    color: var(--dark);
+    color: var(--bg-dark);
     &.internal {
       background-color: transparent;
     }
@@ -480,25 +478,25 @@ div[data-rehype-pretty-code-fragment] {
 
   & > div[data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
-    border: 1px solid var(--lightgray);
-    color: var(--darkgray);
+    border: 1px solid var(--fg);
+    color: var(--fg_dark);
   }
 }
 
 pre {
   font-family: var(--codeFont);
-  border: 1px solid var(--lightgray);
+  border: 1px solid var(--fg);
 
   & > code {
 
     & [data-highlighted-chars] {
-      background-color: var(--highlight);
+      background-color: var(--bg_highlight);
     }
 
     & > [data-line] {
       &[data-highlighted-line] {
-        background-color: var(--highlight);
-        border-left: 3px solid var(--secondary);
+        background-color: var(--bg_highlight);
+        border-left: 3px solid rgba(var(--orange_x), 136);
       }
 
       &::before {
@@ -509,29 +507,27 @@ pre {
 }
 
 code {
-  color: var(--dark);
+  color: var(--bg-dark);
   font-family: var(--codeFont);
-  background: var(--lightgray);
+  background: var(--fg);
 }
 
 th {
-  border-bottom: 2px solid var(--gray);
+  border-bottom: 2px solid var(--fg_dark);
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--fg);
 }
 
 hr {
-  background-color: var(--lightgray);
+  background-color: var(--fg);
 }
 
 ul.overflow,
 ol.overflow {
 
   &:after {
-    background: linear-gradient(transparent 0px, var(--light));
+    background: linear-gradient(transparent 0px, var(--fg));
   }
 }
-
-*/
