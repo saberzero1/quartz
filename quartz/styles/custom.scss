@@ -354,11 +354,11 @@ section {
 }
 
 .text-highlight {
-  background-color: rgba(var(--yellow_x), 0.533);
+  background-color: rgba(var(--blue_x), 0.533);
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--yellow) 75%, transparent);
+  background: color-mix(in srgb, var(--blue) 75%, transparent);
   color: var(--fg_dark);
 }
 
@@ -378,10 +378,10 @@ ul,
 }
 
 a {
-  color: rgba(var(--orange_x), 0.533);
+  color: rgba(var(--purple_x), 0.533);
 
   &:hover {
-    color: var(--orange) !important;
+    color: var(--purple) !important;
   }
 
   &.internal {
@@ -428,7 +428,7 @@ input[type="checkbox"] {
 }
 
 blockquote {
-  border-left: 3px solid rgba(var(--orange_x), 0.533);
+  border-left: 3px solid rgba(var(--cyan_x), 0.533);
 }
 
 h1,
@@ -503,7 +503,7 @@ pre {
     & > [data-line] {
       &[data-highlighted-line] {
         background-color: var(--bg_highlight);
-        border-left: 3px solid rgba(var(--orange_x), 0.533);
+        border-left: 3px solid rgba(var(--cyan_x), 0.533);
       }
 
       &::before {
