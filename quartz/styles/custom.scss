@@ -185,7 +185,7 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   --scrollbar-active-thumb-bg: var(--bg_dark);
   --scrollbar-width: 0px;
 
-  --h1-color: var(--red);
+    --h1-color: var(--`);
   --h2-color: var(--yellow);
   --h3-color: var(--green);
   --h4-color: var(--cyan);
@@ -537,4 +537,61 @@ ol.overflow {
   &:after {
     background: linear-gradient(transparent 0px, var(--bg));
   }
+}
+
+/* Highlightr support */
+
+/*realistic*/
+mark {
+  margin: 0 -0.05em;
+  padding: 0.1em 0.4em;
+  border-radius: 0.8em 0.3em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  text-shadow: 0 0 0.75em var(--background-primary-alt);
+}
+
+mark.hltr-red
+{
+  background: var(--red);
+}
+
+mark.hltr-orange
+{
+  background: var(--orange);
+}
+
+mark.hltr-yellow
+{
+  background: var(--yellow);
+}
+
+mark.hltr-green
+{
+  background: var(--green);
+}
+
+mark.hltr-blue
+{
+  background: var(--blue);
+}
+
+mark.hltr-purple
+{
+  background: var(--purple);
+}
+
+mark.hltr-cyan
+{
+  background: var(--cyan);
+}
+
+mark.hltr-magenta
+{
+  background: var(--magenta);
+}
+
+mark.hltr-teal
+{
+  background: var(--teal);
 }
