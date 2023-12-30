@@ -1,11 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Second Brain","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"Second Brain"}
 ---
 
 
 Currently under construction.
 
 Welcome to my Second Brain.
+
+<mark class="hltr-red">Highlight me red.</mark>
+
+<mark class="hltr-orange">Highlight me orange.</mark>
+
+<mark class="hltr-yellow">Highlight me yellow.</mark>
+
+<mark class="hltr-green">Highlight me green.</mark>
+
+<mark class="hltr-blue">Highlight me blue.</mark>
+
+<mark class="hltr-purple">Highlight me purple.</mark>
+
+<mark class="hltr-cyan">Highlight me cyan.</mark>
+
+<mark class="hltr-magenta">Highlight me magenta.</mark>
+
+<mark class="hltr-teal">Highlight me teal.</mark>
+
+<!--
 
 ## Maps of Content
 
@@ -18,3 +38,4 @@ Welcome to my Second Brain.
 #### IronClaw
 
 - [[{06} Spaces/{03} IronClaw/{01} Maps of Content\|Overview]]
+-->

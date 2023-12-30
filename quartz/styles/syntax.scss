@@ -1,3 +1,21 @@
+code[data-theme*=" "] {
+  color: var(--shiki-light);
+  background-color: var(--shiki-light-bg);
+}
+
+code[data-theme*=" "] span {
+  color: var(--shiki-light);
+}
+
+[saved-theme="dark"] code[data-theme*=" "] {
+  color: var(--shiki-dark);
+  background-color: var(--shiki-dark-bg);
+}
+
+[saved-theme="dark"] code[data-theme*=" "] span {
+  color: var(--shiki-dark);
+}
+  
 // npx convert-sh-theme https://raw.githubusercontent.com/shikijs/shiki/main/packages/shiki/themes/github-light.json
 :root {
   --shiki-color-text: #24292e;
