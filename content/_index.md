@@ -7,6 +7,8 @@ Currently under construction.
 
 Welcome to my Second Brain.
 
+<!--
+
 ## Maps of Content
 
 ### Tabletop RPGs
@@ -18,3 +20,4 @@ Welcome to my Second Brain.
 #### IronClaw
 
 - [[{06} Spaces/{03} IronClaw/{01} Maps of Content\|Overview]]
+-->
