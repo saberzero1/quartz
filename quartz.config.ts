@@ -6,7 +6,9 @@ const config: QuartzConfig = {
     pageTitle: "🌟 Emile Bangma",
     enableSPA: true,
     enablePopovers: true,
-    analytics: "plausible",
+    analytics: {
+      provider: "plausible"
+    },
     baseUrl: "emilebangma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
