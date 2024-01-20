@@ -3,10 +3,10 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧠 Second Brain",
+    pageTitle: "🌟 Emile Bangma",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: "plausible",
     baseUrl: "emilebangma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -14,7 +14,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
