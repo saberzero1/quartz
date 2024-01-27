@@ -69,6 +69,26 @@ npx tailwindcss -i ./quartz/styles/tailwind.css -o ./quartz/styles/styles.css --
         }
     }
 
+    .dg-clipboard-button {
+        @apply absolute flex float-right right-0 p-1 m-1.5 text-var-gray border-var-dark bg-var-light border-solid border rounded-md opacity-0 transition-opacity duration-200;
+    
+        & > svg {
+          @apply fill-var-light contrast-[0.3];
+        }
+    
+        &:hover {
+          @apply cursor-pointer border-var-secondary;
+        }
+    
+        &:focus {
+          @apply outline-none;
+        }
+      }
+    
+      pre:hover > .dg-clipboard-button {
+        @apply opacity-100 transition-opacity duration-200;
+      }
+
     /**
      * Syntax Highlighting
      */

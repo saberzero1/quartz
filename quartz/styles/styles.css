@@ -758,6 +758,49 @@ ul.dg-overflow,
   }
 }
 
+.dg-clipboard-button {
+  position: absolute;
+  right: 0px;
+  float: right;
+  margin: 0.375rem;
+  display: flex;
+  border-radius: 0.375rem;
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--dark);
+  background-color: var(--light);
+  padding: 0.25rem;
+  color: var(--gray);
+  opacity: 0;
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+  & > svg {
+    fill: var(--light);
+  }
+  & > svg {
+    --tw-contrast: contrast(0.3);
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+  }
+  &:hover {
+    cursor: pointer;
+  }
+  &:hover {
+    border-color: var(--secondary);
+  }
+  &:focus {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+  }
+}
+
+pre:hover > .dg-clipboard-button {
+  opacity: 1;
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+}
+
 /**
      * Syntax Highlighting
      */

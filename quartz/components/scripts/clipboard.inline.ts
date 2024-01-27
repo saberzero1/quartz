@@ -10,7 +10,7 @@ document.addEventListener("nav", () => {
     if (codeBlock) {
       const source = codeBlock.innerText.replace(/\n\n/g, "\n")
       const button = document.createElement("button")
-      button.className = "clipboard-button"
+      button.className = "dg-clipboard-button"
       button.type = "button"
       button.innerHTML = svgCopy
       button.ariaLabel = "Copy source"
