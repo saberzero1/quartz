@@ -2,8 +2,22 @@
 export default {
   content: ["./quartz/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "var-light": "var(--light)",
+        "var-lightgray": "var(--lightgray)",
+        "var-gray": "var(--gray)",
+        "var-darkgray": "var(--darkgray)",
+        "var-dark": "var(--dark)",
+        "var-secondary": "var(--secondary)",
+        "var-tertiary": "var(--tertiary)",
+        "var-highlight": "var(--highlight)",
+        "shiki-bg": "var(--shiki-color-background)",
+        "shiki-text": "var(--shiki-color-text)"
+      },
+    },
   },
+  darkMode: ["class","[saved-theme='dark']"],
   plugins: [],
 }
 
