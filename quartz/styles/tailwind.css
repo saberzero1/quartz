@@ -71,23 +71,35 @@ npx tailwindcss -i ./quartz/styles/tailwind.css -o ./quartz/styles/styles.css --
 
     .dg-clipboard-button {
         @apply absolute flex float-right right-0 p-1 m-1.5 text-var-gray border-var-dark bg-var-light border-solid border rounded-md opacity-0 transition-opacity duration-200;
-    
-        & > svg {
-          @apply fill-var-light contrast-[0.3];
+
+        &>svg {
+            @apply fill-var-light contrast-[0.3];
         }
-    
+
         &:hover {
-          @apply cursor-pointer border-var-secondary;
+            @apply cursor-pointer border-var-secondary;
         }
-    
+
         &:focus {
-          @apply outline-none;
+            @apply outline-none;
         }
-      }
-    
-      pre:hover > .dg-clipboard-button {
+    }
+
+    pre:hover>.dg-clipboard-button {
         @apply opacity-100 transition-opacity duration-200;
-      }
+    }
+
+    .dg-darkmode {
+        @apply relative w-5 h-5 mx-2.5;
+
+        &>.toggle {
+            @apply hidden box-border;
+        }
+
+        & svg {
+            @apply cursor-pointer absolute w-5 h-5 top-[calc(50%-10px)] fill-var-darkgray transition-opacity duration-100;
+        }
+    }
 
     /**
      * Syntax Highlighting
@@ -225,5 +237,29 @@ npx tailwindcss -i ./quartz/styles/tailwind.css -o ./quartz/styles/styles.css --
         --shiki-token-string-expression: #85e89d !important;
         --shiki-token-punctuation: #e1e4e8 !important;
         --shiki-token-link: #e1e4e8 !important;
+    }
+
+    :root[saved-theme="dark"] {
+        color-scheme: dark;
+    }
+
+    :root[saved-theme="light"] {
+        color-scheme: light;
+    }
+
+    :root[saved-theme="dark"] .toggle~label #dayIcon {
+        @apply opacity-0;
+    }
+
+    :root[saved-theme="dark"] .toggle~label #nightIcon {
+        @apply opacity-100;
+    }
+
+    :root .toggle~label #dayIcon {
+        @apply opacity-100;
+    }
+
+    :root .toggle~label #nightIcon {
+        @apply opacity-0;
     }
 }

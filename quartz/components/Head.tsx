@@ -15,6 +15,8 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    const tailwindCss = joinSegments(baseDir, "static/tailwind.css")
+
     return (
       <head>
         <title>{title}</title>

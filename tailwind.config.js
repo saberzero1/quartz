@@ -17,7 +17,7 @@ export default {
       },
     },
   },
-  darkMode: ["class","[saved-theme='dark']"],
+  darkMode: ["media","[saved-theme='dark']"],
   plugins: [],
 }
 
