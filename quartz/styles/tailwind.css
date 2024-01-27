@@ -1,7 +1,7 @@
 /*
 npx quartz build --serve
 
-npx tailwindcss -i ./quartz/styles/tailwind.css -o ./quartz/styles/styles.css --watch
+npx tailwindcss -i ./quartz/styles/tailwind.css -o ./quartz/static/styles.css --watch
 */
 @tailwind base;
 @tailwind components;
