@@ -419,7 +419,7 @@ export async function handleBuild(argv) {
     )
     console.log("hint: exit with ctrl+c")
     chokidar
-      .watch(["**/*.ts", "**/*.tsx", "**/*.scss", "package.json"], {
+      .watch(["**/*.ts", "**/*.tsx", "**/*.scss", "**/*.css", "package.json"], {
         ignoreInitial: true,
       })
       .on("all", async () => {

@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [],
+  content: ["./quartz/styles/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {},
   },
