@@ -28,7 +28,7 @@ npx tailwindcss -i ./quartz/styles/tailwind.css -o ./quartz/static/styles.css --
         }
 
         &.dg-external .dg-external-icon {
-            @apply h-[1ex] mx-1.5;
+            @apply h-[1ex] mx-[0.15em];
 
             >path {
                 @apply fill-var-dark;

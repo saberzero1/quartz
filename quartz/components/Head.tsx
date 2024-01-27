@@ -15,7 +15,7 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
-    const tailwindCss = joinSegments(baseDir, "static/tailwind.css")
+    const tailwindCss = joinSegments(baseDir, "static/styles.css")
 
     return (
       <head>
@@ -32,6 +32,7 @@ export default (() => {
         <meta name="generator" content="Quartz" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href={tailwindCss} rel="stylesheet" type="text/css" spa-preserve />
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
         ))}

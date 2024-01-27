@@ -651,8 +651,8 @@ a {
     }
   }
   &.dg-external .dg-external-icon {
-    margin-left: 0.375rem;
-    margin-right: 0.375rem;
+    margin-left: 0.15em;
+    margin-right: 0.15em;
   }
   &.dg-external .dg-external-icon {
     height: 1ex;
