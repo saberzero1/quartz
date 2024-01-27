@@ -57,6 +57,18 @@ npx tailwindcss -i ./quartz/styles/tailwind.css -o ./quartz/styles/styles.css --
         }
     }
 
+    .dg-breadcrumb-container {
+        @apply m-0 mt-3 p-0 flex flex-row flex-wrap gap-2;
+    }
+
+    .dg-breadcrumb-element {
+        @apply flex items-center justify-center;
+
+        p {
+            @apply m-0 ml-2 p-0 leading-normal;
+        }
+    }
+
     /**
      * Syntax Highlighting
      */

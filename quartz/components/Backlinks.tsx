@@ -1,5 +1,4 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/backlinks.scss"
 import { resolveRelative, simplifySlug } from "../util/path"
 
 function Backlinks({ fileData, allFiles, displayClass }: QuartzComponentProps) {
@@ -25,5 +24,4 @@ function Backlinks({ fileData, allFiles, displayClass }: QuartzComponentProps) {
   )
 }
 
-Backlinks.css = style
 export default (() => Backlinks) satisfies QuartzComponentConstructor

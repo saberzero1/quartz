@@ -1,5 +1,4 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 
@@ -113,9 +112,9 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     }
 
     return (
-      <nav class={`breadcrumb-container ${displayClass ?? ""}`} aria-label="breadcrumbs">
+      <nav class={`dg-breadcrumb-container ${displayClass ?? ""}`} aria-label="breadcrumbs">
         {crumbs.map((crumb, index) => (
-          <div class="breadcrumb-element">
+          <div class="dg-breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>
             {index !== crumbs.length - 1 && <p>{` ${options.spacerSymbol} `}</p>}
           </div>
@@ -123,6 +122,5 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       </nav>
     )
   }
-  Breadcrumbs.css = breadcrumbsStyle
   return Breadcrumbs
 }) satisfies QuartzComponentConstructor

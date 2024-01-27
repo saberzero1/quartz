@@ -730,6 +730,34 @@ ul.dg-overflow,
   }
 }
 
+.dg-breadcrumb-container {
+  margin: 0px;
+  margin-top: 0.75rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0px;
+}
+
+.dg-breadcrumb-element {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  p {
+    margin: 0px;
+  }
+  p {
+    margin-left: 0.5rem;
+  }
+  p {
+    padding: 0px;
+  }
+  p {
+    line-height: 1.5;
+  }
+}
+
 /**
      * Syntax Highlighting
      */
