@@ -10,11 +10,196 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
 // put your custom CSS here!
 
 :root {
+  /*https://github.com/colineckert/obsidian-things/blob/main/theme.css*/
+  /*/* Colors */
+  /*--base-h: 212;*/ /* Base hue */
+  /*--base-s: 15%;*/ /* Base saturation */
+  /*--base-d: 13%;*/ /* Base lightness Dark Mode  - 0 is black */
+  /*--base-l: 97%;*/ /* Base lightness Light Mode  - 100 is white */
+  /*--accent-h: 215;*/ /* Accent hue */
+  /*--accent-s: 75%;*/ /* Accent saturation */
+  /*--accent-d: 70%;*/ /* Accent lightness Dark Mode */
+  /*--accent-l: 60%;*/ /* Accent lightness Light Mode */
+
+  /*--blue: #2e80f2;
+  --pink: #ff82b2;
+  --green: #3eb4bf;
+  --yellow: #e5b567;
+  --orange: #e87d3e;
+  --red: #e83e3e;
+  --purple: #9e86c8;
+
+  --h1-color: var(--text-normal);
+  --h2-color: var(--text-normal);
+  --h3-color: var(--blue);
+  --h4-color: var(--yellow);
+  --h5-color: var(--red);
+  --h6-color: var(--text-muted);
+
+  --strong-color: var(--pink);
+  --em-color: var(--pink);
+  --quote-color: var(--green);
+
+  --tag-background-color-l: #bde1d3;
+  --tag-font-color-l: #1d694b;
+  --tag-background-color-d: #1d694b;
+  --tag-font-color-d: #ffffff;
+
+  --highlight-background-color--normal: hsl(50deg 100% 50% / 15%) !important;
+  --highlight-background-color-underline: hsl(50deg 100% 50% / 100%) !important;
+  --highlight-background-color--active: hsl(50deg 100% 50% / 20%) !important;
+
+  --progress-color-1: #ad5758;
+  --progress-color-2: #b87f4c;
+  --progress-color-3: #d2b874;
+  --progress-color-4: #b0c07e;
+  --progress-color-5: #768399;*/
+
+  /* Font families */
+  /*--font-text-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Ubuntu,
+    sans-serif;
+  --font-editor-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Ubuntu,
+    sans-serif;
+  --font-monospace-theme: "JetBrains Mono", "Fira Code", Menlo, SFMono-Regular, Consolas,
+    "Roboto Mono", monospace;
+  --font-interface-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Ubuntu,
+    sans-serif;
+  --font-editor: var(--font-editor-override), var(--font-text-override), var(--font-editor-theme);
+
+  --h1-size: 1.7rem;
+  --h2-size: 1.5rem;
+  --h3-size: 1.2rem;
+  --h4-size: 1.1rem;
+  --h5-size: 1rem;
+  --h6-size: 0.9rem;*/
+
+  /* Misc */
+  /*--checkbox-radius: 30%;
+  --link-external-decoration: underline;
+  --link-decoration: underline;*/
+
+  /* -------- */
+  /*--radius-s: 4px;
+  --radius-m: 8px;
+  --radius-l: 10px;
+  --radius-xl: 16px;
+
+  --line-width: 40rem;
+  --line-height: 1.5;
+  --max-width: 90%;
+  --max-col-width: 18em;
+  --icon-muted: 0.5;
+  --nested-padding: 1.1em;
+  --folding-offset: 10px;
+
+  --line-width-adaptive: var(--line-width);
+  --line-width-wide: calc(var(--line-width) + 12.5%);*/
+
+  /* --accent-h: 210; */
+  /* --accent-s: 93%; */
+  /* --accent-l: 62%; */
+
+  /* default */
+  /*--accent-h: 254;
+  --accent-s: 80%;
+  --accent-l: 68%;*/
+
+  /* Mado-11 Palette */
+  --mado-white-1: hsla(204, 45%, 97%, 1);
+  --mado-white-2: hsla(210, 45%, 95%, 1);
+  --mado-white-3: hsla(212, 17%, 80%, 0.2);
+  --mado-white-6: hsla(212, 17%, 80%, 0.3);
+  --mado-white-4: hsla(180, 33%, 99%, 1);
+  --mado-white-5: hsla(207, 10%, 90%, 0.1);
+
+  --mado-blue-1: hsla(209, 95%, 62%, 1);
+  --mado-blue-2: hsla(209, 85%, 72%, 0.5);
+
+  --mado-black-1: hsla(0, 0%, 13%, 1);
+  --mado-black-2: hsla(220, 20%, 35%, 1);
+  --mado-gray-1: hsla(0, 0%, 33%, 1);
+  --mado-gray-2: hsla(210, 15%, 70%, 0.2);
+  --mado-gray-3: hsla(210, 15%, 20%, 0.2);
+  --mado-gray-4: hsla(210, 15%, 30%, 0.5);
+  --mado-gray-5: hsla(207, 17%, 90%, 1);
+  --mado-gray-6: hsla(217, 15%, 83%, 1);
+
+  --mado-yellow: hsla(60, 100%, 50%, 0.4);
+  --mado-orange: hsla(25, 75%, 65%, 1);
+  --mado-red-1: hsla(365, 90%, 62%, 1);
+  --mado-red-2: hsl(365, 95%, 85%, 1);
+  --mado-red-3: hsl(365, 85%, 45%, 1);
+
+  --button-radius: 4px;
+  --window-radius: 8px;
+  --readable-line-length: 45rem;
+
+  /* Orange Jist */
+  --accent-h: 23;
+  --accent-s: 100%;
+  --accent-l: 61%;
+
+  --bgcolor-h: 204;
+  --bgcolor-s: 45%;
+  --bgcolor-l: 97%;
+
+  --titlebar-background: var(--background-secondary);
+  --titlebar-background-focused: var(--background-secondary);
+
+  --background-modifier-hover: var(--color-base-hover);
+
+  --bold-weight: var(--font-bold);
+  --italic-color: var(--text-muted);
+  --code-normal: var(--text-muted);
+  --blockquote-color: var(--color-muted);
+
+  --background-primary: var(--color-base-00);
+  --background-secondary: var(--color-base-20);
+  --checklist-done-color: var(--color-base-50);
+
+  --icon-m: 20px;
+  --icon-l: 20px;
+  --divider-width: 4px;
+  --callout-padding: 0px;
+  --callout-title-padding: 11px;
+  --callout-content-padding: 0 11px 0 27px;
+
+  --embed-padding: 13px 23px;
+  --list-indent: 37px;
+
+  --header-height: 43px;
+  --tab-stacked-header-width: 53px;
+
+  /* custom */
+  --border: 1px solid var(--tab-outline-color);
+  --button-radius: 4px;
+  --panel-radius: 8px;
+  --window-radius: 23px;
+  --button-padding-icon: 7px;
+  --button-padding-long: 7px 15px;
+
+  --background-fourth: var(--color-base-00-0);
+  --background-fifth: var(--color-base-20-0);
+  --panel-shadow: 0 1px 3px var(--color-base-shadow);
+  --panel-shadow-hover: 0 3px 5px var(--color-base-shadow-hover);
+  --window-shadow: 0 0 9px var(--color-base-shadow-hover);
+  --window-shadow-left: -4px 0 5px var(--color-base-shadow-hover);
+  --window-shadow-right: 4px 0 5px var(--color-base-shadow-hover);
+
+  --sidebar-size-left: 270px;
+  --sidebar-size-right: 270px;
+
+  --color-strikethrough: var(--text-faint);
+  --italic-color: var(--color-italic);
+  --inline-code-color: var(--color-red);
+}
+
+:root {
   /* --accent-h: 261; /* magenta */
   /* --accent-s: 24%; */
   /* --accent-l: 38%; */
-  --accent-h: 202; /* cyan */
-  --accent-s: 86%;
+  /*--accent-h: 202; */ /* cyan */
+  /*--accent-s: 86%;
   --accent-l: 43%;
 
   --bg_dark2_x: 188, 189, 194;
@@ -63,25 +248,226 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   --external-link-filter: invert(62%) sepia(9%) saturate(266%)
     hue-rotate(189deg) brightness(97%) contrast(88%);
   --link-external-filter: invert(62%) sepia(9%) saturate(266%)
-    hue-rotate(189deg) brightness(97%) contrast(88%);
+    hue-rotate(189deg) brightness(97%) contrast(88%);*/
+
+  /*https://github.com/colineckert/obsidian-things/blob/main/theme.css*/
+  /*color-scheme: light;
+  --highlight-mix-blend-mode: darken;
+  --mono-rgb-0: 255, 255, 255;
+  --mono-rgb-100: 0, 0, 0;
+  --color-red-rgb: 228, 55, 75;
+  --color-red: #e4374b;
+  --color-green-rgb: 12, 181, 79;
+  --color-green: #0cb54f;
+  --color-orange: #d96c00;
+  --color-yellow: #bd8e37;
+  --color-cyan: #2db7b5;
+  --color-blue: #086ddd;
+  --color-purple: #876be0;
+  --color-pink: #c32b74;
+  --color-base-00: #ffffff;
+  --color-base-05: #fcfcfc;
+  --color-base-10: #f6f7f8;*/ /* code blocks */
+  /*--color-base-20: #f6f7f8;
+  --color-base-25: #f0f0f0;
+  --color-base-30: #ebedf0; */ /* soften dividing lines */
+  /*--color-base-35: #d4d4d4;
+  --color-base-40: #bdbdbd;
+  --color-base-50: #ababab;
+  --color-base-60: #707070;
+  --color-base-70: #5a5a5a;
+  --color-base-100: #222222;
+  --color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+  --color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+  --color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 2.5%));
+  --color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 5%));
+  --background-modifier-hover: #e2e5e9;
+  --background-secondary-alt: var(--color-base-05);
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.1);
+  --background-modifier-cover: rgba(220, 220, 220, 0.4);
+  --text-highlight-bg-l: rgba(255, 208, 0, 0.4);
+  --text-highlight-bg: var(--text-highlight-bg-l);
+  --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
+  --input-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.12), 0 2px 3px 0 rgba(0, 0, 0, 0.05),
+    0 1px 1.5px 0 rgba(0, 0, 0, 0.03), 0 1px 2px 0 rgba(0, 0, 0, 0.04), 0 0 0 0 transparent;
+  --input-shadow-hover: inset 0 0 0 1px rgba(0, 0, 0, 0.17), 0 2px 3px 0 rgba(0, 0, 0, 0.1),
+    0 1px 1.5px 0 rgba(0, 0, 0, 0.03), 0 1px 2px 0 rgba(0, 0, 0, 0.04), 0 0 0 0 transparent;
+  --shadow-s: 0px 1px 2px rgba(0, 0, 0, 0.028), 0px 3.4px 6.7px rgba(0, 0, 0, 0.042),
+    0px 15px 30px rgba(0, 0, 0, 0.07);
+  --shadow-l: 0px 1.8px 7.3px rgba(0, 0, 0, 0.071), 0px 6.3px 24.7px rgba(0, 0, 0, 0.112),
+    0px 30px 90px rgba(0, 0, 0, 0.2);
+
+  --tag-background: var(--tag-background-color-l);
+  --tag-color: var(--tag-font-color-l);*/
+
+  /* --text-normal: hsl(var(--base-h), var(--base-s), calc(var(--base-l) - 80%)); */
+  /*--text-muted: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 60%));
+  --text-faint: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 30%));
+  --text-formatted: hsl(var(--base-h), calc(var(--base-s) - 5%), calc(var(--base-l) - 35%));
+  --text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+  --text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 10%));
+
+  --atom-gray-1: #383a42;
+  --atom-gray-2: #383a42;
+  --atom-red: #e75545;
+  --atom-green: #4ea24c;
+  --atom-blue: #3d74f6;
+  --atom-purple: #a625a4;
+  --atom-aqua: #0084bc;
+  --atom-yellow: #e35649;
+  --atom-orange: #986800;*/
+
+  --color-black: var(--mado-black-1);
+  --color-dark-gray: var(--mado-gray-1);
+  --color-accent: var(--mado-blue-1);
+  --color-accent-alt: var(--mado-blue-2);
+  --color-gray: var(--mado-gray-2);
+  --color-light-gray: var(--mado-gray-3);
+  --color-medium-gray: var(--mado-gray-4);
+
+  --modal-group-border: var(--mado-gray-6);
+  --button-selected: var(--mado-white-6);
+  --button-hover: var(--mado-white-6);
+  --button-selected-hover: var(--mado-white-3);
+
+  --window-shadow: 0 1px 3px var(--mado-white-3);
+  --window-shadow-hover: 0 3px 5px var(--mado-white-6);
+  --window-shadow-transparent: 0 3px 5px transparent;
+
+  --border: 1px solid var(--mado-gray-5);
+
+  --background-primary: var(--mado-white-1);
+  --background-secondary: var(--mado-white-2);
+  --background-secondary-alt: var(--mado-gray-5);
+  --background-tertiary: var(--mado-white-3);
+
+  --background-accent: var(--mado-blue-1);
+  --background-fourth: var(--mado-white-4);
+  --background-fifth: var(--mado-white-5);
+  --background-sixth: var(--mado-white-4);
+  --background-code-for-mado: var(--background-primary-alt);
+
+  --text-code: var(--mado-red-3);
+  --text-normal: var(--mado-black-1);
+  --text-error: var(--mado-red-1);
+  --text-on-accent: var(--mado-white-1);
+  --text-faint: var(--mado-gray-6);
+  --text-highlight-bg: var(--mado-yellow);
+  --text-bold: var(--mado-black-2);
+  --text-em: var(--mado-gray-4);
+  --text-muted: hsla(218, 19%, 39%, 1);
+
+  --background-modifier-error: var(--mado-red-1);
+  --background-modifier-border: var(--mado-gray-5);
+  --interactive-accent: var(--mado-blue-1);
+  --indentation-guide: var(--mado-gray-5);
+
+  --scrollbar-bg: transparent;
+
+  /*https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow/blob/main/theme.css*/
+  --accent-h: 254;
+  --accent-s: 80%;
+  --accent-l: 68%;
+
+  --color-base-00: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) - 0%),
+    1
+  );
+  --color-base-10: hsla(
+    calc(var(--bgcolor-h) + 6),
+    calc(var(--bgcolor-s) - 8%),
+    calc(var(--bgcolor-l) - 1%),
+    1
+  );
+
+  --color-base-05: hsla(
+    calc(var(--bgcolor-h) + 3),
+    calc(var(--bgcolor-s) - 28%),
+    calc(var(--bgcolor-l) - 5%),
+    1
+  );
+  --color-base-20: hsla(
+    calc(var(--bgcolor-h) + 6),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) - 0%),
+    1
+  );
+
+  --color-base-00-trans: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) - 0%),
+    0.5
+  ); /*for transparency background*/
+  --color-base-20-trans: hsla(
+    calc(var(--bgcolor-h) + 6),
+    calc(var(--bgcolor-s) - 8%),
+    calc(var(--bgcolor-l) - 1%),
+    0.5
+  );
+  --color-base-00-0: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 12%),
+    calc(var(--bgcolor-l) + 4%),
+    1
+  ); /* very white */
+  --color-base-20-0: hsla(
+    calc(var(--bgcolor-h) + 0),
+    calc(var(--bgcolor-s) - 35%),
+    calc(var(--bgcolor-l) - 5%),
+    0.1
+  ); /* hovered version for above */
+  --color-base-00-0-trans: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 12%),
+    calc(var(--bgcolor-l) + 4%),
+    0.5
+  );
+  --color-base-shadow: hsla(212, 17%, 80%, 0.2); /* shadow */
+  --color-base-shadow-hover: hsla(212, 17%, 80%, 0.3); /* shadow hover*/
+  --color-base-hover: var(--color-base-shadow-hover); /* hover*/
+
+  --color-base-35: hsla(210, 15%, 73%, 1);
+  --color-base-50: hsla(217, 15%, 73%, 1);
+  --color-base-70: hsla(218, 19%, 39%, 1);
+  --color-base-100: hsla(0, 0%, 13%, 1); /* text-normal color */
+
+  --color-accent-1: hsl(
+    calc(var(--accent-h) - 0),
+    calc(var(--accent-s) - 0%),
+    calc(var(--accent-l) + 10%)
+  );
+  --color-accent-2: hsl(
+    calc(var(--accent-h) - 0),
+    calc(var(--accent-s) - 0%),
+    calc(var(--accent-l) - 5%)
+  );
+
+  --color-red: hsla(365, 85%, 55%, 1);
+  --color-muted: var(--color-base-70);
+  --color-italic: hsla(215, 43%, 63%, 1);
+
+  --color-highlight: var(--text-normal); /* for highlight text color */
 }
 
 [saved-theme="dark"] {
-  --accent-h: 202 !important;
+  /*--accent-h: 202 !important;
   --accent-s: 100% !important;
-  --accent-l: 75% !important;
+  --accent-l: 75% !important;*/
 
   /* Credit: https://github.com/folke/tokyonight.nvim/blob/main/lua/tokyonight/colors.lua */
-  --bg_dark2_x: 18, 18, 24 !important; /* ? */
-  --bg_dark2: rgb(var(--bg_dark2_x)) !important;
-  --bg_dark_x: 36, 40, 59 !important; /* Top & Sides Background */
-  --bg_dark: rgb(var(--bg_dark_x)) !important;
-  --bg_x: 36, 40, 59 !important; /* Page Background */
-  --bg: rgb(var(--bg_x)) !important;
-  --bg_highlight_x: 65, 72, 104 !important; /* Border colour between page & top / sides */
-  --bg_highlight: rgb(var(--bg_highlight_x)) !important;
-  --bg_highlight_dark_x: 35, 35, 55 !important; /* Code highlight colour */
-  --bg_highlight_dark: rgb(var(--bg_highlight_dark_x)) !important;
+  /*--bg_dark2_x: 18, 18, 24 !important;*/ /* ? */
+  /*--bg_dark2: rgb(var(--bg_dark2_x)) !important;
+  --bg_dark_x: 36, 40, 59 !important;*/ /* Top & Sides Background */
+  /*--bg_dark: rgb(var(--bg_dark_x)) !important;
+  --bg_x: 36, 40, 59 !important;*/ /* Page Background */
+  /*--bg: rgb(var(--bg_x)) !important;
+  --bg_highlight_x: 65, 72, 104 !important;*/ /* Border colour between page & top / sides */
+  /*--bg_highlight: rgb(var(--bg_highlight_x)) !important;
+  --bg_highlight_dark_x: 35, 35, 55 !important; */ /* Code highlight colour */
+  /*--bg_highlight_dark: rgb(var(--bg_highlight_dark_x)) !important;
   --terminal_black_x: 65, 72, 104 !important;
   --terminal_black: rgb(var(--terminal_black_x)) !important;
   --fg_x: 192, 202, 245 !important;
@@ -119,10 +505,245 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   --external-link-filter: invert(35%) sepia(28%) saturate(681%)
     hue-rotate(192deg) brightness(94%) contrast(85%) !important;
   --link-external-filter: invert(35%) sepia(28%) saturate(681%)
-    hue-rotate(192deg) brightness(94%) contrast(85%) !important;
+    hue-rotate(192deg) brightness(94%) contrast(85%) !important;*/
+
+  /*https://github.com/colineckert/obsidian-things/blob/main/theme.css*/
+  /*color-scheme: dark;
+  --highlight-mix-blend-mode: lighten;
+  --mono-rgb-0: 0, 0, 0;
+  --mono-rgb-100: 255, 255, 255;
+  --color-red-rgb: 251, 70, 76;
+  --color-red: #fb464c;
+  --color-green-rgb: 68, 207, 110;
+  --color-green: #44cf6e;
+  --color-orange: #e9973f;
+  --color-yellow: #e0de71;
+  --color-cyan: #53dfdd;
+  --color-blue: #027aff;
+  --color-purple: #a882ff;
+  --color-pink: #fa99cd;
+  --color-base-00: #1c2127;*/ /* main editor window */
+  /*--color-base-10: #282c34;*/ /* code blocks */
+  /*--color-base-20: #181c20; */ /* top unselected unfocused nav */
+  /*--color-base-25: #2c313c;
+  --color-base-30: #35393e;
+  --color-base-35: #3f3f3f;
+  --color-base-40: #555;
+  --color-base-50: #666;*/ /* unfocused text */
+  /*--color-base-60: #999;
+  --color-base-70: #bababa;
+  --color-base-100: #dadada;
+  --color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
+  --color-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+  --color-accent-1: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 3.8%));
+  --color-accent-2: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) + 3.8%));
+  --titlebar-background-focused: var(--color-base-10);
+  --background-modifier-form-field: var(--color-base-25);
+  --background-secondary-alt: var(--color-base-30);
+  --interactive-normal: var(--color-base-30);
+  --interactive-hover: var(--color-base-35);
+  --text-highlight-bg-d: rgba(255, 208, 0, 0.4);
+  --text-highlight-bg: var(--text-highlight-bg-d);
+  --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
+  --text-selection: hsla(var(--interactive-accent-hsl), 0.25);
+  --input-shadow: inset 0 0.5px 0.5px 0.5px rgba(255, 255, 255, 0.09),
+    0 2px 4px 0 rgba(0, 0, 0, 0.15), 0 1px 1.5px 0 rgba(0, 0, 0, 0.1),
+    0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 0 0 0 transparent;
+  --input-shadow-hover: inset 0 0.5px 1px 0.5px rgba(255, 255, 255, 0.16),
+    0 2px 3px 0 rgba(0, 0, 0, 0.3), 0 1px 1.5px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.4),
+    0 0 0 0 transparent;
+  --shadow-s: 0px 1px 2px rgba(0, 0, 0, 0.121), 0px 3.4px 6.7px rgba(0, 0, 0, 0.179),
+    0px 15px 30px rgba(0, 0, 0, 0.3);
+  --shadow-l: 0px 1.8px 7.3px rgba(0, 0, 0, 0.071), 0px 6.3px 24.7px rgba(0, 0, 0, 0.112),
+    0px 30px 90px rgba(0, 0, 0, 0.2);
+
+  --tag-background: var(--tag-background-color-d);
+  --tag-color: var(--tag-font-color-d);
+
+  --text-muted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 65%));
+  --text-faint: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 30%));
+  --text-formatted: hsl(var(--base-h), var(--base-s), calc(var(--base-d) + 50%));
+
+  --text-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-d));
+  --text-accent-hover: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-d) + 12%));
+
+  --atom-gray-1: #5c6370;
+  --atom-gray-2: #abb2bf;
+  --atom-red: #e06c75;
+  --atom-orange: #d19a66;
+  --atom-green: #98c379;
+  --atom-aqua: #56b6c2;
+  --atom-purple: #c678dd;
+  --atom-blue: #61afef;
+  --atom-yellow: #e5c07b;*/
+
+  /* dark mode quick hack */
+  --mado-white-1: hsla(215, 17%, 19%, 1);
+  --mado-white-2: hsla(214, 24%, 15%, 1);
+  --mado-white-3: hsla(212, 17%, 22%, 0.9);
+  --mado-white-6: hsla(212, 17%, 0%, 0.3);
+  --mado-white-4: hsla(215, 22%, 13%, 1);
+  --mado-white-5: hsla(207, 10%, 10%, 0.1);
+
+  --mado-black-1: hsla(0, 0%, 73%, 1);
+  --mado-black-2: hsla(213, 33%, 65%, 1);
+  --mado-gray-1: hsla(0, 0%, 83%, 1);
+  --mado-gray-2: hsla(210, 25%, 5%, 0.3);
+  --mado-gray-3: hsla(210, 15%, 50%, 0.4);
+  --mado-gray-4: hsla(210, 15%, 70%, 0.5);
+  --mado-gray-5: hsla(207, 17%, 10%, 0.5);
+  --mado-gray-6: hsla(217, 18%, 50%, 0.7);
+
+  --mado-yellow: hsla(45, 63%, 43%, 1);
+
+  --color-black: var(--mado-black-1);
+  --color-dark-gray: var(--mado-gray-1);
+  --color-accent: var(--mado-blue-1);
+  --color-accent-alt: var(--mado-blue-2);
+  --color-gray: var(--mado-gray-2);
+  --color-light-gray: var(--mado-gray-3);
+  --color-medium-gray: var(--mado-gray-4);
+
+  --modal-group-border: var(--mado-gray-6);
+  --button-selected: var(--mado-white-6);
+  --button-hover: var(--mado-white-6);
+  --button-selected-hover: var(--mado-white-3);
+
+  --window-shadow: 0 1px 3px var(--mado-white-5);
+  --window-shadow-hover: 0 3px 5px var(--mado-white-6);
+  --window-shadow-transparent: 0 3px 5px transparent;
+
+  --border: 1px solid var(--mado-gray-5);
+
+  --background-primary: var(--mado-white-1);
+  --background-secondary: var(--mado-white-2);
+  --background-secondary-alt: var(--mado-gray-5);
+  --background-tertiary: var(--mado-white-3);
+  --background-primary-alt: var(--mado-white-6);
+
+  --background-accent: var(--mado-blue-1);
+  --background-fourth: var(--mado-white-3);
+  --background-fifth: var(--mado-white-5);
+  --background-sixth: var(--mado-white-5);
+  --background-code-for-mado: var(--mado-white-5);
+
+  --text-code: var(--mado-red-1);
+  --text-normal: var(--mado-black-1);
+  --text-error: var(--mado-red-1);
+  --text-on-accent: var(--mado-white-1);
+  --text-faint: var(--mado-gray-6);
+  --text-highlight-bg: var(--mado-yellow);
+  --text-bold: var(--mado-black-2);
+  --text-em: var(--mado-gray-6);
+  --text-muted: hsl(218, 17%, 58%);
+
+  --background-modifier-error: var(--mado-red-1);
+  --background-modifier-border: var(--mado-gray-5);
+  --interactive-accent: var(--mado-blue-1);
+  --indentation-guide: var(--mado-gray-3);
+
+  --scrollbar-bg: transparent;
+
+  /*https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow/blob/main/theme.css*/
+  --accent-h: 255;
+  --accent-s: 73%;
+  --accent-l: 68%;
+
+  --bgcolor-h: 215;
+  --bgcolor-s: 17%;
+  --bgcolor-l: 19%;
+
+  --color-base-00: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) - 0%),
+    1
+  );
+  --color-base-10: hsla(
+    calc(var(--bgcolor-h) - 1),
+    calc(var(--bgcolor-s) + 7%),
+    calc(var(--bgcolor-l) - 4%),
+    1
+  );
+
+  --color-base-05: hsla(
+    calc(var(--bgcolor-h) - 8),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) - 9%),
+    0.5
+  );
+  --color-base-20: hsla(
+    calc(var(--bgcolor-h) - 1),
+    calc(var(--bgcolor-s) + 7%),
+    calc(var(--bgcolor-l) - 4%),
+    1
+  );
+
+  --color-base-00-trans: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) - 0%),
+    0.5
+  ); /*for transparency background*/
+  --color-base-20-trans: hsla(
+    calc(var(--bgcolor-h) - 1),
+    calc(var(--bgcolor-s) + 7%),
+    calc(var(--bgcolor-l) - 4%),
+    0.5
+  );
+  --color-base-00-0: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) + 3%),
+    0.9
+  ); /* very white */
+  --color-base-20-0: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 7%),
+    calc(var(--bgcolor-l) - 9%),
+    0.1
+  ); /* hovered version for above */
+  --color-base-00-0-trans: hsla(
+    calc(var(--bgcolor-h) - 0),
+    calc(var(--bgcolor-s) - 0%),
+    calc(var(--bgcolor-l) + 3%),
+    0.5
+  );
+  --color-base-shadow: hsla(207, 10%, 10%, 0.1); /* shadow */
+  --color-base-shadow-hover: hsla(212, 17%, 0%, 0.3); /* shadow hover*/
+  --color-base-hover: var(--color-base-05); /* hover*/
+
+  --color-base-30: hsla(215, 22%, 13%, 1);
+  --color-base-35: hsla(210, 15%, 33%, 1);
+  --color-base-50: hsla(217, 18%, 50%, 0.7);
+  --color-base-70: hsl(218, 17%, 58%); /* text-muted */
+  --color-base-100: hsla(0, 0%, 73%, 1); /* text-normal color */
+
+  --color-accent: hsl(
+    calc(var(--accent-h) - 0),
+    calc(var(--accent-s) + 13%),
+    calc(var(--accent-l) + 3%)
+  );
+  --color-accent-1: hsl(
+    calc(var(--accent-h) - 3),
+    calc(var(--accent-s) - 13%),
+    calc(var(--accent-l) - 3%)
+  );
+  --color-accent-2: hsl(
+    calc(var(--accent-h) - 0),
+    calc(var(--accent-s) + 7%),
+    calc(var(--accent-l) + 2%)
+  );
+
+  --color-red: hsla(365, 90%, 65%, 1);
+  --color-muted: hsl(218, 17%, 62%);
+  --color-italic: hsla(215, 33%, 60%, 1);
+
+  --color-highlight: hsla(45, 63%, 63%, 1); /* for highlight text color */
+  --text-highlight-bg: hsla(45, 53%, 53%, 1); /* for highlight text underline color */
 }
 
-:root {
+/*:root {
   --color_red_rgb: var(--red_x);
   --color-red: var(--red);
   --color_purple_rgb: var(--purple_x);
@@ -261,76 +882,76 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   --canvas-color: var(--bg_highlight_x);
 
   --toggle-thumb-color: var(--bg);
-}
+}*/
 
 /* --------
 Callouts
 ---------- */
 
-.callout {
+/*.callout {
   border: 1px solid var(--comment); //
   background-color: var(--bg);
 
   &[data-callout="note"] {
-    --color: var(--blue0);
-    --border: rgba(var(--blue0_x), 0.25);
-    --bg: rgba(var(--blue0_x), 0.0833);
+    --color: var(--color-blue);
+    --border: rgba(var(--color-blue), 0.25);
+    --bg: rgba(var(--color-blue), 0.0833);
   }
 
   &[data-callout="abstract"] {
-    --color: var(--blue);
-    --border: rgba(var(--blue_x), 0.25);
-    --bg: rgba(var(--blue_x), 0.0833);
+    --color: var(--color-blue);
+    --border: rgba(var(--color-blue), 0.25);
+    --bg: rgba(var(--color-blue), 0.0833);
   }
 
   &[data-callout="info"],
   &[data-callout="todo"] {
-    --color: var(--cyan);
-    --border: rgba(var(--cyan_x), 0.25);
-    --bg: rgba(var(--cyan_x), 0.0833);
+    --color: var(--color-cyan);
+    --border: rgba(var(--color-cyan), 0.25);
+    --bg: rgba(var(--color-cyan), 0.0833);
   }
 
   &[data-callout="tip"] {
-    --color: var(--teal);
-    --border: rgba(var(--teal_x), 0.25);
-    --bg: rgba(var(--teal_x), 0.0833);
+    --color: var(--color-teal);
+    --border: rgba(var(--color-teal), 0.25);
+    --bg: rgba(var(--color-teal), 0.0833);
   }
 
   &[data-callout="success"] {
-    --color: var(--green);
-    --border: rgba(var(--green_x), 0.25);
-    --bg: rgba(var(--green_x), 0.0833);
+    --color: var(--color-green);
+    --border: rgba(var(--color-green), 0.25);
+    --bg: rgba(var(--color-green), 0.0833);
   }
 
   &[data-callout="question"] {
-    --color: var(--yellow);
-    --border: rgba(var(--yellow_x), 0.25);
-    --bg: rgba(var(--yellow_x), 0.0833);
+    --color: var(--color-yellow);
+    --border: rgba(var(--color-yellow), 0.25);
+    --bg: rgba(var(--color-yellow), 0.0833);
   }
 
   &[data-callout="warning"] {
-    --color: #448aff var(--orange);
-    --border: rgba(var(--orange_x), 0.25);
-    --bg: rgba(var(--orange_x), 0.0833);
+    --color: #448aff var(--color-orange);
+    --border: rgba(var(--color-orange), 0.25);
+    --bg: rgba(var(--color-orange), 0.0833);
   }
 
   &[data-callout="failure"],
   &[data-callout="danger"],
   &[data-callout="bug"] {
-    --color: var(--red);
-    --border: rgba(var(--red_x), 0.25);
-    --bg: rgba(var(--red_x), 0.0833);
+    --color: var(--color-red);
+    --border: rgba(var(--color-red), 0.25);
+    --bg: rgba(var(--color-red), 0.0833);
   }
 
   &[data-callout="example"] {
-    --color: var(--purple);
-    --border: rgba(var(--purple_x), 0.25);
-    --bg: rgba(var(--purple_x), 0.0833);
+    --color: var(--color-purple);
+    --border: rgba(var(--color-purple), 0.25);
+    --bg: rgba(var(--color-purple), 0.0833);
   }
 
   &[data-callout="quote"] {
-    --color: var(--comment);
-    --border: rgba(var(--comment_x), 0.25);
+    --color: var(--blockquote-color);
+    --border: rgba(var(--blockquote-color), 0.25);
   }
 }
 
@@ -340,7 +961,7 @@ Callouts
   & > .callout-title-inner > p {
     color: var(--fg);
   }
-}
+}*/
 
 /* ----------
 Base
@@ -348,18 +969,75 @@ Base
 
 body,
 section {
-  background-color: var(--bg);
+  background-color: var(--background-secondary);
   font-family: var(--bodyFont);
-  color: var(--fg_dark);
+  color: var(--text-normal);
 }
 
+body::before {
+  content: "";
+  position: fixed;
+  width: 100%;
+  height: 100%;
+
+  -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" xml:space="preserve"><path opacity=".1" d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"/><path opacity=".2" d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"/><path opacity=".4" d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"/></svg>');
+  -webkit-mask-size: 300% 300px;
+  -webkit-mask-position: 88.5% -73px;
+  -webkit-mask-repeat: no-repeat;
+  mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" xml:space="preserve"><path opacity=".1" d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"/><path opacity=".2" d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"/><path opacity=".4" d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"/></svg>');
+  mask-size: 300% 300px;
+  mask-position: 88.5% -73px;
+  mask-repeat: no-repeat;
+  background-color: var(--color-accent-2);
+  transform: rotateZ(180deg);
+  opacity: 0.5;
+}
+
+.page, .page-header {
+  margin:0 auto !important;
+}
+
+.center {
+  background-color: var(--background-primary);
+  border: var(--border);
+  border-radius: var(--window-radius);
+  margin-top: 6rem;
+  padding: 0 36px;
+  z-index: 10;
+  @media all and (max-width: $fullPageWidth) {
+    margin-top: 2rem;
+  }
+}
+
+/*.page-header {
+  background-color: var(--background-sixth);
+  border-left: var(--border);
+  border-right: var(--border);
+  border-top: var(--border);
+  border-top-left-radius: var(--window-radius);
+  border-top-right-radius: var(--window-radius);
+  box-shadow:var(--window-shadow);
+  padding: 0 25px;
+}
+
+article.popover-hint {
+  background-color: var(--background-sixth);
+  border-left: var(--border);
+  border-right: var(--border);
+  border-bottom: var(--border);
+  border-bottom-left-radius: var(--window-radius);
+  border-bottom-right-radius: var(--window-radius);
+  box-shadow:var(--window-shadow);
+  padding: 0 25px;
+}/*
+
 .text-highlight {
-  background-color: rgba(var(--blue_x), 0.533);
+  background-color: var(--color-highlight);
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--blue) 75%, transparent);
-  color: var(--fg_dark);
+  background: color-mix(in srgb, var(--text-highlight-bg) 75%, transparent);
+  color: var(--color-highlight);
 }
 
 p,
@@ -373,19 +1051,19 @@ ol,
 ul,
 .katex,
 .math {
-  color: var(--fg_dark);
-  fill: var(--fg_dark);
+  color: var(--text-normal);
+  fill: var(--text-normal);
 }
 
 a {
-  color: rgba(var(--purple_x), 0.533);
+  color: var(--mado-blue-2);
 
   &:hover {
-    color: var(--purple) !important;
+    color: var(--mado-blue-1) !important;
   }
 
   &.internal {
-    background-color: var(--bg_highlight);
+    background-color: var(--mado-blue-1);
   }
 }
 
@@ -478,7 +1156,6 @@ h5 {
 h6 {
   color: var(--h6-color);
 }
-
 // typography improvements
 
 div[data-rehype-pretty-code-fragment] {
@@ -493,7 +1170,6 @@ div[data-rehype-pretty-code-fragment] {
 pre {
   font-family: var(--codeFont);
   border: 1px solid var(--fg);
-
   & > code {
 
     & [data-highlighted-chars] {
@@ -533,7 +1209,6 @@ hr {
 
 ul.overflow,
 ol.overflow {
-
   &:after {
     background: linear-gradient(transparent 0px, var(--bg));
   }
@@ -552,47 +1227,34 @@ mark {
   color: var(--bg_dark2);
 }
 
-mark.hltr-red
-{
-  background: var(--red);
+mark.hltr-red {
+  background: var(--color-red);
 }
 
-mark.hltr-orange
-{
-  background: var(--orange);
+mark.hltr-orange {
+  background: var(--color-orange);
 }
 
-mark.hltr-yellow
-{
-  background: var(--yellow);
+mark.hltr-yellow {
+  background: var(--color-yellow);
 }
 
-mark.hltr-green
-{
-  background: var(--green);
+mark.hltr-green {
+  background: var(--color-green);
 }
 
-mark.hltr-blue
-{
-  background: var(--blue);
+mark.hltr-blue {
+  background: var(--color-blue);
 }
 
-mark.hltr-purple
-{
-  background: var(--purple);
+mark.hltr-purple {
+  background: var(--color-purple);
 }
 
-mark.hltr-cyan
-{
-  background: var(--cyan);
+mark.hltr-cyan {
+  background: var(--color-cyan);
 }
 
-mark.hltr-magenta
-{
-  background: var(--magenta);
-}
-
-mark.hltr-teal
-{
-  background: var(--teal);
+mark.hltr-teal {
+  background: var(--color-teal);
 }
