@@ -466,3 +466,12 @@ mark,
 p > mark {
   background: var(--secondary) !important;
 }
+
+.text-highlight {
+  background-color: vaR(--secondary);
+}
+
+::selection {
+  background: color-mix(in hsla, hsla(209, 95%, 62%, 0.75), transparent);
+  color: var(--dark);
+}
