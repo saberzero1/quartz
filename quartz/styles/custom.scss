@@ -461,3 +461,8 @@ ol.overflow {
     background: transparent;
   }
 }
+
+mark,
+p > mark {
+  background: var(--secondary) !important;
+}
