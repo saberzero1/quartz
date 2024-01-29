@@ -9,6 +9,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/saberzero1",
       "LinkedIn": "https://www.linkedin.com/in/emilebangma/",
+      "CV - English": "https://rxresu.me/saberzero1/curriculum-vitae-english" ,
+      "CV - Nederlands": "https://rxresu.me/saberzero1/curriculum-vitae-dutch",
     },
   }),
 }
