@@ -5,6 +5,10 @@
 
 [Official Problem Page](https://adventofcode.com/2023/day/1)
 
+Use Regular Expressions with [lookahead](https://www.regular-expressions.info/lookaround.html) to not consume matches. This allows for overlapping matches, which is important for part two.
+
+Example: `eightwo` will match both `eight` and `two`. Without lookahead, the string `eight` would be consumed, causing a missed match on the remaining `wo`.
+
 ## Part 1
 
 ```python
