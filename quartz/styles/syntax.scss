@@ -1,3 +1,4 @@
+pre:has(code[data-theme*=" "]),
 code[data-theme*=" "] {
   color: var(--shiki-light);
   background-color: var(--shiki-light-bg);
@@ -7,6 +8,7 @@ code[data-theme*=" "] span {
   color: var(--shiki-light);
 }
 
+[saved-theme="dark"] pre:has(code[data-theme*=" "]),
 [saved-theme="dark"] code[data-theme*=" "] {
   color: var(--shiki-dark);
   background-color: var(--shiki-dark-bg);
