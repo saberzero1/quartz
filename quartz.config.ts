@@ -3,40 +3,40 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🌟 Emile Bangma",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "plausible"
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "emilebangma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
-          light: "var(--shiki-color-background)",
-          lightgray: "var(--shiki-color-background-lighter)",
-          gray: "var(--shiki-token-comment)",
-          darkgray: "var(--shiki-color-text)",
-          dark: "var(--shiki-color-text-darker)",
-          secondary: "var(--shiki-token-constant)",
-          tertiary: "var(--shiki-token-string)",
+          light: "var(--mado-white-1)",
+          lightgray: "var(--mado-gray-6)",
+          gray: "var(--mado-gray-4)",
+          darkgray: "var(--mado-black-2)",
+          dark: "var(--mado-black-1)",
+          secondary: "var(--mado-blue-1)",
+          tertiary: "var(--mado-blue-2)",
           highlight: "rgba(225, 228, 232, 0.10)",
         },
         darkMode: {
-          light: "var(--shiki-color-background)",
-          lightgray: "var(--shiki-color-background-lighter)",
-          gray: "var(--shiki-token-comment)",
-          darkgray: "var(--shiki-color-text)",
-          dark: "var(--shiki-color-text-darker)",
-          secondary: "var(--shiki-token-constant)",
-          tertiary: "var(--shiki-token-string)",
+          light: "var(--mado-white-1)",
+          lightgray: "var(--mado-gray-6)",
+          gray: "var(--mado-gray-4)",
+          darkgray: "var(--mado-black-2)",
+          dark: "var(--mado-black-1)",
+          secondary: "var(--mado-blue-1)",
+          tertiary: "var(--mado-blue-2)",
           highlight: "rgba(225, 228, 232, 0.10)",
         },
       },
