@@ -24,4 +24,4 @@ Welcome to my Second Brain.
 - [[{06} Spaces/{03} IronClaw/{01} Maps of Content\|Overview]]
 -->
 
-This website is generated using a [modified fork of Quartz](https://github.com/saberzero1/quartz). Check the original project [here](https://github.com/jackyzha0/quartz).
+This website is build using a [modified fork of Quartz](https://github.com/saberzero1/quartz).
