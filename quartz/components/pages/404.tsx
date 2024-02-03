@@ -26,7 +26,7 @@ function NotFound() {
           >
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
-          Go back home.
+          Return home
         </a>
       </p>
     </article>
