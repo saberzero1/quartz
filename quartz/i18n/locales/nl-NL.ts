@@ -61,6 +61,6 @@ export default {
       showingFirst: ({ count }) =>
         count === 1 ? "Eerste label tonen." : `Eerste ${count} labels tonen.`,
       totalTags: ({ count }) => `${count} labels gevonden.`,
-    },[
+    },
   },
 } as const satisfies Translation
