@@ -1,6 +1,7 @@
-import { QuartzComponentConstructor } from "../types"
+import { i18n } from "../../i18n"
+import { QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
-function NotFound() {
+function NotFound({ cfg }: QuartzComponentProps) {
   return (
     <article class="popover-hint">
       <h1 class="article-title">Jeremiah 40:4</h1>
