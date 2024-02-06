@@ -149,9 +149,14 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   --scrollbar-bg: transparent;
 
   /*https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow/blob/main/theme.css*/
+  /*theme-violette
   --accent-h: 254;
   --accent-s: 80%;
   --accent-l: 68%;
+  */
+  --accent-h: 229;
+	--accent-s: 83%;
+	--accent-l: 53%;
 
   --color-base-00: hsla(
     calc(var(--bgcolor-h) - 0),
@@ -305,9 +310,15 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   --scrollbar-bg: transparent;
 
   /*https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow/blob/main/theme.css*/
+  /*theme-violette.theme-dark
   --accent-h: 255;
   --accent-s: 73%;
   --accent-l: 68%;
+  */
+  /*heme-deep-blue.theme-dark*/
+  --accent-h: 229;
+	--accent-s: 78%;
+	--accent-l: 63%;
 
   --bgcolor-h: 215;
   --bgcolor-s: 17%;
@@ -425,7 +436,7 @@ body::before {
   mask-size: 300% 300px;
   mask-position: 88.5% -73px;
   mask-repeat: no-repeat;
-  background-color: var(--color-accent-2);
+  background-color: var(--mado-blue-1);
   transform: rotateZ(180deg);
   opacity: 0.5;
 }
