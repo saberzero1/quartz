@@ -4,10 +4,17 @@
   0% {
     height: 0px;
     width: 0px;
+    padding: 0px;
+  }
+  1% {
+    height: 0px;
+    width: 30rem;
+    padding: 1rem;
   }
   100% {
     height: auto;
     width: 30rem;
+    padding: 1rem;
   }
 }
 
@@ -27,8 +34,9 @@
 .popover {
   position: absolute;
   overflow: visible;
-  padding: 1rem;
+  padding: 0px;
   height: 0px;
+  width: 0px;
 
   & > .popover-inner {
     position: relative;
