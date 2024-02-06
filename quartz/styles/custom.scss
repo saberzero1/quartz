@@ -456,6 +456,10 @@ footer {
   position: relative;
 }
 
+footer > * {
+  z-index: 0;
+}  
+
 footer > hr {
   background-color: var(--background-primary);
 }
