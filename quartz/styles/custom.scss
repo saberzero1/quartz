@@ -408,7 +408,7 @@ section {
   background-color: var(--background-secondary);
   font-family: var(--bodyFont);
   color: var(--text-normal);
-  z-index: -10;
+  /*z-index: -10;*/
 }
 
 body::before {
@@ -450,15 +450,6 @@ body::before {
 hr {
   height: 2px;
 }
-
-footer {
-  z-index: -1;
-  position: relative;
-}
-
-footer > * {
-  z-index: 0;
-}  
 
 footer > hr {
   background-color: var(--background-primary);
