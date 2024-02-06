@@ -408,7 +408,7 @@ section {
   background-color: var(--background-secondary);
   font-family: var(--bodyFont);
   color: var(--text-normal);
-  z-index: -1;
+  z-index: -10;
 }
 
 body::before {
@@ -451,6 +451,11 @@ hr {
   height: 2px;
 }
 
+footer {
+  z-index: -1;
+  position: relative;
+}
+
 footer > hr {
   background-color: var(--background-primary);
 }
@@ -482,8 +487,4 @@ pre > code {
 
 .search {
   z-index: 1;
-}
-
-.popover {
-  z-index: 997;
 }
