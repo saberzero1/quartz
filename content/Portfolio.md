@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio/","title":"Portfolio"}
+{"publish":true,"path":"Portfolio.md","permalink":"/portfolio/","title":"Portfolio"}
 ---
 
 

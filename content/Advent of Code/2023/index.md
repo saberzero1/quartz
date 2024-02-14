@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advent-of-code/2023/index/","title":"2023"}
+{"publish":true,"path":"Advent of Code/2023/index.md","permalink":"/advent-of-code/2023/index/","title":"2023"}
 ---
 
 

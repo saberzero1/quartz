@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advent-of-code/2023/day-01/","title":"Day 01: Trebuchet?!"}
+{"publish":true,"path":"Advent of Code/2023/Day 01.md","permalink":"/advent-of-code/2023/day-01/","title":"Day 01: Trebuchet?!"}
 ---
 
 

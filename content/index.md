@@ -1,27 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Second Brain"}
+{"publish":true,"path":"index.md","permalink":"/index/","title":"Second Brain"}
 ---
 
 
-Currently under construction.
-
-Welcome to my Second Brain.
-
 [[Portfolio\|Portfolio]]
 
-<!--
+## Recent Posts
 
-## Maps of Content
+- [[Writings/Blog/Why Dress Well\|Why Dress Well?]] - February 14, 2024
+- [[Writings/Blog/In Faith We Trust\|In Faith We Trust]] - February 14, 2024
 
-### Tabletop RPGs
 
-#### Dungeons and Dragons
+## Recent Thoughts
 
-- [[{06} Spaces/{04} Dungeons and Dragons/{02} Areas/{01} Dungeons and Dragons/{01} One Shots/Dungeons & Dragons - One Shots - Index\|Dungeons & Dragons - One Shots - Index]]
 
-#### IronClaw
-
-- [[{06} Spaces/{03} IronClaw/{01} Maps of Content\|Overview]]
--->
-
-[The source code of this website can be found on GitHub](https://github.com/saberzero1/quartz).
