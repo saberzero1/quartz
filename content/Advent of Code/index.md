@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advent-of-code/index/","title":"Advent of Code"}
+{"publish":true,"path":"Advent of Code/index.md","permalink":"/advent-of-code/index/","title":"Advent of Code"}
 ---
 
 
