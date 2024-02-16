@@ -14,3 +14,12 @@
 ## Recent Thoughts
 
 
+
+- & test.
+- ? test.
+- ! test.
+- ~ test.
+- @ test.
+- $ test.
+- % test.
+- < test.
