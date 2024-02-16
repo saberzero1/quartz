@@ -1,0 +1,164 @@
+:root {
+    --lc-bg-top: 0px;
+    --lc-bg-right: 0px;
+    --lc-bg-bottom: 0px;
+    --lc-bg-left: 17px;
+    --lc-bg-left-checkbox: 50px;
+    --lc-bg-left-checkbox-lp: 30px;
+
+    --lc-bg-top-reading: 0px;
+    --lc-bg-right-reading: 0px;
+    --lc-bg-bottom-reading: 0px;
+    --lc-bg-left-reading: 27px;
+
+    --lc-callout-color-star: 255, 214, 0;
+    --lc-callout-color-warning: 255, 145, 0;
+    --lc-callout-color-alert: 255, 23, 68;
+    --lc-callout-color-bookmark: 124, 77, 255;
+    --lc-callout-color-note: 0, 184, 212;
+    --lc-callout-color-checkmark: 0, 200, 83;
+    --lc-callout-color-quote: 158, 158, 158;
+    --lc-callout-color-heart: 240, 96, 255;
+
+    --lc-callout-icon-star: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXN0YXIiPjxwb2x5Z29uIHBvaW50cz0iMTIgMiAxNS4wOSA4LjI2IDIyIDkuMjcgMTcgMTQuMTQgMTguMTggMjEuMDIgMTIgMTcuNzcgNS44MiAyMS4wMiA3IDE0LjE0IDIgOS4yNyA4LjkxIDguMjYgMTIgMiIvPjwvc3ZnPg==");
+    --lc-callout-icon-warning: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlbHAtY2lyY2xlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik05LjA5IDlhMyAzIDAgMCAxIDUuODMgMWMwIDItMyAzLTMgMyIvPjxwYXRoIGQ9Ik0xMiAxN2guMDEiLz48L3N2Zz4=");
+    --lc-callout-icon-alert: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWFsZXJ0LXRyaWFuZ2xlIj48cGF0aCBkPSJtMjEuNzMgMTgtOC0xNGEyIDIgMCAwIDAtMy40OCAwbC04IDE0QTIgMiAwIDAgMCA0IDIxaDE2YTIgMiAwIDAgMCAxLjczLTNaIi8+PHBhdGggZD0iTTEyIDl2NCIvPjxwYXRoIGQ9Ik0xMiAxN2guMDEiLz48L3N2Zz4=");
+    --lc-callout-icon-bookmark: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2ttYXJrIj48cGF0aCBkPSJtMTkgMjEtNy00LTcgNFY1YTIgMiAwIDAgMSAyLTJoMTBhMiAyIDAgMCAxIDIgMnYxNnoiLz48L3N2Zz4=");
+    --lc-callout-icon-note: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXBlbmNpbCI+PHBhdGggZD0iTTE3IDNhMi44NSAyLjgzIDAgMSAxIDQgNEw3LjUgMjAuNSAyIDIybDEuNS01LjVaIi8+PHBhdGggZD0ibTE1IDUgNCA0Ii8+PC9zdmc+");
+    --lc-callout-icon-checkmark: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNoZWNrIj48cGF0aCBkPSJNMjAgNiA5IDE3bC01LTUiLz48L3N2Zz4=");
+    --lc-callout-icon-quote: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXF1b3RlIj48cGF0aCBkPSJNMyAyMWMzIDAgNy0xIDctOFY1YzAtMS4yNS0uNzU2LTIuMDE3LTItMkg0Yy0xLjI1IDAtMiAuNzUtMiAxLjk3MlYxMWMwIDEuMjUuNzUgMiAyIDIgMSAwIDEgMCAxIDF2MWMwIDEtMSAyLTIgMnMtMSAuMDA4LTEgMS4wMzFWMjBjMCAxIDAgMSAxIDF6Ii8+PHBhdGggZD0iTTE1IDIxYzMgMCA3LTEgNy04VjVjMC0xLjI1LS43NTctMi4wMTctMi0yaC00Yy0xLjI1IDAtMiAuNzUtMiAxLjk3MlYxMWMwIDEuMjUuNzUgMiAyIDJoLjc1YzAgMi4yNS4yNSA0LTIuNzUgNHYzYzAgMSAwIDEgMSAxeiIvPjwvc3ZnPg==");
+    --lc-callout-icon-heart: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0Ij48cGF0aCBkPSJNMTkgMTRjMS40OS0xLjQ2IDMtMy4yMSAzLTUuNUE1LjUgNS41IDAgMCAwIDE2LjUgM2MtMS43NiAwLTMgLjUtNC41IDItMS41LTEuNS0yLjc0LTItNC41LTJBNS41IDUuNSAwIDAgMCAyIDguNWMwIDIuMyAxLjUgNC4wNSAzIDUuNWw3IDdaIi8+PC9zdmc+");
+}
+
+.lc-list-bg {
+    background-color: var(--background-primary);
+    background-clip: content-box;
+    position: absolute;
+    top: calc(-1 * var(--lc-bg-top));
+    right: calc(-1 * var(--lc-bg-right));
+    bottom: calc(-1 * var(--lc-bg-bottom));
+    left: calc(-1 * var(--lc-bg-left));
+    display: block;
+    padding: inherit;
+    z-index: -1;
+    pointer-events: none;
+}
+
+.task-list-label~.lc-list-bg {
+    left: calc(-1 * var(--lc-bg-left-checkbox-lp));
+}
+
+.markdown-source-view:not(.is-live-preview) .cm-formatting-task~.lc-list-bg {
+    left: calc(-1 * var(--lc-bg-left-checkbox));
+}
+
+.lc-list-bg::after {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    &.lc-list-bg-star {
+        color: rgba(var(--lc-callout-color-star), 0.1);
+    }
+    &.lc-list-bg-warning {
+        color: rgba(var(--lc-callout-color-warning), 0.1);
+    }
+    &.lc-list-bg-alert {
+        color: rgba(var(--lc-callout-color-alert), 0.1);
+    }
+    &.lc-list-bg-bookmark {
+        color: rgba(var(--lc-callout-color-bookmark), 0.1);
+    }
+    &.lc-list-bg-note {
+        color: rgba(var(--lc-callout-color-note), 0.1);
+    }
+    &.lc-list-bg-checkmark {
+        color: rgba(var(--lc-callout-color-checkmark), 0.1);
+    }
+    &.lc-list-bg-quote {
+        color: rgba(var(--lc-callout-color-quote), 0.1);
+    }
+    &.lc-list-bg-heart {
+        color: rgba(var(--lc-callout-color-heart), 0.1);
+    }
+}
+
+.lc-list-marker {
+    font-family: var(--codeFont);
+    font-weight: bold;
+    pointer-events: none;
+    &.lc-list-marker-star {
+        color: rgb(var(--lc-callout-color-star));
+    }
+    &.lc-list-marker-warning {
+        color: rgb(var(--lc-callout-color-warning));
+    }
+    &.lc-list-marker-alert {
+        color: rgb(var(--lc-callout-color-alert));
+    }
+    &.lc-list-marker-bookmark {
+        color: rgb(var(--lc-callout-color-bookmark));
+    }
+    &.lc-list-marker-note {
+        color: rgb(var(--lc-callout-color-note));
+    }
+    &.lc-list-marker-checkmark {
+        color: rgb(var(--lc-callout-color-checkmark));
+    }
+    &.lc-list-marker-quote {
+        color: rgb(var(--lc-callout-color-quote));
+    }
+    &.lc-list-marker-heart {
+        color: rgb(var(--lc-callout-color-heart));
+    }
+}
+
+.lc-list-marker>svg {
+    position: relative;
+    width: 1em;
+    height: 1em;
+    top: 0.125em;
+}
+
+.lc-li-wrapper {
+    z-index: 1;
+    position: relative;
+    display: block;
+}
+
+.lc-li-wrapper::after {
+    z-index: -1;
+    position: absolute;
+    top: calc(-1 * var(--lc-bg-top-reading) + 1px);
+    right: calc(-1 * var(--lc-bg-right-reading) + 1px);
+    bottom: calc(-1 * var(--lc-bg-bottom-reading) + 1px);
+    left: calc(-1 * var(--lc-bg-left-reading) + 1px);
+    content: "";
+    display: block;
+    border-radius: 4px;
+    &.lc-li-wrapper-star {
+        color: rgba(var(--lc-callout-color-star), 0.1);
+    }
+    &.lc-li-wrapper-warning {
+        color: rgba(var(--lc-callout-color-warning), 0.1);
+    }
+    &.lc-li-wrapper-alert {
+        color: rgba(var(--lc-callout-color-alert), 0.1);
+    }
+    &.lc-li-wrapper-bookmark {
+        color: rgba(var(--lc-callout-color-bookmark), 0.1);
+    }
+    &.lc-li-wrapper-note {
+        color: rgba(var(--lc-callout-color-note), 0.1);
+    }
+    &.lc-li-wrapper-checkmark {
+        color: rgba(var(--lc-callout-color-checkmark), 0.1);
+    }
+    &.lc-li-wrapper-quote {
+        color: rgba(var(--lc-callout-color-quote), 0.1);
+    }
+    &.lc-li-wrapper-heart {
+        color: rgba(var(--lc-callout-color-heart), 0.1);
+    }
+}
