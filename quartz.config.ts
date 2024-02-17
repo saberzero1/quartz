@@ -52,6 +52,7 @@ const config: QuartzConfig = {
         // if you do rely on git for dates, ensure defaultDateType is 'modified'
         priority: ["frontmatter", "filesystem"],
       }),
+      Plugin.Dataview(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
         // uses themes bundled with Shikiji, see https://shikiji.netlify.app/themes
