@@ -9,6 +9,6 @@ CV: [English CV](https://rxresu.me/saberzero1/curriculum-vitae-english) [Dutch C
 print("Hello World")
 ```
 
-[![GitHub User Stats](https://raw.githubusercontent.com/saberzero1/saberzero1/main/general.svg)](https://github.com/saberzero1)
+[![GitHub User Stats](https://raw.githubusercontent.com/saberzero1/saberzero1/old/general.svg)](https://github.com/saberzero1)
 
-[![LeetCode Profile](https://raw.githubusercontent.com/saberzero1/saberzero1/main/leetcode.svg)](https://leetcode.com/saberzero1/)
+[![LeetCode Profile](https://raw.githubusercontent.com/saberzero1/saberzero1/old/leetcode.svg)](https://leetcode.com/saberzero1/)
