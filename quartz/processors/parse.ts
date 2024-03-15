@@ -156,5 +156,6 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
   }
 
   log.end(`Parsed ${res.length} Markdown files in ${perf.timeSince()}`)
+  console.log(res[0])
   return res
 }
