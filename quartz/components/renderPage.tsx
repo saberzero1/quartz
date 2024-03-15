@@ -5,7 +5,7 @@ import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { clone, FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
 import { visit } from "unist-util-visit"
-import { Root, Element, ElementContent } from "hast"
+import { Root, Element, ElementContent, RootContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 
@@ -61,7 +61,12 @@ export function renderPage(
 ): string {
   // make a deep copy of the tree so we don't remove the transclusion references
   // for the file cached in contentMap in build.ts
-  const root = clone(componentData.tree) as Root
+  let canvasRoot = clone(componentData.tree) as Root
+  console.log("before", canvasRoot)
+  // @ts-ignore
+  canvasRoot.children = componentData.fileData.canvas?.children[0]?.children[1]?.children ?? canvasRoot.children
+  const root = canvasRoot
+  console.log("after", root)
 
   // process transcludes in componentData
   visit(root, "element", (node, _index, _parent) => {

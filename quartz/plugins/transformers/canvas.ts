@@ -3,7 +3,8 @@ import smartypants from "remark-smartypants"
 import { QuartzTransformerPlugin } from "../types"
 import rehypeSlug from "rehype-slug"
 import rehypeAutolinkHeadings from "rehype-autolink-headings"
-import { Root as HTMLRoot } from "hast"
+import { fromHtml } from "hast-util-from-html"
+import { Root as HTMLRoot, RootContent } from "hast"
 import { toString } from "hast-util-to-string"
 import { escapeHTML } from "../../util/escape"
 import json2html from "node-json2html"
@@ -19,18 +20,34 @@ const defaultOptions: Options = {
 
 const canvasTemplate = {
   // @ts-ignore
-  'main': {'<>':'div','html':[
-    // @ts-ignore
-    {'{}':function(){return this.nodes},'html':[
-      {'<>':'div','class':'node',
-      // @ts-ignore
-      'html':function(obj, index){return (obj.id)}}
-    ]}
-  ]},
+  main: {
+    "<>": "div",
+    html: [
+      {
+        // @ts-ignore
+        "{}": function () {
+          // @ts-ignore
+          return this.nodes
+        },
+        // @ts-ignore
+        html: function (obj, index) {
+          return render(obj as JSON, canvasTemplate.text_nodes)
+        },
+      },
+    ],
+  },
 
-  'nodes': {'<>':'div','id':'${id}','html':'${text}','class':'node'},
+  text_nodes: {
+    "<>": "div",
+    html: "${text}",
+    class: "node",
+    id: "${id}",
+    style: "position: absolute; top: ${y}px; left: ${x}px; width: ${width}px; height: ${height}px;",
+  },
 
-  'edges': {}
+  nodes: { "<>": "div", id: "${id}", html: "${text}", class: "node" },
+
+  edges: {},
 }
 
 export const Canvas: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
@@ -38,7 +55,21 @@ export const Canvas: QuartzTransformerPlugin<Partial<Options> | undefined> = (us
   return {
     name: "Canvas",
     markdownPlugins() {
-        return opts.enableCanvas ? [remarkGfm, smartypants] : []
+      return [
+        () => {
+          return async (tree: HTMLRoot, file) => {
+            let canvas = escapeHTML(toString(tree))
+            if (tree.children[0].type === "element") {
+              if (tree.children[0].children[0].type === "text") {
+                canvas = tree.children[0].children[0].value.replaceAll(/[“”]/g, '"') //.replaceAll(/\s/g, "")
+              }
+            }
+            file.data.canvas = isCanvas(canvas)
+              ? fromHtml(render(JSON.parse(canvas), canvasTemplate.main))
+              : null
+          }
+        },
+      ]
     },
     htmlPlugins() {
       return [
@@ -46,14 +77,15 @@ export const Canvas: QuartzTransformerPlugin<Partial<Options> | undefined> = (us
           return async (tree: HTMLRoot, file) => {
             let canvas = escapeHTML(toString(tree))
             if (tree.children[0].type === "element") {
-                if (tree.children[0].children[0].type === "text") {
-                    canvas = tree.children[0].children[0].value.replaceAll(/[“”]/g, "\"") //.replaceAll(/\s/g, "")
-                }
+              if (tree.children[0].children[0].type === "text") {
+                canvas = tree.children[0].children[0].value.replaceAll(/[“”]/g, '"') //.replaceAll(/\s/g, "")
+              }
             }
-            file.data.canvas = isCanvas(canvas) ? render(JSON.parse(canvas), canvasTemplate.main) : null
+            file.data.canvas = isCanvas(canvas)
+              ? fromHtml(render(JSON.parse(canvas), canvasTemplate.main))
+              : null
             // @ts-ignore
-            console.log(isCanvas(canvas) ? JSON.parse(canvas).nodes[0].id : null)
-            console.log(file.data.canvas)
+            console.log(isCanvas(canvas) ? fromHtml(render(JSON.parse(canvas), canvasTemplate.main)).children[0].children[1].children : "")
           }
         },
       ]
@@ -63,7 +95,7 @@ export const Canvas: QuartzTransformerPlugin<Partial<Options> | undefined> = (us
 
 function isCanvas(jsonString: string): boolean {
   try {
-    var canvasObject = JSON.parse(jsonString)
+    let canvasObject = JSON.parse(jsonString)
 
     if (canvasObject) {
       return true
@@ -73,12 +105,8 @@ function isCanvas(jsonString: string): boolean {
   return false
 }
 
-function json2htmlString(json: JSON): string {
-  return json2html.render(json, canvasTemplate)
-}
-
 declare module "vfile" {
   interface DataMap {
-    canvas: string | null
+    canvas: HTMLRoot | null
   }
 }
