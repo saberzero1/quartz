@@ -316,7 +316,7 @@ function renderGlobalGraph() {
   const sidebar = container?.closest(".sidebar") as HTMLElement
   container?.classList.add("active")
   if (sidebar) {
-    sidebar.style.zIndex = "1"
+    sidebar.style.zIndex = "7"
   }
 
   renderGraph("global-graph-container", slug)
