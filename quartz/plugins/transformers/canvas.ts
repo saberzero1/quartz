@@ -84,8 +84,13 @@ export const Canvas: QuartzTransformerPlugin<Partial<Options> | undefined> = (us
             file.data.canvas = isCanvas(canvas)
               ? fromHtml(render(JSON.parse(canvas), canvasTemplate.main))
               : null
-            // @ts-ignore
-            console.log(isCanvas(canvas) ? fromHtml(render(JSON.parse(canvas), canvasTemplate.main)).children[0].children[1].children : "")
+            console.log(
+              isCanvas(canvas)
+                ? // @ts-ignore
+                  fromHtml(render(JSON.parse(canvas), canvasTemplate.main)).children[0].children[1]
+                    .children
+                : "",
+            )
           }
         },
       ]

@@ -63,8 +63,9 @@ export function renderPage(
   // for the file cached in contentMap in build.ts
   let canvasRoot = clone(componentData.tree) as Root
   console.log("before", canvasRoot)
-  // @ts-ignore
-  canvasRoot.children = componentData.fileData.canvas?.children[0]?.children[1]?.children ?? canvasRoot.children
+  canvasRoot.children =
+    // @ts-ignore
+    componentData.fileData.canvas?.children[0]?.children[1]?.children ?? canvasRoot.children
   const root = canvasRoot
   console.log("after", root)
 
