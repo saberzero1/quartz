@@ -2,6 +2,8 @@ import { QuartzTransformerPlugin } from "../types"
 import { Root, Html, BlockContent, DefinitionContent, Paragraph, Code } from "mdast"
 import { Element, Literal, Root as HtmlRoot } from "hast"
 import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
+// @ts-ignore
+import generateMermaidFlowchart, { buildJsonCanvasHierarchy } from "json-canvas-to-mermaid"
 import { slug as slugAnchor } from "github-slugger"
 import rehypeRaw from "rehype-raw"
 import { SKIP, visit } from "unist-util-visit"
@@ -24,6 +26,7 @@ export interface Options {
   wikilinks: boolean
   callouts: boolean
   mermaid: boolean
+  canvas: boolean
   parseTags: boolean
   parseArrows: boolean
   parseBlockReferences: boolean
@@ -38,7 +41,8 @@ const defaultOptions: Options = {
   highlight: true,
   wikilinks: true,
   callouts: true,
-  mermaid: false,
+  mermaid: true,
+  canvas: true,
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
@@ -494,6 +498,51 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
             })
           }
         })
+      }
+
+      if (opts.canvas) {
+        // Check if mermaid is enabled.
+        if (!opts.mermaid) {
+          console.log("Canvas cannot be generated without enabling mermaid.")
+        }
+        // Convert canvas
+        else {
+          plugins.push(() => {
+            return (tree: Root, file) => {
+              if (file.data.slug?.endsWith(".canvas")) {
+                console.log("Canvas file detected: ", file.data.slug)
+                console.log(tree)
+                // Check if file is ".canvas" file
+                visit(tree, "root", (node: Root) => {
+                  console.log("Canvas file detected: ", file.data.slug)
+                  if (node.children![0] !== undefined && node.children![0].type === "paragraph") {
+                    if (node.children![0].children![0].type === "text") {
+                      console.log(node.children![0].children![0].value)
+                      const canvas = buildJsonCanvasHierarchy(
+                        JSON.parse(node.children![0].children![0].value),
+                      )
+                      //console.log(canvas)
+                      // remove all children
+                      node.children = []
+                      // Add a code block with canvas
+                      node.children.push({
+                        type: "code",
+                        lang: "mermaid",
+                        value: generateMermaidFlowchart(canvas),
+                      })
+                      console.log(node.children)
+                    }
+                  }
+                  // Put the canvas code in the code block
+                  // console.log(node.children[0])
+                })
+              } else {
+                console.log("Canvas file not detected: ", file.data.slug)
+                console.log(tree)
+              }
+            }
+          })
+        }
       }
 
       if (opts.mermaid) {
