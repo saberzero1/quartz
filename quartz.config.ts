@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🌟 Emile Bangma",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "plausible"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "emilebangma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -24,28 +24,28 @@ const config: QuartzConfig = {
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "var(--mado-white-1)",
+          lightgray: "var(--mado-gray-6)",
+          gray: "var(--mado-gray-4)",
+          darkgray: "var(--mado-black-2)",
+          dark: "var(--mado-black-1)",
+          secondary: "var(--mado-blue-1)",
+          tertiary: "var(--mado-blue-2)",
+          highlight: "rgba(225, 228, 232, 0.10)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "var(--mado-white-1)",
+          lightgray: "var(--mado-gray-6)",
+          gray: "var(--mado-gray-4)",
+          darkgray: "var(--mado-black-2)",
+          dark: "var(--mado-black-1)",
+          secondary: "var(--mado-blue-1)",
+          tertiary: "var(--mado-blue-2)",
+          highlight: "rgba(225, 228, 232, 0.10)",
         },
       },
     },
