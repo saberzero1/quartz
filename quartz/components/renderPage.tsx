@@ -62,12 +62,12 @@ export function renderPage(
   // make a deep copy of the tree so we don't remove the transclusion references
   // for the file cached in contentMap in build.ts
   let canvasRoot = clone(componentData.tree) as Root
-  console.log("before", canvasRoot)
+  //console.log("before", canvasRoot)
   canvasRoot.children =
     // @ts-ignore
     componentData.fileData.canvas?.children[0]?.children[1]?.children ?? canvasRoot.children
   const root = canvasRoot
-  console.log("after", root)
+  //console.log("after", root)
 
   // process transcludes in componentData
   visit(root, "element", (node, _index, _parent) => {
