@@ -720,13 +720,13 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
           loadTime: "afterDOMReady",
           contentType: "external",
         }),
-        js.push({
-          src: "https://cdn.jsdelivr.net/npm/random-js@2.1.0/dist/random-js.umd.min.js",
-          loadTime: "afterDOMReady",
-          contentType: "external",
-        }),
-        js.push({
-          script: `
+          js.push({
+            src: "https://cdn.jsdelivr.net/npm/random-js@2.1.0/dist/random-js.umd.min.js",
+            loadTime: "afterDOMReady",
+            contentType: "external",
+          }),
+          js.push({
+            script: `
           let diceImport = undefined
           document.addEventListener('nav', async () => {
             if (document.querySelector("input.dice")) {
@@ -735,7 +735,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
               const diceButtons = document.querySelectorAll('input.dice')
 
-              btns.forEach(btn => {
+              diceButtons.forEach(btn => {
                 btn.addEventListener('click', event => {
                     console.log(event.target.value)
                     event.target.innerHTML = diceRoller.roll(event.target.value).output
@@ -744,10 +744,10 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
             }
           });
           `,
-          loadTime: "afterDOMReady",
-          moduleType: "module",
-          contentType: "inline",
-        })
+            loadTime: "afterDOMReady",
+            moduleType: "module",
+            contentType: "inline",
+          })
       }
 
       return { js }
