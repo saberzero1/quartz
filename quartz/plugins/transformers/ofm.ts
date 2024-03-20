@@ -736,7 +736,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
             }
           });
           `,
-          loadTime: "afterDOMReady",
+          loadTime: "beforeDOMReady",
           moduleType: "module",
           contentType: "inline",
         })
