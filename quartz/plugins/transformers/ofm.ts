@@ -175,7 +175,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
         src = src.replace(diceRegex, (value, ...capture) => {
           const [_match, dice]: (string | undefined)[] = capture
-          return dice ? `<div class="dice"><input type="button" value="${dice}" class="dice-button"></div>` : value
+          return dice
+            ? `<div class="dice"><input type="button" value="${dice}" class="dice-button"></div>`
+            : value
         })
       }
 
@@ -734,11 +736,11 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
             script: `
             let diceImport = undefined
             document.addEventListener('nav', async () => {
-              if (document.querySelector("input.dice")) {
+              if (document.querySelector("input.dice-button")) {
                 diceImport ||= await import('https://cdn.jsdelivr.net/npm/@dice-roller/rpg-dice-roller@5.5.0/lib/umd/bundle.min.js')
                 let diceRoller = new rpgDiceRoller.DiceRoller()
 
-                const diceButtons = document.querySelectorAll('input.dice')
+                const diceButtons = document.querySelectorAll('input.dice-button')
 
                 diceButtons.forEach(btn => {
                   btn.addEventListener('click', event => {
