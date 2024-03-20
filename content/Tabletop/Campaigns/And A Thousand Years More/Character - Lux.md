@@ -94,7 +94,7 @@
 - Wooden Shield
 - Leather Armor
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
-- [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Writing Kit\|Writing Kit]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]
 
 | Item | Weight | Quantity |
 | --- | --- | --- |
@@ -102,7 +102,7 @@
 | Wooden Shield | 1/4? | 1 |
 | Leather Armor | 1/4? | 1 |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]] |  |  |
-| [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Writing Kit\|Writing Kit]] |  |  |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]] |  |  |
 
 ## Items
 
