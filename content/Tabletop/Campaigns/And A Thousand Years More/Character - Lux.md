@@ -97,7 +97,7 @@
 - [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Writing Kit\|Writing Kit]]
 
 | Item | Weight | Quantity |
-|:--- | --- | --- |
+| --- | --- | --- |
 | [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Main Gauche\|Main Gauche]] | 1/4? | 1 |
 | Wooden Shield | 1/4? | 1 |
 | Leather Armor | 1/4? | 1 |
@@ -107,7 +107,7 @@
 ## Items
 
 | Items | Location |
-|:--- |:--- |
+| --- | --- |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] |  |
 | Incriminating Evidence |  |
 | Financial Record of Narre |  |
