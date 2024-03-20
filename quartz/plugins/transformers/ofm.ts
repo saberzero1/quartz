@@ -175,7 +175,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
         src = src.replace(diceRegex, (value, ...capture) => {
           const [_match, dice]: (string | undefined)[] = capture
-          return dice ? `<input type="button" value="${dice}" class="dice dice-button">` : value
+          return dice ? `<div class="dice"><input type="button" value="${dice}" class="dice-button"></div>` : value
         })
       }
 
