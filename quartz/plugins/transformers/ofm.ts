@@ -720,7 +720,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
           script: `
           let diceImport = undefined
           document.addEventListener('nav', async () => {
-            if (document.querySelector("button.dice")) {
+            if (document.querySelector("input.dice")) {
               mathImport ||= await import('https://unpkg.com/mathjs@11.8.2/lib/browser/math.js')
               randImport ||= await import('https://cdn.jsdelivr.net/npm/random-js@2.1.0/dist/random-js.umd.min.js')
               diceImport ||= await import('https://cdn.jsdelivr.net/npm/@dice-roller/rpg-dice-roller@5.5.0/lib/umd/bundle.min.js')
