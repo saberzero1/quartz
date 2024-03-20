@@ -19,6 +19,7 @@ import { capitalize } from "../../util/lang"
 import { PluggableList } from "unified"
 
 export interface Options {
+  dice: boolean
   comments: boolean
   highlight: boolean
   wikilinks: boolean
@@ -34,6 +35,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
+  dice: true,
   comments: true,
   highlight: true,
   wikilinks: true,
@@ -94,6 +96,8 @@ function canonicalizeCallout(calloutName: string): keyof typeof calloutMapping {
   // if callout is not recognized, make it a custom one
   return calloutMapping[normalizedCallout] ?? calloutName
 }
+
+export const diceRegex = new RegExp(/(`dice: (?<dice>[^`]+)`)/, "g")
 
 export const externalLinkRegex = /^https?:\/\//i
 
@@ -161,6 +165,19 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
         }
 
         src = src.replace(commentRegex, "")
+      }
+
+      // dice buttons
+      if (opts.dice) {
+        if (src instanceof Buffer) {
+          src = src.toString()
+        }
+
+        src = src.replace(diceRegex, (value, ...capture) => {
+          const [_match, dice]: (string | undefined)[] = capture
+          console.log(dice)
+          return dice ? `<input type="button" value="${dice}" class="dice dice-button" onclick="rollDice(this)">` : value
+        })
       }
 
       // pre-transform blockquotes
@@ -689,6 +706,33 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
               await mermaid.run({
                 querySelector: '.mermaid'
               })
+            }
+          });
+          `,
+          loadTime: "afterDOMReady",
+          moduleType: "module",
+          contentType: "inline",
+        })
+      }
+
+      if (opts.dice) {
+        js.push({
+          script: `
+          let diceImport = undefined
+          document.addEventListener('nav', async () => {
+            if (document.querySelector("button.dice")) {
+              mathImport ||= await import('https://unpkg.com/mathjs@11.8.2/lib/browser/math.js')
+              randImport ||= await import('https://cdn.jsdelivr.net/npm/random-js@2.1.0/dist/random-js.umd.min.js')
+              diceImport ||= await import('https://cdn.jsdelivr.net/npm/@dice-roller/rpg-dice-roller@5.5.0/lib/umd/bundle.min.js')
+              const dice = diceImport.default
+              const diceRoller = new rpgDiceRoller.DiceRoller()
+
+              function rollDice(element) {
+                const roll = diceRoller.roll(element.value)
+                //console.log(roll.output)
+                element.innerHTML = roll.output
+                //return roll.output
+              }
             }
           });
           `,
