@@ -203,9 +203,13 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
           return value.replace(tableWikilinkRegex, (value, ...capture) => {
             const [raw]: (string | undefined)[] = capture
             let escaped = raw ?? ""
+
+            // Quartz Syncer workaround
+            escaped = escaped.replace(/\\([\#\|])/g, (_matched, captureGroup) => {
+              return captureGroup[0]
+            })
             escaped = escaped.replace("#", "\\#")
             escaped = escaped.replace("|", "\\|")
-
             return escaped
           })
         })
