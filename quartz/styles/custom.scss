@@ -7,14 +7,6 @@ $sidePanelWidth: 380px;
 $topSpacing: 6rem;
 $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
 
-.dice {
-
-}
-
-.dice-button {
-  display: inline-block;
-}
-
 // put your custom CSS here!
 
 :root {
@@ -163,8 +155,8 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   --accent-l: 68%;
   */
   --accent-h: 229;
-	--accent-s: 83%;
-	--accent-l: 53%;
+  --accent-s: 83%;
+  --accent-l: 53%;
 
   --color-base-00: hsla(
     calc(var(--bgcolor-h) - 0),
@@ -325,8 +317,8 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
   */
   /*heme-deep-blue.theme-dark*/
   --accent-h: 229;
-	--accent-s: 78%;
-	--accent-l: 63%;
+  --accent-s: 78%;
+  --accent-l: 63%;
 
   --bgcolor-h: 215;
   --bgcolor-s: 17%;
@@ -501,4 +493,26 @@ pre > code {
 
 .search {
   z-index: 1;
+}
+
+.dice::before {
+  display: inline-block;
+}
+
+.dice-button {
+  display: inline-block;
+  font-family: var(--codeFont);
+  color: var(--text-normal);
+  border: 1px solid var(--color-light-gray);
+  border-radius: var(--button-radius);
+  background-color: var(--background-primary);
+  &:hover {
+    background-color: var(--button-hover);
+    &:active {
+      background-color: var(--button-selected-hover);
+    }
+  }
+  &:active {
+    background-color: var(--button-selected);
+  }
 }
