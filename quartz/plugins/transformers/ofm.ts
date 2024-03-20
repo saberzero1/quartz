@@ -738,6 +738,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
               diceButtons.forEach(btn => {
                 btn.addEventListener('click', event => {
                     console.log(event.target.value)
+                    console.log(diceRoller.roll(event.target.value).output)
                     event.target.innerHTML = diceRoller.roll(event.target.value).output
                 })
              })
