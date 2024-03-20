@@ -44,15 +44,15 @@
 | Craft | `dice: 1d6` (Mind) |  | 0 |  |  |
 | Deceit | `dice: 1d8` (Will) |  | 0 |  |  |
 | Digging | `dice: 1d6` (Body) |  | 0 |  |  |
-| Dodge | `dice: 1d6` (Speed) |  | `dice: 1d10` 4 |  |  |
+| Dodge | `dice: 1d6` (Speed) |  | 4 `dice: 1d10` |  |  |
 | Endurance | `dice: 1d6` (Body) |  | 0 | `dice: 1d4+1d8` |  |
-| Gossip | `dice: 1d6` (Mind) |  | `dice: 1d4` 1 |  | `dice: 1d8` |
-| Inquiry | `dice: 1d8` (Will) | Inquiries related to people | `dice: 1d4` 1 |  |  |
+| Gossip | `dice: 1d6` (Mind) |  | 1 `dice: 1d4` |  | `dice: 1d8` |
+| Inquiry | `dice: 1d8` (Will) | Inquiries related to people | 1 `dice: 1d4` |  |  |
 | Jumping | `dice: 1d6` (Body) |  | 0 |  | `dice: 1d4` |
-| Leadership | `dice: 1d8+1d10` (Will) | Helping reeling allies | `dice: 1d10` 4 |  |  |
-| Melee Combat | `dice: 1d6` (Body) |  | `dice: 1d8` 3 |  |  |
-| Negotiation | `dice: 1d8` (Will) | Getting out of trouble | `dice: 1d8` 3 |  |  |
-| Observation | `dice: 1d6` (Mind) |  | `dice: 1d8` 3 | `dice: 1d4+1d8` |  |
+| Leadership | `dice: 1d8+1d10` (Will) | Helping reeling allies | 4 `dice: 1d10` |  |  |
+| Melee Combat | `dice: 1d6` (Body) |  | 3 `dice: 1d8` |  |  |
+| Negotiation | `dice: 1d8` (Will) | Getting out of trouble | 3 `dice: 1d8` |  |  |
+| Observation | `dice: 1d6` (Mind) |  | 3 `dice: 1d8` | `dice: 1d4+1d8` |  |
 | Presence | `dice: 1d8` (Will) |  | 0 | `dice: 1d4` |  |
 | Ranged Combat | `dice: 1d6` (Speed) |  | 0 |  |  |
 | Riding | `dice: 1d6` (Body) |  | 0 |  |  |
