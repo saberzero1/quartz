@@ -90,7 +90,7 @@
 
 ## Equipment
 
-- [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Main Gauche\|Main Gauche]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
 - Wooden Shield
 - Leather Armor
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
@@ -98,7 +98,7 @@
 
 | Item | Weight | Quantity |
 | --- | --- | --- |
-| [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Main Gauche\|Main Gauche]] | 1/4? | 1 |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]] | 1/4? | 1 |
 | Wooden Shield | 1/4? | 1 |
 | Leather Armor | 1/4? | 1 |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]] |  |  |
