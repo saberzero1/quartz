@@ -3,15 +3,15 @@
 ---
 
 
-![Banner-Ravahn-polaroid.png|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Ravahn-polaroid.png)
+![Banner-Ravahn-polaroid.png|200](/img/user/Media/IronClaw/Polaroid/Banner-Ravahn-polaroid.png)
 
-![Banner-Poppins-polaroid.jpeg|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Poppins-polaroid.jpeg)
+![Banner-Poppins-polaroid.jpeg|200](/img/user/Media/IronClaw/Polaroid/Banner-Poppins-polaroid.jpeg)
 
-![Banner-Norrix-polaroid.jpeg|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Norrix-polaroid.jpeg)
+![Banner-Norrix-polaroid.jpeg|200](/img/user/Media/IronClaw/Polaroid/Banner-Norrix-polaroid.jpeg)
 
-![Banner-Lux-polaroid.png|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Lux-polaroid.png)
+![Banner-Lux-polaroid.png|200](/img/user/Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
 
-![Banner-Damjan-polaroid.png|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Damjan-polaroid.png)
+![Banner-Damjan-polaroid.png|200](/img/user/Media/IronClaw/Polaroid/Banner-Damjan-polaroid.png)
 
 A band of intrepid heroes set out on a daring quest, their shining armor reflecting the light of the sun as they marched steadily onward. They are a proud and stalwart group, their brave hearts beating with a single purpose; to face whatever danger may come and protect the innocent. With courage and conviction, they forged ahead, their unwavering determination driving them ever onward. Nothing could stand in their way as they faced the unknown with strength and valor.
 
