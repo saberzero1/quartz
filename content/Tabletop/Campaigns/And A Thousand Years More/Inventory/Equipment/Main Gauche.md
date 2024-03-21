@@ -8,7 +8,7 @@ A gleaming parrying dagger, a gift from the strong Norrix, lay in my hands, an o
 
 ## Location Found:
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/{01} Landmarks/{02} Narre/Narre's Keep\|Narre's Keep]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Narre's Keep]]
 
 ## Mentions
 
