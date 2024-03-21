@@ -495,6 +495,7 @@ pre > code {
   z-index: 1;
 }
 
+// Dice rolling support
 .dice::before {
   display: inline-block;
 }
@@ -515,4 +516,9 @@ pre > code {
   &:active {
     background-color: var(--button-selected);
   }
+}
+
+// Hide inline tags
+a[data-alug^="tags/"].tag-link.internal.alias {
+  display: none;
 }
