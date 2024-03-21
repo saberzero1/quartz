@@ -8,7 +8,7 @@ I acquired an exquisite set of attire from the renowned tailor of Narre - a set 
 
 ## Location Found:
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{02} Location/{01} Towns and Cities/Narre\|Narre]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]
 
 ## Mentions
 

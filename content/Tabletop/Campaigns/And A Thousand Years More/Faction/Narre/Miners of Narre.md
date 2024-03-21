@@ -1,0 +1,22 @@
+---
+{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/miners-of-narre/","title":"Miners of Narre"}
+---
+
+
+![Banner-Imtrud-polaroid.png|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Imtrud-polaroid.png)
+
+A ragtag band of mineworkers, seeking justice and freedom, staged a daring coup against the Mages of Narre. After a hard-fought battle, the mineworkers emerged victorious, and they seized control of the city. Through their courage and perseverance, they had finally earned their freedom. But the Mages had not gone quietly into the night; their leader had fled, undoubtly plotting revenge.
+
+## Locations:
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]
+
+## Members
+
+- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Imtrud\|Imtrud]] (Leader)
+- Unnamed miners
+
+## Mentions
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|Aleksi]] grabs his lute "[[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] is a place of divide. Between [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|menacing Mages]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|many Miners]]. Rich and poor living under one name but divided by the north and the south." #Character #Faction #Location #Event
+
