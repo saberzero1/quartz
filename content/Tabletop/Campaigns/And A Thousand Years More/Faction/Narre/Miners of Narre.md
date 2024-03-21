@@ -3,7 +3,7 @@
 ---
 
 
-![Banner-Imtrud-polaroid.png|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Imtrud-polaroid.png)
+![Banner-Imtrud-polaroid.png|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Imtrud-polaroid.png)
 
 A ragtag band of mineworkers, seeking justice and freedom, staged a daring coup against the Mages of Narre. After a hard-fought battle, the mineworkers emerged victorious, and they seized control of the city. Through their courage and perseverance, they had finally earned their freedom. But the Mages had not gone quietly into the night; their leader had fled, undoubtly plotting revenge.
 
