@@ -3,9 +3,9 @@
 ---
 
 
-![Banner-Steven-polaroid.jpg|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Steven-polaroid.jpg)
+![Banner-Steven-polaroid.jpg|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Steven-polaroid.jpg)
 
-![Banner-Peter-polaroid.jpg|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Peter-polaroid.jpg)
+![Banner-Peter-polaroid.jpg|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Peter-polaroid.jpg)
 
 Deep in the heart of Hornwaldia, a guild of adventurers has been formed. Here, both newbies and legendary heroes have come together, eager to prove their mettle, to test their courage, and to uncover the secrets of the wilds. From the novice thief to the mighty dragon-slayer, all are welcome in this fraternity of brave souls, willing to risk life and limb for glory and fortune.
 
