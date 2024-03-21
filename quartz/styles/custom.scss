@@ -519,6 +519,6 @@ pre > code {
 }
 
 // Hide inline tags
-a[data-alug^="tags/"].tag-link.internal.alias {
+a[data-slug^="tags/"].tag-link.internal.alias {
   display: none;
 }
