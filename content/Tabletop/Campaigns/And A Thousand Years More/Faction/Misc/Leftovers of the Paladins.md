@@ -3,8 +3,6 @@
 ---
 
 
-![Banner-Arnoud-polaroid.jpg|200](/img/user/Media/IronClaw/Polaroid/Banner-Arnoud-polaroid.jpg)
-
 The ruins of a once-mighty band of paladins lay scattered across the land, a grim reminder of the cataclysmic disaster that had befallen them. For ages, these stalwart heroes had stood against the forces of darkness, vanquishing evil and protecting the innocent from harm. But now, all that remained of their brave legacy were the crumbling remnants of their fortifications, the shattered remains of their armaments, and the ghosts of their valiant deeds, all fading away in the wake of the tragedy that had brought them low.
 
 ## Location
