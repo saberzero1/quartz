@@ -3,16 +3,6 @@
 ---
 
 
-![Banner-Ravahn-polaroid.png|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Ravahn-polaroid.png)
-
-![Banner-Poppins-polaroid.jpeg|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Poppins-polaroid.jpeg)
-
-![Banner-Norrix-polaroid.jpeg|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Norrix-polaroid.jpeg)
-
-![Banner-Lux-polaroid.png|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Lux-polaroid.png)
-
-![Banner-Damjan-polaroid.png|200](/img/user/%7B06%7D%20Spaces/%7B03%7D%20IronClaw/%7B04%7D%20Support%20Notes/%7B99%7D%20Media/%7B02%7D%20Polaroid/Banner-Damjan-polaroid.png)
-
 A band of intrepid heroes set out on a daring quest, their shining armor reflecting the light of the sun as they marched steadily onward. They are a proud and stalwart group, their brave hearts beating with a single purpose; to face whatever danger may come and protect the innocent. With courage and conviction, they forged ahead, their unwavering determination driving them ever onward. Nothing could stand in their way as they faced the unknown with strength and valor.
 
 ## Location
