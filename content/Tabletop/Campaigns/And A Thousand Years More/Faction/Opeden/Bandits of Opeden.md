@@ -3,7 +3,7 @@
 ---
 
 
-![Banner-Steven-polaroid.jpg|200](/img/user/Tabletop/Campaigns/And%20A%20Thousand%20Years%20More/Media/Polaroid/Banner-Steven-polaroid.jpg)
+![Banner-Steven-polaroid.jpg|200](/img/user/Media/IronClaw/Polaroid/Banner-Steven-polaroid.jpg)
 
 A ragtag gang of bandits that had been terrorizing the peaceful hamlet of Opeden for weeks, until a group of brave adventurers finally put an end to their reign of mischief. Wielding swords, axes, and bows, the party descended upon the bandits with a ferocity that sent them fleeing in fear.
 
