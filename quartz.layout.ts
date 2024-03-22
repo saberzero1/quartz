@@ -25,11 +25,13 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Darkmode()),
     // Component.DesktopOnly(Component.Explorer()),
     Component.Explorer(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Search()),
+    Component.MobileOnly(Component.Darkmode()),
   ],
   right: [
     Component.Graph(),
@@ -43,11 +45,13 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Darkmode()),
     // Component.DesktopOnly(Component.Explorer()),
     Component.Explorer(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Search()),
+    Component.MobileOnly(Component.Darkmode()),
   ],
   right: [],
 }
