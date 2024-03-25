@@ -450,7 +450,7 @@ body::before {
   .page-title.mobile-only > a {
     font-size: 0;
 
-    & :after {
+    & ::after {
       font-size: 1.75rem;
       content: "🌟";
     }
