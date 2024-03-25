@@ -457,6 +457,10 @@ body::before {
       content: "🌟";
     }
   }
+
+  div.spacer.mobile-only {
+    display: none;
+  }
 }
 
 .center {
