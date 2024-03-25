@@ -51,9 +51,8 @@
     position: absolute;
     max-height: max-content !important;
     background-color: var(--light);
-    width: max-content;
-    max-width: calc(100% - 2 * 36px);
-    margin: 0 36px;
+    max-width: calc(100% - 36px);
+    margin-right: 36px;
     transition: all 300ms ease-in-out;
     overflow: hidden;
 

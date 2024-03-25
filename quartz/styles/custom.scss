@@ -446,6 +446,12 @@ body::before {
   margin: 0 auto !important;
 }
 
+@media all and (max-width: 500px) {
+  .page-title.mobily-only > a {
+    content: "🌟";
+  }
+}
+
 .center {
   background-color: var(--background-primary);
   border: var(--border);
