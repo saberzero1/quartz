@@ -170,12 +170,6 @@ a {
       }
     }
 
-    & .center {
-      @media all and (max-width: $fullPageWidth) {
-        margin-top: 6rem;
-      }
-    }
-
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth - $pageSpacer) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
