@@ -447,7 +447,7 @@ body::before {
 }
 
 @media all and (max-width: 500px) {
-  .page-title.mobily-only > a {
+  .page-title.mobile-only > a {
     content: "🌟";
   }
 }
