@@ -448,7 +448,12 @@ body::before {
 
 @media all and (max-width: 500px) {
   .page-title.mobile-only > a {
-    content: "🌟";
+    font-size: 0;
+
+    & :after {
+      font-size: 1.75rem;
+      content: "🌟";
+    }
   }
 }
 
