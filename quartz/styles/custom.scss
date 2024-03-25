@@ -1,11 +1,5 @@
 @use "./base.scss";
-
-$pageWidth: 750px;
-$mobileBreakpoint: 600px;
-$tabletBreakpoint: 1200px;
-$sidePanelWidth: 380px;
-$topSpacing: 6rem;
-$fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 
@@ -444,6 +438,23 @@ body::before {
 .page,
 .page-header {
   margin: 0 auto !important;
+}
+
+@media all and (max-width: 500px) {
+  h1.page-title.mobile-only {
+    > a {
+      font-size: 0;
+    }
+
+    > a:after {
+      font-size: 1.75rem;
+      content: "🌟";
+    }
+  }
+
+  div.spacer.mobile-only {
+    display: none;
+  }
 }
 
 .center {
