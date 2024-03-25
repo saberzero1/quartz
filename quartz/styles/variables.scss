@@ -7,4 +7,4 @@ $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
 $pageSpacer: 125px;
-$fullPageWidth: $pageWidth + 2 * $sidePanelWidth + 2 * $pageSpacer;
+$fullPageWidth: $pageWidth + 2 * $sidePanelWidth + $pageSpacer;
