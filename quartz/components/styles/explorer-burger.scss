@@ -47,7 +47,8 @@
 .mobile-only.explorer {
   #explorer-content {
     &:not(.collapsed) {
-      width: 90vw;
+      width: 100vw;
+      max-width: $pageWidth;
       background-color: var(--light);
       height: 90dvh;
       position: absolute;
