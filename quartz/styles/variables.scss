@@ -1,9 +1,10 @@
 $pageWidth: 750px;
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
-$sidePanelWidth: 380px;
+$sidePanelWidth: 250px;
 $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
-$fullPageWidth: $pageWidth + 72 + 2 * $sidePanelWidth;
+$pageSpacer: 125px;
+$fullPageWidth: $pageWidth + 2 * $sidePanelWidth + $pageSpacer + 50px;
