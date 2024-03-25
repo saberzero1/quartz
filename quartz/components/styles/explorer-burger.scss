@@ -46,14 +46,16 @@
 
 .mobile-only.explorer {
   #explorer-content {
+    left: 0;
+    z-index: 100;
+    position: absolute;
+    max-height: max-content !important;
+    background-color: var(--light);
+    width: 100vw;
+    max-width: $pageWidth;
+
     &:not(.collapsed) {
-      width: 100vw;
-      max-width: $pageWidth;
-      background-color: var(--light);
-      height: 90dvh;
-      position: absolute;
-      z-index: 100;
-      max-height: max-content !important;
+      height: auto;
       transition: all 300ms ease;
       overflow: hidden;
       //top: 10dvh;
@@ -64,13 +66,7 @@
     } */
 
     &.collapsed {
-      left: 0;
-      width: 0;
-      background-color: var(--light);
-      height: 90dvh;
-      position: absolute;
-      max-height: max-content !important;
-      z-index: 100;
+      height: 0;
       transition: all 300ms ease-in-out;
     }
   }
