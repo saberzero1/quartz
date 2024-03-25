@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Component.MobileOnly(
       Component.ExplorerBurger({
-        folderDefaultState: "open",
-        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+        folderClickBehavior: "collapse",
       }),
     ),
     Component.MobileOnly(Component.PageTitle()),
