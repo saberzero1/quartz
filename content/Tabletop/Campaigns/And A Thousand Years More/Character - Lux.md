@@ -3,7 +3,7 @@
 ---
 
 
-![Banner-Lux-polaroid.png|300](Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
+![Banner-Lux-polaroid.png|300](../../../Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
 
 > [!info]
 >
