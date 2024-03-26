@@ -3,7 +3,7 @@
 ---
 
 
-Pumpkin-like monster that throws other goudlings as projectiles.
+Pumpkin-like monster that throws other gourdlings as projectiles.
 
 ## Mentions
 

@@ -3,6 +3,8 @@
 ---
 
 
+![Banner-Lux-polaroid.png|300](../../../Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
+
 > [!info]
 >
 > The items currently in [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|my]] possession.
