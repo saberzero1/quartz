@@ -8,6 +8,12 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
 
 - Gifts: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool\|Blatant Fool]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Etiquette\|Etiquette]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Licensed Fool\|Licensed Fool]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Stitch in Time\|Stitch in Time]]
 
 - Misc: 
