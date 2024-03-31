@@ -10,3 +10,5 @@
 > 	- Using silverware.
 > 	- Properly addressing lords and ladies.
 > 	- Proper gifts and apologies to make when sucking up to aristocrats.
+{ #etiquettemindingmanners}
+
