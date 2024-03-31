@@ -10,6 +10,6 @@
 > 	- For spotting and attack purposes, treat poor lighting as fair lighting
 > 		- *Night Vision* does not compensate for total darkness or being blind.
 > - You can travel at night twice as fast as those who do not have this *Gift*.
-> 	- See "Hiking" in the Spot Rules chapter.)
+> 	- See "Hiking" in the Spot Rules chapter.
 { #nightvisionseebetterindarkness}
 
