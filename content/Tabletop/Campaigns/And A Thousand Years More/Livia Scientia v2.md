@@ -9,6 +9,9 @@
 - Parents were press who exposed dipshit empire practices.
 - Parents got killed/abducted by dipshit empire.
 - Fled Acentum Empire and swore revenge/find out what happened to parents.
+
+## Character info
+
  - **Name:** Livia 'Lux' Scientia
  - **Stage Name:** Vulpes Domina
  - **Career:** Jester, (Haranguer)
