@@ -7,5 +7,7 @@
 
 > [!INFO] You can read!
 > - You can read and write.
-> 	- The DM can call for rolls of *Mind* and *Academics* to understand particularly difficult texts.
+> 	- The DM can call for rolls of *Mind* (`dice: 1d6`) and *Academics* (`dice: 1d1`) to understand particularly difficult texts.
 > 	- Characters without this *Gift* cannot read or write at all.
+{ #literacyread}
+
