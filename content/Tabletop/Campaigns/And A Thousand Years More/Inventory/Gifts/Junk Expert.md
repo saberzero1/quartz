@@ -43,3 +43,33 @@
 | 25           | Wooden cutlery    |
 { #junkexpertroll}
 
+
+| `dice: 1d25` | Result               |
+| ------------ | -------------------- |
+| 1            | Another Junk Bundle  |
+| 2            | Arrow Quiver (empty) |
+| 3            | Bell (loud)          |
+| 4            | Brick                |
+| 5            | Broken Compass       |
+| 6            | Bucket               |
+| 7            | Chalk                |
+| 8            | Cheap Cologne        |
+| 9            | Cheap Make-up        |
+| 10           | Crowbar              |
+| 11           | Dice Set             |
+| 12           | Flask (oil)          |
+| 13           | Flask (water)        |
+| 14           | Flask (wine)         |
+| 15           | Flute (loud)         |
+| 16           | Hand Mirror          |
+| 17           | Lantern, Hooded      |
+| 18           | Left Boot            |
+| 19           | Lock (no key)        |
+| 20           | Magnifying Glass     |
+| 21           | Small Hourglass      |
+| 22           | Soap Bar             |
+| 23           | Spyglass             |
+| 24           | Tinderbox            |
+| 25           | Unscented Candle     |
+{ #junkexpertrollexpanded}
+
