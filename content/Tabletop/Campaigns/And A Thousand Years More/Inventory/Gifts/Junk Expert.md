@@ -8,7 +8,7 @@
 > - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your bundle.
 > 	- You must be carrying your *bundle*, a sack of unspecified junk that weighs at least 1 stone.
 > 	- The item may weigh no more than 1/4 stone.
-> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* `dice: 1d4` vs 3.
+> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* (`dice: 1d4`) vs 3.
 > 		- On tie or worse, *Exhaust* this *Gift*.
 > - You may *Refresh* this *Gift* by searching through a junk pile for at least one hour.
 { #junkexpertaction}
@@ -42,4 +42,34 @@
 | 24           | Whetstone         |
 | 25           | Wooden cutlery    |
 { #junkexpertroll}
+
+
+| `dice: 1d25` | Result               |
+| ------------ | -------------------- |
+| 1            | Another Junk Bundle  |
+| 2            | Arrow Quiver (empty) |
+| 3            | Bell (loud)          |
+| 4            | Brick                |
+| 5            | Broken Compass       |
+| 6            | Bucket               |
+| 7            | Chalk                |
+| 8            | Cheap Cologne        |
+| 9            | Cheap Make-up        |
+| 10           | Crowbar              |
+| 11           | Dice Set             |
+| 12           | Flask (oil)          |
+| 13           | Flask (water)        |
+| 14           | Flask (wine)         |
+| 15           | Flute (loud)         |
+| 16           | Hand Mirror          |
+| 17           | Lantern, Hooded      |
+| 18           | Left Boot            |
+| 19           | Lock (no key)        |
+| 20           | Magnifying Glass     |
+| 21           | Small Hourglass      |
+| 22           | Soap Bar             |
+| 23           | Spyglass             |
+| 24           | Tinderbox            |
+| 25           | Unscented Candle     |
+{ #junkexpertrollexpanded}
 

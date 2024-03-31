@@ -88,34 +88,35 @@
 | Marks (Presence: II, Searching: I)                        | Level 7 |                                        |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert\|Junk Expert]]                                           | Level 8 |                                        |
 
-## Equipment
+## Equipment and Items
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
-- Wooden Shield
-- Leather Armor
-- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]
+| Item                             | Weight  | Quantity | Carried        |
+| -------------------------------- | ------- | -------- | -------------- |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]                  | 1/8     | 1        | Yes (worn)     |
+| Wooden Shield                    | 1/2     | 1        | Yes (worn)     |
+| Leather Armor                    | 1/2     | 1        | Yes (worn)     |
+| Cloth Armor                      | 1       | 0        | No (destroyed) |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]           | 1/4     | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]                  | -       | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] | 1/32    | 1        | Yes            |
+| Incriminating Evidence           | 1/16    | 1        | Yes            |
+| Financial Record of Narre        | 1/16    | 1        | Yes            |
+| Pamphlet of salacious ribaldry   | -       | 1        | Yes            |
+| List of public grievances        | -       | 1        | Yes            |
+| Junk Bundle                      | 1       | 1        | Yes            |
+| **Total (carried)**              | 2 17/32 | -        | -              |
+| **Total**                        | 2 17/32 | -        | -              |
 
-| Item | Weight | Quantity |
-| --- | --- | --- |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]] | 1/4? | 1 |
-| Wooden Shield | 1/4? | 1 |
-| Leather Armor | 1/4? | 1 |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]] |  |  |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]] |  |  |
-
-## Items
-
-| Items | Location |
-| --- | --- |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] |  |
-| Incriminating Evidence |  |
-| Financial Record of Narre |  |
+| Consumable       | Weight     | Quantity | Carried       |
+| ---------------- | ---------- | -------- | ------------- |
+| Fire Pepperbomb  | 1/8        | 0        | No (all used) |
+| Water Pepperbomb | 1/8        | 0        | No (all used) |
+| Flame Arrow      | 1/8 per 24 | 2        | Yes (Damjan)  |
 
 ## Knowledge
 
-- ~~Insider with Cogniscenti~~
-- ~~Insider with Narre~~
+- Insider with Cogniscenti
+- Insider with Narre
 
 ## Stored
 
@@ -147,7 +148,7 @@
 > 	- For spotting and attack purposes, treat poor lighting as fair lighting
 > 		- *Night Vision* does not compensate for total darkness or being blind.
 > - You can travel at night twice as fast as those who do not have this *Gift*.
-> 	- See "Hiking" in the Spot Rules chapter.)
+> 	- See "Hiking" in the Spot Rules chapter.
 
 </div></div>
 
@@ -290,7 +291,7 @@
 > - As a stunt, you may *Taunt* another target. Your character insults the target, or performs rude gestures, or generally does something to the target to make them angry with you.
 > 	- You may taunt even if this *Gift* is exhausted.
 > 	- Taunting does not require you to have your mental faculties. You can *Taunt* even when *Confused* or *Enraged*.
-> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+2d4`) dice.
+> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+1d4`) dice.
 > 	- The target rolls their *Will*, *Inquiry*, and your *Body* (`dice: 1d4`) Dice.
 > 	- The target must be able to hear you.
 > 		- You cannot be *Silenced*.
@@ -308,7 +309,7 @@
 </div></div>
 
 
-## Reactionsblicu
+## Reactions
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/personality-of-choice/#personalityrollbonus" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -391,7 +392,7 @@
 > - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your bundle.
 > 	- You must be carrying your *bundle*, a sack of unspecified junk that weighs at least 1 stone.
 > 	- The item may weigh no more than 1/4 stone.
-> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* `dice: 1d4` vs 3.
+> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* (`dice: 1d4`) vs 3.
 > 		- On tie or worse, *Exhaust* this *Gift*.
 > - You may *Refresh* this *Gift* by searching through a junk pile for at least one hour.
 
@@ -433,3 +434,15 @@
 
 </div></div>
 
+
+<!--
+Ideas:
+Favor Bonus with Skill of Choice -> Searching for Junk to throw with Junk Expert
+Flight of the Prey (Avatism p. 318)
+Team player p. 60
+Dramatic Disheveling p. 63, because that is hilarious
+Cosmopolitan p. 57 -> Allows Culture Gifts to work on any Culture
+Sixth Sense p. 73 -> Bonus to parry and dodge when enemy has concealment bonus. This includes when you are reeling.
+---
+Sword Dancer Career Jadeclaw p. 457 -> Sword dancing has more gifts p. 474. Probably for next character?
+-->

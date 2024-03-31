@@ -206,12 +206,10 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
             const [raw]: (string | undefined)[] = capture
             let escaped = raw ?? ""
 
-            // Quartz Syncer workaround
-            escaped = escaped.replace(/\\([\#\|])/g, (_matched, captureGroup) => {
-              return captureGroup[0]
-            })
             escaped = escaped.replace("#", "\\#")
-            escaped = escaped.replace("|", "\\|")
+            // escape pipe characters if they are not already escaped
+            escaped = escaped.replace(/((^|[^\\])(\\\\)*)\|/g, "$1\\|")
+
             return escaped
           })
         })
