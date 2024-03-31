@@ -8,3 +8,5 @@
 > - When using *Observation* to hear something, you may negate the highest-showing difficulty die that opposes you.
 > - You can hear into the ultrasonic ranges.
 > - You can hear some sounds other folks without *Keen Ears* simply cannot.
+{ #keenearsbetterhearing}
+
