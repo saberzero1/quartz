@@ -88,33 +88,34 @@
 | Marks (Presence: II, Searching: I)                        | Level 7 |                                        |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert\|Junk Expert]]                                           | Level 8 |                                        |
 
-## Equipment
+## Equipment and Items
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
-- Wooden Shield
-- Leather Armor
-- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]
+| Item                             | Weight  | Quantity | Carried        |
+| -------------------------------- | ------- | -------- | -------------- |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]                  | 1/8     | 1        | Yes (worn)     |
+| Wooden Shield                    | 1/2     | 1        | Yes (worn)     |
+| Leather Armor                    | 1/2     | 1        | Yes (worn)     |
+| Cloth Armor                      | 1       | 0        | No (destroyed) |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]           | 1/4     | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]                  | -       | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] | 1/32    | 1        | Yes            |
+| Incriminating Evidence           | 1/16    | 1        | Yes            |
+| Financial Record of Narre        | 1/16    | 1        | Yes            |
+| Pamphlet of salacious ribaldry   | -       | 1        | Yes            |
+| List of public grievances        | -       | 1        | Yes            |
+| Junk Bundle                      | 1       | 1        | Yes            |
+| **Total (carried)**              | 2 17/32 | -        | -              |
+| **Total**                        | 2 17/32 | -        | -              |
 
-| Item | Weight | Quantity |
-| --- | --- | --- |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]] | 1/4? | 1 |
-| Wooden Shield | 1/4? | 1 |
-| Leather Armor | 1/4? | 1 |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]] |  |  |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]] |  |  |
-
-## Items
-
-| Items | Location |
-| --- | --- |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] |  |
-| Incriminating Evidence |  |
-| Financial Record of Narre |  |
+| Consumable       | Weight     | Quantity | Carried       |
+| ---------------- | ---------- | -------- | ------------- |
+| Fire Pepperbomb  | 1/8        | 0        | No (all used) |
+| Water Pepperbomb | 1/8        | 0        | No (all used) |
+| Flame Arrow      | 1/8 per 24 | 2        | Yes (Damjan)  |
 
 ## Knowledge
 
-- ~~Insider with Cogniscenti~~
+- Insider with Cogniscenti
 - Insider with Narre
 
 ## Stored
@@ -147,7 +148,7 @@
 > 	- For spotting and attack purposes, treat poor lighting as fair lighting
 > 		- *Night Vision* does not compensate for total darkness or being blind.
 > - You can travel at night twice as fast as those who do not have this *Gift*.
-> 	- See "Hiking" in the Spot Rules chapter.)
+> 	- See "Hiking" in the Spot Rules chapter.
 
 </div></div>
 
@@ -433,3 +434,15 @@
 
 </div></div>
 
+
+<!--
+Ideas:
+Favor Bonus with Skill of Choice -> Searching for Junk to throw with Junk Expert
+Flight of the Prey (Avatism p. 318)
+Team player p. 60
+Dramatic Disheveling p. 63, because that is hilarious
+Cosmopolitan p. 57 -> Allows Culture Gifts to work on any Culture
+Sixth Sense p. 73 -> Bonus to parry and dodge when enemy has concealment bonus. This includes when you are reeling.
+---
+Sword Dancer Career Jadeclaw p. 457 -> Sword dancing has more gifts p. 474. Probably for next character?
+-->
