@@ -8,7 +8,7 @@
 > - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your bundle.
 > 	- You must be carrying your *bundle*, a sack of unspecified junk that weighs at least 1 stone.
 > 	- The item may weigh no more than 1/4 stone.
-> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* `dice: 1d4` vs 3.
+> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* (`dice: 1d4`) vs 3.
 > 		- On tie or worse, *Exhaust* this *Gift*.
 > - You may *Refresh* this *Gift* by searching through a junk pile for at least one hour.
 { #junkexpertaction}
