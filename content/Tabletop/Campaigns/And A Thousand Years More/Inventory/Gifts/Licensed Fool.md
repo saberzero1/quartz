@@ -17,6 +17,8 @@
 > 	- Insult people.
 > 	- Call out liars and cheats, not matter how influential they are.
 > 	- Point out flaws in plans that the invested cannot bring themselves to discuss.
+{ #licensedfoolcourtjester}
+
 
 > [!IMPORTANT] X (Influence) Sway the opinions of others
 > - [ ] You may exhaust this *Gift* to push influence over other folks … even after failing a roll!
@@ -24,3 +26,5 @@
 > 	- A subtle fool can advise, plant ideas in people's heads, and gain access to places that commoners aren't usually allowed.
 > - You can request to refresh your *Influence* *Gifts* once per day, at the DMs discretion.
 > 	- In this case it generally means the parties you used this *Gift* on are willing to deal with your shit again.
+{ #licensedfoolswayopinions}
+
