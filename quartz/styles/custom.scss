@@ -529,8 +529,8 @@ pre > code {
   }
 }
 
-// Hide inline tags
-a[data-slug^="tags/"].tag-link.internal.alias {
+// Hide inline tags, unless inside blockquote
+a:not(blockquote p a)[data-slug^="tags/"].tag-link.internal.alias {
   display: none;
 }
 
