@@ -11,7 +11,7 @@
 > - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]
 
 > [!SUCCESS] No *Range Penalties* for *Rally* or *Taunt*
-> - You *Rallies* and *Taunts* no longer suffer penalties for *Range*.
+> - Your *Rallies* and *Taunts* no longer suffer penalties for *Range*.
 > 	- *Scare* and *Trick* taunts still have range penalties.
 { #blatantfoolnorangepenalty}
 
