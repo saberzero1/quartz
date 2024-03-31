@@ -115,7 +115,7 @@
 ## Knowledge
 
 - ~~Insider with Cogniscenti~~
-- ~~Insider with Narre~~
+- Insider with Narre
 
 ## Stored
 
@@ -290,7 +290,7 @@
 > - As a stunt, you may *Taunt* another target. Your character insults the target, or performs rude gestures, or generally does something to the target to make them angry with you.
 > 	- You may taunt even if this *Gift* is exhausted.
 > 	- Taunting does not require you to have your mental faculties. You can *Taunt* even when *Confused* or *Enraged*.
-> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+2d4`) dice.
+> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+1d4`) dice.
 > 	- The target rolls their *Will*, *Inquiry*, and your *Body* (`dice: 1d4`) Dice.
 > 	- The target must be able to hear you.
 > 		- You cannot be *Silenced*.
@@ -308,7 +308,7 @@
 </div></div>
 
 
-## Reactionsblicu
+## Reactions
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/personality-of-choice/#personalityrollbonus" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -391,7 +391,7 @@
 > - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your bundle.
 > 	- You must be carrying your *bundle*, a sack of unspecified junk that weighs at least 1 stone.
 > 	- The item may weigh no more than 1/4 stone.
-> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* `dice: 1d4` vs 3.
+> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* (`dice: 1d4`) vs 3.
 > 		- On tie or worse, *Exhaust* this *Gift*.
 > - You may *Refresh* this *Gift* by searching through a junk pile for at least one hour.
 
