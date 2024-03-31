@@ -11,6 +11,10 @@
 > - +3 to *Dash*
 > - +9 to *Run* (+12 total to *Run*, because *Run* is based on *Dash*.)
 > - `dice: 1d12` Bonus to *Dodge* defense (but not to other defenses).
+{ #cowardafraidbonus}
 
-> [!IMPORTANT] X (Respite) Become *Afraid*
+
+> [!IMPORTANT] X (Respite) Reaction: Become *Afraid*
 > - [ ] As a reaction: you may become *Afraid* for the rest of this Scene (~5 minutes).
+{ #cowardbecomeafraid}
+
