@@ -26,7 +26,11 @@
 > 	- Negates any conditions that prevent the target from becoming *Enraged*.
 > - **Three successes or more**: The target becomes *Berserk*.
 > 	- Negates any conditions that prevent the target from becoming *Berserk*.
+{ #foolerystunttaunt}
+
 
 > [!IMPORTANT] X (Battle) Trigger: "*Scare*, *Trick*, or *Taunt Stunt*"
 > - [ ] Exhaust to Negate *Reeling*
 > 	- The *Stunt* still ends your turn, as usual, but you are not sent *Reeling*.
+{ #foolerytriggerscaretricktauntstunt}
+
