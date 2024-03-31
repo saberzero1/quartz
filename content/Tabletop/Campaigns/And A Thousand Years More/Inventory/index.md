@@ -17,7 +17,10 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Keen Ears\|Keen Ears]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Licensed Fool\|Licensed Fool]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Literacy\|Literacy]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision\|Night Vision]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice)\|Performance of (type of choice)]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Personality (of choice)\|Personality (of choice)]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Stitch in Time\|Stitch in Time]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/True Leader\|True Leader]]
 
