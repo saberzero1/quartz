@@ -12,7 +12,7 @@
 > - As a stunt, you may *Taunt* another target. Your character insults the target, or performs rude gestures, or generally does something to the target to make them angry with you.
 > 	- You may taunt even if this *Gift* is exhausted.
 > 	- Taunting does not require you to have your mental faculties. You can *Taunt* even when *Confused* or *Enraged*.
-> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+2d4`) dice.
+> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+1d4`) dice.
 > 	- The target rolls their *Will*, *Inquiry*, and your *Body* (`dice: 1d4`) Dice.
 > 	- The target must be able to hear you.
 > 		- You cannot be *Silenced*.
