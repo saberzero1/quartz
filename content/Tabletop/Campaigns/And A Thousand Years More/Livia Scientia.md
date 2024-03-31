@@ -3,14 +3,16 @@
 ---
 
 
-## Brief concept
+## Brief backstory
 
-text
-
-**Name:** Livia Scientia
-**Stage Name:** Lux
-**Career:** Jester, (Haranguer)
-**XP:** 76
+- Graceful actress from Acentum Empire.
+- Parents were press who exposed dipshit empire practices.
+- Parents got killed/abducted by dipshit empire.
+- Fled Acentum Empire and swore revenge/find out what happened to parents.
+ - **Name:** Livia 'Lux' Scientia
+ - **Stage Name:** Vulpes Domina
+ - **Career:** Jester, (Haranguer)
+ - **XP:** 76
 
 | Stats                          | Dice         |
 | ------------------------------ | ------------ |
