@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/coward/","title":"Coward"}
+{"id":"c568f296-05f7-449b-a2af-302b7129ddc7","title":"Coward","description":"You are a coward.","publish":true,"date_created":"Saturday, March 30th 2024, 10:10:46 pm","date_modified":"Sunday, March 31st 2024, 5:06:26 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/coward/","PassFrontmatter":true}
 ---
 
 
