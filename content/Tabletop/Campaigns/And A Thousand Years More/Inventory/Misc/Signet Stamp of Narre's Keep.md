@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/signet-stamp-of-narre-s-keep/","title":"Signet Stamp of Narre's Keep"}
+{"id":"88138067-da0f-4249-8400-6e1e40bd6a39","title":"Signet Stamp of Narre's Keep","publish":true,"date_created":"Thursday, March 2nd 2023, 5:37:09 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/signet-stamp-of-narre-s-keep/","PassFrontmatter":true}
 ---
 
 <!--A stamp proving authencity of Narre's Keep. Used to sign letters.-->

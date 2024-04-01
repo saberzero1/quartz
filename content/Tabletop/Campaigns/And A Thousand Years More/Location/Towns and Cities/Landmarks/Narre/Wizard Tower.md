@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/wizard-tower/","title":"Wizard Tower"}
+{"id":"1beeabf9-6c2d-45f2-a830-c1ef790e970b","title":"Wizard Tower","publish":true,"date_created":"Tuesday, February 28th 2023, 1:45:15 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/wizard-tower/","PassFrontmatter":true}
 ---
 
 

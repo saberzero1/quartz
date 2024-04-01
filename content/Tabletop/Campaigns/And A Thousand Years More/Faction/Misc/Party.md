@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/party/","title":"Party"}
+{"id":"b113a870-5f79-47a8-8c34-97b832976b33","title":"Party","publish":true,"date_created":"Monday, February 27th 2023, 10:19:16 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/party/","PassFrontmatter":true}
 ---
 
 

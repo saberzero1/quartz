@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/mages-of-narre/","title":"Mages of Narre"}
+{"id":"2d28d2ea-7ac7-4349-ad29-c37c37633a3c","title":"Mages of Narre","publish":true,"date_created":"Tuesday, February 28th 2023, 1:28:19 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/mages-of-narre/","PassFrontmatter":true}
 ---
 
 

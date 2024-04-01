@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","title":"Session 013"}
+{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 013","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
 ---
 
 

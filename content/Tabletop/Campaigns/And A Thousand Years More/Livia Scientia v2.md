@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia v2.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia-v2/","title":"Livia Scientia v2"}
+{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia v2","description":"Player Character respec proposal.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Monday, April 1st 2024, 12:19:43 am","path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia v2.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia-v2/","PassFrontmatter":true}
 ---
 
 
@@ -277,7 +277,7 @@
 
 
 > [!SUCCESS] No *Range Penalties* for *Rally* or *Taunt*
-> - You *Rallies* and *Taunts* no longer suffer penalties for *Range*.
+> - Your *Rallies* and *Taunts* no longer suffer penalties for *Range*.
 > 	- *Scare* and *Trick* taunts still have range penalties.
 
 </div></div>

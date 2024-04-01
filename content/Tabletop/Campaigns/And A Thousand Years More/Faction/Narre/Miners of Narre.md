@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/miners-of-narre/","title":"Miners of Narre"}
+{"id":"61c3d76e-b08e-4011-9e56-ec535dd21653","title":"Miners of Narre","publish":true,"date_created":"Tuesday, February 28th 2023, 1:26:59 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/miners-of-narre/","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/opeden/bandits-of-opeden/","title":"Bandits of Opeden"}
+{"id":"c5678c90-b8a2-463b-bc9e-a4a51b5fbeb8","title":"Bandits of Opeden","publish":true,"date_created":"Thursday, March 2nd 2023, 5:42:34 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/opeden/bandits-of-opeden/","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Druids of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/druids-of-narre/","title":"Druids of Narre"}
+{"id":"87388867-8092-49b5-bc59-8826b006e097","title":"Druids of Narre","publish":true,"date_created":"Thursday, March 2nd 2023, 5:53:45 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Druids of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/druids-of-narre/","PassFrontmatter":true}
 ---
 
 <!--A Circle of Druids near Narre. Some wonder about their secrets.-->

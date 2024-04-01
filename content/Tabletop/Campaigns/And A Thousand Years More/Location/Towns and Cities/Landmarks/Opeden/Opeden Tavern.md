@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/opeden-tavern/","title":"Opeden Tavern"}
+{"id":"fd914280-0ca2-4930-ad6d-b0654492458d","title":"Opeden Tavern","publish":true,"date_created":"Tuesday, February 28th 2023, 1:53:21 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/opeden-tavern/","PassFrontmatter":true}
 ---
 
 

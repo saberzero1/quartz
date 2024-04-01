@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Writings/Blog/Negotiating Well.md","permalink":"/writings/blog/negotiating-well/","title":"Negotiating Well"}
+{"id":"e302b3dc-d276-11ee-bbf3-7b1f7289f52e","title":"Negotiating Well","description":"On why and how to negatiate.","publish":true,"date_created":"Friday, February 23rd 2024, 7:10:07 pm","date_modified":"Tuesday, February 27th 2024, 12:17:55 pm","path":"Writings/Blog/Negotiating Well.md","permalink":"/writings/blog/negotiating-well/","PassFrontmatter":true}
 ---
 
 

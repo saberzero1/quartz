@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/narre-s-keep/","title":"Narre's Keep"}
+{"id":"6022c1a9-2168-4e64-9ac0-8634cffca984","title":"Narre's Keep","publish":true,"date_created":"Tuesday, February 28th 2023, 7:22:07 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/narre-s-keep/","PassFrontmatter":true}
 ---
 
 
