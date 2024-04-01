@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"index.md","permalink":"/index/","title":"Second Brain"}
+{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Saturday, March 23rd 2024, 9:31:46 pm","cssclass":"mado-heading","path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
 
 
