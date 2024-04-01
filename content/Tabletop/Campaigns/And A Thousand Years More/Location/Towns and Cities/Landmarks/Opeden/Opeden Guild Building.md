@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/opeden-guild-building/","title":"Opeden Guild Building"}
+{"id":"b50ea2ed-d8dd-473e-bc87-ebb217e561b1","title":"Opeden Guild Building","publish":true,"date_created":"Tuesday, February 28th 2023, 1:47:00 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/opeden-guild-building/","PassFrontmatter":true}
 ---
 
 
