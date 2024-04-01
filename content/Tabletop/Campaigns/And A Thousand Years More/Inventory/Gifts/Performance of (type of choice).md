@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice).md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/performance-of-type-of-choice/","title":"Performance of (type of choice)"}
+{"id":"ef3b7a2b-d014-41ff-86ef-858f65df6ad4","title":"Performance of (type of choice)","description":"Specialty bonus to entertain the masses.","publish":true,"date_created":"Sunday, March 31st 2024, 5:33:15 pm","date_modified":"Sunday, March 31st 2024, 5:40:23 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice).md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/performance-of-type-of-choice/","PassFrontmatter":true}
 ---
 
 
