@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/plantlike/punching-onion/","title":"Punching Onion"}
+{"id":"2dd71b92-e47f-44b4-8cd3-ca5db6a75f02","title":"Punching Onion","publish":true,"date_created":"Sunday, June 11th 2023, 11:47:51 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/plantlike/punching-onion/","PassFrontmatter":true}
 ---
 
 
