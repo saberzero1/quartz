@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","title":"Livia Scientia"}
+{"id":"39b5b270-8c93-4848-a520-6af3f4db299d","title":"Livia Scientia","description":"Player Character","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Saturday, March 30th 2024, 11:24:41 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
 ---
 
 
