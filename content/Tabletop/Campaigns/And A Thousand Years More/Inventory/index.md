@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","title":"Inventory"}
+{"id":"43a07b59-995f-4680-a46b-26b7fa0a1989","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Monday, May 29th 2023, 5:19:47 pm","date_modified":"Saturday, March 30th 2024, 11:24:41 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","PassFrontmatter":true}
 ---
 
 
