@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/","title":"Wildt"}
+{"id":"8ab1e45e-8058-4bd2-b189-c2d0ada2b629","title":"Wildt","publish":true,"date_created":"Monday, February 27th 2023, 10:12:47 am","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/","PassFrontmatter":true}
 ---
 
 
