@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Abandoned Windmill.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/abandoned-windmill/","title":"Abandoned Windmill"}
+{"id":"45cec8f2-7c30-4488-a27f-d3aa6f31b93f","title":"Abandoned Windmill","publish":true,"date_created":"Thursday, March 2nd 2023, 5:47:15 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Abandoned Windmill.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/abandoned-windmill/","PassFrontmatter":true}
 ---
 
 
