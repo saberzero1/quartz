@@ -1,5 +1,5 @@
 ---
-{"id":"420cb59a-90c9-4331-a0b3-69d2f10e0a28","title":"Personality (of choice)","description":"Conditional bonus to rolls.","publish":true,"date_created":"Sunday, March 31st 2024, 5:21:47 pm","date_modified":"Sunday, March 31st 2024, 5:42:11 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Personality (of choice).md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/personality-of-choice/","PassFrontmatter":true}
+{"id":"420cb59a-90c9-4331-a0b3-69d2f10e0a28","title":"Personality (of choice)","description":"Conditional bonus to rolls.","publish":true,"date_created":"Sunday, March 31st 2024, 5:21:47 pm","date_modified":"Tuesday, April 2nd 2024, 1:11:57 am","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Personality (of choice).md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/personality-of-choice/","PassFrontmatter":true}
 ---
 
 
