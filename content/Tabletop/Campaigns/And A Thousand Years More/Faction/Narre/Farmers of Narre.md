@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/farmers-of-narre/","title":"Farmers of Narre"}
+{"id":"6c60801b-bfc4-427d-aab9-cffb0c5c2578","title":"Farmers of Narre","publish":true,"date_created":"Thursday, March 2nd 2023, 5:58:03 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/farmers-of-narre/","PassFrontmatter":true}
 ---
 
 <!--The farmers working on the outskirts of Narre.-->
