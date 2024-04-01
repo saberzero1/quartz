@@ -1,7 +1,9 @@
 ---
-{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia v2","description":"Player Character respec proposal.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Monday, April 1st 2024, 12:19:43 am","path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia v2.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia-v2/","PassFrontmatter":true}
+{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia v2","description":"Player Character respec proposal.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Tuesday, April 2nd 2024, 1:10:56 am","path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia v2.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia-v2/","PassFrontmatter":true}
 ---
 
+
+![Banner-Lux-polaroid.png|300|300](../../../Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
 
 ## Brief backstory
 
@@ -191,11 +193,11 @@
 
 
 > [!INFO] When *Afraid*, You *Move* Faster and *Dodge* Better
-> When *Afraid* or *Terrified*:
-> - +1 to *Stride*
-> - +3 to *Dash*
-> - +9 to *Run* (+12 total to *Run*, because *Run* is based on *Dash*.)
-> - `dice: 1d12` Bonus to *Dodge* defense (but not to other defenses).
+> - When *Afraid* or *Terrified*:
+> 	- +1 to *Stride*
+> 	- +3 to *Dash*
+> 	- +9 to *Run* (+12 total to *Run*, because *Run* is based on *Dash*.)
+> 	- `dice: 1d12` Bonus to *Dodge* defense (but not to other defenses).
 
 </div></div>
 
