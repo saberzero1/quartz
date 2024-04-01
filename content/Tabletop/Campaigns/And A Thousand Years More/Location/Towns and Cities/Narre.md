@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/","title":"Narre"}
+{"id":"58c23317-52ce-4342-af2d-b1a376be3270","title":"Narre","publish":true,"date_created":"Monday, February 27th 2023, 10:12:40 am","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/","PassFrontmatter":true}
 ---
 
 
