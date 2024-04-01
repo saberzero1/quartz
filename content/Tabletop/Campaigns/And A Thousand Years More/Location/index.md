@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","title":"Location"}
+{"id":"6cc7c89a-ba92-41e9-b88c-81a288cae15f","title":"Location","description":"Locations of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:08:07 pm","date_modified":"Saturday, March 30th 2024, 11:24:41 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","PassFrontmatter":true}
 ---
 
 
