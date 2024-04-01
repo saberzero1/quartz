@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/keep-guards-of-narre/","title":"Keep Guards of Narre"}
+{"id":"7bfdbe6a-3c20-456f-8bed-7529550ea299","title":"Keep Guards of Narre","publish":true,"date_created":"Saturday, March 18th 2023, 10:54:20 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/keep-guards-of-narre/","PassFrontmatter":true}
 ---
 
 <!--The Guards guarding the Keep near Narre. They follow orders from the Mages of Narre.-->
