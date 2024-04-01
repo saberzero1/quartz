@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Keen Ears.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/keen-ears/","title":"Keen Ears"}
+{"id":"18d57c73-1566-46c9-b3f2-2cdcb7ad49e3","title":"Keen Ears","description":"You can hear better.","publish":true,"date_created":"Sunday, March 31st 2024, 2:59:52 pm","date_modified":"Sunday, March 31st 2024, 4:54:45 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Keen Ears.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/keen-ears/","PassFrontmatter":true}
 ---
 
 
