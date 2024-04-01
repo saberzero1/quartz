@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/","title":"Opeden"}
+{"id":"405c70b1-c9a2-4130-aed6-be073144411d","title":"Opeden","publish":true,"date_created":"Monday, February 27th 2023, 10:12:26 am","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/","PassFrontmatter":true}
 ---
 
 
