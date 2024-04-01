@@ -1,5 +1,5 @@
 ---
-{"publish":true,"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/writing-kit/","title":"Writing Kit"}
+{"id":"20c4ec49-957c-4d5a-a9e3-c998c2f75c44","title":"Writing Kit","publish":true,"date_created":"Sunday, March 5th 2023, 6:42:58 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/writing-kit/","PassFrontmatter":true}
 ---
 
 <!--My dad's writing kit I use for writing maps, letters, etc.-->
