@@ -17,5 +17,5 @@ The guards of the Keep near Narre were an elite force, trained to obey the comma
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|They]] aren't exactly guarding something." [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Leon\|Leon]] says. #Character #Faction #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|They]] aren't exactly guarding something." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] says. #Character #Faction #Event
 
