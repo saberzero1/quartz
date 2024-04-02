@@ -1,5 +1,5 @@
 ---
-{"id":"275e512a-77ca-422b-a201-931786c63517","title":"Wildt's Fair","publish":true,"date_created":"Tuesday, February 28th 2023, 1:48:11 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Wildt/Wildt's Fair.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/wildt/wildt-s-fair/","PassFrontmatter":true}
+{"id":"275e512a-77ca-422b-a201-931786c63517","title":"Wildt's Fair","publish":true,"date_created":"Tuesday, February 28th 2023, 1:48:11 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Wildt/Wildt's Fair.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/wildt/wildt-s-fair/","PassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@ A large fair held in Wildt.
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]]
 
 ## Factions
 
