@@ -1,0 +1,29 @@
+---
+{"id":"3e319c40-4232-4e60-b036-4d11a1b79500","title":"Eckart","publish":true,"date_created":"Sunday, January 15th 2023, 1:28:37 pm","date_modified":"Tuesday, April 2nd 2024, 8:14:20 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/eckart/","PassFrontmatter":true}
+---
+
+
+![Banner-Eckart-polaroid.jpg|200](../../../../../Media/IronClaw/Polaroid/Banner-Eckart-polaroid.jpg)
+
+The powerful Head Sorcerer of Narre commanded awe and respect throughout the realm. His mastery of the arcane arts was unparalleled, having attained the Cognoscenti Archmage title, allowing him to read and control the minds of others. For many years, he had been the leader of Narre until a revolutionary miner managed to stage a coup and seize power.
+
+## Description
+
+- Head Sorcerer of Narre.
+- Cognoscenti Mage.
+	- Basically Mind Reading and Control.
+- Former leader of Narre until the miner staged a coup
+
+## Mentions
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|I]] want [[{05} Others/Templates/Resources/Tabletop/Party\|you]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|clear a field of Onions]] near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Farmfields\|outskirts of Narre]]. [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|They]]…pack a punch. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|Hildegart]] will give you the details. Report to me when you are done." Eckart turns around and walks upstairs. #Character #Faction #Quest #Location #Bestiary #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|He]] continues "So I want you to do [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|something else]] for me first." He turns his gaze to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] "And rest assured, you will be well compensated for your endeavors." #Character #Quest #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]] laughs. "All in due time my dear, all in due time." He returns to his previous, more serious demeanor. "As [[{05} Others/Templates/Resources/Tabletop/Party\|you]] may have noticed, we have a little [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Sky Moss]] related problem. I want you to solve that, but first I need to know if you're up for the task." #Character #Faction #Quest #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] look at [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|the figure]] with surprised eyes. "How did you do that?" #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] interrupts [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|me]]. "You're [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|quests]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge level]]…[[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|mostly]]" as he gives [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: The figure nods. "I'm [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]], the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head wizard]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]." #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wave. "Hi. You must be [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]]." #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: A few minutes later a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|robed figure]] arrives from upstairs. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]] will be here in a second." #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Ekhart]] is not available for visits. Now please leave." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|gorilla]] states as she looks down upon [[{05} Others/Templates/Resources/Tabletop/Party\|us]]. #Character #Faction #Event
+

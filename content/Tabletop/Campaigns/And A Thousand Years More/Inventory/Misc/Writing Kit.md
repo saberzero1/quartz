@@ -12,5 +12,5 @@ My father's writing kit is like a portal to a world of imagination and possibili
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories. #Character #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories. #Character #Item #Event
 

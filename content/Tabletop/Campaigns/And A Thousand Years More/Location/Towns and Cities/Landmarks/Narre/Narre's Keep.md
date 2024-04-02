@@ -16,7 +16,7 @@ A well-guarded keep near Narre. It imprisons many Miners.
 
 ## Characters
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Imtrud\|Imtrud]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]]
 
 ## Mentions
 

@@ -11,12 +11,12 @@ A mysterious cabal of mages had once held dominion over the lands of Narre, thei
 
 ## Members
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Eckart\|Eckart]] (Leader)
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Hildegart\|Hildegart]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] (Leader)
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|Hildegart]]
 - Unnamed Mage Students
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: The figure nods. "I'm [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Eckart\|Master Eckart]], the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head wizard]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]." #Character #Faction #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|Aleksi]] grabs his lute "[[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]] is a place of divide. Between [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|menacing Mages]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|many Miners]]. Rich and poor living under one name but divided by the north and the south." #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: The figure nods. "I'm [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]], the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head wizard]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]." #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] grabs his lute "[[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]] is a place of divide. Between [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|menacing Mages]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|many Miners]]. Rich and poor living under one name but divided by the north and the south." #Character #Faction #Location #Event
 
