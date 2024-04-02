@@ -11,10 +11,10 @@ A ragtag band of mineworkers, seeking justice and freedom, staged a daring coup 
 
 ## Members
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Imtrud\|Imtrud]] (Leader)
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]] (Leader)
 - Unnamed miners
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|Aleksi]] grabs his lute "[[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]] is a place of divide. Between [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|menacing Mages]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|many Miners]]. Rich and poor living under one name but divided by the north and the south." #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] grabs his lute "[[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]] is a place of divide. Between [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|menacing Mages]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|many Miners]]. Rich and poor living under one name but divided by the north and the south." #Character #Faction #Location #Event
 
