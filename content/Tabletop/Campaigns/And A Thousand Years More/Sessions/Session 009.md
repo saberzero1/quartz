@@ -1,12 +1,12 @@
 ---
-{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
+{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] }
 
-- We spend two days traveling to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]. It's the first of Rowan. #Event #Location
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]] is a walled-off city with a river flowing through. #Location
+- We spend two days traveling to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]]. It's the first of Rowan. #Event #Location
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]] is a walled-off city with a river flowing through. #Location
 - We come across some rough-looking mercenaries near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Wildt/Wildt's Gate\|entrance]]. They ask us for identification. #Event #Location
 - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Damjan\|Damjan]] introduces himself by showing his [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
 - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Norrix\|Norrix]] also shows his [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
