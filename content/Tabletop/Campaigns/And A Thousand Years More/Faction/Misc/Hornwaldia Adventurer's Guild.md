@@ -11,17 +11,17 @@ Deep in the heart of Hornwaldia, a guild of adventurers has been formed. Here, b
 
 ## Members
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Arnoud\|Arnoud]]
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Damjan\|Damjan]]
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|Lux]]
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Norrix\|Norrix]]
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Poppins\|Poppins]]
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Ravahn\|Ravahn]]
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] (Former, Deceased)
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Poppins\|Poppins]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] (Former, Deceased)
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Eckart\|Eckart]] interrupts [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|me]]. "You're [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Clear the Sky Moss\|quests]], [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|Red badge level]]…[[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Green Level Guild Badge\|mostly]]" as he gives [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] report the [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Gourdlings\|Defeat the Gourdlings]] to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Guild]]. The next day they promote us to the [[{06} Spaces/{03} IronClaw/{03} Projects/{02} Item/{01} Inventory/Red Level Guild Badge\|Red Level Guild Badge]]. #Faction #Quest #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] interrupts [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|me]]. "You're [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|quests]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge level]]…[[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|mostly]]" as he gives [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] report the [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|Defeat the Gourdlings]] to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Guild]]. The next day they promote us to the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Faction #Quest #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] hand over the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|bandits]] to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|guild]]. #Faction #Event
 
