@@ -11,7 +11,7 @@ The ruins of a once-mighty band of paladins lay scattered across the land, a gri
 
 ## Members
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Arnoud\|Arnoud]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]]
 - Unnamed Paladins (Missing)
 
 ## Mentions
