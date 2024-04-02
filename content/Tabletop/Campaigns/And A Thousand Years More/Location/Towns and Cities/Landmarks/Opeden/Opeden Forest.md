@@ -16,10 +16,10 @@ The forest between Opeden and Narre.
 
 ## Characters
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Steven\|Steven]]
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Leon\|Leon]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]]
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: Suddenly [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] barges in. "Guys, [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Steven\|Steven]] is sneaking out of town towards the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Forest\|woods]]." #Character #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: Suddenly [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] barges in. "Guys, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] is sneaking out of town towards the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Forest\|woods]]." #Character #Location #Event
 
