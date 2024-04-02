@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "🌷 Emile Bangma",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "emilebangma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
