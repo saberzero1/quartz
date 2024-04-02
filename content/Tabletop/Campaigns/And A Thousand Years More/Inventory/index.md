@@ -1,13 +1,13 @@
 ---
-{"id":"43a07b59-995f-4680-a46b-26b7fa0a1989","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Monday, May 29th 2023, 5:19:47 pm","date_modified":"Saturday, March 30th 2024, 11:24:41 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","PassFrontmatter":true}
+{"id":"43a07b59-995f-4680-a46b-26b7fa0a1989","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Monday, May 29th 2023, 5:19:47 pm","date_modified":"Tuesday, April 2nd 2024, 6:11:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","PassFrontmatter":true}
 ---
 
 
-- Equipment: 
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/index\|Equipment]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
 
-- Gifts: 
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/index\|Gifts]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool\|Blatant Fool]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense\|Danger Sense]]
@@ -24,7 +24,7 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Stitch in Time\|Stitch in Time]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/True Leader\|True Leader]]
 
-- Misc: 
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/index\|Misc]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]
 

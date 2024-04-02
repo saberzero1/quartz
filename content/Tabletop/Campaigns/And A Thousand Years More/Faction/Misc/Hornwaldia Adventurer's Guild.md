@@ -1,5 +1,5 @@
 ---
-{"id":"e50f2f47-a88c-4399-8850-46fd03100567","title":"Hornwaldia Adventurer's Guild","publish":true,"date_created":"Thursday, March 2nd 2023, 6:26:31 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/hornwaldia-adventurer-s-guild/","PassFrontmatter":true}
+{"id":"e50f2f47-a88c-4399-8850-46fd03100567","title":"Hornwaldia Adventurer's Guild","publish":true,"date_created":"Thursday, March 2nd 2023, 6:26:31 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/hornwaldia-adventurer-s-guild/","PassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@ Deep in the heart of Hornwaldia, a guild of adventurers has been formed. Here, b
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden]]
 
 ## Members
 

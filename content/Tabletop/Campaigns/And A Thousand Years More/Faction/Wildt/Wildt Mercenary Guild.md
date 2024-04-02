@@ -1,5 +1,5 @@
 ---
-{"title":"Wildt Apothecary Guild","publish":true,"date_created":"Sunday, July 2nd 2023, 2:33:10 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/wildt/wildt-mercenary-guild/","PassFrontmatter":true}
+{"title":"Wildt Apothecary Guild","publish":true,"date_created":"Sunday, July 2nd 2023, 2:33:10 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/wildt/wildt-mercenary-guild/","PassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@ Gottliejb
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]]
 
 ## Members
 
