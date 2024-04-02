@@ -1,5 +1,5 @@
 ---
-{"id":"1a354618-d478-44c6-8f11-8b660e0c123c","title":"Town Ruins","publish":true,"date_created":"Thursday, March 2nd 2023, 5:49:18 pm","date_modified":"Saturday, March 30th 2024, 11:24:43 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Town Ruins.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/town-ruins/","PassFrontmatter":true}
+{"id":"1a354618-d478-44c6-8f11-8b660e0c123c","title":"Town Ruins","publish":true,"date_created":"Thursday, March 2nd 2023, 5:49:18 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Town Ruins.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/town-ruins/","PassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@ Ruins of a town. It appears it was destroyed by unholy magic.
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden]]
 
 ## Factions
 
