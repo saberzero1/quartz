@@ -1,11 +1,11 @@
 ---
-{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, March 30th 2024, 11:24:41 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
+{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:26 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] }
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden]]. #Faction #Location #Event
 - [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{03} Graveyard/Morale\|Morale]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|tavern]] as the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|rest of the party]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|guild building]]. #Character #Faction #Location #Event
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] wait until the [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] is done with his story and hand him a beer. The [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] introduces himself as [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|Aleksi]], a story collector. [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|He]] informs me about a [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Character #Quest #Location #Event
+- [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Lux\|I]] wait until the [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] is done with his story and hand him a beer. The [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|bard]] introduces himself as [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|Aleksi]], a story collector. [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{02} NPC/Aleksi\|He]] informs me about a [[{06} Spaces/{03} IronClaw/{03} Projects/{03} Quest/{02} Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]. #Character #Quest #Location #Event
 - I look back to the ring to see how the others are doing. [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Norrix\|Norrix]] seems to have defeated the gorilla spectacularly. Meanwhile [[{06} Spaces/{03} IronClaw/{02} Areas/{01} Characters/{01} Party/Damjan\|Damjan]] is counting his returns on the bet. #Character #Event
 
 ---
