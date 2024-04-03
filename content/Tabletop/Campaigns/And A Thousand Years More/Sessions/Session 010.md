@@ -1,9 +1,14 @@
 ---
-{"id":"fe73ec5f-155f-43bc-bff2-b52b29b576d9","title":"Session 010","description":"Session 10","publish":true,"date_created":"Saturday, July 15th 2023, 11:54:51 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-010/","PassFrontmatter":true}
+{"id":"fe73ec5f-155f-43bc-bff2-b52b29b576d9","title":"Session 010","description":"Session 10","publish":true,"date_created":"Saturday, July 15th 2023, 11:54:51 am","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-010/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] }
+
+> [!SUMMARY] Session 10 keypoints
+> - Nothing.
+{ #Session010summary}
+
 
 - The next day rolls around.
 - I forge a letter during the night and change into my adventuring gear..

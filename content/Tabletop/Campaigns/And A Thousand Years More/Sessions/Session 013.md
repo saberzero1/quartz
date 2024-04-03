@@ -1,9 +1,14 @@
 ---
-{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 013","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
+{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 13","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }
+
+> [!SUMMARY] Session 13 keypoints
+> - Nothing.
+{ #Session013summary}
+
 
  - The party walks into the main square of Hohrinzem.
  - The main square is attached to the Adventurers Guild, The Great Vault, Tavern, and Barber.

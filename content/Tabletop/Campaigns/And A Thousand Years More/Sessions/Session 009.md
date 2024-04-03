@@ -1,9 +1,14 @@
 ---
-{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
+{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","description":"Session 9","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] }
+
+> [!SUMMARY] Session 9 keypoints
+> - Nothing.
+{ #Session009summary}
+
 
 - We spend two days traveling to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]]. It's the first of Rowan. #Event #Location
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]] is a walled-off city with a river flowing through. #Location

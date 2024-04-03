@@ -1,9 +1,14 @@
 ---
-{"id":"a6c4c4ba-b252-42d8-9225-2d48aad4e819","title":"Session 005","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-005/","PassFrontmatter":true}
+{"id":"a6c4c4ba-b252-42d8-9225-2d48aad4e819","title":"Session 005","description":"Session 5","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-005/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]] }
+
+> [!SUMMARY] Session 5 keypoints
+> - Nothing.
+{ #Session005summary}
+
 
 During the next two weeks, we spent time preparing, trying to avoid the mages as much as possible to avoid foiling the plan.
 

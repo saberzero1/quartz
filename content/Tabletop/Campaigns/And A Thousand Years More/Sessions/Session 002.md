@@ -1,9 +1,14 @@
 ---
-{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:26 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
+{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }
+
+> [!SUMMARY] Session 2 keypoints
+> - Nothing.
+{ #Session002summary}
+
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] enter the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|tavern]]. A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] sits at a table, looking a bit desperate. #Character #Faction #Location #Event
 - I walk up to the figure. "Hi, I'm Lux. How are you?"

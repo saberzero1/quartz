@@ -1,11 +1,20 @@
 ---
-{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:26 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
+{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","description":"Session 1","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] }
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden]]. #Faction #Location #Event
+> [!SUMMARY] Session 1 keypoints
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrived at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] wrestled a gorilla and won.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] joined the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|Party]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] instructed us on guild etiquette.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] accepted a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest to deal with some bandits]] from [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]].
+{ #Session001summary}
+
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|tavern]] as the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|rest of the party]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|guild building]]. #Character #Faction #Location #Event
 
 ---
@@ -22,7 +31,7 @@
 
 ---
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wait until the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] is done with his story and hand him a beer. The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] introduces himself as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]], a story collector. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|He]] informs me about a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]. #Character #Quest #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wait until the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] is done with his story and hand him a beer. The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] introduces himself as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]], a story collector. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|He]] informs me about a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Character #Quest #Location #Event
 - I look back to the ring to see how the others are doing. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] seems to have defeated the gorilla spectacularly. Meanwhile [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] is counting his returns on the bet. #Character #Event
 
 ---
