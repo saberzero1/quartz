@@ -1,9 +1,14 @@
 ---
-{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 011","description":"Session 11","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-011/","PassFrontmatter":true}
+{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 011","description":"Session 11","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-011/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] }
+
+> [!SUMMARY] Session 11 keypoints
+> - Nothing.
+{ #Session011summary}
+
 
 - The next day arrives.
 - People are busy with preparations for the square arena for the climax of the festival, set to happen this afternoon.
