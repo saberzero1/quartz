@@ -1,9 +1,14 @@
 ---
-{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 011","description":"Session 11","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-012/","PassFrontmatter":true}
+{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 012","description":"Session 12","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-012/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] }
+
+> [!SUMMARY] Session 12 keypoints
+> - Nothing.
+{ #Session012summary}
+
 
 - The announcer announces that Norrix will be sacrificed tomorrow during the day of the Blood God.
 - Damjan notices that there is no blood on him, despite his injuries. It is almost as if the floor absorbed all his blood.
