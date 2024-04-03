@@ -1,9 +1,14 @@
 ---
-{"id":"22398288-892b-45ae-b38b-599e31544d91","title":"Session 004","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-004/","PassFrontmatter":true}
+{"id":"22398288-892b-45ae-b38b-599e31544d91","title":"Session 004","description":"Session 4","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-004/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] }
+
+> [!SUMMARY] Session 4 keypoints
+> - Nothing.
+{ #Session004summary}
+
 
 "Lets clear the other field now." Norrix says as he points his mace towards the field.
 
