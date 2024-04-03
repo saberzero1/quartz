@@ -1,9 +1,14 @@
 ---
-{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
+{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","description":"Session 3","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] }
+
+> [!SUMMARY] Session 3 keypoints
+> - Nothing.
+{ #Session003summary}
+
 
 - [[{05} Others/Templates/Resources/Tabletop/Party\|We]] head over to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|Guild building]]. #Faction #Location #Event
 - "Names and reasons for visit please" the secretary states as we enter.
