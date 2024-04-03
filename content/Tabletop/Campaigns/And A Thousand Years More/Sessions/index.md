@@ -1,28 +1,102 @@
 ---
-{"id":"5707fe38-4e77-4579-9aaf-2c1e4581f6d9","title":"Sessions","description":"Sessions overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:46:51 pm","date_modified":"Tuesday, April 2nd 2024, 6:56:16 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/index/","PassFrontmatter":true}
+{"id":"5707fe38-4e77-4579-9aaf-2c1e4581f6d9","title":"Sessions","description":"Sessions overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:46:51 pm","date_modified":"Wednesday, April 3rd 2024, 10:21:33 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/index/","PassFrontmatter":true}
 ---
 
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]]
+<p><span><span alt="Session 016 > session016summary" src="Session 016#^session016summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 16 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 015 > session015summary" src="Session 015#^session015summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 15 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 014 > session014summary" src="Session 014#^session014summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 14 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 013 > session013summary" src="Session 013#^session013summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 13 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 012 > session012summary" src="Session 012#^session012summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 12 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 011 > session011summary" src="Session 011#^session011summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 11 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 010 > session010summary" src="Session 010#^session010summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 10 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 009 > session009summary" src="Session 009#^session009summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 9 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 008 > session008summary" src="Session 008#^session008summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 8 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 007 > session007summary" src="Session 007#^session007summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 7 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 006 > session006summary" src="Session 006#^session006summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 6 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 005 > session005summary" src="Session 005#^session005summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 5 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 004 > session004summary" src="Session 004#^session004summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 4 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 003 > session003summary" src="Session 003#^session003summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 3 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 002 > session002summary" src="Session 002#^session002summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 2 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 001 > session001summary" src="Session 001#^session001summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 1 keypoints</div></div><div class="callout-content">
+<ul>
+<li><a data-tooltip-position="top" aria-label="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" data-href="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" href="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" class="internal-link" target="_blank" rel="noopener">We</a> arrived at <a data-href="Opeden" href="Opeden" class="internal-link" target="_blank" rel="noopener">Opeden</a>.</li>
+<li><a data-href="Norrix" href="Norrix" class="internal-link" target="_blank" rel="noopener">Norrix</a> wrestled a gorilla and won.</li>
+<li><a data-href="Aleksi" href="Aleksi" class="internal-link" target="_blank" rel="noopener">Aleksi</a> joined the <a data-tooltip-position="top" aria-label="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" data-href="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" href="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" class="internal-link" target="_blank" rel="noopener">Party</a>.</li>
+<li><a data-href="Arnoud" href="Arnoud" class="internal-link" target="_blank" rel="noopener">Arnoud</a> instructed us on guild etiquette.</li>
+<li><a data-tooltip-position="top" aria-label="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" data-href="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" href="Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party" class="internal-link" target="_blank" rel="noopener">We</a> accepted a <a data-tooltip-position="top" aria-label="Defeat the Bandits" data-href="Defeat the Bandits" href="Defeat the Bandits" class="internal-link" target="_blank" rel="noopener">quest to deal with some bandits</a> from <a data-href="Leon" href="Leon" class="internal-link" target="_blank" rel="noopener">Leon</a>.</li>
+</ul>
+</div></div></div></span></span></p><p><span><span alt="Session 000 > session000summary" src="Session 000#^session000summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 0 keypoints</div></div><div class="callout-content">
+<ul>
+<li>Nothing.</li>
+</ul>
+</div></div></div></span></span></p>
+
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]]
 
 
-## Event Log
+<!--## Event Log
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: Rumors quickly spread around the area. #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] climbs to the window that [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]] in sleeping on, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|he]] makes a lot of noise, throws the sword into the room, heads back the party and explains the preceding events. #Character #Location #Event
@@ -125,7 +199,7 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] meet [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|tavern]]. #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] steals a quest from the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|guild]]. #Item #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: I look back to the ring to see how the others are doing. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] seems to have defeated the gorilla spectacularly. Meanwhile [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] is counting his returns on the bet. #Character #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wait until the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] is done with his story and hand him a beer. The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] introduces himself as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]], a story collector. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|He]] informs me about a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]. #Character #Quest #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wait until the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] is done with his story and hand him a beer. The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] introduces himself as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]], a story collector. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|He]] informs me about a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Character #Quest #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] order two beers and take them to the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] while [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] is scribbling [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|something]] with his makeup. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: "Did you get in?" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] asks. "No," [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] respond. "We need [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|a red badge]]." #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] see a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] in the corner and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] at the bar. I walk up to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]]. #Character #Event
@@ -136,5 +210,6 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter\|gorilla]] wants to see our [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|badges]] before he allows entrance. #Item #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: As [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|we]] approach the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|guild building]] entrance, we are stopped by two guards: A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter\|gorilla]] and a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|monkey]]. #Location #Character #Faction #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|tavern]] as the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|rest of the party]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|guild building]]. #Character #Faction #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden]]. #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. #Faction #Location #Event
 
+-->
