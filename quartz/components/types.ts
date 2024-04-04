@@ -27,3 +27,31 @@ export type QuartzComponent = ComponentType<QuartzComponentProps> & {
 export type QuartzComponentConstructor<Options extends object | undefined = undefined> = (
   opts: Options,
 ) => QuartzComponent
+
+export type Direction = "top" | "right" | "left" | "bottom"
+export type MarkerType = "none" | "arrow"
+
+export interface CanvasEdge {
+  id: string
+  fromNode: string
+  fromSide?: Direction
+  fromEnd?: MarkerType
+  toNode: string
+  toSide?: Direction
+  toEnd?: MarkerType
+  color?: string
+  label?: string
+}
+
+export interface CanvasNode {
+  id: string
+  type: string
+  data: { label: string; content: string }
+  position: { x: number; y: number }
+  dimensions: { width: number; height: number }
+}
+
+export interface CanvasContent {
+  edges: CanvasEdge[]
+  initialNodes: CanvasNode[]
+}
