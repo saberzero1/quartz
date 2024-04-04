@@ -198,7 +198,7 @@ export default ((userOpts?: Partial<Options>) => {
     fileData,
     children,
   }: QuartzComponentProps) => {
-    return RenderCanvas({ content: App() })
+    return App()
   }
 
   Canvas.css = canvasStyle
@@ -206,7 +206,7 @@ export default ((userOpts?: Partial<Options>) => {
   return Canvas
 }) satisfies QuartzComponentConstructor
 
-function App() {
+export function App() {
   const mockEdges: CanvasEdge[] = [
     {
       id: "edge1",
@@ -319,6 +319,45 @@ function App() {
     initialNodes: mockInitialNodes,
   }
 
-  //return <RenderCanvas content={mockCanvasContent} />;
-  return mockCanvasContent
+  return <RenderCanvas content={mockCanvasContent} />
+  //return mockCanvasContent
+}
+
+export function parseCanvas(canvasContent: string) {
+  const input = JSON.parse(canvasContent)
+  let resultNodes: CanvasNode[] = []
+  let resultEdges: CanvasEdge[] = []
+
+  //@ts-ignore
+  input["nodes"].forEach((node) =>
+    resultNodes.push({
+      id: node.id,
+      type: node.type,
+      data: { label: node.type, content: node.text },
+      position: { x: node.x, y: node.y },
+      dimensions: { width: node.width, height: node.height },
+    } as CanvasNode),
+  )
+
+  //@ts-ignore
+  input["edges"].forEach((edge) =>
+    resultEdges.push({
+      id: edge.id,
+      fromNode: edge.fromNode,
+      fromSide: edge.fromSide ?? undefined,
+      fromEnd: edge.fromEnd ?? undefined,
+      toNode: edge.toNode,
+      toSide: edge.toSide ?? undefined,
+      toEnd: edge.toEnd ?? undefined,
+      color: edge.color ?? undefined,
+      label: edge.label ?? undefined,
+    }),
+  )
+
+  const canvasResult: CanvasContent = {
+    edges: resultEdges,
+    initialNodes: resultNodes,
+  }
+
+  return <RenderCanvas content={canvasResult} />
 }

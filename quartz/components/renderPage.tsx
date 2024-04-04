@@ -2,8 +2,10 @@ import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
+import { fromHtml } from "hast-util-from-html"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { clone, FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import { RenderCanvas, App, parseCanvas } from "./Canvas"
 import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent, RootContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
@@ -63,10 +65,19 @@ export function renderPage(
   // for the file cached in contentMap in build.ts
   let canvasRoot = clone(componentData.tree) as Root
   //console.log("before", canvasRoot)
-  canvasRoot.children =
-    // @ts-ignore
-    componentData.fileData.canvas?.children[0]?.children[1]?.children ?? canvasRoot.children
-  const root = canvasRoot
+  
+  let markdownRoot = clone(componentData.tree) as Root
+
+  console.log(JSON.parse(componentData.fileData.canvas ?? "{}"))
+
+  //let canvasRootValue = fromHtml(render(parseCanvas(componentData.fileData.canvas))) as Root
+
+  if (componentData.fileData.canvas !== undefined && componentData.fileData.canvas !== null) {
+    const rootCanvas = fromHtml(render(parseCanvas(componentData.fileData.canvas))) as Root
+    canvasRoot.children = rootCanvas.children
+  }
+  
+  const root = canvasRoot ?? markdownRoot.children
   //console.log("after", root)
 
   // process transcludes in componentData

@@ -8,8 +8,6 @@ import { Root as HTMLRoot, RootContent } from "hast"
 import { toString } from "hast-util-to-string"
 import { escapeHTML } from "../../util/escape"
 import * as d3 from "d3"
-import json2html from "node-json2html"
-const { render, component } = json2html
 
 export interface Options {
   enableCanvas: boolean
@@ -18,53 +16,6 @@ export interface Options {
 const defaultOptions: Options = {
   enableCanvas: true,
 }
-
-// @ts-nocheck
-const canvasTemplate = {
-  main: {
-    "<>": "div",
-    style: "position: absolute;left:50%;top:50%;",
-    class: "canvas canvas-container",
-    html: [
-      {
-        "{}": function () {
-          return this.nodes
-        },
-        html: function (obj, index) {
-          console.log(obj.type)
-          if (obj.type === "text") {
-            return render(obj as JSON, canvasTemplate.text_nodes)
-          }
-          else if (obj.type === "") {
-            return render(obj as JSON, canvasTemplate.text_nodes)
-          }
-          else {
-            return render(obj as JSON, canvasTemplate.default_nodes)
-          }
-        },
-      },
-    ],
-  },
-
-  text_nodes: {
-    "<>": "div",
-    html: "${text}",
-    class: "canvas canvas-node canvas-text-node",
-    id: "${id}",
-    style: "position: relative; top: ${y}px; left: ${x}px; width: ${width}px; height: ${height}px;",
-  },
-
-  default_nodes: {
-    "<>": "div",
-    html: "${text}",
-    class: "canvas canvas-node",
-    id: "${id}",
-    style: "position: relative; top: ${y}px; left: ${x}px; width: ${width}px; height: ${height}px;",
-  },
-
-  nodes: { "<>": "div", id: "${id}", html: "${text}", class: "node" },
-}
-// @ts-check
 
 export const Canvas: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
@@ -98,7 +49,7 @@ export const Canvas: QuartzTransformerPlugin<Partial<Options> | undefined> = (us
               }
             }
             if (isCanvas(canvas)) {
-              file.data.canvas = fromHtml(render(JSON.parse(canvas), canvasTemplate.main))
+              file.data.canvas = canvas
             }
             else {
               file.data.canvas = null
@@ -124,6 +75,6 @@ function isCanvas(jsonString: string): boolean {
 
 declare module "vfile" {
   interface DataMap {
-    canvas: HTMLRoot | null
+    canvas: string | null
   }
 }
