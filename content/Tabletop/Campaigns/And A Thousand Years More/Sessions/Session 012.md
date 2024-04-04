@@ -1,5 +1,5 @@
 ---
-{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 012","description":"Session 12","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-012/","PassFrontmatter":true}
+{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 012","description":"Session 12","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Thursday, April 4th 2024, 11:52:07 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-012/","PassFrontmatter":true}
 ---
 
 
@@ -43,4 +43,5 @@
 - We exit Wildt using a ferry and head to Hohrinzen. We arrive 5 hours later. The docker seems depressed. It is a small town with an Adventure Guild, Barber, Tavern, and a Great Vault.
 - **(+3 xp)**
 - 7 days till Hornbach.
+
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] }
