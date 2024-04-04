@@ -73,7 +73,7 @@
 </ul>
 </div></div></div></span></div><p></p></span></div><div class="transclusion internal-embed is-loaded"><span><p><a aria-label="Open link" href="/tabletop/campaigns/and-a-thousand-years-more/sessions/session 000/#session000summary" class="markdown-embed-link" target="_blank" rel="noopener"><svg class="svg-icon lucide-link" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></p><div class="markdown-embed"><span alt="Session 000 overview" src="Session 000#^session000summary" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Session 0 keypoints</div></div><div class="callout-content">
 <ul>
-<li>Nothing.</li>
+<li>Campaign preparations.</li>
 </ul>
 </div></div></div></span></div><p></p></span></div>
 
