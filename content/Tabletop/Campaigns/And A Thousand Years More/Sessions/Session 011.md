@@ -1,5 +1,5 @@
 ---
-{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 011","description":"Session 11","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-011/","PassFrontmatter":true}
+{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 011","description":"Session 11","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Thursday, April 4th 2024, 11:52:07 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-011/","PassFrontmatter":true}
 ---
 
 
@@ -42,4 +42,5 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] strikes down [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]], winning the match.
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]] notice that the ground absorbs all the blood from [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]].
 - After the fight, druids walk up and grab [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]. They shout "Time to sacrifice the winner to the Blood God!"
+
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] }

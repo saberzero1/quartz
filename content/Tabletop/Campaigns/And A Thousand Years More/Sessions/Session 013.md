@@ -1,5 +1,5 @@
 ---
-{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 13","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
+{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 13","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Thursday, April 4th 2024, 11:52:07 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
 ---
 
 
@@ -79,4 +79,5 @@
 	 - Simon turns out to be innocent. I hand him the 4 Denari I found earlier. He seems happy with the (for him large sum of) money.
 	 - The previously falsely convicted Porcupine is released.
  - End of session **(+5xp)**
+
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }
