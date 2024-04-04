@@ -1,9 +1,9 @@
 ---
-{"id":"b94f408f-921e-4a43-bf65-f2aac592bb22","title":"Session 016","description":"Session 16","publish":true,"date_created":"Sunday, March 17th 2024, 1:49:18 pm","date_modified":"Thursday, April 4th 2024, 11:50:26 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-016/","PassFrontmatter":true}
+{"id":"b94f408f-921e-4a43-bf65-f2aac592bb22","title":"Session 016","description":"Session 16","publish":true,"date_created":"Sunday, March 17th 2024, 1:49:18 pm","date_modified":"Friday, April 5th 2024, 12:02:05 am","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-016/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|index]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 017\|Session 017]] }
 
 > [!SUMMARY] Session 16 keypoints
 > - Nothing.
@@ -119,4 +119,4 @@
 	- Letter of recommendation (akabanehkenta) (written in songeez)
 - **(+1 xp(+2 xp session) (+1 xp bonus))**
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|index]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 017\|Session 017]] }
