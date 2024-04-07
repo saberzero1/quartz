@@ -1,5 +1,5 @@
 ---
-{"id":"5707fe38-4e77-4579-9aaf-2c1e4581f6d9","title":"Sessions","description":"Sessions overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:46:51 pm","date_modified":"Sunday, April 7th 2024, 12:22:09 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/index/","PassFrontmatter":true}
+{"id":"5707fe38-4e77-4579-9aaf-2c1e4581f6d9","title":"Sessions","description":"Sessions overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:46:51 pm","date_modified":"Sunday, April 7th 2024, 12:41:03 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/index/","PassFrontmatter":true}
 ---
 
 
