@@ -5,10 +5,10 @@
 
 A town divided in two by a river. The northern part is mostly wealthy and full of mages, while the southern part is poor and mostly consists of mining workforce.
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Druid Circle\|Druid Circle]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Farmfields\|Narre's Farmfields]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Narre's Keep]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Druid Circle\|Druid Circle]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower\|Wizard Tower]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Narre's Keep]]
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/index\|Narre's Factions]]: 
