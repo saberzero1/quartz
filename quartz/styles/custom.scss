@@ -467,12 +467,12 @@ body::before {
 
   div.header-container > header {
     margin-left: 0;
-    width: calc(100vw - 34px) !important;
+    width: calc(100vw - 32px) !important;
   }
 
   div.header-container {
     margin-left: -36px;
-    width: calc(100vw - 34px) !important;
+    width: calc(100vw - 32px) !important;
   }
 }
 
@@ -504,7 +504,7 @@ header,
   margin-bottom: 0;
   margin-right: 0;
   position: fixed;
-  width: calc($pageWidth + 72px + 2px);
+  width: calc($pageWidth + 72px);
   background-color: var(--background-secondary);
   display: flex;
 
