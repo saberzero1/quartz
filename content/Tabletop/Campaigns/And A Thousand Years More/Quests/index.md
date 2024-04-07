@@ -19,9 +19,9 @@
 
 ## System
 
-- [ ] Find out where Eckart is hiding. #Quest
 - [ ] Find out what happened to my parents. #Quest
 - [ ] Get the people responsible punished. #Quest
+- [ ] Find out where Eckart is hiding. #Quest
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|I]] want [[{05} Others/Templates/Resources/Tabletop/Party\|you]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|clear a field of Onions]] near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Farmfields\|outskirts of Narre]]. [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|They]]…pack a punch. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|Hildegart]] will give you the details. Report to me when you are done." Eckart turns around and walks upstairs. #Character #Faction #Quest #Location #Bestiary #Event
