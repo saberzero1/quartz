@@ -1,5 +1,5 @@
 ---
-{"id":"5707fe38-4e77-4579-9aaf-2c1e4581f6d9","title":"Sessions","description":"Sessions overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:46:51 pm","date_modified":"Thursday, April 4th 2024, 11:49:01 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/index/","PassFrontmatter":true}
+{"id":"5707fe38-4e77-4579-9aaf-2c1e4581f6d9","title":"Sessions","description":"Sessions overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:46:51 pm","date_modified":"Sunday, April 7th 2024, 12:22:09 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/index/","PassFrontmatter":true}
 ---
 
 
@@ -25,9 +25,7 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]]
 
 
--->
-
-<!--## Event Log
+## Event Log
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: Rumors quickly spread around the area. #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] climbs to the window that [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]] in sleeping on, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|he]] makes a lot of noise, throws the sword into the room, heads back the party and explains the preceding events. #Character #Location #Event
