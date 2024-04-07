@@ -1,5 +1,5 @@
 ---
-{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Tuesday, April 2nd 2024, 8:14:20 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
+{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
 ---
 
 

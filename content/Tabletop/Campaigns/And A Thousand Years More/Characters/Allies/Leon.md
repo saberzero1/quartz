@@ -1,5 +1,5 @@
 ---
-{"id":"2e158c9f-c353-419c-9942-4fc238ba9fb8","title":"Leon","publish":true,"date_created":"Sunday, January 15th 2023, 1:29:04 pm","date_modified":"Tuesday, April 2nd 2024, 8:14:20 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/leon/","PassFrontmatter":true}
+{"id":"2e158c9f-c353-419c-9942-4fc238ba9fb8","title":"Leon","publish":true,"date_created":"Sunday, January 15th 2023, 1:29:04 pm","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/leon/","PassFrontmatter":true}
 ---
 
 

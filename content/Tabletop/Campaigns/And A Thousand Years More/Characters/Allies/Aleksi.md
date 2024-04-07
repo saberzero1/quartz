@@ -1,5 +1,5 @@
 ---
-{"id":"fc2b8797-65e3-41c1-add0-25ee2c542380","title":"Aleksi","publish":true,"date_created":"Sunday, January 15th 2023, 1:28:21 pm","date_modified":"Tuesday, April 2nd 2024, 8:14:20 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/aleksi/","PassFrontmatter":true}
+{"id":"fc2b8797-65e3-41c1-add0-25ee2c542380","title":"Aleksi","publish":true,"date_created":"Sunday, January 15th 2023, 1:28:21 pm","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/aleksi/","PassFrontmatter":true}
 ---
 
 

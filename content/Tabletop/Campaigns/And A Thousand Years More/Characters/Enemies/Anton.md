@@ -1,5 +1,5 @@
 ---
-{"id":"2333729d-f77c-4694-9ff3-9908feb8d9de","title":"Anton","publish":true,"date_created":"Sunday, July 2nd 2023, 4:38:49 pm","date_modified":"Tuesday, April 2nd 2024, 8:14:20 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/anton/","PassFrontmatter":true}
+{"id":"2333729d-f77c-4694-9ff3-9908feb8d9de","title":"Anton","publish":true,"date_created":"Sunday, July 2nd 2023, 4:38:49 pm","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/anton/","PassFrontmatter":true}
 ---
 
 
