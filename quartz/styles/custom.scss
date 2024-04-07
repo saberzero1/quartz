@@ -641,10 +641,7 @@ a:not(blockquote p a)[data-slug^="tags/"].tag-link.internal.alias {
   display: none;
 }
 
-blockquote {
+span.internal-embed.markdown-embed.inline-embed {
   display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 40px;
-  margin-inline-end: 40px;
+  margin: 1rem 0;
 }
