@@ -43,14 +43,14 @@
 - [x] Make a plan to get into the Keep #Quest
     - [x] Get some sleeping cookies #Quest
 - [x] Free the Miners #Quest
+- [x] Find out where the bandits are hiding. #Quest
+    - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
+- [x] Defeat the bandits. #Quest
 - [x] Defeat the resistance defending the Mage Tower #Quest
 - [x] Free Narre from the Mages #Quest
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
-- [x] Find out where the bandits are hiding. #Quest
-    - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
-- [x] Defeat the bandits. #Quest
-- [x] Clear the Sky Moss #Quest
 - [x] Defeat the Punching Onions in the Farmlands near Narre. #Quest
+- [x] Clear the Sky Moss #Quest
 
