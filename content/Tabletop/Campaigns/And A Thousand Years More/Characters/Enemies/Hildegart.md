@@ -1,5 +1,5 @@
 ---
-{"id":"baa310aa-bf9b-4773-b882-a6ef18ed7f39","title":"Hildegart","publish":true,"date_created":"Sunday, January 15th 2023, 1:28:46 pm","date_modified":"Tuesday, April 2nd 2024, 8:14:20 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/hildegart/","PassFrontmatter":true}
+{"id":"baa310aa-bf9b-4773-b882-a6ef18ed7f39","title":"Hildegart","publish":true,"date_created":"Sunday, January 15th 2023, 1:28:46 pm","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/hildegart/","PassFrontmatter":true}
 ---
 
 
