@@ -479,7 +479,8 @@ body::before {
 @media all and (max-width: $fullPageWidth) {
   header,
   .header-container {
-    width: calc($pageWidth - 2px) !important;
+    //width: calc($pageWidth - 2px) !important;
+    width: $pageWidth !important;
   }
 }
 
