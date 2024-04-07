@@ -61,15 +61,16 @@
     height: calc(100vh - 6rem);
     border-top-left-radius: 23px;
     border-top-right-radius: 23px;
+    margin-top: 36px;
 
     &:not(.collapsed) {
       height: calc(100vh - 6rem);
       //top: 10dvh;
     }
 
-    /* ul.overflow {
-      max-height: 70dvh;
-    } */
+    ul.overflow {
+      max-height: calc(100vh - 6rem);
+    }
 
     &.collapsed {
       height: 0;
