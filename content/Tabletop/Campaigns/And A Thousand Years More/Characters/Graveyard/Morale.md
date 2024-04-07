@@ -1,5 +1,5 @@
 ---
-{"id":"7b20fd3b-bf5f-4d54-a2f7-3fc25856faa7","title":"Morale","publish":true,"date_created":"Saturday, January 14th 2023, 10:34:43 am","date_modified":"Tuesday, April 2nd 2024, 8:14:20 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/graveyard/morale/","PassFrontmatter":true}
+{"id":"7b20fd3b-bf5f-4d54-a2f7-3fc25856faa7","title":"Morale","publish":true,"date_created":"Saturday, January 14th 2023, 10:34:43 am","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/graveyard/morale/","PassFrontmatter":true}
 ---
 
 
