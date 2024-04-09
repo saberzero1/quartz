@@ -1,5 +1,5 @@
 ---
-{"id":"6cc7c89a-ba92-41e9-b88c-81a288cae15f","title":"Location","description":"Locations of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:08:07 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:26 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","PassFrontmatter":true}
+{"id":"6cc7c89a-ba92-41e9-b88c-81a288cae15f","title":"Location","description":"Locations of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:08:07 pm","date_modified":"Tuesday, April 9th 2024, 8:39:13 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","PassFrontmatter":true}
 ---
 
 
@@ -13,15 +13,15 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Druid Circle\|Druid Circle]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Farmfields\|Narre's Farmfields]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Narre's Keep]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower\|Wizard Tower]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Narre's Keep]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Abandoned Windmill\|Abandoned Windmill]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Forest\|Opeden Forest]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|Opeden Guild Building]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|Opeden Tavern]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Town Ruins\|Town Ruins]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|Opeden Tavern]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Wildt/Wildt's Apthecary Guild Building\|Wildt's Apthecary Guild Building]]
