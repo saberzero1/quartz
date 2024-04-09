@@ -1,5 +1,5 @@
 ---
-{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","description":"Session 9","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
+{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","description":"Session 9","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Tuesday, April 9th 2024, 8:50:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
 ---
 
 
@@ -10,8 +10,8 @@
 { #Session009summary}
 
 
-- We spend two days traveling to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]]. It's the first of Rowan. #Event #Location
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]] is a walled-off city with a river flowing through. #Location
+- We spend two days traveling to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]. It's the first of Rowan. #Event #Location
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]] is a walled-off city with a river flowing through. #Location
 - We come across some rough-looking mercenaries near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Wildt/Wildt's Gate\|entrance]]. They ask us for identification. #Event #Location
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] introduces himself by showing his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] also shows his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
