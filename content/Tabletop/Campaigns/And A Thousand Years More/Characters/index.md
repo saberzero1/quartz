@@ -1,17 +1,17 @@
 ---
-{"id":"8254b77b-5941-402d-a6db-2ba7edb8494c","title":"Characters","description":"Characters we met.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:56:04 pm","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/index/","PassFrontmatter":true}
+{"id":"8254b77b-5941-402d-a6db-2ba7edb8494c","title":"Characters","description":"Characters we met.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:56:04 pm","date_modified":"Tuesday, April 9th 2024, 8:43:28 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/index/","PassFrontmatter":true}
 ---
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/index\|Allies]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/index\|Enemies]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|Hildegart]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]
 
@@ -20,12 +20,12 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/index\|Neutral]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter\|Peter]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|Sir Andre]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter\|Peter]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/index\|Party]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Poppins\|Poppins]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
