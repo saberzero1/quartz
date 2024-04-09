@@ -1,5 +1,5 @@
 ---
-{"id":"0962430c-f877-4dee-8fb4-c56756a71697","title":"Faction","description":"Factions of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:02:04 pm","date_modified":"Tuesday, April 2nd 2024, 8:52:54 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/index/","PassFrontmatter":true}
+{"id":"0962430c-f877-4dee-8fb4-c56756a71697","title":"Faction","description":"Factions of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:02:04 pm","date_modified":"Tuesday, April 9th 2024, 8:35:14 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/index/","PassFrontmatter":true}
 ---
 
 
@@ -10,10 +10,10 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|Party]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/index\|Narre]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Druids of Narre\|Druids of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre\|Farmers of Narre]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|Keep Guards of Narre]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Druids of Narre\|Druids of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Mages of Narre]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|Keep Guards of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Miners of Narre]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/index\|Opeden]]: 
