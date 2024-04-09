@@ -20,5 +20,5 @@ A well-guarded keep near Narre. It imprisons many Miners.
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: On [[{05} Others/Templates/Resources/Tabletop/Party\|our]] way to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]] we pass along a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|keep]]. It seems well guarded. #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: On [[{05} Others/Templates/Resources/Tabletop/Party\|our]] way to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] we pass along a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|keep]]. It seems well guarded. #Faction #Location #Event
 
