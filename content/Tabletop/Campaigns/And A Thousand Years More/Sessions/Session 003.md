@@ -1,5 +1,5 @@
 ---
-{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","description":"Session 3","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 3rd 2024, 10:14:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
+{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","description":"Session 3","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Tuesday, April 9th 2024, 8:47:41 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
 ---
 
 
@@ -21,9 +21,9 @@
 
 ---
 
-- [[{05} Others/Templates/Resources/Tabletop/Party\|We]] are traveling with [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]]'s cart towards [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]. #Character #Faction #Location #Event
+- [[{05} Others/Templates/Resources/Tabletop/Party\|We]] are traveling with [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]]'s cart towards [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Character #Faction #Location #Event
 - "Hey Aleksi," I say. "Can you tell me more about Narre?"
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] grabs his lute "[[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]] is a place of divide. Between [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|menacing Mages]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|many Miners]]. Rich and poor living under one name but divided by the north and the south." #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] grabs his lute "[[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] is a place of divide. Between [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|menacing Mages]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|many Miners]]. Rich and poor living under one name but divided by the north and the south." #Character #Faction #Location #Event
 - I nod. "Anything else we should know?"
 - "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|I]] heard there is a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Wildt/Wildt's Fair\|fair]] in [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]] in a few weeks. [[{05} Others/Templates/Resources/Tabletop/Party\|{05} Others/Templates/Resources/Tabletop/Party]] might want to check it out." #Character #Faction #Location #Event
 - I nod.
@@ -34,7 +34,7 @@
 
 ---
 
-- On [[{05} Others/Templates/Resources/Tabletop/Party\|our]] way to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]] we pass along a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|keep]]. It seems well guarded. #Faction #Location #Event
+- On [[{05} Others/Templates/Resources/Tabletop/Party\|our]] way to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] we pass along a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|keep]]. It seems well guarded. #Faction #Location #Event
 - "I wonder what they are guarding." I say.
 - "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|They]] aren't exactly guarding something." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] says. #Character #Faction #Event
 - I give Leon a confused look.
@@ -42,7 +42,7 @@
 
 ---
 
-- [[{05} Others/Templates/Resources/Tabletop/Party\|We]] arrive in [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]. As [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] told us, the [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Sky Moss]] is stuck to a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower\|big black tower]] in the middle of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]. #Faction #Character #Quest #Location #Event
+- [[{05} Others/Templates/Resources/Tabletop/Party\|We]] arrive in [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. As [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] told us, the [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Sky Moss]] is stuck to a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower\|big black tower]] in the middle of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Faction #Character #Quest #Location #Event
 - [[{05} Others/Templates/Resources/Tabletop/Party\|We]] head towards the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower\|tower]]. Upon entering we a greeted by a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|big gorilla]]. #Faction #Character #Location #Event
 - "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Ekhart]] is not available for visits. Now please leave." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|gorilla]] states as she looks down upon [[{05} Others/Templates/Resources/Tabletop/Party\|us]]. #Character #Faction #Event
 - I gulp. "Uhm… We're adventurers… And we…"
@@ -54,7 +54,7 @@
 
 - A few minutes later a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|robed figure]] arrives from upstairs. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wave. "Hi. You must be [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]]." #Character #Event
-- The figure nods. "I'm [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]], the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head wizard]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]." #Character #Faction #Location #Event
+- The figure nods. "I'm [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]], the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head wizard]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]." #Character #Faction #Location #Event
 - "I'm Lux." I say. "We're wondering if-"
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] interrupts [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|me]]. "You're [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|quests]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge level]]…[[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|mostly]]" as he gives [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] look at [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|the figure]] with surprised eyes. "How did you do that?" #Character #Event
