@@ -1,5 +1,5 @@
 ---
-{"id":"fd914280-0ca2-4930-ad6d-b0654492458d","title":"Opeden Tavern","publish":true,"date_created":"Tuesday, February 28th 2023, 1:53:21 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/opeden-tavern/","PassFrontmatter":true}
+{"id":"fd914280-0ca2-4930-ad6d-b0654492458d","title":"Opeden Tavern","description":"A tavern with a fighting ring in the middle. Located in Opeden.","publish":true,"date_created":"Tuesday, February 28th 2023, 1:53:21 pm","date_modified":"Wednesday, April 10th 2024, 8:43:42 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/opeden/opeden-tavern/","PassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@ A tavern with a fighting ring in the middle. Located in Opeden.
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]
 
 ## Factions
 
