@@ -862,7 +862,8 @@ span.internal-embed.markdown-embed.inline-embed {
 .mado-heading > .callout .callout-title {
   padding: 17px 23px;
 }
-.mado-heading > .callout .callout-content {
+.mado-heading > .callout .callout-content,
+.mado-heading > .callout ul {
   padding: 3px 53px;
 }
 .mado-heading > blockquote > :is(ul, ol) {
