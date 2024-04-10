@@ -656,6 +656,13 @@ span.internal-embed.markdown-embed.inline-embed {
 */
 /* Mado Heading */
 
+.center:has(.mado-heading) {
+	padding: 0;
+	>div.page-header {
+		padding: 0 36px;
+	}
+}
+
 .mado-heading>*{
 	position:relative;
 	padding:13px 53px;
