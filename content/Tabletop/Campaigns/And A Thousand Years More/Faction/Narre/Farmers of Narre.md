@@ -1,14 +1,13 @@
 ---
-{"id":"6c60801b-bfc4-427d-aab9-cffb0c5c2578","title":"Farmers of Narre","publish":true,"date_created":"Thursday, March 2nd 2023, 5:58:03 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/farmers-of-narre/","PassFrontmatter":true}
+{"id":"6c60801b-bfc4-427d-aab9-cffb0c5c2578","title":"Farmers of Narre","description":"On the distant outskirts of the bustling city of Narre, a group of hard-working farmers toiled away in the fields.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:58:03 pm","date_modified":"Wednesday, April 10th 2024, 9:02:30 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/farmers-of-narre/","PassFrontmatter":true}
 ---
 
-<!--The farmers working on the outskirts of Narre.-->
 
-On the distant outskirts of the bustling city of Narre, a group of hard-working farmers toiled away in the fields. The sun shone brightly in the cloudless sky, glinting off the tools they used to tend to their crops. These farmers had been living and working on the outskirts of Narre for generations, their livelihoods tied to the land. Though life was often difficult, the farmers never ceased in their efforts, content with the knowledge that they were providing for their families. In the evening, when the sun had set, they would gather around a campfire, telling stories and singing songs, grateful for the life they had been given.
+On the distant outskirts of the bustling city of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]], a group of hard-working farmers toiled away in the fields. The sun shone brightly in the cloudless sky, glinting off the tools they used to tend to their crops. These farmers had been living and working on the outskirts of Narre for generations, their livelihoods tied to the land. Though life was often difficult, the farmers never ceased in their efforts, content with the knowledge that they were providing for their families. In the evening, when the sun had set, they would gather around a campfire, telling stories and singing songs, grateful for the life they had been given.
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]
 
 ## Members
 
