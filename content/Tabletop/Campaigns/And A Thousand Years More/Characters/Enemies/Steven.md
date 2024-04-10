@@ -1,5 +1,5 @@
 ---
-{"id":"3fe417da-2fc7-4b58-b509-94e522e18a8f","title":"Steven","publish":true,"date_created":"Sunday, January 15th 2023, 1:29:23 pm","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/steven/","PassFrontmatter":true}
+{"id":"3fe417da-2fc7-4b58-b509-94e522e18a8f","title":"Steven","description":"A Monkey guarding the Opeden Guild Building. Moonlights as a bandit.","publish":true,"date_created":"Sunday, January 15th 2023, 1:29:23 pm","date_modified":"Wednesday, April 10th 2024, 9:12:58 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/steven/","PassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ## Description
 
-- Monkey guarding the Opeden Guild Building.
+- Monkey guarding the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]] [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|Guild Building]].
 - Secretly a Bandit.
 
 ## Mentions
