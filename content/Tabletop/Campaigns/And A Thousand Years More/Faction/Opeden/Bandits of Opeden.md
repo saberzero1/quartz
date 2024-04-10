@@ -1,13 +1,13 @@
 ---
-{"id":"c5678c90-b8a2-463b-bc9e-a4a51b5fbeb8","title":"Bandits of Opeden","publish":true,"date_created":"Thursday, March 2nd 2023, 5:42:34 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/opeden/bandits-of-opeden/","PassFrontmatter":true}
+{"id":"c5678c90-b8a2-463b-bc9e-a4a51b5fbeb8","title":"Bandits of Opeden","description":"A ragtag gang of bandits that had been terrorizing the peaceful hamlet of Opeden for weeks, until a group of brave adventurers finally put an end to their reign of mischief.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:42:34 pm","date_modified":"Wednesday, April 10th 2024, 8:56:41 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/opeden/bandits-of-opeden/","PassFrontmatter":true}
 ---
 
 
-A ragtag gang of bandits that had been terrorizing the peaceful hamlet of Opeden for weeks, until a group of brave adventurers finally put an end to their reign of mischief. Wielding swords, axes, and bows, the party descended upon the bandits with a ferocity that sent them fleeing in fear.
+A [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|ragtag gang of bandits]] that had been terrorizing the peaceful hamlet of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]] for weeks, until [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|a group of brave adventurers]] finally put an end to their reign of mischief. Wielding swords, axes, and bows, the party descended upon the bandits with a ferocity that sent them fleeing in fear.
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]
 
 ## Members
 
