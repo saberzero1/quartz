@@ -658,8 +658,17 @@ span.internal-embed.markdown-embed.inline-embed {
 
 .center:has(.mado-heading) {
 	padding: 0;
+	:first-child {
+		border: var(--border);
+    		border-radius: var(--button-radius);
+		background-color: var(--background-fourth);
+	}
 	>div.page-header {
 		padding: 0 36px;
+		>.header-container>header::before,
+		>.header-container>header::after {
+			background-color: var(--background-fourth);
+		}
 	}
 	>article.mado-heading>*:last-child {
 		border-bottom-left-radius: 23px;
