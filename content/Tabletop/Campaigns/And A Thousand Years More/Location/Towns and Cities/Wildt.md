@@ -1,5 +1,5 @@
 ---
-{"id":"8ab1e45e-8058-4bd2-b189-c2d0ada2b629","title":"Wildt","publish":true,"date_created":"Monday, February 27th 2023, 10:12:47 am","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/","PassFrontmatter":true}
+{"id":"8ab1e45e-8058-4bd2-b189-c2d0ada2b629","title":"Wildt","description":"A town known for it's fairs. It is located near a river.","publish":true,"date_created":"Monday, February 27th 2023, 10:12:47 am","date_modified":"Wednesday, April 10th 2024, 8:35:41 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/","PassFrontmatter":true}
 ---
 
 
