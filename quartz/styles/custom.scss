@@ -671,11 +671,21 @@ span.internal-embed.markdown-embed.inline-embed {
 		}
 		>div.header-container>header,
 		>div.header-container {
-			width: calc(100vw - 34px);
+			width: calc(100vw - 34px) !important;
 		}
 		>div.header-container>header.mobile-only.explorer #explorer-content:not(.collapsed) {
 			background-color: var(--background-fourth);
 		}
+	}
+	@media all and (max-width: $fullPageWidth) {
+	  >div.page-header {
+	    //width: calc($pageWidth - 2px) !important;
+	    width: calc($pageWidth - 2 * 36px - 2 * 1px) !important;
+		  >div.header-container,
+		  >div.header-container>header {
+			  width: calc($pageWidth - 2 * 1px) !important;
+		  }
+	  }
 	}
 	>article.mado-heading>*:last-child {
 		border-bottom-left-radius: 23px;
