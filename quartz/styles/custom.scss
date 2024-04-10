@@ -798,12 +798,12 @@ span.internal-embed.markdown-embed.inline-embed {
   height: calc(100% - 26px);
 }
 
-.popover > .popover-inner {
+.mado-heading .popover > .popover-inner {
   /* left border to indicate collapsible action */
-  .mado-heading :is(h1, h2, h3, h4, h5, h6)::before {
+  :is(h1, h2, h3, h4, h5, h6)::before {
     border-left: 3px solid transparent;
   }
-  .mado-heading h1::before {
+  h1::before {
     border-left: 3px solid transparent;
   }
 }
