@@ -805,18 +805,16 @@ span.internal-embed.markdown-embed.inline-embed {
   height: calc(100% - 26px);
 }
 
-.mado-heading .popover {
-  > .popover-inner {
-    border-radius: var(--button-radius);
-    border-left: 3px solid var(--color-accent-1);
-    background-color: var(--mado-white-3-1);
-    /* left border to indicate collapsible action */
-    :is(h1, h2, h3, h4, h5, h6)::before {
-      border-left: 3px solid transparent;
-    }
-    h1::before {
-      border-left: 3px solid transparent;
-    }
+.mado-heading .popover > .popover-inner {
+  border-radius: var(--button-radius);
+  border-left: 3px solid var(--color-accent-1);
+  background-color: var(--mado-white-3-1);
+  /* left border to indicate collapsible action */
+  :is(h1, h2, h3, h4, h5, h6)::before {
+    border-left: 3px solid transparent;
+  }
+  h1::before {
+    border-left: 3px solid transparent;
   }
 }
 
