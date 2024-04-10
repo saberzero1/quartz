@@ -714,6 +714,18 @@ span.internal-embed.markdown-embed.inline-embed {
   background: var(--mado-white-3-1);
   transition: background 0.1s;
 }
+.mado-heading > .transclusion.internal-embed.is-loaded {
+  padding: 0;
+  > .markdown-embed > blockquote.callout {
+    margin: 0;
+  }
+  > a.markdown-embed-link {
+    display: inline;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+}
 .mado-heading.mod-header > * {
   padding: 23px 23px 0;
   border: none;
