@@ -1,5 +1,5 @@
 ---
-{"id":"405c70b1-c9a2-4130-aed6-be073144411d","title":"Opeden","publish":true,"date_created":"Monday, February 27th 2023, 10:12:26 am","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/","PassFrontmatter":true}
+{"id":"405c70b1-c9a2-4130-aed6-be073144411d","title":"Opeden","description":"A town with a Guild Building. It is located near some woods.","publish":true,"date_created":"Monday, February 27th 2023, 10:12:26 am","date_modified":"Wednesday, April 10th 2024, 8:35:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/","PassFrontmatter":true}
 ---
 
 
@@ -8,8 +8,8 @@ A town with a Guild Building. It is located near some woods.
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Abandoned Windmill\|Abandoned Windmill]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Forest\|Opeden Forest]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|Opeden Guild Building]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Town Ruins\|Town Ruins]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|Opeden Tavern]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Town Ruins\|Town Ruins]]
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/index\|Opeden's Factions]]: 
