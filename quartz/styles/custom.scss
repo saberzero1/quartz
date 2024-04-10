@@ -597,7 +597,7 @@ p > mark {
 }
 
 .text-highlight {
-  background-color: vaR(--secondary);
+  background-color: var(--secondary);
 }
 
 ::selection {
@@ -798,13 +798,17 @@ span.internal-embed.markdown-embed.inline-embed {
   height: calc(100% - 26px);
 }
 
-.mado-heading .popover > .popover-inner {
-  /* left border to indicate collapsible action */
-  :is(h1, h2, h3, h4, h5, h6)::before {
-    border-left: 3px solid transparent;
-  }
-  h1::before {
-    border-left: 3px solid transparent;
+.mado-heading .popover {
+  background-color: var(--background-primary);
+  > .popover-inner {
+    background-color: var(--background-fourth);
+    /* left border to indicate collapsible action */
+    :is(h1, h2, h3, h4, h5, h6)::before {
+      border-left: 3px solid transparent;
+    }
+    h1::before {
+      border-left: 3px solid transparent;
+    }
   }
 }
 
