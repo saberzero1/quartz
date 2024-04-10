@@ -705,7 +705,7 @@ span.internal-embed.markdown-embed.inline-embed {
   }
 }
 
-.mado-heading > * {
+.mado-heading > *:not(blockquote.callout) {
   position: relative;
   padding: 13px 53px;
   margin: 0;
