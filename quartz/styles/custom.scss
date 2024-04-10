@@ -8,6 +8,7 @@
   --mado-white-1: hsla(204, 45%, 97%, 1);
   --mado-white-2: hsla(210, 45%, 95%, 1);
   --mado-white-3: hsla(212, 17%, 80%, 0.2);
+  --mado-white-3-1: hsla(180, 20%, 99%, 1);
   --mado-white-6: hsla(212, 17%, 80%, 0.3);
   --mado-white-4: hsla(180, 33%, 99%, 1);
   --mado-white-5: hsla(207, 10%, 90%, 0.1);
@@ -240,6 +241,7 @@
   --mado-white-1: hsla(215, 17%, 19%, 1);
   --mado-white-2: hsla(214, 24%, 15%, 1);
   --mado-white-3: hsla(212, 17%, 22%, 0.9);
+  --mado-white-3-1: hsla(215, 17%, 22%, 1);
   --mado-white-6: hsla(212, 17%, 0%, 0.3);
   --mado-white-4: hsla(215, 22%, 13%, 1);
   --mado-white-5: hsla(207, 10%, 10%, 0.1);
@@ -661,20 +663,20 @@ span.internal-embed.markdown-embed.inline-embed {
   > *:first-child {
     border: var(--border);
     border-radius: var(--button-radius);
-    background-color: var(--background-fourth);
+    background-color: var(--mado-white-3-1);
   }
   > div.page-header {
     padding: 0 36px;
     > div.header-container > header::before,
     > div.header-container > header::after {
-      background-color: var(--background-fourth);
+      background-color: var(--mado-white-3-1);
     }
     > div.header-container > header,
     > div.header-container {
       width: calc(100vw - 34px) !important;
     }
     > div.header-container > header > div.mobile-only.explorer #explorer-content:not(.collapsed) {
-      background-color: var(--background-fourth);
+      background-color: var(--mado-white-3-1);
     }
   }
   @media all and (min-width: calc($pageWidth + 50px)) {
@@ -729,7 +731,7 @@ span.internal-embed.markdown-embed.inline-embed {
   border-bottom: var(--border);
 }
 .mado-heading :is(h1, h2, h3, h4, h5, h6) {
-  background: var(--background-fourth);
+  background: var(--mado-white-3-1);
 }
 .mado-heading :is(h1, h2, h3, h4, h5, h6):hover {
   background: var(--background-fifth);
@@ -799,11 +801,10 @@ span.internal-embed.markdown-embed.inline-embed {
 }
 
 .mado-heading .popover {
-  background-color: var(--background-secondary);
   > .popover-inner {
     border-radius: var(--button-radius);
     border-left: 3px solid var(--color-accent-1);
-    background-color: var(--background-fourth);
+    background-color: rgba(var(--mado-white-3-1);
     /* left border to indicate collapsible action */
     :is(h1, h2, h3, h4, h5, h6)::before {
       border-left: 3px solid transparent;
@@ -834,11 +835,11 @@ span.internal-embed.markdown-embed.inline-embed {
 
 .mado-heading > p {
   padding-block: 23px;
-  background: var(--background-fourth);
+  background: var(--mado-white-3-1);
 }
 .mado-heading > :is(ul, ol) {
   padding-block: 23px;
-  background: var(--background-fourth);
+  background: var(--mado-white-3-1);
 }
 .mado-heading > hr {
   display: none;
@@ -880,7 +881,7 @@ span.internal-embed.markdown-embed.inline-embed {
   font-size: 1em;
 }
 .mado-heading > table td {
-  background: var(--background-fourth);
+  background: var(--mado-white-3-1);
   border: none;
 }
 .mado-heading > table thead > tr > *:first-child {
