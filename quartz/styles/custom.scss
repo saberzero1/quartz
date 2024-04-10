@@ -714,10 +714,8 @@ span.internal-embed.markdown-embed.inline-embed {
   border-bottom-right-radius: 0;
   border-bottom: none;
 }
-:not(.popover) {
-  .mado-heading:not(.is-collapsed) > h1::before {
-    border-radius: 4px 0 0 0;
-  }
+.mado-heading:not(.is-collapsed) > h1::before {
+  border-radius: 4px 0 0 0;
 }
 .mado-heading:has(+ div > *:not(h1)) > *:not(h1) {
   border-radius: 0;
@@ -766,39 +764,47 @@ span.internal-embed.markdown-embed.inline-embed {
   padding-block: 13px;
 }
 
-:not(.popover) {
+/* left border to indicate collapsible action */
+.mado-heading :is(h1, h2, h3, h4, h5, h6)::before {
+  content: "";
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  height: calc(100% - 10px);
+  border-radius: var(--button-radius);
+  border-left: 3px solid var(--color-accent-1);
+}
+.mado-heading h1::before {
+  left: 0;
+  top: 0;
+  height: 100%;
+  border-radius: 4px 0 0 4px;
+  border-left: 3px solid var(--color-accent-2);
+}
+.mado-heading h3::before {
+  top: 7px;
+  height: calc(100% - 14px);
+}
+.mado-heading h4::before {
+  top: 9px;
+  height: calc(100% - 18px);
+}
+.mado-heading h5::before {
+  top: 11px;
+  height: calc(100% - 22px);
+}
+.mado-heading h6::before {
+  top: 13px;
+  height: calc(100% - 26px);
+}
+
+.popover > .popover-inner {
   /* left border to indicate collapsible action */
   .mado-heading :is(h1, h2, h3, h4, h5, h6)::before {
-    content: "";
-    position: absolute;
-    left: 5px;
-    top: 5px;
-    height: calc(100% - 10px);
-    border-radius: var(--button-radius);
-    border-left: 3px solid var(--color-accent-1);
+    border-left: 3px solid transparent;
   }
   .mado-heading h1::before {
-    left: 0;
-    top: 0;
-    height: 100%;
-    border-radius: 4px 0 0 4px;
-    border-left: 3px solid var(--color-accent-2);
-  }
-  .mado-heading h3::before {
-    top: 7px;
-    height: calc(100% - 14px);
-  }
-  .mado-heading h4::before {
-    top: 9px;
-    height: calc(100% - 18px);
-  }
-  .mado-heading h5::before {
-    top: 11px;
-    height: calc(100% - 22px);
-  }
-  .mado-heading h6::before {
-    top: 13px;
-    height: calc(100% - 26px);
+    border-left: 3px solid transparent;
   }
 }
 
