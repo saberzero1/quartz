@@ -673,7 +673,7 @@ span.internal-embed.markdown-embed.inline-embed {
 		>div.header-container {
 			width: calc(100vw - 34px) !important;
 		}
-		>div.header-container>header.mobile-only.explorer #explorer-content:not(.collapsed) {
+		>div.header-container>header>div.mobile-only.explorer #explorer-content:not(.collapsed) {
 			background-color: var(--background-fourth);
 		}
 	}
