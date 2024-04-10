@@ -690,7 +690,7 @@ span.internal-embed.markdown-embed.inline-embed {
       width: calc($pageWidth - 2 * 36px - 2 * 1px) !important;
       > div.header-container,
       > div.header-container > header {
-        width: calc($pageWidth - 2 * 1px) !important;
+        width: $pageWidth !important;
       }
     }
   }
@@ -872,7 +872,7 @@ span.internal-embed.markdown-embed.inline-embed {
 }
 .mado-heading > .callout {
   position: relative;
-  margin: 0;
+  margin: 0 auto;
   padding: var(--callout-padding);
   //border: 1px solid rgba(var(--callout-color), 0.3);
   width: calc(100% - 2px);
