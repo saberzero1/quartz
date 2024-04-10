@@ -1,5 +1,5 @@
 ---
-{"id":"fdf7f206-318a-427d-ab03-930146a811c8","title":"Quests","description":"Quests overview.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:42:12 pm","date_modified":"Tuesday, April 9th 2024, 8:39:52 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Quests/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/index/","PassFrontmatter":true}
+{"id":"fdf7f206-318a-427d-ab03-930146a811c8","title":"Quests","description":"Quests overview.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:42:12 pm","date_modified":"Wednesday, April 10th 2024, 8:31:08 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/index/","PassFrontmatter":true}
 ---
 
 
