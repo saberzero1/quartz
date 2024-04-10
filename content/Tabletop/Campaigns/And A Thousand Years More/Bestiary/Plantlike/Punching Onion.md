@@ -1,5 +1,5 @@
 ---
-{"id":"2dd71b92-e47f-44b4-8cd3-ca5db6a75f02","title":"Punching Onion","publish":true,"date_created":"Sunday, June 11th 2023, 11:47:51 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/plantlike/punching-onion/","PassFrontmatter":true}
+{"id":"2dd71b92-e47f-44b4-8cd3-ca5db6a75f02","title":"Punching Onion","description":"A large onion that punches like a boxer.","publish":true,"date_created":"Sunday, June 11th 2023, 11:47:51 am","date_modified":"Wednesday, April 10th 2024, 9:24:14 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/plantlike/punching-onion/","PassFrontmatter":true}
 ---
 
 
