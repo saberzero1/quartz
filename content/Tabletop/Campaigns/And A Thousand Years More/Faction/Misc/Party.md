@@ -1,5 +1,5 @@
 ---
-{"id":"b113a870-5f79-47a8-8c34-97b832976b33","title":"Party","publish":true,"date_created":"Monday, February 27th 2023, 10:19:16 am","date_modified":"Saturday, March 30th 2024, 11:24:42 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/party/","PassFrontmatter":true}
+{"id":"b113a870-5f79-47a8-8c34-97b832976b33","title":"Party","description":"A band of intrepid heroes set out on a daring quest.","publish":true,"date_created":"Monday, February 27th 2023, 10:19:16 am","date_modified":"Wednesday, April 10th 2024, 9:04:09 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/party/","PassFrontmatter":true}
 ---
 
 
@@ -15,7 +15,7 @@ A band of intrepid heroes set out on a daring quest, their shining armor reflect
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] (Former, Deceased)
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Poppins\|Poppins]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Poppins\|Poppins]] (Former)
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
 
 ## Mentions
