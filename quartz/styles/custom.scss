@@ -692,8 +692,11 @@ span.internal-embed.markdown-embed.inline-embed {
       > div.header-container > header {
         width: $pageWidth !important;
       }
-      > div.header-container > header::after {
+      > div.header-container::after {
         left: calc(100% - 25px);
+      }
+      > div.header-container > header::after {
+        left: calc(100% - 27px);
       }
     }
   }
