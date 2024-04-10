@@ -1,5 +1,5 @@
 ---
-{"id":"6ffa5679-3d44-4e25-bfd7-08d8261bf922","title":"Foolery","description":"You've often been called a fool ... but when you have this Gift, you certifably are one!","publish":true,"date_created":"Saturday, March 30th 2024, 10:13:47 pm","date_modified":"Tuesday, April 2nd 2024, 1:11:57 am","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/foolery/","PassFrontmatter":true}
+{"id":"6ffa5679-3d44-4e25-bfd7-08d8261bf922","title":"Foolery","description":"You've often been called a fool ... but when you have this Gift, you certifably are one!","publish":true,"date_created":"Saturday, March 30th 2024, 10:13:47 pm","date_modified":"Wednesday, April 10th 2024, 8:47:57 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/foolery/","PassFrontmatter":true}
 ---
 
 
