@@ -658,15 +658,22 @@ span.internal-embed.markdown-embed.inline-embed {
 
 .center:has(.mado-heading) {
 	padding: 0;
-	:first-child {
+	>*:first-child {
 		border: var(--border);
     		border-radius: var(--button-radius);
 		background-color: var(--background-fourth);
 	}
 	>div.page-header {
 		padding: 0 36px;
-		>.header-container>header::before,
-		>.header-container>header::after {
+		>div.header-container>header::before,
+		>div.header-container>header::after {
+			background-color: var(--background-fourth);
+		}
+		>div.header-container>header,
+		>div.header-container {
+			width: calc(100vw - 34px);
+		}
+		>div.header-container>header.mobile-only.explorer #explorer-content:not(.collapsed) {
 			background-color: var(--background-fourth);
 		}
 	}
