@@ -853,6 +853,9 @@ span.internal-embed.markdown-embed.inline-embed {
 .mado-heading > p {
   padding-block: 23px;
   background: var(--mado-white-3-1);
+  &:has(a.tag-link.internal.alias) {
+    display: none;
+  }
 }
 .mado-heading > :is(ul, ol) {
   padding-block: 23px;
@@ -871,7 +874,8 @@ span.internal-embed.markdown-embed.inline-embed {
   position: relative;
   margin: 0;
   padding: var(--callout-padding);
-  border: 1px solid rgba(var(--callout-color), 0.3);
+  //border: 1px solid rgba(var(--callout-color), 0.3);
+  width: calc(100% - 2px);
   border-radius: var(--button-radius);
   transition: background 0.1s;
 }
