@@ -856,8 +856,12 @@ span.internal-embed.markdown-embed.inline-embed {
   padding-block: 23px;
 }
 .mado-heading > .callout {
+  position: relative;
+  margin: 0;
   padding: var(--callout-padding);
   border: 1px solid rgba(var(--callout-color), 0.3);
+  border-radius: var(--button-radius);
+  transition: background 0.1s;
 }
 .mado-heading > .callout .callout-title {
   padding: 17px 23px;
