@@ -661,9 +661,13 @@ span.internal-embed.markdown-embed.inline-embed {
 	>div.page-header {
 		padding: 0 36px;
 	}
-	>article.mado-heading:last-child {
+	>article.mado-heading>*:last-child {
 		border-bottom-left-radius: 23px;
 		border-bottom-right-radius: 23px;
+		:is(h1,h2,h3,h4,h5,h6):before {
+			border-bottom-left-radius: 23px;
+			border-bottom-right-radius: 0px;
+		}
 	}
 }
 
