@@ -1,13 +1,13 @@
 ---
-{"id":"12c35d04-e4e6-407f-900b-c8f5a1e7e41b","title":"Narre's Farmfields","publish":true,"date_created":"Thursday, March 2nd 2023, 5:56:05 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Farmfields.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/narre-s-farmfields/","PassFrontmatter":true}
+{"id":"12c35d04-e4e6-407f-900b-c8f5a1e7e41b","title":"Narre's Farmfields","description":"The farmfields near Narre.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:56:05 pm","date_modified":"Wednesday, April 10th 2024, 8:42:20 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Farmfields.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/narre-s-farmfields/","PassFrontmatter":true}
 ---
 
 
-The farmfields near Narre.
+The farmfields near [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]].
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]
 
 ## Factions
 

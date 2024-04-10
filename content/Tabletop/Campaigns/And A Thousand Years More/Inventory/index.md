@@ -1,5 +1,5 @@
 ---
-{"id":"43a07b59-995f-4680-a46b-26b7fa0a1989","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Monday, May 29th 2023, 5:19:47 pm","date_modified":"Tuesday, April 9th 2024, 8:37:46 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","PassFrontmatter":true}
+{"id":"43a07b59-995f-4680-a46b-26b7fa0a1989","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Monday, May 29th 2023, 5:19:47 pm","date_modified":"Wednesday, April 10th 2024, 8:45:24 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","PassFrontmatter":true}
 ---
 
 
@@ -9,17 +9,17 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/index\|Gifts]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool\|Blatant Fool]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense\|Danger Sense]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Etiquette\|Etiquette]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert\|Junk Expert]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Keen Ears\|Keen Ears]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Licensed Fool\|Licensed Fool]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Literacy\|Literacy]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision\|Night Vision]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice)\|Performance of (type of choice)]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice)\|Performance of (type of choice)]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Personality (of choice)\|Personality (of choice)]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Stitch in Time\|Stitch in Time]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/True Leader\|True Leader]]

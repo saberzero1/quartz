@@ -1,16 +1,16 @@
 ---
-{"id":"2e158c9f-c353-419c-9942-4fc238ba9fb8","title":"Leon","publish":true,"date_created":"Sunday, January 15th 2023, 1:29:04 pm","date_modified":"Sunday, April 7th 2024, 12:08:15 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/leon/","PassFrontmatter":true}
+{"id":"2e158c9f-c353-419c-9942-4fc238ba9fb8","title":"Leon","description":"The Skunk Coachman was a cowardly figure. He had a penchant for transporting travelers from Opeden to Narre, and, on this fateful day, had the honor of ferrying a group of brave adventurers who had just emerged victorious from a fierce battle against the Bandits who had threatened to hijack his cart.","publish":true,"date_created":"Sunday, January 15th 2023, 1:29:04 pm","date_modified":"Wednesday, April 10th 2024, 9:20:40 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/leon/","PassFrontmatter":true}
 ---
 
 
 ![Banner-Leon-polaroid.png|200](../../../../../Media/IronClaw/Polaroid/Banner-Leon-polaroid.png)
 
-The Skunk Coachman was a cowardly figure. He had a penchant for transporting travelers from Opeden to Narre, and, on this fateful day, had the honor of ferrying a group of brave adventurers who had just emerged victorious from a fierce battle against the Bandits who had threatened to hijack his cart. With a determined glint in his eye, the Skunk Coachman expertly guided his trusty steed towards the distant horizon, leaving the broken remains of the Bandits in the dust.
+The Skunk Coachman was a cowardly figure. He had a penchant for transporting travelers from [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]] to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]], and, on this fateful day, had the honor of ferrying [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|a group of brave adventurers]] who had just [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|emerged victorious from a fierce battle]] against the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] who had threatened to hijack his cart. With a determined glint in his eye, the Skunk Coachman expertly guided his trusty steed towards the distant horizon, leaving the broken remains of the Bandits in the dust.
 
 ## Description
 
 - Skunk Coachman.
-- Taxied us from Opeden to Narre after we defeated the Bandits that threatened his cart.
+- Taxied us from [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]] to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] after we defeated the Bandits that threatened his cart.
 
 ## Mentions
 

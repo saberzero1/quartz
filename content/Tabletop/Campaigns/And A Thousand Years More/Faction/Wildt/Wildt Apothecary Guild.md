@@ -1,11 +1,13 @@
 ---
-{"title":"Wildt Apothecary Guild","publish":true,"date_created":"Sunday, July 2nd 2023, 2:35:46 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Apothecary Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/wildt/wildt-apothecary-guild/","PassFrontmatter":true}
+{"id":"98ab804b-7052-4973-80fe-094ab35b5b24","title":"Wildt Apothecary Guild","description":"A guild of apothecaries located in Wildt. They seem to know Damjan.","publish":true,"date_created":"Sunday, July 2nd 2023, 2:35:46 pm","date_modified":"Wednesday, April 10th 2024, 8:54:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Apothecary Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/wildt/wildt-apothecary-guild/","PassFrontmatter":true}
 ---
 
 
+A guild of apothecaries located in [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]. They seem to know [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]].
+
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]
 
 ## Members
 

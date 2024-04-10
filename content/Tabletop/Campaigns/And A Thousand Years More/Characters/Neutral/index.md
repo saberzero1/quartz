@@ -1,5 +1,5 @@
 ---
-{"id":"491d5f01-b9ba-434f-90e3-2948b00ae7ad","title":"Neutral","description":"Neutral characters.","publish":true,"date_created":"Tuesday, April 2nd 2024, 8:05:33 pm","date_modified":"Tuesday, April 9th 2024, 8:43:50 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/neutral/index/","PassFrontmatter":true}
+{"id":"491d5f01-b9ba-434f-90e3-2948b00ae7ad","title":"Neutral","description":"Neutral characters.","publish":true,"date_created":"Tuesday, April 2nd 2024, 8:05:33 pm","date_modified":"Wednesday, April 10th 2024, 9:09:48 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/neutral/index/","PassFrontmatter":true}
 ---
 
 

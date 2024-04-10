@@ -1,5 +1,5 @@
 ---
-{"id":"1beeabf9-6c2d-45f2-a830-c1ef790e970b","title":"Wizard Tower","publish":true,"date_created":"Tuesday, February 28th 2023, 1:45:15 pm","date_modified":"Tuesday, April 2nd 2024, 6:59:27 pm","path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/wizard-tower/","PassFrontmatter":true}
+{"id":"1beeabf9-6c2d-45f2-a830-c1ef790e970b","title":"Wizard Tower","description":"A large black tower looming over Narre. It is home to wizard Eckart.","publish":true,"date_created":"Tuesday, February 28th 2023, 1:45:15 pm","date_modified":"Wednesday, April 10th 2024, 8:42:54 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Wizard Tower.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/landmarks/narre/wizard-tower/","PassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@ A large black tower looming over Narre. It is home to wizard Eckart.
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]
 
 ## Factions
 
