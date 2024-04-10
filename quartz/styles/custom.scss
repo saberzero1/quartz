@@ -799,17 +799,11 @@ span.internal-embed.markdown-embed.inline-embed {
 }
 
 .mado-heading .popover {
-  background-color: var(--background-primary);
+  background-image: linear-gradient(var(--background-primary), var(--background-primary)),
+                    linear-gradient(var(--background-secondary), var(--background-secondary));
   padding: 0 !important;
-  &::before {
-    content: "";
-    position: absolute;
-    left: 5px;
-    top: 5px;
-    height: calc(100% - 10px);
-    border-radius: var(--button-radius);
-    border-left: 3px solid var(--color-accent-1);
-  }
+  border-radius: var(--button-radius);
+  border-left: 3px solid var(--color-accent-1);
   > .popover-inner {
     background-color: var(--background-fourth);
     /* left border to indicate collapsible action */
