@@ -9,8 +9,8 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/index\|Gifts]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool\|Blatant Fool]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense\|Danger Sense]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense\|Danger Sense]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Etiquette\|Etiquette]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert\|Junk Expert]]
