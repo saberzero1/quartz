@@ -887,7 +887,7 @@ span.internal-embed.markdown-embed.inline-embed {
 .mado-heading > blockquote {
   padding-block: 23px;
 }
-.mado-heading:has(article .dataview-embed.dataview-callout-list) article {
+.mado-heading:has(> article > .dataview-embed.dataview-callout-list) > article {
   padding: 0;
 }
 .mado-heading .dataview-embed.dataview-callout-list > span {
