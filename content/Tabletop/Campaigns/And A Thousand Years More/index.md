@@ -1,6 +1,42 @@
 ---
-{"id":"b05cfbb7-455f-48c1-a272-e3895d80d15f","title":"And A Thousand Years More","description":"And A Thousand Years More campaign overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:56:48 pm","date_modified":"Wednesday, April 10th 2024, 8:27:42 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/index/","PassFrontmatter":true}
+{"id":"b05cfbb7-455f-48c1-a272-e3895d80d15f","title":"And A Thousand Years More","description":"And A Thousand Years More campaign overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:56:48 pm","date_modified":"Thursday, April 11th 2024, 10:51:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/index/","PassFrontmatter":true}
 ---
+
+
+## Campaign Overview
+
+### Active Quests
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find Eckart\|Find Eckart]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find my parents\|Find my parents]]
+
+
+### Party Overview
+
+#### Active Members
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] (guest member)
+
+
+#### Navigation
+
+- Last recorded location: [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apthecary Guild Building\|Wildt's Apthecary Guild Building]]
+
+
+#### Party Inventory
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrow]] x 2
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]] x 1
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] x 1
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]] x 1
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]] x 0
+
+
+## Quick Links
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Livia Scientia\|Player Character]]
 
