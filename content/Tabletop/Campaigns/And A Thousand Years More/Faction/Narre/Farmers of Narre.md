@@ -15,5 +15,5 @@ On the distant outskirts of the bustling city of [[Tabletop/Campaigns/And A Thou
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[{05} Others/Templates/Resources/Tabletop/Party\|We]] head over to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Farmfields\|farms]]. The [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre\|farmers]] point us to the field. "[[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|Those Onions]] will pummel you if you're not careful." #Faction #Location #Bestiary #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[{05} Others/Templates/Resources/Tabletop/Party\|We]] head over to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Farmfields\|farms]]. The [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre\|farmers]] point us to the field. "[[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|Those Onions]] will pummel you if you're not careful." #Faction #Location #Bestiary #Event
 
