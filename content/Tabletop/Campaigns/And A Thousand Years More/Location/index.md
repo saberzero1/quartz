@@ -3,7 +3,7 @@
 ---
 
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/index.md\|Towns and Cities]]: 
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/index\|Towns and Cities]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]
