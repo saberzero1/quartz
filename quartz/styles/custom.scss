@@ -958,7 +958,7 @@ span.internal-embed.markdown-embed.inline-embed {
 }
 .mado-heading.mado-heading-listing:has(div.section p.meta + div.desc + ul.tags) > div,
 .mado-heading.mado-heading-listing:has(div.section p.meta + div.desc + ul.tags) > article,
-.mado-heading > article > .dataview-embed > span:has(> .embed-splitter):last-child div.callout {
+.mado-heading > article > .dataview-embed > span > .embed-splitter:last-child div.callout {
   border-bottom-left-radius: 23px;
   border-bottom-right-radius: 23px;
 }
