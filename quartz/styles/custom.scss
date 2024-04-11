@@ -969,7 +969,7 @@ span.internal-embed.markdown-embed.inline-embed {
     border-bottom-left-radius: 23px;
   }
 }
-body[data-slug^="tags/"] .center > .mado-heading:last-child:is(div) {
+body[data-slug^="tags/"] .center > .mado-heading > *:last-child:is(div) {
   padding: 0;
   > div > *:first-child:is(h1, h2, h3, h4, h5, h6) {
     margin: 0 0 0 53px;
