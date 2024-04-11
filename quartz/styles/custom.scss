@@ -947,11 +947,15 @@ span.internal-embed.markdown-embed.inline-embed {
 .mado-heading > table tbody > tr:last-child > *:last-child {
   border-radius: 0 0 4px 0;
 }
-.mado-heading div.section:has(p.meta + div.desc + ul.tags) {
+.mado-heading.mado-heading-listing div.section:has(p.meta + div.desc + ul.tags) {
   > ul.tags {
     display: none;
   }
   > div.desc > h3 {
     padding: 0;
   }
+}
+.mado-heading.mado-heading-listing:has(div.section p.meta + div.desc + ul.tags) > div {
+  border-bottom-left-radius: 23px;
+  border-bottom-right-radius: 23px;
 }
