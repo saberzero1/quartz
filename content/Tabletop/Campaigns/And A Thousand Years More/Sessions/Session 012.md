@@ -1,9 +1,9 @@
 ---
-{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 012","description":"Session 12","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Wednesday, April 10th 2024, 8:28:40 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-012/","PassFrontmatter":true}
+{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 012","description":"Session 12","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Thursday, April 11th 2024, 4:17:32 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-012/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] }
 
 > [!SUMMARY] Session 12 keypoints
 > - Nothing.
@@ -44,4 +44,4 @@
 - **(+3 xp)**
 - 7 days till Hornbach.
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] }
