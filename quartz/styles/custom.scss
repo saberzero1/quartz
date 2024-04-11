@@ -738,6 +738,10 @@ span.internal-embed.markdown-embed.inline-embed {
     top: 15px;
     right: 15px;
   }
+  span.embed-splitter {
+    position: relative;
+    display: block;
+  }
 }
 .mado-heading.mod-header > * {
   padding: 23px 23px 0;
