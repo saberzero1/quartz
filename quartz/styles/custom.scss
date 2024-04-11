@@ -870,7 +870,7 @@ span.internal-embed.markdown-embed.inline-embed {
 .mado-heading > p {
   padding-block: 23px;
   background: var(--mado-white-3-1);
-  &:has(a.tag-link.internal.alias) {
+  &:has(> a.tag-link.internal.alias) {
     display: none;
   }
 }
