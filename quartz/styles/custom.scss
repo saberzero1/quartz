@@ -955,7 +955,8 @@ span.internal-embed.markdown-embed.inline-embed {
     padding: 0;
   }
 }
-.mado-heading.mado-heading-listing:has(div.section p.meta + div.desc + ul.tags) > div {
+.mado-heading.mado-heading-listing:has(div.section p.meta + div.desc + ul.tags) > div,
+.mado-heading.mado-heading-listing:has(div.section p.meta + div.desc + ul.tags) > article {
   border-bottom-left-radius: 23px;
   border-bottom-right-radius: 23px;
 }
