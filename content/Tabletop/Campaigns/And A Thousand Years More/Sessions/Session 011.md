@@ -1,9 +1,9 @@
 ---
-{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 011","description":"Session 11","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Wednesday, April 10th 2024, 8:28:48 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-011/","PassFrontmatter":true}
+{"id":"0986bcc1-e162-497b-ad50-907d711b2d7e","title":"Session 011","description":"Session 11","publish":true,"date_created":"Saturday, August 26th 2023, 11:56:38 am","date_modified":"Thursday, April 11th 2024, 4:17:19 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-011/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] }
 
 > [!SUMMARY] Session 11 keypoints
 > - Nothing.
@@ -43,4 +43,4 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]] notice that the ground absorbs all the blood from [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]].
 - After the fight, druids walk up and grab [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]. They shout "Time to sacrifice the winner to the Blood God!"
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] }

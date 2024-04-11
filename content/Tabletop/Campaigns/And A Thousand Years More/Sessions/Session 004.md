@@ -1,9 +1,9 @@
 ---
-{"id":"22398288-892b-45ae-b38b-599e31544d91","title":"Session 004","description":"Session 4","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 10th 2024, 8:29:53 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-004/","PassFrontmatter":true}
+{"id":"22398288-892b-45ae-b38b-599e31544d91","title":"Session 004","description":"Session 4","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:15:46 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-004/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] }
 
 > [!SUMMARY] Session 4 keypoints
 > - Nothing.
@@ -170,4 +170,4 @@ Imtrud gives me a glare "Who told you this?"
 
 Imtrud thinks for a second. "Fine. Meet us in two weeks. I'll lay low until then."
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] }

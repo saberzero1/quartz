@@ -1,9 +1,9 @@
 ---
-{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","description":"Session 9","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Wednesday, April 10th 2024, 8:29:09 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
+{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","description":"Session 9","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Thursday, April 11th 2024, 4:16:50 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] }
 
 > [!SUMMARY] Session 9 keypoints
 > - Nothing.
@@ -96,4 +96,4 @@
 
 - The next day,
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010\|Session 010]] }

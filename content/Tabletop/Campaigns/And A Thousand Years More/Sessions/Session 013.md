@@ -1,9 +1,9 @@
 ---
-{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 13","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Wednesday, April 10th 2024, 8:28:32 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
+{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 13","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Thursday, April 11th 2024, 4:17:41 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }
 
 > [!SUMMARY] Session 13 keypoints
 > - Nothing.
@@ -80,4 +80,4 @@
 	 - The previously falsely convicted Porcupine is released.
  - End of session **(+5xp)**
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }

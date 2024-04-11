@@ -1,9 +1,9 @@
 ---
-{"id":"b3e673c7-3a4e-4b4a-b2bc-77defd66461a","title":"Session 006","description":"Session 6","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 10th 2024, 8:29:34 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-006/","PassFrontmatter":true}
+{"id":"b3e673c7-3a4e-4b4a-b2bc-77defd66461a","title":"Session 006","description":"Session 6","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:16:16 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-006/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]] }
 
 > [!SUMMARY] Session 6 keypoints
 > - Nothing.
@@ -36,4 +36,4 @@ Both sides fight hard, but we ultimately provail thanks to Damjan's and Norrix's
 
 As we defeat the last of Eckart minions, he begins to flee. We give chase.
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]] }

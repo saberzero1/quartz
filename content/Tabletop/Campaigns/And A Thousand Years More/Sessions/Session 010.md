@@ -1,9 +1,9 @@
 ---
-{"id":"fe73ec5f-155f-43bc-bff2-b52b29b576d9","title":"Session 010","description":"Session 10","publish":true,"date_created":"Saturday, July 15th 2023, 11:54:51 am","date_modified":"Wednesday, April 10th 2024, 8:29:01 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-010/","PassFrontmatter":true}
+{"id":"fe73ec5f-155f-43bc-bff2-b52b29b576d9","title":"Session 010","description":"Session 10","publish":true,"date_created":"Saturday, July 15th 2023, 11:54:51 am","date_modified":"Thursday, April 11th 2024, 4:17:06 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-010/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] }
 
 > [!SUMMARY] Session 10 keypoints
 > - Nothing.
@@ -198,4 +198,4 @@
 - The guild master guides us back to the other parties.
 - We finished third.
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] }
