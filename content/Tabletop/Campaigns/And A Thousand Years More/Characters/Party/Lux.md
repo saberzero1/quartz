@@ -1,5 +1,5 @@
 ---
-{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","description":"Luvia Lux Scientia.","publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Wednesday, April 10th 2024, 9:07:43 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
+{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","description":"Luvia Lux Scientia.","isActivePartyMember":true,"publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Thursday, April 11th 2024, 10:01:54 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
 ---
 
 
