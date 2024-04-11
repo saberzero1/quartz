@@ -27,8 +27,8 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Poppins\|Poppins]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
 
 
 
