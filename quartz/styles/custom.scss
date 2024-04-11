@@ -980,5 +980,13 @@ body[data-slug^="tags/"] .center > .mado-heading > *:last-child:is(div) {
   > div:last-child {
     border-bottom-right-radius: 23px;
     border-bottom-left-radius: 23px;
+    > div:last-child {
+      border-bottom-right-radius: 23px;
+      border-bottom-left-radius: 23px;
+      > ul:last-child {
+        border-bottom-right-radius: 23px;
+        border-bottom-left-radius: 23px;
+      }
+    }
   }
 }
