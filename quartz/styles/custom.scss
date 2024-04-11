@@ -977,4 +977,8 @@ body[data-slug^="tags/"] .center > .mado-heading > *:last-child:is(div) {
       content: none;
     }
   }
+  > div:last-child {
+    border-bottom-right-radius: 23px;
+    border-bottom-left-radius: 23px;
+  }
 }
