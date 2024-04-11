@@ -1,13 +1,13 @@
 ---
-{"id":"e256f02c-5a82-49cb-82e0-baace285c62a","title":"Session 017","description":"Session 17","publish":true,"date_created":"Friday, April 5th 2024, 12:00:20 am","date_modified":"Wednesday, April 10th 2024, 8:27:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 017.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-017/","PassFrontmatter":true}
+{"id":"e256f02c-5a82-49cb-82e0-baace285c62a","title":"Session 017","description":"Session 17","publish":true,"date_created":"Friday, April 5th 2024, 12:00:20 am","date_modified":"Thursday, April 11th 2024, 2:52:28 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 017.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-017/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|index]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] }
 
 > [!SUMMARY] Session 17 keypoints
 > - To be determined.
 { #Session017summary}
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|index]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] }
