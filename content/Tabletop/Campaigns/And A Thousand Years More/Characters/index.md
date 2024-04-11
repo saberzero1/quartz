@@ -5,9 +5,9 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/index\|Allies]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/index\|Enemies]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]]
@@ -16,8 +16,8 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/index\|Graveyard]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/index\|Neutral]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter\|Peter]]

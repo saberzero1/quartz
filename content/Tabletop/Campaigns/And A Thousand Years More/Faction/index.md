@@ -4,8 +4,8 @@
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/index\|Misc]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Hornwaldia Adventurer's Guild]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Church of S'Allamer\|Church of S'Allamer]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Hornwaldia Adventurer's Guild]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins\|Leftovers of the Paladins]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|Party]]
 
