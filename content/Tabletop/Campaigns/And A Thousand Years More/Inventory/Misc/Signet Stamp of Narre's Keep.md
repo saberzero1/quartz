@@ -7,7 +7,7 @@ This aged and weathered stamp is a relic from a bygone era, a testament to the a
 
 ## Location Found:
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Narre's Keep]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|Narre's Keep]]
 
 ## Mentions
 
