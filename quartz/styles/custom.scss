@@ -995,3 +995,6 @@ body[data-slug^="tags/"] .center > .mado-heading > *:last-child:is(div) {
     }
   }
 }
+a[href^="/tags/"].internal.tag-link > div.popover > .popover-inner > .popover-hint.mado-heading > .page-listing.mado-heading.mado-heading-listing {
+  padding: 0;
+}
