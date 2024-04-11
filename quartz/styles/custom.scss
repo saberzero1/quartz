@@ -742,6 +742,7 @@ span.internal-embed.markdown-embed.inline-embed {
   span.embed-splitter {
     position: relative;
     display: block;
+    background-color: var(--background-primary);
   }
 }
 .mado-heading.mod-header > * {
