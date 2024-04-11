@@ -726,12 +726,13 @@ span.internal-embed.markdown-embed.inline-embed {
   > .markdown-embed > blockquote.callout {
     margin: 0;
   }
-  > span > .internal-embed.markdown-embed.inline-embed {
+  span.embed-splitter > .internal-embed.markdown-embed.inline-embed {
     display: inline-block;
     margin: 0;
+    width: 100%;
   }
   > a.markdown-embed-link,
-  > span > a.markdown-embed-link {
+  span.embed-splitter > a.markdown-embed-link {
     display: inline;
     position: absolute;
     top: 15px;
