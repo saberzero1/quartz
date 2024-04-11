@@ -7,7 +7,7 @@ A guild badge for the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Mis
 
 ## Location Found
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Guild Building\|Opeden Guild Building]].
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|Opeden Guild Building]].
 
 ## Mentions
 

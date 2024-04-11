@@ -1,13 +1,24 @@
 ---
-{"id":"d22f9b59-28b3-45e4-9c5a-b3c1240edd12","title":"Gourdling","description":"Pumpkin-like monster that throws other gourdlings as projectiles.","publish":true,"date_created":"Sunday, June 11th 2023, 11:49:38 am","date_modified":"Wednesday, April 10th 2024, 9:24:34 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/plantlike/gourdling/","PassFrontmatter":true}
+{"id":"1a354618-d478-44c6-8f11-8b660e0c123c","title":"Town Ruins","description":"Ruins of a town. It appears it was destroyed by unholy magic.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:49:18 pm","date_modified":"Wednesday, April 10th 2024, 8:43:52 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/town-ruins/","PassFrontmatter":true}
 ---
 
 
-Pumpkin-like monster that throws other gourdlings as projectiles.
+Ruins of a town. It appears it was destroyed by unholy magic.
+
+## Location
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]
+
+## Factions
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins\|Leftovers of the Paladins]]
+
+## Characters
+
+- None
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] swiftly [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|strike down]] the animated [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|Gourdlings]] and return to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. #Faction #Quest #Bestiary #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: As [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|we]] approach the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|ruins of a town]], we notice a field of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|Gourdlings]]. #Faction #Bestiary #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] travel to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|north]] to face the [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|Gourdlings]]. #Faction #Location #Bestiary #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] points [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|us]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|another quest]]: a bunch of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|Gourdlings]] are causing trouble to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|north]]. #Bestiary #Character #Faction #Quest #Location #Event

@@ -7,7 +7,7 @@ A gleaming parrying dagger, a gift from the strong [[Tabletop/Campaigns/And A Th
 
 ## Location Found:
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Narre's Keep]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|Narre's Keep]]
 
 ## Mentions
 

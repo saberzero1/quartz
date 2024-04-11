@@ -3,7 +3,7 @@
 ---
 
 
-The [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|guards]] of the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Narre/Narre's Keep\|Keep]] near [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] were an elite force, trained to obey the commands of the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Mages of Narre]] without hesitation. Fearless and loyal, they patrolled the walls of the Keep, ready to protect it at a moment's notice. Their polished armor glinted in the sun, and their weapons were sharp and ready. They were a fearsome sight to behold, and a reminder of the power of the Mages of Narre.
+The [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|guards]] of the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|Keep]] near [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] were an elite force, trained to obey the commands of the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Mages of Narre]] without hesitation. Fearless and loyal, they patrolled the walls of the Keep, ready to protect it at a moment's notice. Their polished armor glinted in the sun, and their weapons were sharp and ready. They were a fearsome sight to behold, and a reminder of the power of the Mages of Narre.
 
 ## Location
 
