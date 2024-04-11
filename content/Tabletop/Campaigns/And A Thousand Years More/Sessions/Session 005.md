@@ -1,9 +1,9 @@
 ---
-{"id":"a6c4c4ba-b252-42d8-9225-2d48aad4e819","title":"Session 005","description":"Session 5","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 10th 2024, 8:29:44 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-005/","PassFrontmatter":true}
+{"id":"a6c4c4ba-b252-42d8-9225-2d48aad4e819","title":"Session 005","description":"Session 5","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:16:05 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-005/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]] }
 
 > [!SUMMARY] Session 5 keypoints
 > - Nothing.
@@ -86,4 +86,4 @@ We fight the guards. The fight is rough but swiftly turns as Damjan shoots one o
 
 After tying up the survivors, we head down into the keep's basement, towards the imprisoned miners.
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]] }
