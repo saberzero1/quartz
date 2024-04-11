@@ -26,9 +26,9 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/index\|Misc]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|Green Level Guild Badge]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]
 
 
 
