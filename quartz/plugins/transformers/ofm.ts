@@ -190,7 +190,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
       src = src.replace(quartzSyncerRegex, (value) => {
         return ""
-      }
+      })
 
       // pre-transform blockquotes
       if (opts.callouts) {
