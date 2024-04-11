@@ -7,7 +7,7 @@ The ruins of a once-mighty band of paladins lay scattered across the land, a gri
 
 ## Location
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Town Ruins\|Town Ruins]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|Town Ruins]]
 
 ## Members
 
