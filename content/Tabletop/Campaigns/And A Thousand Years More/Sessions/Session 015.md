@@ -1,9 +1,9 @@
 ---
-{"id":"5b358236-ce5c-11ee-8a4b-8f6743346103","title":"Session 015","description":"Session 15","publish":true,"date_created":"Sunday, February 18th 2024, 1:50:42 pm","date_modified":"Wednesday, April 10th 2024, 8:28:14 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-015/","PassFrontmatter":true}
+{"id":"5b358236-ce5c-11ee-8a4b-8f6743346103","title":"Session 015","description":"Session 15","publish":true,"date_created":"Sunday, February 18th 2024, 1:50:42 pm","date_modified":"Thursday, April 11th 2024, 4:18:06 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-015/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] }
 
 > [!SUMMARY] Session 15 keypoints
 > - Nothing.
@@ -65,4 +65,4 @@
 		- We decide to pay their leader a visit…next session
 - **(+2 xp)**
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] }
