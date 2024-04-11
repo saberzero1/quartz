@@ -701,7 +701,8 @@ span.internal-embed.markdown-embed.inline-embed {
     }
   }
   > article.mado-heading > *:last-child,
-  > .mado-heading > article > *:last-child {
+  > .mado-heading > article > *:last-child,
+  > .mado-heading > *:last-child {
     border-bottom-left-radius: 23px;
     border-bottom-right-radius: 23px;
   }
