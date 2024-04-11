@@ -5,10 +5,10 @@
 
 A town with a Guild Building. It is located near some woods.
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Forest\|Opeden Forest]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Abandoned Windmill\|Abandoned Windmill]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|Opeden Tavern]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Forest\|Opeden Forest]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|Opeden Guild Building]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|Opeden Tavern]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|Town Ruins]]
 
 
