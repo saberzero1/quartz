@@ -963,3 +963,7 @@ span.internal-embed.markdown-embed.inline-embed {
   border-bottom-left-radius: 23px;
   border-bottom-right-radius: 23px;
 }
+.mado-heading > article > .dataview-embed > span > .embed-splitter:last-child {
+  border-bottom-right-radius: 23px;
+  border-bottom-left-radius: 23px;
+}
