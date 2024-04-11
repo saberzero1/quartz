@@ -1,9 +1,9 @@
 ---
-{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 10th 2024, 8:30:21 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
+{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:15:12 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }
 
 > [!SUMMARY] Session 2 keypoints
 > - Nothing.
@@ -57,4 +57,4 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] report the [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|Defeat the Gourdlings]] to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Guild]]. The next day they promote us to the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Faction #Quest #Item #Event
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }
