@@ -145,6 +145,8 @@ const wikilinkImageEmbedRegex = new RegExp(
   /^(?<alt>(?!^\d*x?\d*$).*?)?(\|?\s*?(?<width>\d+)(x(?<height>\d+))?)?$/,
 )
 
+const quartzSyncerRegex = new RegExp(/\{\s*\#\w+\s*\}/, "g")
+
 export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | undefined> = (
   userOpts,
 ) => {
@@ -179,6 +181,15 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
             ? `<div class="dice"><input type="button" value="${dice}" class="dice-button"></div>`
             : value
         })
+      }
+
+      // remove quartz syncer embedding links
+      if (src instanceof Buffer) {
+        src = src.toString()
+      }
+
+      src = src.replace(quartzSyncerRegex, (value) => {
+        return ""
       }
 
       // pre-transform blockquotes
