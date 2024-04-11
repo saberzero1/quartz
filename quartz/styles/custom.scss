@@ -971,10 +971,15 @@ span.internal-embed.markdown-embed.inline-embed {
 }
 body[data-slug^="tags/"] .center > .mado-heading > *:last-child:is(div) {
   padding: 0;
-  > div > *:first-child:is(h1, h2, h3, h4, h5, h6) {
-    margin: 0 0 0 53px;
-    &::before {
-      content: none;
+  > div {
+    > *:first-child:is(h1, h2, h3, h4, h5, h6) {
+      margin: 0 0 0 53px;
+      &::before {
+        content: none;
+      }
+    }
+    > *:nth-child(2):is(p) {
+      margin: 0 0 0 53px;
     }
   }
   > div:last-child {
