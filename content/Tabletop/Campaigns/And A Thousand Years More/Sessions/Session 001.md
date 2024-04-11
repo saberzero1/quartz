@@ -1,9 +1,9 @@
 ---
-{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","description":"Session 1","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Wednesday, April 10th 2024, 8:30:30 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
+{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","description":"Session 1","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:18:36 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
 ---
 
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] }
 
 > [!SUMMARY] Session 1 keypoints
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrived at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]].
@@ -47,4 +47,4 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to spend the night at the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Landmarks/Opeden/Opeden Tavern\|tavern]]. The next day, we prepare to head out on a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest]]. #Faction #Location #Quest #Event
 
-{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] }
+{ [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 000\|Session 000]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] }
