@@ -1,5 +1,5 @@
 ---
-{"id":"b564cb05-b337-4aba-932e-9844a78f8b92","title":"Commoner's Clothes","description":"<!--A set of clothes I got sewn in Narre. It allows me to disguise myself and blend in with the common folks.","publish":true,"date_created":"Sunday, March 5th 2023, 6:41:39 pm","date_modified":"Wednesday, April 10th 2024, 8:50:32 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/equipment/commoner-s-clothes/","PassFrontmatter":true}
+{"id":"b564cb05-b337-4aba-932e-9844a78f8b92","title":"Commoner's Clothes","description":"<!--A set of clothes I got sewn in Narre. It allows me to disguise myself and blend in with the common folks.","isInCurrentInventory":true,"amountHeld":0,"publish":true,"date_created":"Sunday, March 5th 2023, 6:41:39 pm","date_modified":"Thursday, April 11th 2024, 10:43:39 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/equipment/commoner-s-clothes/","PassFrontmatter":true}
 ---
 
 
