@@ -4,17 +4,17 @@
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/index\|Misc]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Church of S'Allamer\|Church of S'Allamer]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Hornwaldia Adventurer's Guild]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins\|Leftovers of the Paladins]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Hornwaldia Adventurer's Guild]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Church of S'Allamer\|Church of S'Allamer]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|Party]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/index\|Narre]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Druids of Narre\|Druids of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre\|Farmers of Narre]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|Keep Guards of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Mages of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Miners of Narre]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|Keep Guards of Narre]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/index\|Opeden]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits of Opeden]]

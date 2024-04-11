@@ -1,5 +1,5 @@
 ---
-{"id":"275e512a-77ca-422b-a201-931786c63517","title":"Wildt's Fair","description":"A large fair held in Wildt.","publish":true,"date_created":"Tuesday, February 28th 2023, 1:48:11 pm","date_modified":"Wednesday, April 10th 2024, 8:44:35 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/wildt-s-fair/","PassFrontmatter":true}
+{"id":"275e512a-77ca-422b-a201-931786c63517","title":"Wildt's Fair","description":"A large fair held in Wildt.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:48:11 pm","date_modified":"Thursday, April 11th 2024, 10:30:58 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/wildt-s-fair/","PassFrontmatter":true}
 ---
 
 
