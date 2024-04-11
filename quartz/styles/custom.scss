@@ -870,7 +870,7 @@ span.internal-embed.markdown-embed.inline-embed {
 .mado-heading > p {
   padding-block: 23px;
   background: var(--mado-white-3-1);
-  &:has(a.tag-link.internal.alias) {
+  &:has(> a.tag-link.internal.alias) {
     display: none;
   }
 }
@@ -946,4 +946,12 @@ span.internal-embed.markdown-embed.inline-embed {
 }
 .mado-heading > table tbody > tr:last-child > *:last-child {
   border-radius: 0 0 4px 0;
+}
+.mado-heading div.section:has(p.meta + div.desc + ul.tags) {
+  > ul.tags {
+    display: none;
+  }
+  > div.desc > h3 {
+    padding: 0;
+  }
 }
