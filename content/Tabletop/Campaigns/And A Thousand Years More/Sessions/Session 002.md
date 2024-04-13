@@ -1,5 +1,5 @@
 ---
-{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Friday, April 12th 2024, 4:10:26 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
+{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 7:44:38 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
 ---
 
 
@@ -14,12 +14,12 @@
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] enter the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] sits at a table, looking a bit desperate. #Character #Faction #Location #Event
-- I walk up to the figure. "Hi, I'm Lux. How are you?"
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] walk up to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|the figure]]. "Hi, I'm [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]. How are you?" #Character #Event
 - "Leon. Terrible." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] responds. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. Business has been down as a result. [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event #Location
-- I pull Damjan and Norrix from the bar. "I found a quest."
-- "How much does it pay?" Norrix asks.
-- "I can offer you a free ride to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] states. #Character #Location #Event
-- Norrix walks back to the bar as Damjan ponders. "A free ride and a potential ally. Hmm." Damjan thinks out loud. "Alright. We'll see what we can do."
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] pull [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] from the bar. "[[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|I found a quest]]." #Character #Quest #Event
+- "How much does [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|it]] pay?" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] asks. #Character #Quest #Event
+- "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|I]] can offer [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|you]] a free ride to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] states. #Faction #Character #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] walks back to the bar as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] ponders. "A free ride and a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|potential ally]]. Hmm." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] thinks out loud. "Alright. [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]]'ll see what we can do." #Character #Faction #Event
 
 ---
 
@@ -27,19 +27,19 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] quickly agree to tail [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|him]]. #Character #Faction #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] follow [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] to the outskirts of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. Suddenly, he turns around and looks at us. #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] quickly dash towards [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]. "Hey Steven" I muster as innocently as I can. "I heard the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|bandits]] near [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] were all supposedly monkeys. Have you heard anything about it?" #Character #Faction #Location #Event
-- Steven shakes his head. "I have not. Anything else?"
-- I shake my head, trying my best to convincingly look disappointed.
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] shakes his head. "I have not. Anything else?" #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] shake my head, trying my best to convincingly look disappointed. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] back off and follow [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] from a larger distance. #Character #Faction #Event
 
 ---
 
-- After about an hour, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] suddenly dashes towards the bushes. [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] briefly wait before walking to the bushes. #Character #Event
+- After about an hour, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] suddenly dashes towards the bushes. [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] briefly wait before walking to the bushes. #Character #Faction #Event
 - As [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|we]] move into the bushes, we can see a glimpse of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] meeting up with a [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|group of monkeys]]. As [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] walks into an [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Abandoned Windmill\|old, abandoned windmill]]. #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] prepare to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|confront]] the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|bandits]]. #Faction #Quest #Event
 
 ---
 
-- Morale flies up and dives towards the bandit in the back. Norrix charges in as Damjan notches an arrow.
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] flies up and dives towards the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|bandit in the back]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] charges in as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] notches an arrow. #Character #Faction #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] quickly fell most of the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|monkeys]]. The remaining monkeys are hiding in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Abandoned Windmill\|windmill]]. #Faction #Location
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] barge inside, capturing the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|remaining monkeys]] including [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]. #Faction #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] tie up the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|monkeys]] and carry them back to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. #Faction #Location #Event
