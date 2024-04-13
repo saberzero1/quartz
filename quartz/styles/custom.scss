@@ -712,6 +712,7 @@ span.internal-embed.markdown-embed.inline-embed {
   }
 }
 
+.mado-heading > article > *:not(blockquote.callout),
 .mado-heading > *:not(blockquote.callout) {
   position: relative;
   padding: 13px 53px;
