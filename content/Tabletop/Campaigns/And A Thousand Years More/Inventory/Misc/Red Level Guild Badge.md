@@ -1,5 +1,5 @@
 ---
-{"id":"33195cb5-10f1-4782-a005-e93245f64a90","title":"Green Level Guild Badge","description":"A guild badge for the Hornwaldia Adventurer's Guild. This one is the second-lowest level.","isInCurrentInventory":false,"amountHeld":0,"causeOfConsumption":"Upgraded","publish":true,"date_created":"Thursday, June 22nd 2023, 6:37:12 pm","date_modified":"Saturday, April 13th 2024, 8:15:49 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/red-level-guild-badge/","PassFrontmatter":true}
+{"id":"33195cb5-10f1-4782-a005-e93245f64a90","title":"Green Level Guild Badge","description":"A guild badge for the Hornwaldia Adventurer's Guild. This one is the second-lowest level.","isInCurrentInventory":false,"amountHeld":0,"causeOfConsumption":"Upgraded","publish":true,"date_created":"Thursday, June 22nd 2023, 6:37:12 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/red-level-guild-badge/","PassFrontmatter":true}
 ---
 
 
