@@ -1,23 +1,25 @@
 ---
-{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","description":"Session 3","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:15:30 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
+{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","description":"Session 3","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 7:37:31 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] }
 
 > [!SUMMARY] Session 3 keypoints
-> - Nothing.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive in [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]], passing a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|keep]] on its outskirts.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] met with [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Narre's leader]] in an [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|ominous tower]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] are tasked to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|clear out]] some [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|gourdlings]] on [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Farmfields\|Narre's nearby farmlands]].
 { #Session003summary}
 
 
 - [[{05} Others/Templates/Resources/Tabletop/Party\|We]] head over to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|Guild building]]. #Faction #Location #Event
 - "Names and reasons for visit please" the secretary states as we enter.
-- "[[{05} Others/Templates/Resources/Tabletop/Party\|We]] have come to return something" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] say as I put down the Blue level quest [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] took earlier. #Character #Faction #Event
-- The secretary gives me a glare. "Which [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|one of your ravens]] is the one responsible for this?" #Character #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] point towards [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]]. "This one, he has come to apologize fo-" #Character #Event
-- The secretary interrupts me "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|He]] is demoted to a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|Green badge]]. Anything else I can do for you?" #Character #Item #Event
+- "[[{05} Others/Templates/Resources/Tabletop/Party\|We]] have come to return something" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] say as I put down the Blue level quest [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] took earlier. #Character #Faction #Event
+- The secretary gives me a glare. "Which [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|one of your ravens]] is the one responsible for this?" #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] point towards [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]]. "This one, he has come to apologize fo-" #Character #Event
+- The secretary interrupts me "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|He]] is demoted to a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|Green badge]]. Anything else I can do for you?" #Character #Item #Event
 - I pause for a second "That's all."
-- "Next!" The secretary screams as we leave the building.
+- "Next!" The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|secretary]] screams as [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|we]] leave the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|building]]. #Character #Faction #Location #Event
 
 ---
 
@@ -56,7 +58,7 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wave. "Hi. You must be [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]]." #Character #Event
 - The figure nods. "I'm [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]], the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head wizard]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]." #Character #Faction #Location #Event
 - "I'm Lux." I say. "We're wondering if-"
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] interrupts [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|me]]. "You're [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|quests]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge level]]…[[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|mostly]]" as he gives [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] interrupts [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|me]]. "You're [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|quests]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge level]]…[[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|mostly]]" as he gives [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] look at [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|the figure]] with surprised eyes. "How did you do that?" #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]] laughs. "All in due time my dear, all in due time." He returns to his previous, more serious demeanor. "As [[{05} Others/Templates/Resources/Tabletop/Party\|you]] may have noticed, we have a little [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Sky Moss]] related problem. I want you to solve that, but first I need to know if you're up for the task." #Character #Faction #Quest #Event
 - I nod.

@@ -12,7 +12,7 @@ A guild of mercenaries located in [[Tabletop/Campaigns/And A Thousand Years More
 ## Members
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]]
 
 ## Mentions
 

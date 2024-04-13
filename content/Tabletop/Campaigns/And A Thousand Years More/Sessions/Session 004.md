@@ -1,12 +1,15 @@
 ---
-{"id":"22398288-892b-45ae-b38b-599e31544d91","title":"Session 004","description":"Session 4","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:15:46 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-004/","PassFrontmatter":true}
+{"id":"22398288-892b-45ae-b38b-599e31544d91","title":"Session 004","description":"Session 4","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 7:50:42 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-004/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]] }
 
 > [!SUMMARY] Session 4 keypoints
-> - Nothing.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] cleared the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Farmfields\|farms]] of [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|Gourdlings]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] cleared the [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Sky Moss]] clinging to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre's]] [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|Wizard Tower]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learned more about the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Cognoscenti]] from [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|their leader]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] met with the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|leader]] of the suppressed [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Mine workers]] to plan a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|coup]].
 { #Session004summary}
 
 
