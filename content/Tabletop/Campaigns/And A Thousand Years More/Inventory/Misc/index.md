@@ -3,6 +3,7 @@
 ---
 
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Blue Level Guild Badge\|Blue Level Guild Badge]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|Green Level Guild Badge]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]]
