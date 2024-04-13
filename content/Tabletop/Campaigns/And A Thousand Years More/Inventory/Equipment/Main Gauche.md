@@ -1,5 +1,5 @@
 ---
-{"id":"a7a30e92-2458-4706-be65-47409f390b42","title":"Main Gauche","description":"A gleaming parrying dagger, a gift from the strong Norrix, lay in my hands, an offering of protection.","isInCurrentInventory":true,"amountHeld":1,"publish":true,"date_created":"Sunday, March 5th 2023, 6:40:16 pm","date_modified":"Thursday, April 11th 2024, 10:43:12 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/equipment/main-gauche/","PassFrontmatter":true}
+{"id":"a7a30e92-2458-4706-be65-47409f390b42","title":"Main Gauche","description":"A gleaming parrying dagger, a gift from the strong Norrix, lay in my hands, an offering of protection.","isInCurrentInventory":true,"amountHeld":1,"causeOfConsumption":"null","publish":true,"date_created":"Sunday, March 5th 2023, 6:40:16 pm","date_modified":"Saturday, April 13th 2024, 8:14:47 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/equipment/main-gauche/","PassFrontmatter":true}
 ---
 
 
