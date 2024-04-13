@@ -1,9 +1,9 @@
 ---
-{"id":"0d473a60-f2a0-4dd9-8c7b-2ef58670f7ab","title":"Norrix","description":"Norrix Natalis.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:35:25 am","date_modified":"Saturday, April 13th 2024, 9:03:50 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/norrix/","PassFrontmatter":true}
+{"id":"0d473a60-f2a0-4dd9-8c7b-2ef58670f7ab","title":"Norrix","description":"Norrix Natalis.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:35:25 am","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/norrix/","PassFrontmatter":true}
 ---
 
 
-![Banner-Norrix-polaroid.jpeg|200](../../../../../Media/IronClaw/Polaroid/Banner-Norrix-polaroid.jpeg)
+![Media/IronClaw/Polaroid/Banner-Norrix-polaroid.jpeg|200](../../../../../Media/IronClaw/Polaroid/Banner-Norrix-polaroid.jpeg)
 
 ## Description
 

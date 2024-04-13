@@ -1,5 +1,5 @@
 ---
-{"id":"ef3b7a2b-d014-41ff-86ef-858f65df6ad4","title":"Performance of (type of choice)","description":"Specialty bonus to entertain the masses.","publish":true,"date_created":"Sunday, March 31st 2024, 5:33:15 pm","date_modified":"Wednesday, April 10th 2024, 8:48:32 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice).md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/performance-of-type-of-choice/","PassFrontmatter":true}
+{"id":"ef3b7a2b-d014-41ff-86ef-858f65df6ad4","title":"Performance of (type of choice)","description":"Specialty bonus to entertain the masses.","publish":true,"date_created":"Sunday, March 31st 2024, 5:33:15 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice).md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/performance-of-type-of-choice/","PassFrontmatter":true}
 ---
 
 
@@ -12,4 +12,8 @@
 > 	- To "deceive" others in how well you've immersed yourself in your role.
 > - My character chose *Actor*.
 { #performanceentertainingthemasses}
+
+
+## Mentions
+
 

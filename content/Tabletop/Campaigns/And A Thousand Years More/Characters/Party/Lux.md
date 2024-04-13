@@ -1,9 +1,9 @@
 ---
-{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","description":"Luvia Lux Scientia.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Saturday, April 13th 2024, 9:03:39 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
+{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","description":"Luvia Lux Scientia.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
 ---
 
 
-![Banner-Lux-polaroid.png|200](../../../../../Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
+![Media/IronClaw/Polaroid/Banner-Lux-polaroid.png|200](../../../../../Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
 
 ## Description
 
@@ -30,7 +30,7 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wave. "Hi. You must be [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Master Eckart]]." #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "Yes…" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] mumble as I show my [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge]]. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] grins "It's a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|prison]] my [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|dear]], try not to get stuck there." #Character #Faction #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "Maybe [[{05} Others/Templates/Resources/Tabletop/Party\|we]] can help them clear it!" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] say with a smile #Character #Faction #Event .
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "Maybe [[{05} Others/Templates/Resources/Tabletop/Party\|we]] can help them clear it!" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] say with a smile. #Character #Faction #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] point towards [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]]. "This one, he has come to apologize fo-" #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[{05} Others/Templates/Resources/Tabletop/Party\|We]] have come to return something" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] say as I put down the Blue level quest [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] took earlier. #Character #Faction #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] shake my head, trying my best to convincingly look disappointed. #Character #Event

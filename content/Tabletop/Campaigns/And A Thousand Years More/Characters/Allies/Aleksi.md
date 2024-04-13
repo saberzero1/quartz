@@ -1,9 +1,9 @@
 ---
-{"id":"fc2b8797-65e3-41c1-add0-25ee2c542380","title":"Aleksi","description":"This Fruit Bat Bard was a mysterious figure that followed the party of adventurers, always seeking new stories to tell.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:21 pm","date_modified":"Saturday, April 13th 2024, 9:01:17 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/aleksi/","PassFrontmatter":true}
+{"id":"fc2b8797-65e3-41c1-add0-25ee2c542380","title":"Aleksi","description":"This Fruit Bat Bard was a mysterious figure that followed the party of adventurers, always seeking new stories to tell.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:21 pm","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/aleksi/","PassFrontmatter":true}
 ---
 
 
-![Banner-Aleksi-polaroid.jpeg|200](../../../../../Media/IronClaw/Polaroid/Banner-Aleksi-polaroid.jpeg)
+![Media/IronClaw/Polaroid/Banner-Aleksi-polaroid.jpeg|200](../../../../../Media/IronClaw/Polaroid/Banner-Aleksi-polaroid.jpeg)
 
 This Fruit Bat Bard was a mysterious figure that followed the party of adventurers, always seeking new stories to tell. He was first encountered in the Opeden Tavern, wearing a striking cape made of rare sky moss that shimmered in the firelight. He had a keen eye and ear for the tales of ancient lore, and with a twinkle in his eye he would always promise to pay the teller with a song.
 

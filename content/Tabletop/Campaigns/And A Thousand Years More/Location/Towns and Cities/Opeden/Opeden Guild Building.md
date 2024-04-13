@@ -1,5 +1,5 @@
 ---
-{"id":"b50ea2ed-d8dd-473e-bc87-ebb217e561b1","title":"Opeden Guild Building","description":"The Hornwaldia Guild Building located in Opeden. It is place where adventurers gather.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:47:00 pm","date_modified":"Thursday, April 11th 2024, 10:31:48 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/opeden-guild-building/","PassFrontmatter":true}
+{"id":"b50ea2ed-d8dd-473e-bc87-ebb217e561b1","title":"Opeden Guild Building","description":"The Hornwaldia Guild Building located in Opeden. It is place where adventurers gather.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:47:00 pm","date_modified":"Saturday, April 13th 2024, 11:44:57 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/opeden-guild-building/","PassFrontmatter":true}
 ---
 
 
@@ -11,7 +11,7 @@ The Hornwaldia Guild Building located in Opeden. It is place where adventurers g
 
 ## Factions
 
-- [[003_Resources/Tabletop/IronClaw/And a 1000 Years More/Faction/Misc/Party\|Party]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|Party]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins\|Leftovers of the Paladins]]
 
 ## Characters

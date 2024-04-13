@@ -1,5 +1,5 @@
 ---
-{"id":"d442b75e-206c-460c-b31b-b7fc01123b8b","title":"Defeat the Gourdlings","description":"A bunch of gourdlings are causing ruckus in the woods between Opeden and Narre. Find out where they are hiding and defeat them.","publish":true,"date_created":"Monday, February 27th 2023, 10:17:16 am","date_modified":"Wednesday, April 10th 2024, 8:32:59 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/defeat-the-gourdlings/","PassFrontmatter":true}
+{"id":"d442b75e-206c-460c-b31b-b7fc01123b8b","title":"Defeat the Gourdlings","description":"A bunch of gourdlings are causing ruckus in the woods between Opeden and Narre. Find out where they are hiding and defeat them.","publish":true,"date_created":"Monday, February 27th 2023, 10:17:16 am","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/defeat-the-gourdlings/","PassFrontmatter":true}
 ---
 
 

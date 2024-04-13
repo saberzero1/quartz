@@ -1,5 +1,5 @@
 ---
-{"id":"2dc6e3b0-8f85-4f2f-ae80-79c0d089e8e6","title":"Night Vision","description":"See better in darkness.","publish":true,"date_created":"Sunday, March 31st 2024, 5:13:18 pm","date_modified":"Wednesday, April 10th 2024, 8:48:25 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/night-vision/","PassFrontmatter":true}
+{"id":"2dc6e3b0-8f85-4f2f-ae80-79c0d089e8e6","title":"Night Vision","description":"See better in darkness.","publish":true,"date_created":"Sunday, March 31st 2024, 5:13:18 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/night-vision/","PassFrontmatter":true}
 ---
 
 
@@ -12,4 +12,8 @@
 > - You can travel at night twice as fast as those who do not have this *Gift*.
 > 	- See "Hiking" in the Spot Rules chapter.
 { #nightvisionseebetterindarkness}
+
+
+## Mentions
+
 

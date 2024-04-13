@@ -1,5 +1,5 @@
 ---
-{"id":"66a25a38-8c7b-4545-9fa1-0c042004a39b","title":"Danger Sense","description":"\"I have a bad feeling about this.\"","publish":true,"date_created":"Sunday, March 31st 2024, 2:43:03 pm","date_modified":"Wednesday, April 10th 2024, 8:47:49 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/danger-sense/","PassFrontmatter":true}
+{"id":"66a25a38-8c7b-4545-9fa1-0c042004a39b","title":"Danger Sense","description":"\"I have a bad feeling about this.\"","publish":true,"date_created":"Sunday, March 31st 2024, 2:43:03 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/danger-sense/","PassFrontmatter":true}
 ---
 
 
@@ -16,4 +16,8 @@
 > 	- To searching for deadly traps.
 > 	- To gossip with locals about which places in town are more dangerous.
 { #dangersensedanger}
+
+
+## Mentions
+
 

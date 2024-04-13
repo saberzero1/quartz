@@ -1,5 +1,5 @@
 ---
-{"id":"c5678c90-b8a2-463b-bc9e-a4a51b5fbeb8","title":"Bandits of Opeden","description":"A ragtag gang of bandits that had been terrorizing the peaceful hamlet of Opeden for weeks, until a group of brave adventurers finally put an end to their reign of mischief.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:42:34 pm","date_modified":"Wednesday, April 10th 2024, 8:56:41 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/opeden/bandits-of-opeden/","PassFrontmatter":true}
+{"id":"c5678c90-b8a2-463b-bc9e-a4a51b5fbeb8","title":"Bandits of Opeden","description":"A ragtag gang of bandits that had been terrorizing the peaceful hamlet of Opeden for weeks, until a group of brave adventurers finally put an end to their reign of mischief.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:42:34 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/opeden/bandits-of-opeden/","PassFrontmatter":true}
 ---
 
 

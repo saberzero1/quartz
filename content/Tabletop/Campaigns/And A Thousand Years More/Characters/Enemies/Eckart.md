@@ -1,18 +1,18 @@
 ---
-{"id":"3e319c40-4232-4e60-b036-4d11a1b79500","title":"Eckart","description":"The powerful Head Sorcerer of Narre commanded awe and respect throughout the realm. His mastery of the arcane arts was unparalleled, having attained the Cognoscenti Archmage title, allowing him to read and control the minds of others.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:37 pm","date_modified":"Saturday, April 13th 2024, 9:01:59 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/eckart/","PassFrontmatter":true}
+{"id":"3e319c40-4232-4e60-b036-4d11a1b79500","title":"Eckart","description":"The powerful Head Sorcerer of Narre commanded awe and respect throughout the realm. His mastery of the arcane arts was unparalleled, having attained the Cognoscenti Archmage title, allowing him to read and control the minds of others.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:37 pm","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/eckart/","PassFrontmatter":true}
 ---
 
 
-![Banner-Eckart-polaroid.jpg|200](../../../../../Media/IronClaw/Polaroid/Banner-Eckart-polaroid.jpg)
+![Media/IronClaw/Polaroid/Banner-Eckart-polaroid.jpg|200](../../../../../Media/IronClaw/Polaroid/Banner-Eckart-polaroid.jpg)
 
 The powerful [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head Sorcerer]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] commanded awe and respect throughout the realm. His mastery of the arcane arts was unparalleled, having attained the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Cognoscenti Archmage]] title, allowing him to read and control the minds of others. For many years, he had been the leader of Narre until a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|revolutionary miner]] managed to stage a coup and seize power.
 
 ## Description
 
-- Head Sorcerer of Narre.
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Head Sorcerer]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]].
 - Cognoscenti Mage.
 	- Basically Mind Reading and Control.
-- Former leader of Narre until the miner staged a coup
+- Former leader of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] until the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Miners]] staged a coup
 
 ## Mentions
 
