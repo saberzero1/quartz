@@ -1,9 +1,9 @@
 ---
-{"id":"3fe417da-2fc7-4b58-b509-94e522e18a8f","title":"Steven","description":"A Monkey guarding the Opeden Guild Building. Moonlights as a bandit.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:29:23 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/steven/","PassFrontmatter":true}
+{"id":"3fe417da-2fc7-4b58-b509-94e522e18a8f","title":"Steven","description":"A Monkey guarding the Opeden Guild Building. Moonlights as a bandit.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:29:23 pm","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/steven/","PassFrontmatter":true}
 ---
 
 
-![Banner-Steven-polaroid.jpg|200](../../../../../Media/IronClaw/Polaroid/Banner-Steven-polaroid.jpg)
+![Media/IronClaw/Polaroid/Banner-Steven-polaroid.jpg|200](../../../../../Media/IronClaw/Polaroid/Banner-Steven-polaroid.jpg)
 
 ## Description
 
