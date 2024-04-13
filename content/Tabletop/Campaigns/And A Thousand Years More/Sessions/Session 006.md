@@ -1,5 +1,5 @@
 ---
-{"id":"b3e673c7-3a4e-4b4a-b2bc-77defd66461a","title":"Session 006","description":"Session 6","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:16:16 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-006/","PassFrontmatter":true}
+{"id":"b3e673c7-3a4e-4b4a-b2bc-77defd66461a","title":"Session 006","description":"Session 6","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 11:44:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-006/","PassFrontmatter":true}
 ---
 
 
