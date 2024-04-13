@@ -1,9 +1,9 @@
 ---
-{"id":"cd24a8e3-5725-466d-97f8-2e970c3078ba","title":"Clear the Sky Moss","description":"A large cloud of Sky Moss is stuck to the Wizard Tower in Narre. Find a way to get rid of it without destroying Narre.","publish":true,"date_created":"Sunday, March 5th 2023, 4:35:18 pm","date_modified":"Wednesday, April 10th 2024, 8:33:41 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/clear-the-sky-moss/","PassFrontmatter":true}
+{"id":"cd24a8e3-5725-466d-97f8-2e970c3078ba","title":"Clear the Sky Moss","description":"A large cloud of Sky Moss is stuck to the Wizard Tower in Narre. Find a way to get rid of it without destroying Narre.","publish":true,"date_created":"Sunday, March 5th 2023, 4:35:18 pm","date_modified":"Friday, April 12th 2024, 4:03:35 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/clear-the-sky-moss/","PassFrontmatter":true}
 ---
 
 
-A large cloud of Sky Moss is stuck to the Wizard Tower in Narre. Find a way to get rid of it without destroying Narre.
+A large cloud of Sky Moss is stuck to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|Wizard Tower]] in [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. Find a way to get rid of it without destroying [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]].
 
 ## Questgiver
 
