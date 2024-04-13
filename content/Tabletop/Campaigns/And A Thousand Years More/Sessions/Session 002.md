@@ -1,18 +1,21 @@
 ---
-{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:15:12 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
+{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Friday, April 12th 2024, 4:10:26 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }
 
 > [!SUMMARY] Session 2 keypoints
-> - Nothing.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] helped [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] by [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|allowing safe passage]] to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] cleared out [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|some abandoned ruins]] from [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|some gourdlings]] that were [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|causing trouble]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learned of a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|mossy cloud]] floating towards [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|Our adventurers guild badge]] was upgraded to [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|the next rank]].
 { #Session002summary}
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] enter the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] sits at a table, looking a bit desperate. #Character #Faction #Location #Event
 - I walk up to the figure. "Hi, I'm Lux. How are you?"
-- "Leon. Terrible." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] responds. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to Narre. Business has been down as a result. [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event
+- "Leon. Terrible." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] responds. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. Business has been down as a result. [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event #Location
 - I pull Damjan and Norrix from the bar. "I found a quest."
 - "How much does it pay?" Norrix asks.
 - "I can offer you a free ride to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] states. #Character #Location #Event
