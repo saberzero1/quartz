@@ -1,5 +1,5 @@
 ---
-{"id":"ec4f3ec2-ac63-43f7-8575-3846bdfb895d","title":"Towns and Cities","description":"The towns and cities.","publish":true,"date_created":"Thursday, April 11th 2024, 5:25:44 pm","date_modified":"Thursday, April 11th 2024, 5:30:20 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/index/","PassFrontmatter":true}
+{"id":"ec4f3ec2-ac63-43f7-8575-3846bdfb895d","title":"Towns and Cities","description":"The towns and cities.","publish":true,"date_created":"Thursday, April 11th 2024, 5:25:44 pm","date_modified":"Saturday, April 13th 2024, 9:42:35 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/index/","PassFrontmatter":true}
 ---
 
 
