@@ -1,5 +1,5 @@
 ---
-{"id":"baa310aa-bf9b-4773-b882-a6ef18ed7f39","title":"Hildegart","description":"The Secretary of Eckart was situated at the base of the Mage Tower of Narre.","isActivePartyMember":false,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:46 pm","date_modified":"Thursday, April 11th 2024, 10:05:00 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/hildegart/","PassFrontmatter":true}
+{"id":"baa310aa-bf9b-4773-b882-a6ef18ed7f39","title":"Hildegart","description":"The Secretary of Eckart was situated at the base of the Mage Tower of Narre.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:46 pm","date_modified":"Saturday, April 13th 2024, 9:02:09 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/hildegart/","PassFrontmatter":true}
 ---
 
 
