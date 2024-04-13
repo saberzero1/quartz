@@ -3,7 +3,7 @@
 ---
 
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apthecary Guild Building\|Wildt's Apthecary Guild Building]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apothecary Guild Building\|Wildt's Apothecary Guild Building]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|Wildt's Armory]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|Wildt's Fair]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|Wildt's Gate]]
