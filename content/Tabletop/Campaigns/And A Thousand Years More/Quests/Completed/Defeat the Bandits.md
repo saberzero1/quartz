@@ -1,5 +1,5 @@
 ---
-{"id":"ad2c0031-5fd7-4988-b026-994a11d641e8","title":"Defeat the Bandits","description":"A bunch of bandits are causing ruckus in the woods between Opeden and Narre. Find out where they are hiding and defeat them.","publish":true,"date_created":"Monday, February 27th 2023, 10:16:43 am","date_modified":"Wednesday, April 10th 2024, 8:33:21 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/defeat-the-bandits/","PassFrontmatter":true}
+{"id":"ad2c0031-5fd7-4988-b026-994a11d641e8","title":"Defeat the Bandits","description":"A bunch of bandits are causing ruckus in the woods between Opeden and Narre. Find out where they are hiding and defeat them.","publish":true,"date_created":"Monday, February 27th 2023, 10:16:43 am","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/defeat-the-bandits/","PassFrontmatter":true}
 ---
 
 
