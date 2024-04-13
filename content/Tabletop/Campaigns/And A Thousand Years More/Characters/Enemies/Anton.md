@@ -1,5 +1,5 @@
 ---
-{"id":"2333729d-f77c-4694-9ff3-9908feb8d9de","title":"Anton","description":"Got outplayed by Norrix.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, July 2nd 2023, 4:38:49 pm","date_modified":"Saturday, April 13th 2024, 9:01:51 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/anton/","PassFrontmatter":true}
+{"id":"2333729d-f77c-4694-9ff3-9908feb8d9de","title":"Anton","description":"Got outplayed by Norrix.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, July 2nd 2023, 4:38:49 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/anton/","PassFrontmatter":true}
 ---
 
 
