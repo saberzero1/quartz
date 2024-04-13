@@ -39,9 +39,9 @@
 
 ---
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]] to fight for the champion spot. A mean looking bear, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]], is the prospective champion. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] challenges him for the spot. #Character #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]] immediately defeats [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]. #Character #Event
-- A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|gorilla]] defeats [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]]. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]] to fight for the champion spot. A mean looking bear, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]], is the prospective champion. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] challenges him for the spot. #Character #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] immediately defeats [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]. #Character #Event
+- A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|gorilla]] defeats [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]]. #Character #Event
 
 ---
 
@@ -57,8 +57,8 @@
 
 ---
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] shadows [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]] into the a dark alley as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|he]] suddenly turns around as he grabs his sword. #Character #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] strikes [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]], striking [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|him]] down in a single strike. Then [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|he]] kills [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]] with his own sword and takes his head and sword. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] shadows [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] into the a dark alley as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|he]] suddenly turns around as he grabs his sword. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] strikes [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]], striking [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|him]] down in a single strike. Then [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|he]] kills [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] with his own sword and takes his head and sword. #Character #Event
 
 ---
 
@@ -76,7 +76,7 @@
 
 ---
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] convinces me that [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]] attacked [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|him]]. I warn the unnamed gorilla. #Event #Character
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] convinces me that [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] attacked [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|him]]. I warn the unnamed gorilla. #Event #Character
 
 ---
 
@@ -86,7 +86,7 @@
 ---
 
 - Rumors quickly spread around the area. #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]] gets dragged to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]] for an interrogation about [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Ulvar\|Ulvar]].
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]] gets dragged to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]] for an interrogation about [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]].
 
 ---
 
