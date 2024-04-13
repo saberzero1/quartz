@@ -1,5 +1,5 @@
 ---
-{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 11:44:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
+{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 11:54:09 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
 ---
 
 
@@ -25,8 +25,7 @@
 
 - Suddenly [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] barges in. "Guys, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] is sneaking out of town towards the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Forest\|woods]]." #Character #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] quickly agree to tail [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|him]]. #Character #Faction #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] follow [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven
-- ]] to the outskirts of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. Suddenly, he turns around and looks at us. #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] follow [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] to the outskirts of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. Suddenly, he turns around and looks at us. #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] quickly dash towards [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]. "Hey Steven" I muster as innocently as I can. "I heard the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|bandits]] near [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] were all supposedly monkeys. Have you heard anything about it?" #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] shakes his head. "I have not. Anything else?" #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] shake my head, trying my best to convincingly look disappointed. #Character #Event
