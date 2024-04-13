@@ -728,18 +728,21 @@ span.internal-embed.markdown-embed.inline-embed {
   > .markdown-embed > blockquote.callout {
     margin: 0;
   }
+  span.embed-single > .internal-embed.markdown-embed.inline-embed,
   span.embed-splitter > .internal-embed.markdown-embed.inline-embed {
     display: inline-block;
     margin: 0;
     width: 100%;
   }
   > a.markdown-embed-link,
+  span.embed-single > a.markdown-embed-link,
   span.embed-splitter > a.markdown-embed-link {
     display: inline;
     position: absolute;
     top: 15px;
     right: 15px;
   }
+  span.embed-single,
   span.embed-splitter {
     position: relative;
     display: block;
