@@ -15,7 +15,7 @@
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. #Faction #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]] as the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|rest of the party]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|guild building]]. #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]] as the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|rest of the party]] heads to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|guild building]]. #Character #Faction #Location #Event
 
 ---
 
@@ -25,9 +25,9 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] walk towards the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] enter the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. Immediately we notice a ring where a gorilla and a bat are fighting. The bat quickly gets defeated by the way bigger opponent. #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] looks at [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] and nods, and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] nods back. Shortly after [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] enters the ring as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] bets money on his victory. #Character #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] see a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] in the corner and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] at the bar. I walk up to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]]. #Character #Event
-- "Did you get in?" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] asks. "No," [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] respond. "We need [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|a red badge]]." #Character #Item #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] order two beers and take them to the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] while [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] is scribbling [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|something]] with his makeup. #Character #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] see a [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] in the corner and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] at the bar. I walk up to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]]. #Character #Event
+- "Did you get in?" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] asks. "No," [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] respond. "We need [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|a red badge]]." #Character #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] order two beers and take them to the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] while [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] is scribbling [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|something]] with his makeup. #Character #Item #Event
 
 ---
 
@@ -36,12 +36,12 @@
 
 ---
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] steals a quest from the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|guild]]. #Item #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] steals a quest from the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|guild]]. #Item #Location #Event
 
 ---
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] meet [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. #Character #Faction #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Graveyard/Morale\|Morale]] confesses stealing the quest. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] confesses stealing the quest. #Character #Event
 
 ---
 
