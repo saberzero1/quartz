@@ -4,17 +4,17 @@
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/index\|Misc]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins\|Leftovers of the Paladins]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Hornwaldia Adventurer's Guild]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Church of S'Allamer\|Church of S'Allamer]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Hornwaldia Adventurer's Guild]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins\|Leftovers of the Paladins]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|Party]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/index\|Narre]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Druids of Narre\|Druids of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre\|Farmers of Narre]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|Keep Guards of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre\|Mages of Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Miners of Narre]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|Keep Guards of Narre]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/index\|Opeden]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits of Opeden]]
@@ -66,7 +66,7 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] quickly dash towards [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]. "Hey Steven" I muster as innocently as I can. "I heard the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|bandits]] near [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] were all supposedly monkeys. Have you heard anything about it?" #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] follow [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] to the outskirts of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]]. Suddenly, he turns around and looks at us. #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] quickly agree to tail [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|him]]. #Character #Faction #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: "Leon. Terrible." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] responds. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to Narre. Business has been down as a result. [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: "Leon. Terrible." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] responds. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. Business has been down as a result. [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event #Location
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] enter the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] sits at a table, looking a bit desperate. #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to spend the night at the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. The next day, we prepare to head out on a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest]]. #Faction #Location #Quest #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] meet [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. #Character #Faction #Location #Event
