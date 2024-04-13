@@ -1,5 +1,5 @@
 ---
-{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","description":"Session 1","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:18:36 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
+{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","description":"Session 1","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 7:16:46 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
 ---
 
 
@@ -32,7 +32,7 @@
 ---
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wait until the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] is done with his story and hand him a beer. The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] introduces himself as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]], a story collector. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|He]] informs me about a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Character #Quest #Location #Event
-- I look back to the ring to see how the others are doing. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] seems to have defeated the gorilla spectacularly. Meanwhile [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] is counting his returns on the bet. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] look back to the ring to see how the others are doing. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] seems to have defeated the gorilla spectacularly. Meanwhile [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] is counting his returns on the bet. #Character #Event
 
 ---
 
