@@ -1,5 +1,5 @@
 ---
-{"id":"2d28d2ea-7ac7-4349-ad29-c37c37633a3c","title":"Mages of Narre","description":"A mysterious cabal of mages had once held dominion over the lands of Narre, their power derived from their mastery of mind-based magicks.","publish":true,"date_created":"Tuesday, February 28th 2023, 1:28:19 pm","date_modified":"Wednesday, April 10th 2024, 8:59:43 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/mages-of-narre/","PassFrontmatter":true}
+{"id":"2d28d2ea-7ac7-4349-ad29-c37c37633a3c","title":"Mages of Narre","description":"A mysterious cabal of mages had once held dominion over the lands of Narre, their power derived from their mastery of mind-based magicks.","publish":true,"date_created":"Tuesday, February 28th 2023, 1:28:19 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Mages of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/mages-of-narre/","PassFrontmatter":true}
 ---
 
 
