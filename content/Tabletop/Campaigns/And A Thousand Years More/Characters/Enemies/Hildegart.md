@@ -1,9 +1,9 @@
 ---
-{"id":"baa310aa-bf9b-4773-b882-a6ef18ed7f39","title":"Hildegart","description":"The Secretary of Eckart was situated at the base of the Mage Tower of Narre.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:46 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/hildegart/","PassFrontmatter":true}
+{"id":"baa310aa-bf9b-4773-b882-a6ef18ed7f39","title":"Hildegart","description":"The Secretary of Eckart was situated at the base of the Mage Tower of Narre.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:46 pm","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/hildegart/","PassFrontmatter":true}
 ---
 
 
-![Banner-Hildegart-polaroid.jpg|200](../../../../../Media/IronClaw/Polaroid/Banner-Hildegart-polaroid.jpg)
+![Media/IronClaw/Polaroid/Banner-Hildegart-polaroid.jpg|200](../../../../../Media/IronClaw/Polaroid/Banner-Hildegart-polaroid.jpg)
 
 Hildegart, the Secretary of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] was situated at the base of the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|Mage Tower]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]], a magical structure of great renown. Its walls were lined with esoteric runes and symbols, a reminder of the arcane power that resided within. The Secretary presided over a vast array of documents, all related to the secrets and mysteries of the magical realm.
 
