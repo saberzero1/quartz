@@ -31,6 +31,8 @@ WORK IN PROGRESS.
 
 #### Party Inventory
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Dagger\|Dagger]] x 22
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] x 17
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrow]] x 2
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]] x 1
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] x 1
