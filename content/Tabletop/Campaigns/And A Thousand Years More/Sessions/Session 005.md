@@ -1,12 +1,14 @@
 ---
-{"id":"a6c4c4ba-b252-42d8-9225-2d48aad4e819","title":"Session 005","description":"Session 5","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Thursday, April 11th 2024, 4:16:05 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-005/","PassFrontmatter":true}
+{"id":"a6c4c4ba-b252-42d8-9225-2d48aad4e819","title":"Session 005","description":"Session 5","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 8:00:30 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-005/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]] }
 
 > [!SUMMARY] Session 5 keypoints
-> - Nothing.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] spent some time [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|preparing]] and [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|gathering intel]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] made some [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Grandma's Cookies\|Cookies]] and gave them to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|guards]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] worked together with the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Mine workers]] to attack the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|keep]].
 { #Session005summary}
 
 
