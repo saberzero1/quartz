@@ -1,5 +1,5 @@
 ---
-{"id":"20c4ec49-957c-4d5a-a9e3-c998c2f75c44","title":"Writing Kit","description":"My father's writing kit.","isInCurrentInventory":true,"amountHeld":1,"publish":true,"date_created":"Sunday, March 5th 2023, 6:42:58 pm","date_modified":"Thursday, April 11th 2024, 10:42:36 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/writing-kit/","PassFrontmatter":true}
+{"id":"20c4ec49-957c-4d5a-a9e3-c998c2f75c44","title":"Writing Kit","description":"My father's writing kit.","isInCurrentInventory":true,"amountHeld":1,"publish":true,"date_created":"Sunday, March 5th 2023, 6:42:58 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/writing-kit/","PassFrontmatter":true}
 ---
 
 
