@@ -1,5 +1,5 @@
 ---
-{"id":"fc2b8797-65e3-41c1-add0-25ee2c542380","title":"Aleksi","description":"This Fruit Bat Bard was a mysterious figure that followed the party of adventurers, always seeking new stories to tell.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:21 pm","date_modified":"Saturday, April 13th 2024, 9:01:17 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/aleksi/","PassFrontmatter":true}
+{"id":"fc2b8797-65e3-41c1-add0-25ee2c542380","title":"Aleksi","description":"This Fruit Bat Bard was a mysterious figure that followed the party of adventurers, always seeking new stories to tell.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:21 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/aleksi/","PassFrontmatter":true}
 ---
 
 
