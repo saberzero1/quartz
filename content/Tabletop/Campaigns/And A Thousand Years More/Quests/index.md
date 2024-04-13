@@ -4,24 +4,24 @@
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/index\|Active]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find my parents\|Find my parents]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find Eckart\|Find Eckart]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find my parents\|Find my parents]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/index\|Completed]]: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|Clear the Farms of Punching Onions]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Clear the Sky Moss]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Defeat the Bandits]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|Clear the Farms of Punching Onions]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|Free Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|Defeat the Gourdlings]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|Free Narre]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free the Miners\|Free the Miners]]
 
 
 
 ## System
 
-- [ ] Find out where Eckart is hiding. #Quest
 - [ ] Find out what happened to my parents. #Quest
 - [ ] Get the people responsible punished. #Quest
+- [ ] Find out where Eckart is hiding. #Quest
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|I]] want [[{05} Others/Templates/Resources/Tabletop/Party\|you]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|clear a field of Onions]] near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Farmfields\|outskirts of Narre]]. [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|They]]…pack a punch. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|Hildegart]] will give you the details. Report to me when you are done." Eckart turns around and walks upstairs. #Character #Faction #Quest #Location #Bestiary #Event
@@ -35,7 +35,7 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] points [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|us]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|another quest]]: a bunch of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|Gourdlings]] are causing trouble to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|north]]. #Bestiary #Character #Faction #Quest #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: As [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|we]] approach [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden\|Opeden]], we notice a cloud of [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Sky Moss]] hanging above the town. It appears to be slowly hovering towards the east, towards [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Faction #Location #Quest #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] prepare to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|confront]] the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|bandits]]. #Faction #Quest #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: "Leon. Terrible." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] responds. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to Narre. Business has been down as a result. [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: "Leon. Terrible." The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] responds. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Opeden/Bandits of Opeden\|Bandits]] in the woods nearby make it impossible to travel to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. Business has been down as a result. [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Can't travel as long as those monkeys are hiding there]]." #Character #Faction #Quest #Event #Location
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to spend the night at the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. The next day, we prepare to head out on a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest]]. #Faction #Location #Quest #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wait until the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] is done with his story and hand him a beer. The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] introduces himself as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]], a story collector. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|He]] informs me about a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Character #Quest #Location #Event
 
@@ -43,14 +43,14 @@
 - [x] Make a plan to get into the Keep #Quest
     - [x] Get some sleeping cookies #Quest
 - [x] Free the Miners #Quest
+- [x] Defeat the resistance defending the Mage Tower #Quest
+- [x] Free Narre from the Mages #Quest
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
-- [x] Defeat the resistance defending the Mage Tower #Quest
-- [x] Free Narre from the Mages #Quest
-- [x] Defeat the Punching Onions in the Farmlands near Narre. #Quest
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
 - [x] Clear the Sky Moss #Quest
+- [x] Defeat the Punching Onions in the Farmlands near Narre. #Quest
 
