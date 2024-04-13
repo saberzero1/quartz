@@ -5,12 +5,14 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/index\|Consumable]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrow]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Grandma's Cookies\|Grandma's Cookies]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Druidic Sleep Medicine\|Druidic Sleep Medicine]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/index\|Equipment]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Dagger\|Dagger]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/index\|Gifts]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool\|Blatant Fool]]
@@ -34,6 +36,7 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Blue Level Guild Badge\|Blue Level Guild Badge]]
 
 
 
