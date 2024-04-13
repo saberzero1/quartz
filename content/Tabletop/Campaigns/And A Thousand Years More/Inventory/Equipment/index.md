@@ -3,6 +3,8 @@
 ---
 
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Dagger\|Dagger]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]
 
