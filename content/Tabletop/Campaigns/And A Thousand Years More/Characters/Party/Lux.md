@@ -1,9 +1,9 @@
 ---
-{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","description":"Luvia Lux Scientia.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
+{"id":"6ec1ca1d-07a7-4740-b463-564da624a02e","title":"Lux","description":"Luvia Lux Scientia.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Friday, January 13th 2023, 8:44:17 am","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/lux/","PassFrontmatter":true}
 ---
 
 
-![Banner-Lux-polaroid.png|200](../../../../../Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
+![Media/IronClaw/Polaroid/Banner-Lux-polaroid.png|200](../../../../../Media/IronClaw/Polaroid/Banner-Lux-polaroid.png)
 
 ## Description
 
