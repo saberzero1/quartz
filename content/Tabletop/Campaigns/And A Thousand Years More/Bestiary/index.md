@@ -1,5 +1,5 @@
 ---
-{"id":"8566725e-d787-4012-be93-029362217eb9","title":"Bestiary","description":"Bestiary of IronClaw.","publish":true,"date_created":"Thursday, March 21st 2024, 10:56:07 pm","date_modified":"Wednesday, April 10th 2024, 9:23:11 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/index/","PassFrontmatter":true}
+{"id":"8566725e-d787-4012-be93-029362217eb9","title":"Bestiary","description":"Bestiary of IronClaw.","publish":true,"date_created":"Thursday, March 21st 2024, 10:56:07 pm","date_modified":"Saturday, April 13th 2024, 9:41:24 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/index/","PassFrontmatter":true}
 ---
 
 
