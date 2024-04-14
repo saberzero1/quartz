@@ -5,8 +5,8 @@
 
 A town known for it's fairs. It is located near a river.
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apothecary Guild Building\|Wildt's Apothecary Guild Building]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|Wildt's Armory]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apothecary Guild Building\|Wildt's Apothecary Guild Building]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|Wildt's Fair]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|Wildt's Gate]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]]
