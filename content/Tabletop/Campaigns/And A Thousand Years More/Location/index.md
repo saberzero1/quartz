@@ -1,5 +1,5 @@
 ---
-{"id":"6cc7c89a-ba92-41e9-b88c-81a288cae15f","title":"Location","description":"Locations of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:08:07 pm","date_modified":"Saturday, April 13th 2024, 9:43:43 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","PassFrontmatter":true}
+{"id":"6cc7c89a-ba92-41e9-b88c-81a288cae15f","title":"Location","description":"Locations of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:08:07 pm","date_modified":"Monday, April 15th 2024, 12:49:29 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","PassFrontmatter":true}
 ---
 
 
@@ -9,6 +9,27 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]
 
 
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Narre.md\|Narre]]: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Druid Circle\|Druid Circle]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Farmfields\|Narre's Farmfields]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|Narre's Keep]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|Wizard Tower]]
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Opeden.md\|Opeden]]: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Abandoned Windmill\|Abandoned Windmill]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Forest\|Opeden Forest]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building\|Opeden Guild Building]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|Opeden Tavern]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|Town Ruins]]
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Wildt.md\|Wildt]]: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apothecary Guild Building\|Wildt's Apothecary Guild Building]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|Wildt's Armory]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|Wildt's Gate]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|Wildt's Fair]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Town Center\|Wildt's Town Center]]
 
 
 
