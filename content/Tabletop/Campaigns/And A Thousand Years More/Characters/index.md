@@ -1,7 +1,15 @@
 ---
-{"id":"8254b77b-5941-402d-a6db-2ba7edb8494c","title":"Characters","description":"Characters we met.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:56:04 pm","date_modified":"Saturday, April 13th 2024, 9:40:04 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/index/","PassFrontmatter":true}
+{"id":"8254b77b-5941-402d-a6db-2ba7edb8494c","title":"Characters","description":"Characters we met.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:56:04 pm","date_modified":"Sunday, April 14th 2024, 9:20:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/index/","PassFrontmatter":true}
 ---
 
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/index\|Party]]: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Poppins\|Poppins]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] †
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/index\|Allies]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]]
@@ -9,24 +17,16 @@
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]]
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/index\|Neutral]]: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter\|Peter]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|Sir Andre]]
+
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/index\|Enemies]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|Hildegart]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] †
-
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/index\|Neutral]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter\|Peter]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|Sir Andre]]
-
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/index\|Party]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] †
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Poppins\|Poppins]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]]
 
 
 
@@ -39,13 +39,13 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] climbs to the window that [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]] in sleeping on, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|he]] makes a lot of noise, throws the sword into the room, heads back the party and explains the preceding events. #Character #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] stay in the Tavern. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] tails the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|gorilla]]. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] convinces me that [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] attacked [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|him]]. I warn the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|gorilla]]. #Event #Character
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] make sure to get the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|gorilla]] drunk in order to be able to make escape. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] make sure to get the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|gorilla]] drunk in order to be able to make my escape. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|Sir Andre]] explains [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] the rules of the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|fair]]. It's a deathmatch. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: A guard walks [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|Sir Andre]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|He]] offers [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] a new uniform to fight in to hide his identity. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|He]] agrees. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: After a while, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|Sir Andre]] enters the room and announces the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Apothecary Guild\|guild champion]]. It's [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]]. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Gorilla]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] go for a drink. Wine's on him. #Character #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] strikes [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]], striking [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|him]] down in a single strike. Then [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|he]] kills [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] with his own sword and takes his head and sword. #Character #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] shadows [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] into the a dark alley as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|he]] suddenly turns around as he grabs his sword. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] swings at [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]], striking [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|him]] down in a single strike. Then [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|he]] kills [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] with his own sword and takes his head and sword. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] shadows [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]] into a dark alley as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|he]] suddenly turns around and grabs his sword. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] interview the unnamed gorilla. He keeps talking for four hours. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] write everything down. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] explains what happened to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|me]]. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre\|Sir Andre]] offers [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|him]] redemption in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|Ring]]. #Character #Location #Event
