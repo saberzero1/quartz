@@ -1,12 +1,12 @@
 ---
-{"id":"8ab1e45e-8058-4bd2-b189-c2d0ada2b629","title":"Wildt","description":"A town known for it's fairs. It is located near a river.","isCurrentLocation":false,"publish":true,"date_created":"Monday, February 27th 2023, 10:12:47 am","date_modified":"Thursday, April 11th 2024, 10:27:04 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/","PassFrontmatter":true}
+{"id":"8ab1e45e-8058-4bd2-b189-c2d0ada2b629","title":"Wildt","description":"A town known for it's fairs. It is located near a river.","isCurrentLocation":false,"publish":true,"date_created":"Monday, February 27th 2023, 10:12:47 am","date_modified":"Monday, April 15th 2024, 1:00:53 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/","PassFrontmatter":true}
 ---
 
 
 A town known for it's fairs. It is located near a river.
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|Wildt's Armory]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apothecary Guild Building\|Wildt's Apothecary Guild Building]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|Wildt's Armory]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|Wildt's Fair]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|Wildt's Gate]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]]

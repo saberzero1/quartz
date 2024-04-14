@@ -1,5 +1,5 @@
 ---
-{"id":"0962430c-f877-4dee-8fb4-c56756a71697","title":"Faction","description":"Factions of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:02:04 pm","date_modified":"Saturday, April 13th 2024, 8:40:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/index/","PassFrontmatter":true}
+{"id":"0962430c-f877-4dee-8fb4-c56756a71697","title":"Faction","description":"Factions of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:02:04 pm","date_modified":"Monday, April 15th 2024, 1:00:51 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/index/","PassFrontmatter":true}
 ---
 
 

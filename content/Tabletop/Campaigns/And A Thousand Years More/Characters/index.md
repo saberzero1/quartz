@@ -1,5 +1,5 @@
 ---
-{"id":"8254b77b-5941-402d-a6db-2ba7edb8494c","title":"Characters","description":"Characters we met.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:56:04 pm","date_modified":"Sunday, April 14th 2024, 9:20:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/index/","PassFrontmatter":true}
+{"id":"8254b77b-5941-402d-a6db-2ba7edb8494c","title":"Characters","description":"Characters we met.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:56:04 pm","date_modified":"Monday, April 15th 2024, 1:00:09 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/index/","PassFrontmatter":true}
 ---
 
 

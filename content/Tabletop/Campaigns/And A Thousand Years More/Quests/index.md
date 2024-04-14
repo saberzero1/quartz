@@ -1,5 +1,5 @@
 ---
-{"id":"fdf7f206-318a-427d-ab03-930146a811c8","title":"Quests","description":"Quests overview.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:42:12 pm","date_modified":"Sunday, April 14th 2024, 11:12:34 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/index/","PassFrontmatter":true}
+{"id":"fdf7f206-318a-427d-ab03-930146a811c8","title":"Quests","description":"Quests overview.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:42:12 pm","date_modified":"Monday, April 15th 2024, 12:54:44 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/index/","PassFrontmatter":true}
 ---
 
 
@@ -43,25 +43,15 @@
 </ul>
 </div></div></div></span></span></span></div>
 
-<!--- [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/index\|Active]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find Eckart\|Find Eckart]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find my parents\|Find my parents]]
+## Unavailable Quests
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/index\|Completed]]: 
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|Clear the Farms of Punching Onions]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|Clear the Sky Moss]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|Defeat the Bandits]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|Defeat the Gourdlings]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|Free Narre]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free the Miners\|Free the Miners]]
-
--->
+<div class="dataview-embed dataview-callout-list"><span></span></div>
 
 ## System
 
-- [ ] Find out where Eckart is hiding. #Quest
 - [ ] Find out what happened to my parents. #Quest
 - [ ] Get the people responsible punished. #Quest
+- [ ] Find out where Eckart is hiding. #Quest
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|I]] want [[{05} Others/Templates/Resources/Tabletop/Party\|you]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Farms of Punching Onions\|clear a field of Onions]] near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Farmfields\|outskirts of Narre]]. [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|They]]…pack a punch. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Hildegart\|Hildegart]] will give you the details. Report to me when you are done." Eckart turns around and walks upstairs. #Character #Faction #Quest #Location #Bestiary #Event
@@ -82,17 +72,17 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] wait until the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] is done with his story and hand him a beer. The [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|bard]] introduces himself as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]], a story collector. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|He]] informs me about a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest regarding some monkey bandits]] on the road toward [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]. #Character #Quest #Location #Event
 
 
-- [x] Defeat the Punching Onions in the Farmlands near Narre. #Quest
+- [x] Make a plan to get into the Keep #Quest
+    - [x] Get some sleeping cookies #Quest
+- [x] Free the Miners #Quest
+- [x] Defeat the resistance defending the Mage Tower #Quest
+- [x] Free Narre from the Mages #Quest
+- [x] Find out where the bandits are hiding. #Quest
+    - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
+- [x] Defeat the bandits. #Quest
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
 - [x] Clear the Sky Moss #Quest
-- [x] Find out where the bandits are hiding. #Quest
-    - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
-- [x] Defeat the bandits. #Quest
-- [x] Defeat the resistance defending the Mage Tower #Quest
-- [x] Free Narre from the Mages #Quest
-- [x] Make a plan to get into the Keep #Quest
-    - [x] Get some sleeping cookies #Quest
-- [x] Free the Miners #Quest
+- [x] Defeat the Punching Onions in the Farmlands near Narre. #Quest
 
