@@ -1,10 +1,10 @@
 ---
-{"id":"af5cc3f8-89b8-4183-aeff-574c07aecaae","title":"Free the Miners","description":"A group of Miners has been locked up in Narre's Keep. Liberate them.","sessionReceived":5,"sessionCompleted":6,"publish":true,"date_created":"Thursday, March 2nd 2023, 6:35:09 pm","date_modified":"Sunday, April 14th 2024, 10:40:34 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free the Miners.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/free-the-miners/","PassFrontmatter":true}
+{"id":"af5cc3f8-89b8-4183-aeff-574c07aecaae","title":"Free the Miners","description":"A group of Miners has been locked up in Narre's Keep. Liberate them.","sessionReceived":5,"sessionCompleted":6,"publish":true,"date_created":"Thursday, March 2nd 2023, 6:35:09 pm","date_modified":"Sunday, April 14th 2024, 10:51:29 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free the Miners.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/free-the-miners/","PassFrontmatter":true}
 ---
 
 
 > [!SUCCESS] Free the miners
-> A group of Miners has been locked up in Narre's Keep. Liberate them.
+> - A group of Miners has been locked up in Narre's Keep. Liberate them.
 { #embedmarker}
 
 
