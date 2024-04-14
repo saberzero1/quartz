@@ -727,6 +727,7 @@ span.internal-embed.markdown-embed.inline-embed {
   padding: 0;
   > .markdown-embed > blockquote.callout {
     margin: 0;
+    overflow: visible;
   }
   span.embed-single > .internal-embed.markdown-embed.inline-embed,
   span.embed-splitter > .internal-embed.markdown-embed.inline-embed {
