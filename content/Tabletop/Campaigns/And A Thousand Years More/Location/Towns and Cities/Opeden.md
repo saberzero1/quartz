@@ -1,5 +1,5 @@
 ---
-{"id":"405c70b1-c9a2-4130-aed6-be073144411d","title":"Opeden","description":"A town with a Guild Building. It is located near some woods.","isCurrentLocation":false,"publish":true,"date_created":"Monday, February 27th 2023, 10:12:26 am","date_modified":"Monday, April 15th 2024, 12:46:45 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/","PassFrontmatter":true}
+{"id":"405c70b1-c9a2-4130-aed6-be073144411d","title":"Opeden","description":"A town with a Guild Building. It is located near some woods.","isCurrentLocation":false,"publish":true,"date_created":"Monday, February 27th 2023, 10:12:26 am","date_modified":"Monday, April 15th 2024, 1:00:53 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/","PassFrontmatter":true}
 ---
 
 
