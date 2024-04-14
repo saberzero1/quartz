@@ -80,9 +80,9 @@
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
+- [x] Clear the Sky Moss #Quest
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
-- [x] Clear the Sky Moss #Quest
 - [x] Defeat the Punching Onions in the Farmlands near Narre. #Quest
 
