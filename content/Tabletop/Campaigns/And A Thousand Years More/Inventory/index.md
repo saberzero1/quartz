@@ -44,6 +44,7 @@
 
 
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] sells his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|excess equipment]] for 110 Denari. #Character #Event #Item
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] also shows his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] introduces himself by showing his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
