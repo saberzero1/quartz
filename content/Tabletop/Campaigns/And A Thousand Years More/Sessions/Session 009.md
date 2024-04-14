@@ -1,5 +1,5 @@
 ---
-{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","description":"Session 9","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Saturday, April 13th 2024, 11:56:25 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
+{"id":"575aa2c3-7d44-49da-93a5-989cdf2ec176","title":"Session 009","description":"Session 9","publish":true,"date_created":"Sunday, July 2nd 2023, 1:56:09 pm","date_modified":"Sunday, April 14th 2024, 2:57:54 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-009/","PassFrontmatter":true}
 ---
 
 
@@ -10,21 +10,21 @@
 { #Session009summary}
 
 
-- We spend two days traveling to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]. It's the first of Rowan. #Event #Location
-- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]] is a walled-off city with a river flowing through. #Location
-- We come across some rough-looking mercenaries near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|entrance]]. They ask us for identification. #Event #Location
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] spend two days traveling to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]. It's the first of Rowan. #Event #Location #Faction
+- [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]] is a walled-off city with a river flowing through. #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] come across some [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild\|rough-looking mercenaries]] near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|entrance]]. They ask us for identification. #Event #Location #Faction
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] introduces himself by showing his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] also shows his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories. #Character #Item #Event
 
 ---
 
-- We arrive at the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Town Center\|town center]]. It hovers over the river running through the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|city]]. It is surrounded by building with four banners. #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] ask one of the townsfolks for information of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|the competition]]. He explains there will be two rounds in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Town Center\|town center]]. The first round will be for points and the second round will be one-on-one fights. Both two main parties are still looking for a champions. #Character #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] arrive at the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Town Center\|town center]]. It hovers over the river running through the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|city]]. It is surrounded by building with four banners. #Location #Event #Faction
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] ask one of the townsfolks for information of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|the competition]]. He explains there will be two rounds in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Town Center\|town center]]. The first round will be for points and the second round will be one-on-one fights. Both of the two main parties, the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Apothecary Guild\|Apothecaries]] and the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild\|Mercenaries]], are still looking for a champions. #Character #Location #Event #Faction
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] suggest contacting the two main parties to look for equipment and lodging. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] wants to learn to read. #Character #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] wants look for favor in a temple. There is a small temple of [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Church of S'Allamer\|S'Allamer]]. #Character #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] decide to participate in the in the second round. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] both decide to participate in the in the second round. #Character #Event
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] walks up to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|armorer]], looking to sell some excess equipment. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] throws all of his excess equipment on the counter. #Character #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] sells his excess equipment for 110 Denari. #Character #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] sells his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|excess equipment]] for 110 Denari. #Character #Event #Item
 
 ---
 
@@ -85,12 +85,12 @@
 
 ---
 
-- Rumors quickly spread around the area. #Location #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]] gets dragged to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]] for an interrogation about [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]].
+- Rumors quickly spread around [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|the area]]. #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Anton\|Anton]] gets dragged to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]] for an interrogation about [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar\|Ulvar]]. #Character #Location #Event
 
 ---
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] gets interrogated by the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild\|Wildt Mercenary Guild]] with nine others.
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] gets interrogated by the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild\|Wildt Mercenary Guild]] with nine others. #Character #Faction #Event
 
 ---
 
