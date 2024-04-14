@@ -1,5 +1,5 @@
 ---
-{"id":"6cc7c89a-ba92-41e9-b88c-81a288cae15f","title":"Location","description":"Locations of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:08:07 pm","date_modified":"Monday, April 15th 2024, 12:49:29 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","PassFrontmatter":true}
+{"id":"6cc7c89a-ba92-41e9-b88c-81a288cae15f","title":"Location","description":"Locations of IronClaw","publish":true,"date_created":"Thursday, March 21st 2024, 11:08:07 pm","date_modified":"Monday, April 15th 2024, 1:00:51 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/index/","PassFrontmatter":true}
 ---
 
 
@@ -26,8 +26,8 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Location/Wildt.md\|Wildt]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Apothecary Guild Building\|Wildt's Apothecary Guild Building]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|Wildt's Armory]]
-    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|Wildt's Gate]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|Wildt's Fair]]
+    - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|Wildt's Gate]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Mercenary Guild Building\|Wildt's Mercenary Guild Building]]
     - [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Town Center\|Wildt's Town Center]]
 
