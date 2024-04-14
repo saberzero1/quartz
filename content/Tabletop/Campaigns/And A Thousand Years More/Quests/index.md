@@ -1,5 +1,5 @@
 ---
-{"id":"fdf7f206-318a-427d-ab03-930146a811c8","title":"Quests","description":"Quests overview.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:42:12 pm","date_modified":"Monday, April 15th 2024, 12:42:04 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/index/","PassFrontmatter":true}
+{"id":"fdf7f206-318a-427d-ab03-930146a811c8","title":"Quests","description":"Quests overview.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:42:12 pm","date_modified":"Monday, April 15th 2024, 12:54:44 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/index/","PassFrontmatter":true}
 ---
 
 
@@ -80,9 +80,9 @@
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
-- [x] Clear the Sky Moss #Quest
 - [x] Find out where the bandits are hiding. #Quest
     - [x] Learn of [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]]'s involvement. #Quest
 - [x] Defeat the bandits. #Quest
+- [x] Clear the Sky Moss #Quest
 - [x] Defeat the Punching Onions in the Farmlands near Narre. #Quest
 
