@@ -727,7 +727,6 @@ span.internal-embed.markdown-embed.inline-embed {
   padding: 0;
   > .markdown-embed > blockquote.callout {
     margin: 0;
-    overflow: visible;
   }
   span.embed-single > .internal-embed.markdown-embed.inline-embed,
   span.embed-splitter > .internal-embed.markdown-embed.inline-embed {
@@ -911,6 +910,7 @@ body:not([data-slug^="tags/"]) .popover-hint.mado-heading > article,
   width: calc(100% - 2px);
   border-radius: var(--button-radius);
   transition: background 0.1s;
+  overflow: visible;
 }
 .mado-heading > .callout .callout-title {
   padding: 17px 23px;
