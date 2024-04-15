@@ -1,17 +1,21 @@
 ---
-{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Saturday, April 13th 2024, 11:54:09 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
+{"id":"2fe49290-764b-48ea-8f62-0199e1ba7b25","title":"Session 002","description":"Session 2","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Monday, April 15th 2024, 6:04:23 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-002/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }
+
+---
 
 > [!SUMMARY] Session 2 keypoints
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] helped [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] by [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|allowing safe passage]] to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]].
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] cleared out [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|some abandoned ruins]] from [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|some gourdlings]] that were [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|causing trouble]].
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learned of a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|mossy cloud]] floating towards [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]].
 > - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|Our adventurers guild badge]] was upgraded to [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|the next rank]].
-{ #Session002summary}
+{ #embedmarker}
 
+
+---
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] enter the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. A [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|figure]] sits at a table, looking a bit desperate. #Character #Faction #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] walk up to [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|the figure]]. "Hi, I'm [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|Lux]]. How are you?" #Character #Event
@@ -59,5 +63,7 @@
 ---
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] report the [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|Defeat the Gourdlings]] to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Guild]]. The next day they promote us to the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Faction #Quest #Item #Event
+
+---
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]] }

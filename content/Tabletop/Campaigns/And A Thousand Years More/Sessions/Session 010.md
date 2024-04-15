@@ -1,14 +1,18 @@
 ---
-{"id":"fe73ec5f-155f-43bc-bff2-b52b29b576d9","title":"Session 010","description":"Session 10","publish":true,"date_created":"Saturday, July 15th 2023, 11:54:51 am","date_modified":"Saturday, April 13th 2024, 11:44:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-010/","PassFrontmatter":true}
+{"id":"fe73ec5f-155f-43bc-bff2-b52b29b576d9","title":"Session 010","description":"Session 10","publish":true,"date_created":"Saturday, July 15th 2023, 11:54:51 am","date_modified":"Monday, April 15th 2024, 6:04:23 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 010.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-010/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] }
 
+---
+
 > [!SUMMARY] Session 10 keypoints
 > - Nothing.
-{ #Session010summary}
+{ #embedmarker}
 
+
+---
 
 - The next day rolls around.
 - I forge a letter during the night and change into my adventuring gear..
@@ -197,5 +201,7 @@
 
 - The guild master guides us back to the other parties.
 - We finished third.
+
+---
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]] }

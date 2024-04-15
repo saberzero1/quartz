@@ -1,14 +1,18 @@
 ---
-{"id":"5b358236-ce5c-11ee-8a4b-8f6743346103","title":"Session 015","description":"Session 15","publish":true,"date_created":"Sunday, February 18th 2024, 1:50:42 pm","date_modified":"Saturday, April 13th 2024, 11:44:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-015/","PassFrontmatter":true}
+{"id":"5b358236-ce5c-11ee-8a4b-8f6743346103","title":"Session 015","description":"Session 15","publish":true,"date_created":"Sunday, February 18th 2024, 1:50:42 pm","date_modified":"Monday, April 15th 2024, 6:04:24 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-015/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] }
 
+---
+
 > [!SUMMARY] Session 15 keypoints
 > - Nothing.
-{ #Session015summary}
+{ #embedmarker}
 
+
+---
 
 - We heard that the 'Keizer' of Acentum has visited Hornbach, they don;t like him there.
 - Eckart is in Hornbach as well.
@@ -64,5 +68,7 @@
 		- They explain that their leader is deeper down the cave, where he is 'communicating with the cosmos and universe'.
 		- We decide to pay their leader a visit…next session
 - **(+2 xp)**
+
+---
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 016\|Session 016]] }

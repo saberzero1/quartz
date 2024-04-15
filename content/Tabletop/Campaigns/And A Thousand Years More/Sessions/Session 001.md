@@ -1,5 +1,5 @@
 ---
-{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","description":"Session 1","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Sunday, April 14th 2024, 8:47:04 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
+{"id":"0aed420b-a49d-4636-bffa-c069faa35b38","title":"Session 001","description":"Session 1","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Monday, April 15th 2024, 5:55:52 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-001/","PassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 > - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] joined the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|Party]].
 > - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] instructed us on guild etiquette.
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] accepted a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Bandits\|quest to deal with some bandits]] from [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]].
-{ #Session001summary}
+{ #embedmarker}
 
 
 ---

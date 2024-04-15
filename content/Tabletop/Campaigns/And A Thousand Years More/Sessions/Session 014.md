@@ -1,14 +1,18 @@
 ---
-{"id":"de94e902-c284-11ee-a6a6-cf71f1063c1f","title":"Session 014","description":"Session 14","publish":true,"date_created":"Saturday, February 3rd 2024, 12:10:15 pm","date_modified":"Saturday, April 13th 2024, 11:44:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-014/","PassFrontmatter":true}
+{"id":"de94e902-c284-11ee-a6a6-cf71f1063c1f","title":"Session 014","description":"Session 14","publish":true,"date_created":"Saturday, February 3rd 2024, 12:10:15 pm","date_modified":"Monday, April 15th 2024, 6:04:24 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-014/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]] }
 
+---
+
 > [!SUMMARY] Session 14 keypoints
 > - Nothing.
-{ #Session014summary}
+{ #embedmarker}
 
+
+---
 
  - The quest to break into the vault has been removed and replaced with a quest to bring back the person who succeed and stole an valuable item.
  - We head to the tavern to recruit some more meatshields.
@@ -66,5 +70,7 @@
 	 - Ravahn recognizes it as Gundir, the legendary spear.
  - !!Do not look for legendary weapons in Lorinchem!! - The GM.
  - **(+1xp for session)**
+
+---
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013\|Session 013]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 015\|Session 015]] }
