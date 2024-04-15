@@ -1,14 +1,18 @@
 ---
-{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 13","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Saturday, April 13th 2024, 11:44:55 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
+{"id":"90a293f0-b200-11ee-906c-77f35569da21","title":"Session 013","description":"Session 13","publish":true,"date_created":"Tuesday, March 12th 2024, 1:39:36 am","date_modified":"Monday, April 15th 2024, 6:04:24 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 013.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-013/","PassFrontmatter":true}
 ---
 
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }
 
+---
+
 > [!SUMMARY] Session 13 keypoints
 > - Nothing.
-{ #Session013summary}
+{ #embedmarker}
 
+
+---
 
  - The party walks into the main square of Hohrinzem.
  - The main square is attached to the Adventurers Guild, The Great Vault, Tavern, and Barber.
@@ -79,5 +83,7 @@
 	 - Simon turns out to be innocent. I hand him the 4 Denari I found earlier. He seems happy with the (for him large sum of) money.
 	 - The previously falsely convicted Porcupine is released.
  - End of session **(+5xp)**
+
+---
 
 { [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 012\|Session 012]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/index\|Overview]] | [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 014\|Session 014]] }
