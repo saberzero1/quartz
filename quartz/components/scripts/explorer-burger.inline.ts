@@ -80,21 +80,13 @@ function toggleFolder(evt: MouseEvent) {
 function setupExplorer() {
   // Set click handler for collapsing entire explorer
   const allExplorers = document.querySelectorAll("#explorer") as NodeListOf<HTMLElement>
-  // Get current page path
-  const currentPagePath =
-    (document.querySelector(
-      ".breadcrumb-container > .breadcrumb-element:last-child > a",
-    )! as HTMLLinkElement).href ?? "/"
+
   for (const explorer of allExplorers) {
     // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
 
     // Convert to bool
     const useSavedFolderState = explorer?.dataset.savestate === "true"
-
-    // Use current page as path
-    const useCurrentPageForFolderState =
-      useSavedFolderState && explorer?.dataset.pagepathstate === "true"
 
     if (explorer) {
       // Get config
@@ -133,18 +125,8 @@ function setupExplorer() {
       : []
     currentExplorerState = []
 
-    if (useCurrentPageForFolderState) {
-      for (const { path, collapsed } of newExplorerState) {
-        //console.table([path, currentPagePath, !currentPagePath.includes(path.replace("../", ""))])
-        currentExplorerState.push({
-          path,
-          collapsed: !currentPagePath.includes(path.replace("../", "")),
-        })
-      }
-    } else {
-      for (const { path, collapsed } of newExplorerState) {
-        currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
-      }
+    for (const { path, collapsed } of newExplorerState) {
+      currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
     }
 
     currentExplorerState.map((folderState) => {
@@ -153,8 +135,7 @@ function setupExplorer() {
       ) as MaybeHTMLElement
       const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
       if (folderUl) {
-        //setFolderState(folderUl, folderState.collapsed)
-        setFolderState(folderUl, !currentPagePath.includes(folderState.path.replace("'", "-").replace("../", "")))
+        setFolderState(folderUl, folderState.collapsed)
       }
     })
   }
