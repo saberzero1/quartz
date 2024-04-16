@@ -138,7 +138,7 @@ function setupExplorer() {
         console.log(currentPagePath.href)
         currentExplorerState.push({
           path,
-          collapsed: currentPagePath.href.startsWith(path) ? false : true,
+          collapsed: currentPagePath.href.includes(path) ? false : true,
         })
       }
     } else {
