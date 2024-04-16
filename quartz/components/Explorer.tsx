@@ -13,6 +13,7 @@ const defaultOptions = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
+  usePagePath: true,
   mapFn: (node) => {
     return node
   },
@@ -90,6 +91,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-behavior={opts.folderClickBehavior}
           data-collapsed={opts.folderDefaultState}
           data-savestate={opts.useSavedState}
+          data-usepagepath={opts.usePagePath}
           data-tree={jsonTree}
         >
           <h1>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h1>
