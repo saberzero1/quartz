@@ -143,6 +143,24 @@ function setupExplorer() {
   }
 }
 
+function toggleExplorerFolders() {
+  const currentFile = (document.querySelector("body")?.getAttribute("data-slug") ?? "").replace(
+    /\/index$/g,
+    "",
+  )
+  const listToReplace = document.querySelectorAll(".folder-outer:has(> ul[data-folderul]")
+
+  listToReplace.forEach((element) => {
+    if (element.children.length > 0) {
+      if (currentFile.includes(element.firstElementChild?.getAttribute("data-folderul") ?? "")) {
+        if (!element.classList.contains("open")) {
+          element.classList.add("open")
+        }
+      }
+    }
+  })
+}
+
 window.addEventListener("resize", setupExplorer)
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -153,7 +171,7 @@ document.addEventListener("DOMContentLoaded", () => {
     content.classList.add("collapsed")
     content.style.maxHeight = "0px"
   }
-  setupExplorer()
+  toggleExplorerFolders()
 })
 
 document.addEventListener("nav", () => {
