@@ -81,9 +81,9 @@ function setupExplorer() {
   // Set click handler for collapsing entire explorer
   const allExplorers = document.querySelectorAll("#explorer") as NodeListOf<HTMLElement>
   // Get current page path
-  const currentPagePath = document.querySelector(".breadcrumb-element")?.hasChildNodes
-    ? document.querySelectorAll(".breadcrumb-element")[-1].querySelector("a")!.href
-    : "/"
+  const currentPagePath =
+    document.querySelector(".breadcrumb-container > .breadcrumb-element:last-child > a").href
+    ?? "/"
   for (const explorer of allExplorers) {
     // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
