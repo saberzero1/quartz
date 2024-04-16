@@ -1,5 +1,5 @@
 ---
-{"id":"7b20fd3b-bf5f-4d54-a2f7-3fc25856faa7","title":"Morale","description":"Morale Crow.","isActivePartyMember":false,"isAlive":false,"publish":true,"date_created":"Saturday, January 14th 2023, 10:34:43 am","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/morale/","PassFrontmatter":true}
+{"id":"7b20fd3b-bf5f-4d54-a2f7-3fc25856faa7","title":"Morale","description":"Morale Crow.","isActivePartyMember":false,"isAlive":false,"publish":true,"date_created":"Saturday, January 14th 2023, 10:34:43 am","date_modified":"Tuesday, April 16th 2024, 8:19:36 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/morale/","PassFrontmatter":true}
 ---
 
 
