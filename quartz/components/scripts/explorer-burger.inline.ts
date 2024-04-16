@@ -192,6 +192,8 @@ document.addEventListener("nav", () => {
   if (lastItem) {
     observer.observe(lastItem)
   }
+
+  toggleExplorerFolders()
 })
 
 /**
