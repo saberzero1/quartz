@@ -82,8 +82,9 @@ function setupExplorer() {
   const allExplorers = document.querySelectorAll("#explorer") as NodeListOf<HTMLElement>
   // Get current page path
   const currentPagePath =
-    document.querySelector(".breadcrumb-container > .breadcrumb-element:last-child > a").href
-    ?? "/"
+    (document.querySelector(
+      ".breadcrumb-container > .breadcrumb-element:last-child > a",
+    )! as HTMLLinkElement) ?? "/"
   for (const explorer of allExplorers) {
     // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
@@ -92,7 +93,8 @@ function setupExplorer() {
     const useSavedFolderState = explorer?.dataset.savestate === "true"
 
     // Use current page as path
-    const useCurrentPageForFolderState = useSavedFolderState && explorer?.dataset.pagepathstate
+    const useCurrentPageForFolderState =
+      useSavedFolderState && explorer?.dataset.pagepathstate === "true"
 
     if (explorer) {
       // Get config
@@ -133,9 +135,10 @@ function setupExplorer() {
 
     if (useCurrentPageForFolderState) {
       for (const { path } of newExplorerState) {
+        console.log(currentPagePath.href)
         currentExplorerState.push({
           path,
-          collapsed: currentPagePath.startsWith(path) ? false : true,
+          collapsed: currentPagePath.href.startsWith(path) ? false : true,
         })
       }
     } else {
