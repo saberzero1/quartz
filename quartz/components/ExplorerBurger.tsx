@@ -50,10 +50,10 @@ export default ((userOpts?: Partial<Options>) => {
   let fileTree: FileNode
   let jsonTree: string
 
-  function constructFileTree(allFiles: QuartzPluginData[]) {
-    if (fileTree) {
+  function constructFileTree(allFiles: QuartzPluginData[], currentFilePath: string) {
+    /*if (fileTree) {
       return
-    }
+    }*/
 
     // Construct tree from allFiles
     fileTree = new FileNode("")
@@ -75,14 +75,14 @@ export default ((userOpts?: Partial<Options>) => {
     }
 
     // Get all folders of tree. Initialize with collapsed state
-    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed")
+    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed", currentFilePath)
 
     // Stringify to pass json tree as data attribute ([data-tree])
     jsonTree = JSON.stringify(folders)
   }
 
   function Explorer({ allFiles, displayClass, fileData }: QuartzComponentProps) {
-    constructFileTree(allFiles)
+    constructFileTree(allFiles, (fileData.filePath ?? "").replaceAll(" ", "-"))
     let collapseExplorer = null
     if (displayClass === "mobile-only") {
       collapseExplorer = (
