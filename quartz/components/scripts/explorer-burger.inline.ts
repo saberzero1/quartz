@@ -135,10 +135,10 @@ function setupExplorer() {
 
     if (useCurrentPageForFolderState) {
       for (const { path, collapsed } of newExplorerState) {
-        console.table([path, currentPagePath.href])
+        console.table([path, currentPagePath])
         currentExplorerState.push({
           path,
-          collapsed: currentPagePath.href.includes(path.replace("../", "")) ? false : true,
+          collapsed: currentPagePath.includes(path.replace("../", "")) ? false : true,
         })
       }
     } else {
