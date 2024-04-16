@@ -134,8 +134,9 @@ function setupExplorer() {
     currentExplorerState = []
 
     if (useCurrentPageForFolderState) {
-      for (const { path } of newExplorerState) {
+      for (const { path, collapsed } of newExplorerState) {
         console.log(currentPagePath.href)
+        console.log(path)
         currentExplorerState.push({
           path,
           collapsed: currentPagePath.href.includes(path) ? false : true,
