@@ -135,7 +135,7 @@ function setupExplorer() {
 
     if (useCurrentPageForFolderState) {
       for (const { path, collapsed } of newExplorerState) {
-        console.table([path, currentPagePath])
+        console.table([path, currentPagePath, currentPagePath.includes(path.replace("../", "")) ? false : true])
         currentExplorerState.push({
           path,
           collapsed: currentPagePath.includes(path.replace("../", "")) ? false : true,
