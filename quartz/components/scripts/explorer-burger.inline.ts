@@ -127,12 +127,8 @@ function setupExplorer() {
       : []
     currentExplorerState = []
 
-    if (newExplorerState.length === 0) {
-      for (const { path, collapsed } of newExplorerState) {
-        currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */ collapsed })
-      }
-    } else {
-      currentExplorerState = newExplorerState
+    for (const { path, collapsed } of newExplorerState) {
+      currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */ collapsed })
     }
 
     currentExplorerState.map((folderState) => {
@@ -157,6 +153,7 @@ document.addEventListener("DOMContentLoaded", () => {
     content.classList.add("collapsed")
     content.style.maxHeight = "0px"
   }
+  setupExplorer()
 })
 
 document.addEventListener("nav", () => {
