@@ -84,7 +84,7 @@ function setupExplorer() {
   const currentPagePath =
     (document.querySelector(
       ".breadcrumb-container > .breadcrumb-element:last-child > a",
-    )! as HTMLLinkElement) ?? "/"
+    )! as HTMLLinkElement).href ?? "/"
   for (const explorer of allExplorers) {
     // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
@@ -135,6 +135,7 @@ function setupExplorer() {
 
     if (useCurrentPageForFolderState) {
       for (const { path, collapsed } of newExplorerState) {
+        console.table([path, currentPagePath.href])
         currentExplorerState.push({
           path,
           collapsed: currentPagePath.href.includes(path.replace("../", "")) ? false : true,
