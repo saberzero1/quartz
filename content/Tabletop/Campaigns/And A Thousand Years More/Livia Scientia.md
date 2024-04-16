@@ -1,5 +1,5 @@
 ---
-{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character respec proposal.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Tuesday, April 16th 2024, 8:19:35 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
+{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Wednesday, April 17th 2024, 1:44:18 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
 ---
 
 
