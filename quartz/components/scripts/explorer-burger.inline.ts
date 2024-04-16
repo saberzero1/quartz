@@ -126,7 +126,7 @@ function setupExplorer() {
     currentExplorerState = []
 
     for (const { path, collapsed } of newExplorerState) {
-      currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
+      currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */collapsed })
     }
 
     currentExplorerState.map((folderState) => {
