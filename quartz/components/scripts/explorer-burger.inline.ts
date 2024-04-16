@@ -120,13 +120,15 @@ function setupExplorer() {
     const oldExplorerState: FolderState[] =
       storageTree && useSavedFolderState ? JSON.parse(storageTree) : []
     const oldIndex = new Map(oldExplorerState.map((entry) => [entry.path, entry.collapsed]))
+    console.log(explorer.dataset.tree)
+    console.log(explorer.dataset.tree ? JSON.parse(explorer.dataset.tree) : [])
     const newExplorerState: FolderState[] = explorer.dataset.tree
       ? JSON.parse(explorer.dataset.tree)
       : []
     currentExplorerState = []
 
     for (const { path, collapsed } of newExplorerState) {
-      currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */collapsed })
+      currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */ collapsed })
     }
 
     currentExplorerState.map((folderState) => {
