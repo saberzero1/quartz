@@ -120,15 +120,19 @@ function setupExplorer() {
     const oldExplorerState: FolderState[] =
       storageTree && useSavedFolderState ? JSON.parse(storageTree) : []
     const oldIndex = new Map(oldExplorerState.map((entry) => [entry.path, entry.collapsed]))
-    console.log(explorer.dataset.tree)
-    console.log(explorer.dataset.tree ? JSON.parse(explorer.dataset.tree) : [])
+    //console.log(explorer.dataset.tree)
+    //console.log(explorer.dataset.tree ? JSON.parse(explorer.dataset.tree) : [])
     const newExplorerState: FolderState[] = explorer.dataset.tree
       ? JSON.parse(explorer.dataset.tree)
       : []
     currentExplorerState = []
 
-    for (const { path, collapsed } of newExplorerState) {
-      currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */ collapsed })
+    if (!explorer.dataset.tree) {
+      for (const { path, collapsed } of newExplorerState) {
+        currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */ collapsed })
+      }
+    } else {
+      currentExplorerState = JSON.parse(explorer.dataset.tree)
     }
 
     currentExplorerState.map((folderState) => {
@@ -146,7 +150,6 @@ function setupExplorer() {
 window.addEventListener("resize", setupExplorer)
 
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("loading")
   const explorer = document.querySelector(".mobile-only #explorer")
   if (explorer) {
     explorer.classList.add("collapsed")
@@ -157,7 +160,6 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 document.addEventListener("nav", () => {
-  console.log("navving")
   const explorer = document.querySelector(".mobile-only #explorer")
   if (explorer) {
     explorer.classList.add("collapsed")
