@@ -127,12 +127,12 @@ function setupExplorer() {
       : []
     currentExplorerState = []
 
-    if (!explorer.dataset.tree) {
+    if (newExplorerState.length === 0) {
       for (const { path, collapsed } of newExplorerState) {
         currentExplorerState.push({ path, collapsed: /*oldIndex.get(path) ?? */ collapsed })
       }
     } else {
-      currentExplorerState = JSON.parse(explorer.dataset.tree)
+      currentExplorerState = newExplorerState
     }
 
     currentExplorerState.map((folderState) => {
