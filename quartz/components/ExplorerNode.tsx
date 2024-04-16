@@ -16,6 +16,7 @@ export interface Options {
   folderDefaultState: "collapsed" | "open"
   folderClickBehavior: "collapse" | "link"
   useSavedState: boolean
+  usePagePath: boolean
   sortFn: (a: FileNode, b: FileNode) => number
   filterFn: (node: FileNode) => boolean
   mapFn: (node: FileNode) => void

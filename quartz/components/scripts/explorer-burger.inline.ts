@@ -80,12 +80,19 @@ function toggleFolder(evt: MouseEvent) {
 function setupExplorer() {
   // Set click handler for collapsing entire explorer
   const allExplorers = document.querySelectorAll("#explorer") as NodeListOf<HTMLElement>
+  // Get current page path
+  const currentPagePath = document.querySelector(".breadcrumb-element")?.hasChildNodes
+    ? document.querySelectorAll(".breadcrumb-element")[-1].querySelector("a")!.href
+    : "/"
   for (const explorer of allExplorers) {
     // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
 
     // Convert to bool
     const useSavedFolderState = explorer?.dataset.savestate === "true"
+
+    // Use current page as path
+    const useCurrentPageForFolderState = useSavedFolderState && explorer?.dataset.pagepathstate
 
     if (explorer) {
       // Get config
@@ -114,6 +121,7 @@ function setupExplorer() {
       item.addEventListener("click", toggleFolder)
       window.addCleanup(() => item.removeEventListener("click", toggleFolder))
     }
+
     // Get folder state from local storage
     const oldExplorerState: FolderState[] =
       storageTree && useSavedFolderState ? JSON.parse(storageTree) : []
@@ -122,8 +130,18 @@ function setupExplorer() {
       ? JSON.parse(explorer.dataset.tree)
       : []
     currentExplorerState = []
-    for (const { path, collapsed } of newExplorerState) {
-      currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
+
+    if (useCurrentPageForFolderState) {
+      for (const { path } of newExplorerState) {
+        currentExplorerState.push({
+          path,
+          collapsed: currentPagePath.startsWith(path) ? false : true,
+        })
+      }
+    } else {
+      for (const { path, collapsed } of newExplorerState) {
+        currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
+      }
     }
 
     currentExplorerState.map((folderState) => {

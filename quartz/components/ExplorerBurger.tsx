@@ -17,6 +17,7 @@ const defaultOptions = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
+  usePagePath: false,
   mapFn: (node) => {
     return node
   },
@@ -92,6 +93,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-behavior={opts.folderClickBehavior}
           data-collapsed={opts.folderDefaultState}
           data-savestate={opts.useSavedState}
+          data-pagepathstate={opts.usePagePath}
           data-tree={jsonTree}
           data-mobile={true}
         >
@@ -120,6 +122,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-behavior={opts.folderClickBehavior}
           data-collapsed={opts.folderDefaultState}
           data-savestate={opts.useSavedState}
+          data-pagepathstate={opts.usePagePath}
           data-tree={jsonTree}
           data-mobile={false}
         >
