@@ -135,10 +135,10 @@ function setupExplorer() {
 
     if (useCurrentPageForFolderState) {
       for (const { path, collapsed } of newExplorerState) {
-        console.table([path, currentPagePath, currentPagePath.includes(path.replace("../", "")) ? false : true])
+        //console.table([path, currentPagePath, !currentPagePath.includes(path.replace("../", ""))])
         currentExplorerState.push({
           path,
-          collapsed: currentPagePath.includes(path.replace("../", "")) ? false : true,
+          collapsed: !currentPagePath.includes(path.replace("../", "")),
         })
       }
     } else {
@@ -153,7 +153,8 @@ function setupExplorer() {
       ) as MaybeHTMLElement
       const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
       if (folderUl) {
-        setFolderState(folderUl, folderState.collapsed)
+        //setFolderState(folderUl, folderState.collapsed)
+        setFolderState(folderUl, !currentPagePath.includes(folderState.path.replace("'", "-").replace("../", "")))
       }
     })
   }
