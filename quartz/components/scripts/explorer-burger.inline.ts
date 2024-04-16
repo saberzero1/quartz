@@ -137,7 +137,7 @@ function setupExplorer() {
       for (const { path, collapsed } of newExplorerState) {
         currentExplorerState.push({
           path,
-          collapsed: currentPagePath.href.includes(path) ? false : true,
+          collapsed: currentPagePath.href.includes(path.replace("../", "")) ? false : true,
         })
       }
     } else {
