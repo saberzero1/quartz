@@ -146,6 +146,7 @@ function setupExplorer() {
 window.addEventListener("resize", setupExplorer)
 
 document.addEventListener("DOMContentLoaded", () => {
+  console.log("loading")
   const explorer = document.querySelector(".mobile-only #explorer")
   if (explorer) {
     explorer.classList.add("collapsed")
@@ -156,6 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 document.addEventListener("nav", () => {
+  console.log("navving")
   const explorer = document.querySelector(".mobile-only #explorer")
   if (explorer) {
     explorer.classList.add("collapsed")
