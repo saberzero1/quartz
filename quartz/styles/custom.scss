@@ -1065,6 +1065,17 @@ mark.hltr-pink {
 }
 
 mark.hltr-orange-aqua {
-  color: rgb(255,128,0) !important;
-  color: linear-gradient(90deg, rgba(255,128,0,0.75) 0%, rgba(0,255,255,0.75) 100%) !important;
+  background: inherit !important;
+  background: linear-gradient(90deg, #FF8000BF 0%, #00FFFFBF 100%) !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+mark.hltr-aqua-purple {
+  background: inherit !important;
+  background: linear-gradient(90deg, #00FFFFBF 0%, #FF00FFBF 100%) !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
 }
