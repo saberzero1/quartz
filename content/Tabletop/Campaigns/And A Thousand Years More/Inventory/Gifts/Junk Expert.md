@@ -1,11 +1,11 @@
 ---
-{"id":"b53443ec-b597-4901-8d94-848e1283f422","title":"Junk Expert","description":"You have a sack of unspecified junk.","publish":true,"date_created":"Sunday, March 31st 2024, 3:38:12 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/junk-expert/","PassFrontmatter":true}
+{"id":"b53443ec-b597-4901-8d94-848e1283f422","title":"Junk Expert","description":"You have a sack of unspecified junk.","publish":true,"date_created":"Sunday, March 31st 2024, 3:38:12 pm","date_modified":"Wednesday, April 17th 2024, 4:49:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/junk-expert/","PassFrontmatter":true}
 ---
 
 
-> [!IMPORTANT] X (Special) *Action* "draw item from junk bundle"
+> [!IMPORTANT] X (Special) *Action* "draw item from [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/Junk Bundle\|junk bundle]]"
 > - You tend to pick up things of value and then have them ready when you need them.
-> - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your bundle.
+> - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/Junk Bundle\|bundle]].
 > 	- You must be carrying your *bundle*, a sack of unspecified junk that weighs at least 1 stone.
 > 	- The item may weigh no more than 1/4 stone.
 > 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* (`dice: 1d4`) vs 3.
