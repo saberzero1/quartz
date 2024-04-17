@@ -1009,56 +1009,57 @@ a[href^="/tags/"].internal.tag-link > div.popover > .popover-inner > .popover-hi
 Highlight support
  ------------ */
 
-mark[class*=' hltr-'],div[class^='hltr-'] {
-    background-color: none;
-    background-image: none;
+mark[class*=' hltr-'],mark[class^='hltr-'] {
+  background-color: none !important;
+  background-image: none !important;
+  border: none !important;
+  font-weight: bold;
 }
 
 mark.hltr-red {
-    color: #FF000080;
+  color: #FF0000BF !important;
 }
 
 mark.hltr-orange {
-    color: #FF800080;
+  color: #FF8000BF !important;
 }
 
 mark.hltr-yellow {
-    color: #FFFF0080;
+  color: #FFFF00BF !important;
 }
 
 mark.hltr-lime {
-    color: #80FF0080;
+  color: #80FF00BF !important;
 }
 
 mark.hltr-green {
-    color: #00FF0080;
+  color: #00FF00BF !important;
 }
 
 mark.hltr-aquamarine {
-    color: #00FF8080;
+  color: #00FF80BF !important;
 }
 
 mark.hltr-aqua {
-    color: #00FFFF80;
+  color: #00FFFFBF !important;
 }
 
 mark.hltr-sky {
-    color: #0080FF80;
+  color: #0080FFBF !important;
 }
 
 mark.hltr-blue {
-    color: #0000FF80;
+  color: #0000FFBF !important;
 }
 
 mark.hltr-orchid {
-    color: #8000FF80;
+  color: #8000FFBF !important;
 }
 
 mark.hltr-purple {
-    color: #FF00FF80;
+  color: #FF00FFBF !important;
 }
 
 mark.hltr-pink {
-    color: #FF008080;
+  color: #FF0080BF !important;
 }
-
