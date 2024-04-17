@@ -1,5 +1,5 @@
 ---
-{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Wednesday, April 17th 2024, 4:25:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
+{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Wednesday, April 17th 2024, 7:09:42 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
 ---
 
 
@@ -16,59 +16,59 @@
 
  - **Name:** Livia 'Lux' Scientia
  - **Stage Name:** Vulpes Domina
- - **Career:** Jester, (Haranguer)
+ - **<mark class="hltr-green">Career</mark>:** Jester, (Haranguer)
  - **XP:** 76
 
-| Stats                          | Dice         |
-| ------------------------------ | ------------ |
-| Species                        | `dice: 1d6`  |
-| Career                         | `dice: 1d8`  |
-| Body                           | `dice: 1d4`  |
-| Speed                          | `dice: 1d6`  |
-| Mind                           | `dice: 1d6`  |
-| Will                           | `dice: 1d8`  |
-| Personality (Curious, Cunning) | `dice: 1d12` |
+| Stats                                     | Dice         |
+| ----------------------------------------- | ------------ |
+| <mark class="hltr-yellow">Species</mark>  | `dice: 1d6`  |
+| <mark class="hltr-green">Career</mark>     | `dice: 1d8`  |
+| <mark class="hltr-orange">Body</mark>     | `dice: 1d4`  |
+| <mark class="hltr-aqua">Speed</mark>       | `dice: 1d6`  |
+| <mark class="hltr-purple">Mind</mark>     | `dice: 1d6`  |
+| <mark class="hltr-aquamarine">Will</mark> | `dice: 1d8`  |
+| Personality (Curious, Cunning)            | `dice: 1d12` |
 
 | Combat               | Dice                              |
 | -------------------- | --------------------------------- |
-| Attack (Main Guache) | `dice: 1d4`                       |
-| Parry (Main Gauche)  | `dice: 1d4+1d8`                   |
-| Dodge                | `dice: 1d6+1d8`                   |
-| Soak                 | `dice: 1d4`                       |
+| <mark class="hltr-orange">Attack</mark> (Main Guache) | `dice: 1d4`                       |
+| <mark class="hltr-orange">Parry</mark> (Main Gauche)  | `dice: 1d4+1d8`                   |
+| <mark class="hltr-aqua">Dodge</mark>                | `dice: 1d6+1d8`                   |
+| <mark class="hltr-orange">Soak</mark>                 | `dice: 1d4`                       |
 | Soak (Leather Bonus) | `dice: 1d6`                       |
 | Soak (Cloth Bonus)   | `dice: 1d4`                       |
 | Shield (Guard/Cover) | `dice: 1d8`                       |
 | Aim/Bonus            | `dice: 1d8`                       |
-| Initiative           | `dice: 2d6+1d12`                  |
+| <mark class="hltr-aqua-purple hltr-gradient">Initiative</mark>           | `dice: 2d6+1d12`                  |
 
-| Skills        | Dice                          | Favorite Use                | Marks                  | Career          | Species     |
+| Skills        | Dice                          | Favorite Use                | Marks                  | <mark class="hltr-green">Career</mark>          | <mark class="hltr-yellow">Species</mark>     |
 | ------------- | ----------------------------- | --------------------------- | ---------------------- | --------------- | ----------- |
-| Academics     | `dice: 1d6` (Mind)            |                             | 0                      |                 |             |
-| Brawling      | `dice: 1d4` (Body)            |                             | 0                      |                 |             |
-| Climbing      | `dice: 1d4+1d6` (Body, Speed) |                             | 0                      |                 | `dice: 1d6` |
-| Craft         | `dice: 1d6` (Mind)            |                             | 0                      |                 |             |
-| Deceit        | `dice: 1d8` (Will)            |                             | 0                      |                 |             |
-| Digging       | `dice: 1d4` (Body)            |                             | 0                      |                 |             |
-| Dodge         | `dice: 1d6` (Speed)           |                             | **III** `dice: 1d8`    |                 |             |
-| Endurance     | `dice: 1d4` (Body)            |                             | 0                      |                 |             |
-| Gossip        | `dice: 1d6` (Mind)            |                             | **I** `dice: 1d4`      | `dice: 1d8+1d4` |             |
-| Inquiry       | `dice: 1d8` (Will)            | Inquiries related to people | **I** `dice: 1d4`      | `dice: 1d8+1d4` |             |
-| Jumping       | `dice: 1d4` (Body)            |                             | 0                      |                 | `dice: 1d6` |
-| Leadership    | `dice: 1d8` (Will)            | Helping reeling allies      | **I** `dice: 1d4`      |                 |             |
-| Melee Combat  | `dice: 1d4` (Body)            |                             | 0                      |                 |             |
-| Negotiation   | `dice: 1d8` (Will)            | Getting out of trouble      | **I** `dice: 1d4`      |                 |             |
-| Observation   | `dice: 1d6` (Mind)            |                             | **III** `dice: 1d8`    |                 |             |
-| Presence      | `dice: 1d8` (Will)            |                             | **III**II `dice: 1d12` | `dice: 1d8+1d4` |             |
-| Ranged Combat | `dice: 1d6` (Speed)           |                             | 0                      |                 |             |
-| Riding        | `dice: 1d4` (Body)            |                             | 0                      |                 |             |
-| Searching     | `dice: 1d8` (Mind)            |                             | I `dice: 1d4`          |                 |             |
-| Stealth       | `dice: 1d6` (Speed)           |                             | 0                      |                 | `dice: 1d6` |
-| Supernatural  | `dice: 1d6` (Mind)            |                             | 0                      |                 |             |
-| Swimming      | `dice: 1d6` (Speed)           |                             | 0                      |                 |             |
-| Tactics       | `dice: 1d6` (Mind)            |                             | 0                      |                 |             |
-| Throwing      | `dice: 1d4+1d6` (Body, Speed) |                             | 0                      |                 |             |
-| Vehicles      | `dice: 1d4` (Body)            |                             | 0                      |                 |             |
-| Weather Sense | `dice: 1d6` (Mind)            |                             | 0                      |                 |             |
+| <mark class="hltr-purple">Academics</mark>     | `dice: 1d6` (<mark class="hltr-purple">Mind</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-orange">Brawling</mark>      | `dice: 1d4` (<mark class="hltr-orange">Body</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-orange-aqua hltr-gradient">Climbing</mark>      | `dice: 1d4+1d6` (<mark class="hltr-orange">Body</mark>, <mark class="hltr-aqua">Speed</mark>) |                             | 0                      |                 | `dice: 1d6` |
+| <mark class="hltr-purple">Craft</mark>         | `dice: 1d6` (<mark class="hltr-purple">Mind</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-aquamarine">Deceit</mark>        | `dice: 1d8` (<mark class="hltr-aquamarine">Will</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-orange">Digging</mark>       | `dice: 1d4` (<mark class="hltr-orange">Body</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-aqua">Dodge</mark>         | `dice: 1d6` (<mark class="hltr-aqua">Speed</mark>)           |                             | **III** `dice: 1d8`    |                 |             |
+| <mark class="hltr-orange">Endurance</mark>     | `dice: 1d4` (<mark class="hltr-orange">Body</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-purple">Gossip</mark>        | `dice: 1d6` (<mark class="hltr-purple">Mind</mark>)            |                             | **I** `dice: 1d4`      | `dice: 1d8+1d4` |             |
+| <mark class="hltr-aquamarine">Inquiry</mark>       | `dice: 1d8` (<mark class="hltr-aquamarine">Will</mark>)            | Inquiries related to people | **I** `dice: 1d4`      | `dice: 1d8+1d4` |             |
+| <mark class="hltr-orange">Jumping</mark>       | `dice: 1d4` (<mark class="hltr-orange">Body</mark>)            |                             | 0                      |                 | `dice: 1d6` |
+| <mark class="hltr-aquamarine">Leadership</mark>    | `dice: 1d8` (<mark class="hltr-aquamarine">Will</mark>)            | Helping reeling allies      | **I** `dice: 1d4`      |                 |             |
+| <mark class="hltr-orange">Melee Combat</mark>  | `dice: 1d4` (<mark class="hltr-orange">Body</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-aquamarine">Negotiation</mark>   | `dice: 1d8` (<mark class="hltr-aquamarine">Will</mark>)            | Getting out of trouble      | **I** `dice: 1d4`      |                 |             |
+| <mark class="hltr-purple">Observation</mark>   | `dice: 1d6` (<mark class="hltr-purple">Mind</mark>)            |                             | **III** `dice: 1d8`    |                 |             |
+| <mark class="hltr-aquamarine">Presence</mark>      | `dice: 1d8` (<mark class="hltr-aquamarine">Will</mark>)            |                             | **III**II `dice: 1d12` | `dice: 1d8+1d4` |             |
+| <mark class="hltr-aqua">Ranged Combat</mark> | `dice: 1d6` (<mark class="hltr-aqua">Speed</mark>)           |                             | 0                      |                 |             |
+| <mark class="hltr-orange">Riding</mark>        | `dice: 1d4` (<mark class="hltr-orange">Body</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-purple">Searching</mark>     | `dice: 1d8` (<mark class="hltr-purple">Mind</mark>)            |                             | I `dice: 1d4`          |                 |             |
+| <mark class="hltr-aqua">Stealth</mark>       | `dice: 1d6` (<mark class="hltr-aqua">Speed</mark>)           |                             | 0                      |                 | `dice: 1d6` |
+| <mark class="hltr-purple">Supernatural</mark>  | `dice: 1d6` (<mark class="hltr-purple">Mind</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-aqua">Swimming</mark>      | `dice: 1d6` (<mark class="hltr-aqua">Speed</mark>)           |                             | 0                      |                 |             |
+| <mark class="hltr-purple">Tactics</mark>       | `dice: 1d6` (<mark class="hltr-purple">Mind</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-gradient hltr-orange-aqua">Throwing</mark>      | `dice: 1d4+1d6` (<mark class="hltr-orange">Body</mark>, <mark class="hltr-aqua">Speed</mark>) |                             | 0                      |                 |             |
+| <mark class="hltr-orange">Vehicles</mark>      | `dice: 1d4` (<mark class="hltr-orange">Body</mark>)            |                             | 0                      |                 |             |
+| <mark class="hltr-purple">Weather Sense</mark> | `dice: 1d6` (<mark class="hltr-purple">Mind</mark>)            |                             | 0                      |                 |             |
 
 | XP  | Marks | Money    |
 | --- | ----- | -------- |
@@ -76,40 +76,40 @@
 
 | Gift                                                                                                                   | Source  | Requirements                                                                                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]                                        | Career  |                                                                                                                                                                                                                                                           |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]]                                      | Career  | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]                                                                                                                                                                           |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Etiquette\|Etiquette]]                                  | Career  |                                                                                                                                                                                                                                                           |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense\|Danger Sense]]                            | Species |                                                                                                                                                                                                                                                           |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Keen Ears\|Keen Ears]]                                  | Species |                                                                                                                                                                                                                                                           |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision\|Night Vision]]                            | Species |                                                                                                                                                                                                                                                           |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]                                        | <mark class="hltr-green">Career</mark>  |                                                                                                                                                                                                                                                           |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]]                                      | <mark class="hltr-green">Career</mark>  | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]]                                                                                                                                                                           |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Etiquette\|Etiquette]]                                  | <mark class="hltr-green">Career</mark>  |                                                                                                                                                                                                                                                           |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense\|Danger Sense]]                            | <mark class="hltr-yellow">Species</mark> |                                                                                                                                                                                                                                                           |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Keen Ears\|Keen Ears]]                                  | <mark class="hltr-yellow">Species</mark> |                                                                                                                                                                                                                                                           |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision\|Night Vision]]                            | <mark class="hltr-yellow">Species</mark> |                                                                                                                                                                                                                                                           |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]                                      | Level 1 |                                                                                                                                                                                                                                                           |
-| Extra Career: Haranguer (`dice: 1d4`)                                                                                  | Level 1 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]     |
+| Extra <mark class="hltr-green">Career</mark>: Haranguer (`dice: 1d4`)                                                                                  | Level 1 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]     |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Literacy\|Literacy]]                                    | Level 1 |                                                                                                                                                                                                                                                           |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Licensed Fool\|Licensed Fool]]                          | Level 2 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Etiquette\|Etiquette]] |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Performance of (type of choice)\|Performance of Actor]] | Level 3 |                                                                                                                                                                                                                                                           |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool\|Blatant Fool]]                            | Level 4 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Coward\|Coward]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery\|Foolery]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory\|Oratory]]     |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/True Leader\|True Leader]]                              | Level 5 |                                                                                                                                                                                                                                                           |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Personality (of choice)\|Personality: Cunning]]         | Level 6 |                                                                                                                                                                                                                                                           |
-| Marks (Presence: II, Searching: I)                                                                                     | Level 7 |                                                                                                                                                                                                                                                           |
+| Marks (<mark class="hltr-aquamarine">Presence</mark>: II, <mark class="hltr-purple">Searching</mark>: I)                                                                                     | Level 7 |                                                                                                                                                                                                                                                           |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert\|Junk Expert]]                              | Level 8 |                                                                                                                                                                                                                                                           |
 
 ## Equipment and Items
 
-| Item                                                                                                                       | Weight  | Quantity | Carried        |
-| -------------------------------------------------------------------------------------------------------------------------- | ------- | -------- | -------------- |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]                              | 1/8     | 1        | Yes (worn)     |
-| Wooden Shield                                                                                                              | 1/2     | 1        | Yes (worn)     |
-| Leather Armor                                                                                                              | 1/2     | 1        | Yes (worn)     |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]                | 1/4     | 1        | No (destroyed) |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]                                   | -       | 1        | Yes            |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] | 1/32    | 1        | Yes            |
-| Incriminating Evidence                                                                                                     | 1/16    | 1        | Yes            |
-| Financial Record of Narre                                                                                                  | 1/16    | 1        | Yes            |
-| Pamphlet of salacious ribaldry                                                                                             | -       | 1        | Yes            |
-| List of public grievances                                                                                                  | -       | 1        | Yes            |
-| Junk Bundle                                                                                                                | 1       | 1        | Yes            |
-| **Total (carried)**                                                                                                        | 2 17/32 | -        | -              |
-| **Total**                                                                                                                  | 2 17/32 | -        | -              |
+| Item                                                                                                                       | Weight | Quantity | Carried        |
+| -------------------------------------------------------------------------------------------------------------------------- | ------ | -------- | -------------- |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]                              | 1/8    | 1        | Yes (worn)     |
+| Wooden Shield                                                                                                              | 1/2    | 1        | Yes (worn)     |
+| Leather Armor                                                                                                              | 1/2    | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]                | 1/4    | 0        | No (destroyed) |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]                                   | -      | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] | 1/32   | 1        | Yes            |
+| Incriminating Evidence                                                                                                     | 1/16   | 1        | Yes            |
+| Financial Record of Narre                                                                                                  | 1/16   | 1        | Yes            |
+| Pamphlet of salacious ribaldry                                                                                             | -      | 1        | Yes            |
+| List of public grievances                                                                                                  | -      | 1        | Yes            |
+| Junk Bundle                                                                                                                | 1      | 1        | Yes            |
+| **Total (carried)**                                                                                                        | 2 9/32 | -        | -              |
+| **Total**                                                                                                                  | 2 9/32 | -        | -              |
 
 | Consumable       | Weight     | Quantity | Carried       |
 | ---------------- | ---------- | -------- | ------------- |
@@ -135,7 +135,7 @@
 
 > [!INFO] Better Hearing
 > - You have better hearing.
-> - When using *Observation* to hear something, you may negate the highest-showing difficulty die that opposes you.
+> - When using *<mark class="hltr-purple">Observation</mark>* to hear something, you may negate the highest-showing difficulty die that opposes you.
 > - You can hear into the ultrasonic ranges.
 > - You can hear some sounds other folks without *Keen Ears* simply cannot.
 
@@ -164,7 +164,7 @@
 
 > [!INFO] You can read!
 > - You can read and write.
-> 	- The DM can call for rolls of *Mind* (`dice: 1d6`) and *Academics* (`dice: 1d1`) to understand particularly difficult texts.
+> 	- The DM can call for rolls of *<mark class="hltr-purple">Mind</mark>* (`dice: 1d6`) and *<mark class="hltr-purple">Academics</mark>* (`dice: 1d1`) to understand particularly difficult texts.
 > 	- Characters without this *Gift* cannot read or write at all.
 
 </div></div>
@@ -191,12 +191,12 @@
 
 
 
-> [!INFO] When *Afraid*, You *Move* Faster and *Dodge* Better
+> [!INFO] When *Afraid*, You *Move* Faster and *<mark class="hltr-aqua">Dodge</mark>* Better
 > - When *Afraid* or *Terrified*:
 > 	- +1 to *Stride*
 > 	- +3 to *Dash*
 > 	- +9 to *Run* (+12 total to *Run*, because *Run* is based on *Dash*.)
-> 	- `dice: 1d12` Bonus to *Dodge* defense (but not to other defenses).
+> 	- `dice: 1d12` Bonus to *<mark class="hltr-aqua">Dodge</mark>* defense (but not to other defenses).
 
 </div></div>
 
@@ -208,8 +208,8 @@
 
 
 
-> [!SUCCESS] Specialty Bonus to *Initiative* Rolls
-> - You may claim a bonus `dice: 1d12` with all *Initiative* rolls.
+> [!SUCCESS] Specialty Bonus to *<mark class="hltr-aqua-purple hltr-gradient">Initiative</mark>* Rolls
+> - You may claim a bonus `dice: 1d12` with all *<mark class="hltr-aqua-purple hltr-gradient">Initiative</mark>* rolls.
 
 </div></div>
 
@@ -295,8 +295,8 @@
 > - As a stunt, you may *Taunt* another target. Your character insults the target, or performs rude gestures, or generally does something to the target to make them angry with you.
 > 	- You may taunt even if this *Gift* is exhausted.
 > 	- Taunting does not require you to have your mental faculties. You can *Taunt* even when *Confused* or *Enraged*.
-> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+1d4`) dice.
-> 	- The target rolls their *Will*, *Inquiry*, and your *Body* (`dice: 1d4`) Dice.
+> - Roll your *<mark class="hltr-purple">Mind</mark>* (`dice: 1d6`), *<mark class="hltr-aquamarine">Will</mark>* (`dice: 1d8`), and *<mark class="hltr-aquamarine">Presence</mark>* (`dice: 1d12+1d8+1d4`) dice.
+> 	- The target rolls their *<mark class="hltr-aquamarine">Will</mark>*, *<mark class="hltr-aquamarine">Inquiry</mark>*, and your *Body* (`dice: 1d4`) Dice.
 > 	- The target must be able to hear you.
 > 		- You cannot be *Silenced*.
 > 		- The target cannot be *Asleep* or *Unconscious*, etc.
@@ -304,7 +304,7 @@
 > 		- (Taunting works better if you're out in the open.)
 > - **No successes**: Nothing happens.
 > - **One success**: The target becomes *Enraged* if they can become *Enraged* (Not *Afraid*, etc.).
-> 	- *Enranged* characters must take the "*Attack*" action every round.
+> 	- *Enranged* characters must take the "*<mark class="hltr-orange">Attack</mark>*" action every round.
 > - **Two successes**: The target becomes *Enraged*.
 > 	- Negates any conditions that prevent the target from becoming *Enraged*.
 > - **Three successes or more**: The target becomes *Berserk*.
@@ -396,7 +396,7 @@
 > - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/Junk Bundle\|bundle]].
 > 	- You must be carrying your *bundle*, a sack of unspecified junk that weighs at least 1 stone.
 > 	- The item may weigh no more than 1/4 stone.
-> 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* (`dice: 1d4`) vs 3.
+> 	- After drawing the item, roll your *<mark class="hltr-purple">Mind</mark>* (`dice: 1d8`) and *<mark class="hltr-purple">Searching</mark>* (`dice: 1d4`) vs 3.
 > 		- On tie or worse, *Exhaust* this *Gift*.
 > - You may *Refresh* this *Gift* by searching through a junk pile for at least one hour.
 
@@ -446,7 +446,7 @@ Flight of the Prey (Avatism p. 318)
 Team player p. 60
 Dramatic Disheveling p. 63, because that is hilarious
 Cosmopolitan p. 57 -> Allows Culture Gifts to work on any Culture
-Sixth Sense p. 73 -> Bonus to parry and dodge when enemy has concealment bonus. This includes when you are reeling.
+Sixth Sense p. 73 -> Bonus to parry and <mark class="hltr-aqua">dodge</mark> when enemy has concealment bonus. This includes when you are reeling.
 ---
-Sword Dancer Career Jadeclaw p. 457 -> Sword dancing has more gifts p. 474. Probably for next character?
+Sword Dancer <mark class="hltr-green">Career</mark> Jadeclaw p. 457 -> Sword dancing has more gifts p. 474. Probably for next character?
 -->
