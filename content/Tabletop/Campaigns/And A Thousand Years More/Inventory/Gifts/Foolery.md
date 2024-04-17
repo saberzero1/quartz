@@ -1,5 +1,5 @@
 ---
-{"id":"6ffa5679-3d44-4e25-bfd7-08d8261bf922","title":"Foolery","description":"You've often been called a fool ... but when you have this Gift, you certifably are one!","publish":true,"date_created":"Saturday, March 30th 2024, 10:13:47 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/foolery/","PassFrontmatter":true}
+{"id":"6ffa5679-3d44-4e25-bfd7-08d8261bf922","title":"Foolery","description":"You've often been called a fool ... but when you have this Gift, you certifably are one!","publish":true,"date_created":"Saturday, March 30th 2024, 10:13:47 pm","date_modified":"Wednesday, April 17th 2024, 7:09:44 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Foolery.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/foolery/","PassFrontmatter":true}
 ---
 
 
@@ -12,8 +12,8 @@
 > - As a stunt, you may *Taunt* another target. Your character insults the target, or performs rude gestures, or generally does something to the target to make them angry with you.
 > 	- You may taunt even if this *Gift* is exhausted.
 > 	- Taunting does not require you to have your mental faculties. You can *Taunt* even when *Confused* or *Enraged*.
-> - Roll your *Mind* (`dice: 1d6`), *Will* (`dice: 1d8`), and *Presence* (`dice: 1d12+1d8+1d4`) dice.
-> 	- The target rolls their *Will*, *Inquiry*, and your *Body* (`dice: 1d4`) Dice.
+> - Roll your *<mark class="hltr-purple">Mind</mark>* (`dice: 1d6`), *<mark class="hltr-aquamarine">Will</mark>* (`dice: 1d8`), and *<mark class="hltr-aquamarine">Presence</mark>* (`dice: 1d12+1d8+1d4`) dice.
+> 	- The target rolls their *<mark class="hltr-aquamarine">Will</mark>*, *<mark class="hltr-aquamarine">Inquiry</mark>*, and your *Body* (`dice: 1d4`) Dice.
 > 	- The target must be able to hear you.
 > 		- You cannot be *Silenced*.
 > 		- The target cannot be *Asleep* or *Unconscious*, etc.
@@ -21,7 +21,7 @@
 > 		- (Taunting works better if you're out in the open.)
 > - **No successes**: Nothing happens.
 > - **One success**: The target becomes *Enraged* if they can become *Enraged* (Not *Afraid*, etc.).
-> 	- *Enranged* characters must take the "*Attack*" action every round.
+> 	- *Enranged* characters must take the "*<mark class="hltr-orange">Attack</mark>*" action every round.
 > - **Two successes**: The target becomes *Enraged*.
 > 	- Negates any conditions that prevent the target from becoming *Enraged*.
 > - **Three successes or more**: The target becomes *Berserk*.
