@@ -1004,3 +1004,61 @@ body[data-slug^="tags/"] .center > .mado-heading > *:last-child:is(div) {
 a[href^="/tags/"].internal.tag-link > div.popover > .popover-inner > .popover-hint.mado-heading > .page-listing.mado-heading.mado-heading-listing {
   padding: 0;
 }
+
+/* ------------
+Highlight support
+ ------------ */
+
+mark[class*=' hltr-'],div[class^='hltr-'] {
+    background-color: none;
+    background-image: none;
+}
+
+mark.hltr-red {
+    color: #FF000080;
+}
+
+mark.hltr-orange {
+    color: #FF800080;
+}
+
+mark.hltr-yellow {
+    color: #FFFF0080;
+}
+
+mark.hltr-lime {
+    color: #80FF0080;
+}
+
+mark.hltr-green {
+    color: #00FF0080;
+}
+
+mark.hltr-aquamarine {
+    color: #00FF8080;
+}
+
+mark.hltr-aqua {
+    color: #00FFFF80;
+}
+
+mark.hltr-sky {
+    color: #0080FF80;
+}
+
+mark.hltr-blue {
+    color: #0000FF80;
+}
+
+mark.hltr-orchid {
+    color: #8000FF80;
+}
+
+mark.hltr-purple {
+    color: #FF00FF80;
+}
+
+mark.hltr-pink {
+    color: #FF008080;
+}
+
