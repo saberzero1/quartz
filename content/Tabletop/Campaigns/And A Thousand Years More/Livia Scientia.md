@@ -1,5 +1,5 @@
 ---
-{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Wednesday, April 17th 2024, 1:44:18 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
+{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Wednesday, April 17th 2024, 4:25:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
 ---
 
 
@@ -100,8 +100,7 @@
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]]                              | 1/8     | 1        | Yes (worn)     |
 | Wooden Shield                                                                                                              | 1/2     | 1        | Yes (worn)     |
 | Leather Armor                                                                                                              | 1/2     | 1        | Yes (worn)     |
-| Cloth Armor                                                                                                                | 1       | 0        | No (destroyed) |
-| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]                | 1/4     | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]]                | 1/4     | 1        | No (destroyed) |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]                                   | -       | 1        | Yes            |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] | 1/32    | 1        | Yes            |
 | Incriminating Evidence                                                                                                     | 1/16    | 1        | Yes            |
@@ -392,9 +391,9 @@
 
 
 
-> [!IMPORTANT] X (Special) *Action* "draw item from junk bundle"
+> [!IMPORTANT] X (Special) *Action* "draw item from [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/Junk Bundle\|junk bundle]]"
 > - You tend to pick up things of value and then have them ready when you need them.
-> - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your bundle.
+> - [ ] As an *Action*, you may draw a *Cheap* item of your choice from your [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/Junk Bundle\|bundle]].
 > 	- You must be carrying your *bundle*, a sack of unspecified junk that weighs at least 1 stone.
 > 	- The item may weigh no more than 1/4 stone.
 > 	- After drawing the item, roll your *Mind* (`dice: 1d8`) and *Searching* (`dice: 1d4`) vs 3.
