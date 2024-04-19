@@ -1,5 +1,5 @@
 ---
-{"id":"7bfdbe6a-3c20-456f-8bed-7529550ea299","title":"Keep Guards of Narre","description":"The guards of the Keep near Narre were an elite force, trained to obey the commands of the Mages of Narre without hesitation.","publish":true,"date_created":"Saturday, March 18th 2023, 10:54:20 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/keep-guards-of-narre/","PassFrontmatter":true}
+{"id":"7bfdbe6a-3c20-456f-8bed-7529550ea299","title":"Keep Guards of Narre","description":"The guards of the Keep near Narre were an elite force, trained to obey the commands of the Mages of Narre without hesitation.","publish":true,"date_created":"Saturday, March 18th 2023, 10:54:20 pm","date_modified":"Friday, April 19th 2024, 6:17:29 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/keep-guards-of-narre/","PassFrontmatter":true}
 ---
 
 
@@ -16,5 +16,6 @@ The [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of 
 
 ## Mentions
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] made some [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Grandma's Cookies\|Cookies]] and gave them to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|guards]].
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|They]] aren't exactly guarding something." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] says. #Character #Faction #Event
 
