@@ -19,5 +19,5 @@
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] walks up to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|armorer]], looking to sell some excess equipment. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] throws all of his excess equipment on the counter. #Character #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] walks up to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Armory\|armorer]], looking to sell some excess equipment. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] throws all of his excess equipment on the counter.
 
