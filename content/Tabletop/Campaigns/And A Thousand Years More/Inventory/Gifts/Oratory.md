@@ -1,5 +1,5 @@
 ---
-{"id":"2ab1f665-e2cb-4901-b9ca-a363791c9f95","title":"Oratory","description":"Bonus with Public Speaking.","publish":true,"date_created":"Saturday, March 30th 2024, 10:53:17 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/oratory/","PassFrontmatter":true}
+{"id":"2ab1f665-e2cb-4901-b9ca-a363791c9f95","title":"Oratory","description":"Bonus with Public Speaking.","publish":true,"date_created":"Saturday, March 30th 2024, 10:53:17 pm","date_modified":"Friday, April 19th 2024, 6:51:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Oratory.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/oratory/","PassFrontmatter":true}
 ---
 
 

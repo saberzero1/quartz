@@ -4,5 +4,6 @@
 
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Skeleton\|Skeleton]]
+- [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree\|Tomb Tree]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Zombie\|Zombie]]
 

@@ -1,5 +1,5 @@
 ---
-{"id":"4065475f-4e9a-4926-8d5a-6f584f89873a","title":"Literacy","description":"You can read.","publish":true,"date_created":"Sunday, March 31st 2024, 2:54:54 pm","date_modified":"Wednesday, April 17th 2024, 7:09:44 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Literacy.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/literacy/","PassFrontmatter":true}
+{"id":"4065475f-4e9a-4926-8d5a-6f584f89873a","title":"Literacy","description":"You can read.","publish":true,"date_created":"Sunday, March 31st 2024, 2:54:54 pm","date_modified":"Friday, April 19th 2024, 6:25:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Literacy.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/literacy/","PassFrontmatter":true}
 ---
 
 

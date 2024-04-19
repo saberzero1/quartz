@@ -1,5 +1,5 @@
 ---
-{"id":"b4bab88f-3733-4e33-8670-db2f3335a629","title":"Ravahn","description":"Cornelius Ravahn.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:36:53 am","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/ravahn/","PassFrontmatter":true}
+{"id":"b4bab88f-3733-4e33-8670-db2f3335a629","title":"Ravahn","description":"Cornelius Ravahn.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:36:53 am","date_modified":"Friday, April 19th 2024, 6:09:15 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/ravahn/","PassFrontmatter":true}
 ---
 
 
@@ -14,4 +14,6 @@
 
 ## Mentions
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 011\|Session 011]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] rob a grave and acquire Fire Mage Apprentice Trappings.
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] identifies them to be used for Necromancy.
 

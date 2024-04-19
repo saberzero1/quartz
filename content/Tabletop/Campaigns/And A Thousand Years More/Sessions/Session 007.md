@@ -1,5 +1,5 @@
 ---
-{"id":"12fe1ad9-bd36-44a6-bba3-6cad6ea353cd","title":"Session 007","description":"Session 7","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Monday, April 15th 2024, 6:04:23 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-007/","PassFrontmatter":true}
+{"id":"12fe1ad9-bd36-44a6-bba3-6cad6ea353cd","title":"Session 007","description":"Session 7","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Friday, April 19th 2024, 4:19:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-007/","PassFrontmatter":true}
 ---
 
 
@@ -8,7 +8,10 @@
 ---
 
 > [!SUMMARY] Session 7 keypoints
-> - Nothing.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] fight our way towards to [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|Wizard Tower]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|challenge]] [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]]'s rule.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] take [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|control]] of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] makes his escape.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] find [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|Narre's Financial Records]] in [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]]'s room as well as a map detailing a !!hiding spot in the woods!!.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]] becomes [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]'s new leader.
 { #embedmarker}
 
 
