@@ -1,5 +1,5 @@
 ---
-{"id":"b3e673c7-3a4e-4b4a-b2bc-77defd66461a","title":"Session 006","description":"Session 6","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Monday, April 15th 2024, 6:04:23 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-006/","PassFrontmatter":true}
+{"id":"b3e673c7-3a4e-4b4a-b2bc-77defd66461a","title":"Session 006","description":"Session 6","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Friday, April 19th 2024, 4:01:33 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-006/","PassFrontmatter":true}
 ---
 
 
@@ -8,7 +8,9 @@
 ---
 
 > [!SUMMARY] Session 6 keypoints
-> - Nothing.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] have teamed up with [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]] and the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Miners]] to take the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|Keep]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] confronts us with his minions in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|Keep]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] defeat [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|his]] minions and give chase to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower\|Tower]].
 { #embedmarker}
 
 
