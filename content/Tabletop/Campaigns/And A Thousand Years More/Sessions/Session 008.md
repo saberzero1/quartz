@@ -1,5 +1,5 @@
 ---
-{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 7:08:31 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
+{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 10:38:25 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
 ---
 
 
@@ -96,9 +96,11 @@ We head to the last remaining room connected to the door with the Stone Door.
 
 The room contains a ton of tomes about Fire Magic and Astrology Magic. I don´t recognize the tome about Star Magic. I decide to take the tome about Star Magic. Ravahn Takes the tome about Journeyman Fire Magic, Master Fire Magic, and the tome about Astrology Magic, as well as Apprentice Elementalism Tome.
 
-Norrix ransacks the place, one book he tosses falls open and reveals a hidden Black Leather Tome. It is clearly about Necromancy. **It is forbidden knowledge.**
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] ransacks the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|place]], one book he tosses falls open and reveals a hidden [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Black Leather Tome]]. It is clearly about Necromancy. **It is forbidden knowledge.**
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] flips through the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Necromancy Tome]]. It reveals a lot of information about [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Skeleton\|Skeletons]] and [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Zombie\|Zombies]], as well as basic curses.
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] suspects that the howling sounds come from a [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree\|Tomb Tree]].
 
-Ravahn flips through the Necromancy Tome. It reveals a lot of information about skeletons and zombies, as well as basic curses. Ravahn suspects that the howling sounds come from a Tomb Tree.
+---
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] burn the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Necromancy Tome]].
 
