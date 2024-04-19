@@ -17,5 +17,5 @@ The [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of 
 ## Mentions
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 005\|Session 005]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] made some [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Grandma's Cookies\|Cookies]] and gave them to the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|guards]].
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|They]] aren't exactly guarding something." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] says. #Character #Faction #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Keep Guards of Narre\|They]] aren't exactly guarding something." [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Leon\|Leon]] says.
 
