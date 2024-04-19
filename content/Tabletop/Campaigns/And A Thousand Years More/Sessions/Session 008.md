@@ -1,5 +1,5 @@
 ---
-{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Monday, April 15th 2024, 6:04:23 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
+{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 6:15:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
 ---
 
 
@@ -8,7 +8,8 @@
 ---
 
 > [!SUMMARY] Session 8 keypoints
-> - Nothing.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learn of a nearby [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|ruined manor]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find some necromancy gear: a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Tome]], a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Wand]], and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Rod]].
 { #embedmarker}
 
 
@@ -16,19 +17,19 @@
 
 - Imtrud enters Eckart's office.
 - Party acquires Insider with Narre. #Event #Item
-- Lux takes the financial records showing the debts of Narre to Dottinghem. #Event #Item
+- Lux takes the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|financial records]] showing the debts of Narre to Dottinghem. #Event #Item
 - Lux reads that there is an Iron export and Weapons import.
-- Damjan and Norrix acquire Chain Mail armor. #Item
+- Damjan and Norrix acquire [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] armor. #Item
 
 ---
 
 - Aleksi tells us about a Fair in Wildt. During the Fair the Mercenary Guild and Adventurer's Guild bet on fighter in a competition. #Event #Location
-- Aleksi also informs us about an old library near the ruins of a manor to the North. He tells of rumors of Whispering Trees.
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] also informs us about an old library near the ruins of a manor to the North. He tells of rumors of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree\|Whispering Trees]]. #Event #Bestiary #Character
 
 ---
 
 - We decide to head to the Library. #Event
-- Aleksi leads to the ruined Manor of Muroliva. Next to the Manor is a well-kept Library. A large tree grows from the Library. #Event #Location
+- Aleksi leads to the ruined [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor of Muroliva]]. Next to the Manor is a well-kept Library. A large tree grows from the Library. #Event #Location
 
 ---
 
@@ -76,7 +77,7 @@ Norrix smashes the chest, revealing a golden key inside.
 
 As we walk back to the circular room, Norrix notices something glistering at the bottoms of the shallow water.
 
-We find and identify Fire Arrows.
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find and identify [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrows]]. #Faction #Event #Item
 
 ---
 
@@ -86,9 +87,8 @@ We head to the Southern room. It contains the following information:
 
 > We learn of the story of the previous owner of the Manor. He seems very rich and has investments in three towns in the Acentum Empire. He was a Fire Mage. *He has most of his fortune in a lake near Mantria*.
 
-The other room has a map. It has golden circles of Hornbach, the former Capital city and Cortvilly the current Capital city, as well as a volcano. In addition it has two golden circles with no currently known towns. The circles are connected. I transcribe the map with my writing kit.
-
-The room also has a globe containing the world map. I recognize that the points all align with Ley Lines, potentially allowing teleportation between them. The volcano also has a large cave system.
+- The other room has a map. It has golden circles of Hornbach, the former Capital city and Cortvilly the current Capital city, as well as a volcano. In addition it has two golden circles with no currently known towns. The circles are connected. I [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|transcribe the map]] with my [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]].
+- The room also has a globe containing the world map. I recognize that the points all align with [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|Ley Lines]], potentially allowing teleportation between them. The volcano also has a large cave system.
 
 ---
 
@@ -100,7 +100,7 @@ Norrix ransacks the place, one book he tosses falls open and reveals a hidden Bl
 
 Ravahn flips through the Necromancy Tome. It reveals a lot of information about skeletons and zombies, as well as basic curses. Ravahn suspects that the howling sounds come from a Tomb Tree.
 
-We burn the Necromancy Tome.
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] burn the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Necromancy Tome]].
 
 ---
 
@@ -148,7 +148,7 @@ The Tomb Tree tries to attack with Horrors. Norrix interrupts the attack and str
 
 ---
 
-We find a Tomb Tree Rod and a Darkwood Wand. Ravahn identifies them to be used for Necromancy.
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] identifies them to be used for Necromancy. #Event #Item #Faction #Character
 
 ---
 
