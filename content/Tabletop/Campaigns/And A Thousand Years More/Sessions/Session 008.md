@@ -1,5 +1,5 @@
 ---
-{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 10:38:25 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
+{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 10:46:51 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
 ---
 
 
@@ -10,6 +10,8 @@
 > [!SUMMARY] Session 8 keypoints
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learn of a nearby [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|ruined manor]].
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find some necromancy gear: a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Tome]], a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Wand]], and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Rod]].
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to burn the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Tome]] before leaving.
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learn about [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|Ley Lines]] and !!an ancient mage!!
 { #embedmarker}
 
 
@@ -23,12 +25,12 @@
 
 ---
 
-- Aleksi tells us about a Fair in Wildt. During the Fair the Mercenary Guild and Adventurer's Guild bet on fighter in a competition.
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] tells us about a [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Fair\|Fair]] in [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt\|Wildt]]. During the Fair the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild\|Mercenary Guild]] and [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|Adventurer's Guild]] bet on fighters in a competition.
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] also informs us about an old library near the ruins of a manor to the North. He tells of rumors of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree\|Whispering Trees]].
 
 ---
 
-- We decide to head to the Library.
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to head to the Library.
 - Aleksi leads to the ruined [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor of Muroliva]]. Next to the Manor is a well-kept Library. A large tree grows from the Library.
 
 ---
@@ -41,7 +43,7 @@ Aleksi tells that the former owner moved to the Manor a long time ago. He has be
 
 ---
 
-We decide to camp near the Manor for the night.
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to camp near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor]] for the night.
 
 ---
 
@@ -57,11 +59,9 @@ Ravahn tries to talk to the tree. He detects an energy inside the tree, but it i
 
 ---
 
-We decide to enter the Manor together. As we enter, there is a painting of a lion.
-
-The Manor seems to have been ransacked, except for a few paintings.
-
-The next room has a Stone Door with a Keyhole. There are also two wooden doors.
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to enter the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor]] together. As we enter, there is a painting of a lion.
+- The [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor]] seems to have been ransacked, except for a few paintings.
+- The next room has a Stone Door with a Keyhole. There are also two wooden doors.
 
 ---
 
