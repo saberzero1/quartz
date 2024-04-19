@@ -1,5 +1,5 @@
 ---
-{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","description":"Session 3","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Monday, April 15th 2024, 6:04:23 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
+{"id":"1265a946-1bdf-45f0-853e-a0374241fea7","title":"Session 003","description":"Session 3","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Friday, April 19th 2024, 3:57:54 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-003/","PassFrontmatter":true}
 ---
 
 
@@ -74,7 +74,7 @@
 ---
 
 - [[{05} Others/Templates/Resources/Tabletop/Party\|We]] head over to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Farmfields\|farms]]. The [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre\|farmers]] point us to the field. "[[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|Those Onions]] will pummel you if you're not careful." #Faction #Location #Bestiary #Event
-- I nod. "They got this."
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] nod. "[[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|They]] got this." #Character #Faction #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] watch as [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] and [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] make quick work of the [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|Onions]]. #Character #Bestiary #Event
 
 ---
