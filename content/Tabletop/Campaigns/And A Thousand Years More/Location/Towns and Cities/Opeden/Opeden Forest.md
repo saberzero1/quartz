@@ -21,5 +21,5 @@ The forest between Opeden and Narre.
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: Suddenly [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] barges in. "Guys, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] is sneaking out of town towards the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Forest\|woods]]." #Character #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: Suddenly [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] barges in. "Guys, [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven\|Steven]] is sneaking out of town towards the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Forest\|woods]]."
 
