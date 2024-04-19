@@ -1,5 +1,5 @@
 ---
-{"id":"20c4ec49-957c-4d5a-a9e3-c998c2f75c44","title":"Writing Kit","description":"My father's writing kit.","isInCurrentInventory":true,"amountHeld":1,"publish":true,"date_created":"Sunday, March 5th 2023, 6:42:58 pm","date_modified":"Saturday, April 13th 2024, 11:44:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/writing-kit/","PassFrontmatter":true}
+{"id":"20c4ec49-957c-4d5a-a9e3-c998c2f75c44","title":"Writing Kit","description":"My father's writing kit.","isInCurrentInventory":true,"isProscribed":false,"amountHeld":1,"publish":true,"date_created":"Sunday, March 5th 2023, 6:42:58 pm","date_modified":"Friday, April 19th 2024, 6:28:08 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/writing-kit/","PassFrontmatter":true}
 ---
 
 
@@ -12,4 +12,5 @@ My father's writing kit is like a portal to a world of imagination and possibili
 ## Mentions
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories. #Character #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: The other room has a map. It has golden circles of Hornbach, the former Capital city and Cortvilly the current Capital city, as well as a volcano. In addition it has two golden circles with no currently known towns. The circles are connected. I [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|transcribe the map]] with my [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]].
 
