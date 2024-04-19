@@ -1,5 +1,5 @@
 ---
-{"id":"b05cfbb7-455f-48c1-a272-e3895d80d15f","title":"And A Thousand Years More","description":"And A Thousand Years More campaign overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:56:48 pm","date_modified":"Wednesday, April 17th 2024, 4:47:03 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/index/","PassFrontmatter":true}
+{"id":"b05cfbb7-455f-48c1-a272-e3895d80d15f","title":"And A Thousand Years More","description":"And A Thousand Years More campaign overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:56:48 pm","date_modified":"Friday, April 19th 2024, 5:18:06 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/index/","PassFrontmatter":true}
 ---
 
 
@@ -55,13 +55,27 @@ CONTENT IS BEING UPDATED.
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] x 17
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrow]] x 2
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Blue Level Guild Badge\|Blue Level Guild Badge]] x 1
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]] (!) x 1
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|Financial Records of Narre]] (!) x 1
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/Junk Bundle\|Junk Bundle]] x 1
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]] x 1
-- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] x 1
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] (!) x 1
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] (!) x 1
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]] x 1
 
 
+(!) items are proscribed.
+
 [[Tabletop/Campaigns/And A Thousand Years More/Inventory/index\|Inventory Overview]]
+
+#### Party Knowledge
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|Ley Lines]] (!)
+
+
+(!) is forbidden knowledge.
+
+[[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/index\|Knowledge Notes Overview]]
 
 #### Past Items
 
