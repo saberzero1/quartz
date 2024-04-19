@@ -1,5 +1,5 @@
 ---
-{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Wednesday, April 17th 2024, 7:09:42 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
+{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Friday, April 19th 2024, 4:15:46 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
 ---
 
 
@@ -104,18 +104,18 @@
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]]                                   | -      | 1        | Yes            |
 | [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] | 1/32   | 1        | Yes            |
 | Incriminating Evidence                                                                                                     | 1/16   | 1        | Yes            |
-| Financial Record of Narre                                                                                                  | 1/16   | 1        | Yes            |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|Financial Records of Narre]]    | 1/16   | 1        | Yes            |
 | Pamphlet of salacious ribaldry                                                                                             | -      | 1        | Yes            |
 | List of public grievances                                                                                                  | -      | 1        | Yes            |
 | Junk Bundle                                                                                                                | 1      | 1        | Yes            |
 | **Total (carried)**                                                                                                        | 2 9/32 | -        | -              |
 | **Total**                                                                                                                  | 2 9/32 | -        | -              |
 
-| Consumable       | Weight     | Quantity | Carried       |
-| ---------------- | ---------- | -------- | ------------- |
-| Fire Pepperbomb  | 1/8        | 0        | No (all used) |
-| Water Pepperbomb | 1/8        | 0        | No (all used) |
-| Flame Arrow      | 1/8 per 24 | 2        | Yes (Damjan)  |
+| Consumable                                                                                   | Weight     | Quantity | Carried       |
+| -------------------------------------------------------------------------------------------- | ---------- | -------- | ------------- |
+| Fire Pepperbomb                                                                              | 1/8        | 0        | No (all used) |
+| Water Pepperbomb                                                                             | 1/8        | 0        | No (all used) |
+| [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrow]] | 1/8 per 24 | 2        | Yes (Damjan)  |
 
 ## Knowledge
 
