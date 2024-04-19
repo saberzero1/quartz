@@ -11,6 +11,6 @@ My father's writing kit is like a portal to a world of imagination and possibili
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories. #Character #Item #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories.
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: The other room has a map. It has golden circles of Hornbach, the former Capital city and Cortvilly the current Capital city, as well as a volcano. In addition it has two golden circles with no currently known towns. The circles are connected. I [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|transcribe the map]] with my [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]].
 
