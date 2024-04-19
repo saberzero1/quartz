@@ -1,5 +1,5 @@
 ---
-{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 10:46:51 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
+{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 10:48:48 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
 ---
 
 
@@ -11,7 +11,7 @@
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learn of a nearby [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|ruined manor]].
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find some necromancy gear: a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Tome]], a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Wand]], and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Rod]].
 > - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] decide to burn the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Tome]] before leaving.
-> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learn about [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|Ley Lines]] and !!an ancient mage!!
+> - [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learn about [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|Ley Lines]] and !!an ancient mage!! in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor of Muroliva]].
 { #embedmarker}
 
 
