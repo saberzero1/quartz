@@ -19,6 +19,7 @@ A ruined manor with a library.
 
 ## Mentions
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] ransacks the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|place]], one book he tosses falls open and reveals a hidden [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Black Leather Tome]]. It is clearly about Necromancy. **It is forbidden knowledge.**
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Aleksi leads to the ruined [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor of Muroliva]]. Next to the Manor is a well-kept Library. A large tree grows from the Library.
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] learn of a nearby [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|ruined manor]].
 
