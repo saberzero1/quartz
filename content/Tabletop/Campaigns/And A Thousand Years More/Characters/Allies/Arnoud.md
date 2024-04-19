@@ -1,5 +1,5 @@
 ---
-{"id":"74371774-f5be-464e-a2ea-cd3ea8bed33f","title":"Arnoud","description":"Once a proud knight of a noble order of paladins, he was the sole survivor of a devastating calamity that befell his comrades.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:30 pm","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/arnoud/","PassFrontmatter":true}
+{"id":"74371774-f5be-464e-a2ea-cd3ea8bed33f","title":"Arnoud","description":"Once a proud knight of a noble order of paladins, he was the sole survivor of a devastating calamity that befell his comrades.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:30 pm","date_modified":"Friday, April 19th 2024, 5:59:44 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/arnoud/","PassFrontmatter":true}
 ---
 
 
@@ -17,4 +17,5 @@ Once a proud knight of a [[Tabletop/Campaigns/And A Thousand Years More/Faction/
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 002\|Session 002]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] points [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|us]] to [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Defeat the Gourdlings\|another quest]]: a bunch of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|Gourdlings]] are causing trouble to the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins\|north]]. #Bestiary #Character #Faction #Quest #Location #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] meet [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] in the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern\|tavern]]. #Character #Faction #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 001\|Session 001]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud\|Arnoud]] instructed us on guild etiquette.
 
