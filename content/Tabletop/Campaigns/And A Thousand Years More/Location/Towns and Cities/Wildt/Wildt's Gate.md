@@ -19,5 +19,5 @@
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] come across some [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild\|rough-looking mercenaries]] near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|entrance]]. They ask us for identification. #Event #Location #Faction
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] come across some [[Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild\|rough-looking mercenaries]] near the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Wildt's Gate\|entrance]]. They ask us for identification.
 
