@@ -1,5 +1,5 @@
 ---
-{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 6:15:56 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
+{"id":"8282c5aa-3639-4a7f-9712-f22739b02da5","title":"Session 008","description":"Session 8","publish":true,"date_created":"Saturday, June 10th 2023, 12:58:18 pm","date_modified":"Friday, April 19th 2024, 7:08:31 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-008/","PassFrontmatter":true}
 ---
 
 
@@ -16,20 +16,20 @@
 ---
 
 - Imtrud enters Eckart's office.
-- Party acquires Insider with Narre. #Event #Item
-- Lux takes the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|financial records]] showing the debts of Narre to Dottinghem. #Event #Item
+- Party acquires Insider with Narre.
+- Lux takes the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|financial records]] showing the debts of Narre to Dottinghem.
 - Lux reads that there is an Iron export and Weapons import.
-- Damjan and Norrix acquire [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] armor. #Item
+- Damjan and Norrix acquire [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] armor.
 
 ---
 
-- Aleksi tells us about a Fair in Wildt. During the Fair the Mercenary Guild and Adventurer's Guild bet on fighter in a competition. #Event #Location
-- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] also informs us about an old library near the ruins of a manor to the North. He tells of rumors of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree\|Whispering Trees]]. #Event #Bestiary #Character
+- Aleksi tells us about a Fair in Wildt. During the Fair the Mercenary Guild and Adventurer's Guild bet on fighter in a competition.
+- [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Aleksi\|Aleksi]] also informs us about an old library near the ruins of a manor to the North. He tells of rumors of [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree\|Whispering Trees]].
 
 ---
 
-- We decide to head to the Library. #Event
-- Aleksi leads to the ruined [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor of Muroliva]]. Next to the Manor is a well-kept Library. A large tree grows from the Library. #Event #Location
+- We decide to head to the Library.
+- Aleksi leads to the ruined [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva\|Manor of Muroliva]]. Next to the Manor is a well-kept Library. A large tree grows from the Library.
 
 ---
 
@@ -77,7 +77,7 @@ Norrix smashes the chest, revealing a golden key inside.
 
 As we walk back to the circular room, Norrix notices something glistering at the bottoms of the shallow water.
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find and identify [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrows]]. #Faction #Event #Item
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find and identify [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrows]].
 
 ---
 
@@ -148,7 +148,7 @@ The Tomb Tree tries to attack with Horrors. Norrix interrupts the attack and str
 
 ---
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] identifies them to be used for Necromancy. #Event #Item #Faction #Character
+- [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] identifies them to be used for Necromancy.
 
 ---
 
