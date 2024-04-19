@@ -1,5 +1,5 @@
 ---
-{"id":"40101eea-5338-4479-ac00-d1595c912798","title":"Druid Circle","description":"A Circle of Druids near Narre.","isCurrentLocation":false,"publish":true,"date_created":"Friday, March 3rd 2023, 8:25:19 am","date_modified":"Tuesday, April 16th 2024, 8:19:37 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Druid Circle.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/druid-circle/","PassFrontmatter":true}
+{"id":"40101eea-5338-4479-ac00-d1595c912798","title":"Druid Circle","description":"A Circle of Druids near Narre.","isCurrentLocation":false,"publish":true,"date_created":"Friday, March 3rd 2023, 8:25:19 am","date_modified":"Friday, April 19th 2024, 6:36:00 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Druid Circle.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/druid-circle/","PassFrontmatter":true}
 ---
 
 
