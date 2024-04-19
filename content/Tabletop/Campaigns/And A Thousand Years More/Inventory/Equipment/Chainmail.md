@@ -11,6 +11,6 @@ An assortment of chain-linked armor.
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] sells his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|excess equipment]] for 110 Denari. #Character #Event #Item
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Damjan and Norrix acquire [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] armor. #Item
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] sells his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|excess equipment]] for 110 Denari.
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Damjan and Norrix acquire [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] armor.
 
