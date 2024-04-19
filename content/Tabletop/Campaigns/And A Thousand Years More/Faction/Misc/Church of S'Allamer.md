@@ -13,5 +13,5 @@ The church of the enlightened.
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] wants look for favor in a temple. There is a small temple of [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Church of S'Allamer\|S'Allamer]]. #Character #Location #Event
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] wants look for favor in a temple. There is a small temple of [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Church of S'Allamer\|S'Allamer]].
 
