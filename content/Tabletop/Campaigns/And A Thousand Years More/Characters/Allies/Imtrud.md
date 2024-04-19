@@ -1,5 +1,5 @@
 ---
-{"id":"3aebfffa-4aaa-43ea-8834-ef1bc7c27194","title":"Imtrud","description":"Imtrud of the Miners of Narre had a dream: to liberate her people from the oppressive rule of the Mages of Narre. After a long and arduous struggle, she succeeded in overthrowing the Mages and bringing freedom to her people.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:57 pm","date_modified":"Saturday, April 13th 2024, 11:50:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/imtrud/","PassFrontmatter":true}
+{"id":"3aebfffa-4aaa-43ea-8834-ef1bc7c27194","title":"Imtrud","description":"Imtrud of the Miners of Narre had a dream: to liberate her people from the oppressive rule of the Mages of Narre. After a long and arduous struggle, she succeeded in overthrowing the Mages and bringing freedom to her people.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:57 pm","date_modified":"Friday, April 19th 2024, 6:51:12 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/imtrud/","PassFrontmatter":true}
 ---
 
 
@@ -10,8 +10,11 @@ Imtrud of the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miner
 ## Description
 
 - Bat Leader of the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Miners of Narre]].
-- Overthrew the Mages of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] to free her folks.
+- Overthrew the Mages of [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]] to free her [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|folks]].
 
 ## Mentions
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]] becomes [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre\|Narre]]'s new leader.
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 006\|Session 006]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] have teamed up with [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|Imtrud]] and the [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Miners]] to take the [[Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep\|Keep]].
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 004\|Session 004]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] met with the [[Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Imtrud\|leader]] of the suppressed [[Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre\|Mine workers]] to plan a [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre\|coup]].
 
