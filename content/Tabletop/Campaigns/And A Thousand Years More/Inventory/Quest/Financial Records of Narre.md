@@ -11,6 +11,6 @@ Financial Records of [[Tabletop/Campaigns/And A Thousand Years More/Location/Tow
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Lux takes the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|financial records]] showing the debts of Narre to Dottinghem. #Event #Item
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Lux takes the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|financial records]] showing the debts of Narre to Dottinghem.
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007\|Session 007]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] find [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|Narre's Financial Records]] in [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]]'s room as well as a map detailing a !!hiding spot in the woods!!.
 
