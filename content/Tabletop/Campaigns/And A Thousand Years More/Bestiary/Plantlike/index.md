@@ -5,5 +5,4 @@
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling\|Gourdling]]
 - [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Punching Onion\|Punching Onion]]
-- [[Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Tomb Tree\|Tomb Tree]]
 
