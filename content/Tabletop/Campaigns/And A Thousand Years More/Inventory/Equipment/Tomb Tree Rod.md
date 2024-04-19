@@ -11,6 +11,6 @@ A dark rod resembling a Tomb Tree. It is used for necromancy.
 
 ## Mentions
 
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] identifies them to be used for Necromancy. #Event #Item #Faction #Character
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] identifies them to be used for Necromancy.
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find some necromancy gear: a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Tome]], a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Wand]], and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Rod]].
 
