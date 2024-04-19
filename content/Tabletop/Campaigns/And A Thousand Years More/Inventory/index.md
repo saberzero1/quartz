@@ -1,5 +1,5 @@
 ---
-{"id":"43a07b59-995f-4680-a46b-26b7fa0a1989","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Monday, May 29th 2023, 5:19:47 pm","date_modified":"Wednesday, April 17th 2024, 4:45:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","PassFrontmatter":true}
+{"id":"43a07b59-995f-4680-a46b-26b7fa0a1989","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Monday, May 29th 2023, 5:19:47 pm","date_modified":"Friday, April 19th 2024, 5:39:34 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/index/","PassFrontmatter":true}
 ---
 
 
@@ -26,28 +26,43 @@
 
 ## Items
 
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/index\|Quest]]: 
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|Financial Records of Narre]] (!) x 1
+
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/index\|Equipment]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Dagger\|Dagger]] x 22
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] x 17
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]] (!) x 1
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Main Gauche\|Main Gauche]] x 1
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] (!) x 1
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Commoner's Clothes\|Commoner's Clothes]] x 0
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/index\|Consumable]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrow]] x 2
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Druidic Sleep Medicine\|Druidic Sleep Medicine]] x 0
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Grandma's Cookies\|Grandma's Cookies]] x 0
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Grandma's Cookies\|Grandma's Cookies]] (!) x 0
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/index\|Special]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Special/Junk Bundle\|Junk Bundle]] x 1
 
 - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/index\|Misc]]: 
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Blue Level Guild Badge\|Blue Level Guild Badge]] x 1
-    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] x 1
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Signet Stamp of Narre's Keep\|Signet Stamp of Narre's Keep]] (!) x 1
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|Writing Kit]] x 1
+    - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Black Leather Tome\|Black Leather Tome]] (!) x 0
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|Green Level Guild Badge]] x 0
     - [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]] x 0
 
 
+
+(!) items are proscribed.
+
+## Knowledge
+
+- [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/Ley Lines\|Ley Lines]] (!): The map has golden circles around Hornbach: the former Capital city and Cortvilly: the current Capital city, as well as a volcano. In addition it has two golden circles with no currently known towns. The circles are connected. I recognize that the points all align with Ley Lines, potentially allowing teleportation between them. The volcano also has a large cave system.
+
+
+(!) is forbidden knowledge.
 
 ## System
 
@@ -57,8 +72,10 @@
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] introduce myself as a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Writing Kit\|writer]] looking for stories. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix\|Norrix]] also shows his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 009\|Session 009]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan\|Damjan]] introduces himself by showing his [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red Level Guild Badge]]. #Character #Item #Event
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Damjan and Norrix acquire Chain Mail armor. #Item
-- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Lux takes the financial records showing the debts of Narre to Dottinghem. #Event #Item
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Tomb Tree Rod\|Tomb Tree Rod]] and a [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand\|Darkwood Wand]]. [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn\|Ravahn]] identifies them to be used for Necromancy. #Event #Item #Faction #Character
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party\|We]] find and identify [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow\|Fire Arrows]]. #Faction #Event #Item
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Damjan and Norrix acquire [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Chainmail\|Chainmail]] armor. #Item
+- [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Lux takes the [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Quest/Financial Records of Narre\|financial records]] showing the debts of Narre to Dottinghem. #Event #Item
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 008\|Session 008]]: Party acquires Insider with Narre. #Event #Item
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: [[Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Eckart\|Eckart]] interrupts [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|me]]. "You're [[Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Hornwaldia Adventurer's Guild\|adventurers]], looking for [[Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Clear the Sky Moss\|quests]], [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge level]]…[[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge\|mostly]]" as he gives [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Morale\|Morale]] a look. #Character #Faction #Quest #Item #Event
 - [[Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 003\|Session 003]]: "Yes…" [[Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Lux\|I]] mumble as I show my [[Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Red Level Guild Badge\|Red badge]]. #Character #Item #Event
