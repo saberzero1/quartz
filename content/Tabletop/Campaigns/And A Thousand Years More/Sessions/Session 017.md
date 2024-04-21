@@ -1,5 +1,5 @@
 ---
-{"id":"e256f02c-5a82-49cb-82e0-baace285c62a","title":"Session 017","description":"Session 17","publish":true,"date_created":"Friday, April 5th 2024, 12:00:20 am","date_modified":"Monday, April 15th 2024, 6:04:24 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 017.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-017/","PassFrontmatter":true}
+{"id":"e256f02c-5a82-49cb-82e0-baace285c62a","title":"Session 017","description":"Session 17","publish":true,"date_created":"Friday, April 5th 2024, 12:00:20 am","date_modified":"Sunday, April 21st 2024, 10:29:53 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 017.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-017/","PassFrontmatter":true}
 ---
 
 
@@ -32,7 +32,7 @@
 - Norrix will face a lot of large swords in combat.
 - She asks for for 2 denarii per person.
 - I give Norrix 8 denarii. He throws it in her face.
-- She did not like that. She curses us. 
+- She did not like that. She curses us.
 
 ---
 
@@ -116,11 +116,13 @@
 ---
 
 Party (current turn):
+
 - Lux: reeling, blinded
 - Norrix: Injured, Hurt, Blinded, Afraid, Reeling
 - Damjan: Blinded, Immobilized, Hurt, Afraid, Reeling.
 
 Enemies():
+
 - Darius: Berserk
 - War mound(Januarius): Berserk
 - Januarius
