@@ -904,7 +904,7 @@ body:not([data-slug^="tags/"]) .popover-hint.mado-heading > article,
   display: inline-block;
 }
 .mado-heading > .callout,
-.mado-heading > article > blockquote.callout{
+.mado-heading > article > blockquote.callout:not(.is-collapsed) {
   position: relative;
   margin: 0 auto;
   padding: var(--callout-padding);
@@ -915,13 +915,13 @@ body:not([data-slug^="tags/"]) .popover-hint.mado-heading > article,
   overflow: visible;
 }
 .mado-heading > .callout .callout-title,
-.mado-heading > article > blockquote.callout .callout-title {
+.mado-heading > article > blockquote.callout:not(.is-collapsed) .callout-title {
   padding: 17px 23px;
 }
 .mado-heading > .callout .callout-content,
-.mado-heading > article > blockquote.callout .callout-content,
+.mado-heading > article > blockquote.callout:not(.is-collapsed) .callout-content,
 .mado-heading > .callout ul,
-.mado-heading > article > blockquote.callout ul {
+.mado-heading > article > blockquote.callout:not(.is-collapsed) ul {
   padding: 3px 53px;
 }
 .mado-heading > blockquote > :is(ul, ol) {
