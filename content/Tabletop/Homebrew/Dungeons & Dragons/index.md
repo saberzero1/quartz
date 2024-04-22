@@ -3,6 +3,11 @@
 ---
 
 
+- [[Tabletop/Homebrew/Dungeons & Dragons/Allied parties attack simultaneously\|Allied parties attack simultaneously]]
+- [[Tabletop/Homebrew/Dungeons & Dragons/Influental Roleplay\|Influental Roleplay]]
+- [[Tabletop/Homebrew/Dungeons & Dragons/Reckless Inspiration\|Reckless Inspiration]]
+- [[Tabletop/Homebrew/Dungeons & Dragons/Roleplay Abilities\|Roleplay Abilities]]
+- [[Tabletop/Homebrew/Dungeons & Dragons/Rule of Cool\|Rule of Cool]]
 - [[Tabletop/Homebrew/Dungeons & Dragons/Standard House Rules\|Standard House Rules]]
 
 
