@@ -1,5 +1,5 @@
 ---
-{"id":"eff51a6e-e505-49b6-ab9e-40457fac9538","title":"Standard House Rules","description":"The House Rules I generally use for Dungeons & Dragons.","publish":true,"date_created":"Sunday, April 21st 2024, 10:55:02 pm","date_modified":"Monday, April 22nd 2024, 10:53:16 pm","cssclasses":["mado-heading"],"path":"Tabletop/Homebrew/Dungeons & Dragons/Standard House Rules.md","permalink":"/tabletop/homebrew/dungeons-and-dragons/standard-house-rules/","PassFrontmatter":true}
+{"id":"eff51a6e-e505-49b6-ab9e-40457fac9538","title":"Standard House Rules","description":"The House Rules I generally use for Dungeons & Dragons.","publish":true,"date_created":"Sunday, April 21st 2024, 10:55:02 pm","date_modified":"Tuesday, April 23rd 2024, 4:28:38 pm","cssclasses":["mado-heading"],"path":"Tabletop/Homebrew/Dungeons & Dragons/Standard House Rules.md","permalink":"/tabletop/homebrew/dungeons-and-dragons/standard-house-rules/","PassFrontmatter":true}
 ---
 
 
