@@ -1,5 +1,5 @@
 ---
-{"id":"e302b3dc-d276-11ee-bbf3-7b1f7289f52e","title":"Negotiating Well","description":"On why and how to negatiate.","publish":true,"date_created":"Friday, February 23rd 2024, 7:10:07 pm","date_modified":"Wednesday, April 10th 2024, 8:26:36 pm","cssclasses":["mado-heading"],"path":"Writings/Blog/Negotiating Well.md","permalink":"/writings/blog/negotiating-well/","PassFrontmatter":true}
+{"id":"e302b3dc-d276-11ee-bbf3-7b1f7289f52e","title":"Negotiating Well","description":"On why and how to negatiate.","publish":true,"date_created":"Friday, February 23rd 2024, 7:10:07 pm","date_modified":"Friday, April 26th 2024, 11:01:50 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Writings/Blog/Negotiating Well.md","permalink":"/writings/blog/negotiating-well/","PassFrontmatter":true}
 ---
 
 
