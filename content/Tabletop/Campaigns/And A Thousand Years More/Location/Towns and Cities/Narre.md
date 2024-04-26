@@ -1,5 +1,5 @@
 ---
-{"id":"58c23317-52ce-4342-af2d-b1a376be3270","title":"Narre","description":"A town divided in two by a river. The northern part is mostly wealthy and full of mages, while the southern part is poor and mostly consists of mining workforce.","isCurrentLocation":false,"publish":true,"date_created":"Monday, February 27th 2023, 10:12:40 am","date_modified":"Friday, April 19th 2024, 6:31:19 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/","PassFrontmatter":true}
+{"id":"58c23317-52ce-4342-af2d-b1a376be3270","title":"Narre","description":"A town divided in two by a river. The northern part is mostly wealthy and full of mages, while the southern part is poor and mostly consists of mining workforce.","isCurrentLocation":false,"publish":true,"date_created":"Monday, February 27th 2023, 10:12:40 am","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/","PassFrontmatter":true}
 ---
 
 

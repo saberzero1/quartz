@@ -1,5 +1,5 @@
 ---
-{"id":"1beeabf9-6c2d-45f2-a830-c1ef790e970b","title":"Wizard Tower","description":"A large black tower looming over Narre. It is home to wizard Eckart.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:45:15 pm","date_modified":"Friday, April 19th 2024, 6:51:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/wizard-tower/","PassFrontmatter":true}
+{"id":"1beeabf9-6c2d-45f2-a830-c1ef790e970b","title":"Wizard Tower","description":"A large black tower looming over Narre. It is home to wizard Eckart.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:45:15 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Wizard Tower.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/wizard-tower/","PassFrontmatter":true}
 ---
 
 

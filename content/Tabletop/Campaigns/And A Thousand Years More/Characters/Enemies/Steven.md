@@ -1,5 +1,5 @@
 ---
-{"id":"3fe417da-2fc7-4b58-b509-94e522e18a8f","title":"Steven","description":"A Monkey guarding the Opeden Guild Building. Moonlights as a bandit.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:29:23 pm","date_modified":"Friday, April 19th 2024, 6:02:48 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/steven/","PassFrontmatter":true}
+{"id":"3fe417da-2fc7-4b58-b509-94e522e18a8f","title":"Steven","description":"A Monkey guarding the Opeden Guild Building. Moonlights as a bandit.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:29:23 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Steven.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/steven/","PassFrontmatter":true}
 ---
 
 

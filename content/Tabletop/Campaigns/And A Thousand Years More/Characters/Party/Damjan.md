@@ -1,5 +1,5 @@
 ---
-{"id":"28c30c64-663d-4e68-aa19-d35212aa7ab7","title":"Damjan","description":"Damjan Gjergj Meridius.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:33:04 am","date_modified":"Friday, April 19th 2024, 6:07:49 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/damjan/","PassFrontmatter":true}
+{"id":"28c30c64-663d-4e68-aa19-d35212aa7ab7","title":"Damjan","description":"Damjan Gjergj Meridius.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:33:04 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Damjan.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/damjan/","PassFrontmatter":true}
 ---
 
 

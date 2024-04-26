@@ -1,5 +1,5 @@
 ---
-{"id":"af5cc3f8-89b8-4183-aeff-574c07aecaae","title":"Free the Miners","description":"A group of Miners has been locked up in Narre's Keep. Liberate them.","sessionReceived":5,"sessionCompleted":6,"publish":true,"date_created":"Thursday, March 2nd 2023, 6:35:09 pm","date_modified":"Friday, April 19th 2024, 6:43:48 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free the Miners.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/free-the-miners/","PassFrontmatter":true}
+{"id":"af5cc3f8-89b8-4183-aeff-574c07aecaae","title":"Free the Miners","description":"A group of Miners has been locked up in Narre's Keep. Liberate them.","sessionReceived":5,"sessionCompleted":6,"publish":true,"date_created":"Thursday, March 2nd 2023, 6:35:09 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free the Miners.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/free-the-miners/","PassFrontmatter":true}
 ---
 
 

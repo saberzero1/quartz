@@ -1,5 +1,5 @@
 ---
-{"id":"fd914280-0ca2-4930-ad6d-b0654492458d","title":"Opeden Tavern","description":"A tavern with a fighting ring in the middle. Located in Opeden.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:53:21 pm","date_modified":"Friday, April 19th 2024, 6:35:37 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/opeden-tavern/","PassFrontmatter":true}
+{"id":"fd914280-0ca2-4930-ad6d-b0654492458d","title":"Opeden Tavern","description":"A tavern with a fighting ring in the middle. Located in Opeden.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:53:21 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Tavern.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/opeden-tavern/","PassFrontmatter":true}
 ---
 
 

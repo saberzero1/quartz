@@ -1,5 +1,5 @@
 ---
-{"id":"81f0207a-d5a7-499d-b594-5eafa5d5ab83","title":"Sir Andre","description":"Sir Andre.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, July 2nd 2023, 3:34:35 pm","date_modified":"Friday, April 19th 2024, 6:07:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/neutral/sir-andre/","PassFrontmatter":true}
+{"id":"81f0207a-d5a7-499d-b594-5eafa5d5ab83","title":"Sir Andre","description":"Sir Andre.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, July 2nd 2023, 3:34:35 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Sir Andre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/neutral/sir-andre/","PassFrontmatter":true}
 ---
 
 

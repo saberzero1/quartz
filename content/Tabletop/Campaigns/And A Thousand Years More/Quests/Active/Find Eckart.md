@@ -1,5 +1,5 @@
 ---
-{"id":"0bf03909-ed5f-4b07-a7e6-b474d469cdf2","title":"Find Eckart","description":"After liberating Narre from her captors, Eckart quickly fled the scene, leaving behind a set of maps that unfurled a mysterious location deep in the heart of the dark and foreboding woods.","sessionReceived":1,"sessionCompleted":0,"publish":true,"date_created":"Sunday, March 19th 2023, 12:46:41 pm","date_modified":"Friday, April 19th 2024, 6:42:06 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find Eckart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/active/find-eckart/","PassFrontmatter":true}
+{"id":"0bf03909-ed5f-4b07-a7e6-b474d469cdf2","title":"Find Eckart","description":"After liberating Narre from her captors, Eckart quickly fled the scene, leaving behind a set of maps that unfurled a mysterious location deep in the heart of the dark and foreboding woods.","sessionReceived":1,"sessionCompleted":0,"publish":true,"date_created":"Sunday, March 19th 2023, 12:46:41 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find Eckart.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/active/find-eckart/","PassFrontmatter":true}
 ---
 
 

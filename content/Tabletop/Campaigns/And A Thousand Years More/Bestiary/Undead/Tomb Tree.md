@@ -1,5 +1,5 @@
 ---
-{"id":"79c8d1d6-6ee5-466b-a366-00c1d1e12a82","title":"Tomb Tree","description":"A large tree radiating dark energy. It makes a continuous howling sound.","publish":true,"date_created":"Sunday, June 11th 2023, 11:48:29 am","date_modified":"Friday, April 19th 2024, 5:44:27 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/undead/tomb-tree/","PassFrontmatter":true}
+{"id":"79c8d1d6-6ee5-466b-a366-00c1d1e12a82","title":"Tomb Tree","description":"A large tree radiating dark energy. It makes a continuous howling sound.","publish":true,"date_created":"Sunday, June 11th 2023, 11:48:29 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Undead/Tomb Tree.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/undead/tomb-tree/","PassFrontmatter":true}
 ---
 
 

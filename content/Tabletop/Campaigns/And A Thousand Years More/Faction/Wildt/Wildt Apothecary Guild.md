@@ -1,5 +1,5 @@
 ---
-{"id":"98ab804b-7052-4973-80fe-094ab35b5b24","title":"Wildt Apothecary Guild","description":"A guild of apothecaries located in Wildt. They seem to know Damjan.","publish":true,"date_created":"Sunday, July 2nd 2023, 2:35:46 pm","date_modified":"Friday, April 19th 2024, 6:13:33 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Apothecary Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/wildt/wildt-apothecary-guild/","PassFrontmatter":true}
+{"id":"98ab804b-7052-4973-80fe-094ab35b5b24","title":"Wildt Apothecary Guild","description":"A guild of apothecaries located in Wildt. They seem to know Damjan.","publish":true,"date_created":"Sunday, July 2nd 2023, 2:35:46 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Apothecary Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/wildt/wildt-apothecary-guild/","PassFrontmatter":true}
 ---
 
 

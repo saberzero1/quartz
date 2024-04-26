@@ -1,5 +1,5 @@
 ---
-{"id":"85ef37d8-c0f3-41b8-bd3f-1e1016b3f15e","title":"Fire Arrow","description":"An arrow that lights unfortunate targets on fire.","isInCurrentInventory":true,"isProscribed":false,"amountHeld":2,"causeOfConsumption":"null","publish":true,"date_created":"Thursday, April 11th 2024, 10:49:44 pm","date_modified":"Friday, April 19th 2024, 6:21:00 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/consumable/fire-arrow/","PassFrontmatter":true}
+{"id":"85ef37d8-c0f3-41b8-bd3f-1e1016b3f15e","title":"Fire Arrow","description":"An arrow that lights unfortunate targets on fire.","isInCurrentInventory":true,"isProscribed":false,"amountHeld":2,"causeOfConsumption":"null","publish":true,"date_created":"Thursday, April 11th 2024, 10:49:44 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Fire Arrow.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/consumable/fire-arrow/","PassFrontmatter":true}
 ---
 
 

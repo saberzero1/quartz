@@ -1,5 +1,5 @@
 ---
-{"id":"5901def1-c430-4562-b17a-9d40a015c8b7","title":"Consumable","description":"Consumable - Inventory","publish":true,"date_created":"Thursday, April 11th 2024, 10:48:31 pm","date_modified":"Tuesday, April 16th 2024, 8:19:36 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/consumable/index/","PassFrontmatter":true}
+{"id":"5901def1-c430-4562-b17a-9d40a015c8b7","title":"Consumable","description":"Consumable - Inventory","publish":true,"date_created":"Thursday, April 11th 2024, 10:48:31 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/consumable/index/","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"5e394687-1dcb-4d87-9c6b-603ee1d02ce7","title":"Leftovers of the Paladins","description":"The ruins of a once-mighty band of paladins lay scattered across the land, a grim reminder of the cataclysmic disaster that had befallen them.","publish":true,"date_created":"Thursday, March 2nd 2023, 6:30:20 pm","date_modified":"Friday, April 19th 2024, 6:18:35 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/leftovers-of-the-paladins/","PassFrontmatter":true}
+{"id":"5e394687-1dcb-4d87-9c6b-603ee1d02ce7","title":"Leftovers of the Paladins","description":"The ruins of a once-mighty band of paladins lay scattered across the land, a grim reminder of the cataclysmic disaster that had befallen them.","publish":true,"date_created":"Thursday, March 2nd 2023, 6:30:20 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Leftovers of the Paladins.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/leftovers-of-the-paladins/","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"74371774-f5be-464e-a2ea-cd3ea8bed33f","title":"Arnoud","description":"Once a proud knight of a noble order of paladins, he was the sole survivor of a devastating calamity that befell his comrades.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:30 pm","date_modified":"Friday, April 19th 2024, 5:59:44 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/arnoud/","PassFrontmatter":true}
+{"id":"74371774-f5be-464e-a2ea-cd3ea8bed33f","title":"Arnoud","description":"Once a proud knight of a noble order of paladins, he was the sole survivor of a devastating calamity that befell his comrades.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:28:30 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Allies/Arnoud.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/allies/arnoud/","PassFrontmatter":true}
 ---
 
 

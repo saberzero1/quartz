@@ -1,5 +1,5 @@
 ---
-{"id":"66a25a38-8c7b-4545-9fa1-0c042004a39b","title":"Danger Sense","description":"\"I have a bad feeling about this.\"","publish":true,"date_created":"Sunday, March 31st 2024, 2:43:03 pm","date_modified":"Friday, April 19th 2024, 6:23:48 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/danger-sense/","PassFrontmatter":true}
+{"id":"66a25a38-8c7b-4545-9fa1-0c042004a39b","title":"Danger Sense","description":"\"I have a bad feeling about this.\"","publish":true,"date_created":"Sunday, March 31st 2024, 2:43:03 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Danger Sense.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/danger-sense/","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"01184dfd-352f-44a5-8371-2b1e54cc59c6","title":"Active","description":"Active quests.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:48:15 pm","date_modified":"Monday, April 15th 2024, 12:39:17 am","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Active/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/active/index/","PassFrontmatter":true}
+{"id":"01184dfd-352f-44a5-8371-2b1e54cc59c6","title":"Active","description":"Active quests.","publish":true,"date_created":"Tuesday, April 2nd 2024, 7:48:15 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Active/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/active/index/","PassFrontmatter":true}
 ---
 
 
