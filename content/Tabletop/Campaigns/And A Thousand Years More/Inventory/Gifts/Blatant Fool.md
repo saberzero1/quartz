@@ -1,5 +1,5 @@
 ---
-{"id":"2ef62850-f3cf-4bf9-87a3-ad4f8641ac98","title":"Blatant Fool","description":"Anyone, near or far, can cleary make you out to be a fool.","publish":true,"date_created":"Saturday, March 30th 2024, 10:51:26 pm","date_modified":"Friday, April 19th 2024, 6:23:27 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/blatant-fool/","PassFrontmatter":true}
+{"id":"2ef62850-f3cf-4bf9-87a3-ad4f8641ac98","title":"Blatant Fool","description":"Anyone, near or far, can cleary make you out to be a fool.","publish":true,"date_created":"Saturday, March 30th 2024, 10:51:26 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Blatant Fool.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/blatant-fool/","PassFrontmatter":true}
 ---
 
 
