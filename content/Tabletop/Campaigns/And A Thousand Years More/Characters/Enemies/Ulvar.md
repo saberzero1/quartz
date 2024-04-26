@@ -1,5 +1,5 @@
 ---
-{"id":"e7fe173d-6bbe-4921-bf17-e4a253770cec","title":"Ulvar","description":"Ulvar.","isActivePartyMember":false,"isAlive":false,"publish":true,"date_created":"Sunday, July 2nd 2023, 3:34:35 pm","date_modified":"Friday, April 19th 2024, 6:05:25 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/ulvar/","PassFrontmatter":true}
+{"id":"e7fe173d-6bbe-4921-bf17-e4a253770cec","title":"Ulvar","description":"Ulvar.","isActivePartyMember":false,"isAlive":false,"publish":true,"date_created":"Sunday, July 2nd 2023, 3:34:35 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Enemies/Ulvar.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/enemies/ulvar/","PassFrontmatter":true}
 ---
 
 
