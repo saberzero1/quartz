@@ -1,5 +1,5 @@
 ---
-{"id":"7f552151-8d43-47bd-acac-e9ce2aded968","title":"Manor of Muroliva","description":"A ruined manor with a library.","isCurrentLocation":false,"publish":true,"date_created":"Friday, April 19th 2024, 4:21:06 pm","date_modified":"Friday, April 19th 2024, 6:38:03 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/manor-of-muroliva/","PassFrontmatter":true}
+{"id":"7f552151-8d43-47bd-acac-e9ce2aded968","title":"Manor of Muroliva","description":"A ruined manor with a library.","isCurrentLocation":false,"publish":true,"date_created":"Friday, April 19th 2024, 4:21:06 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Wildt/Manor of Muroliva.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/wildt/manor-of-muroliva/","PassFrontmatter":true}
 ---
 
 
