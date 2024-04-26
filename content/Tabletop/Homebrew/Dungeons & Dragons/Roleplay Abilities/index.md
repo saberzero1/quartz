@@ -1,5 +1,5 @@
 ---
-{"id":"c667df60-9a2f-4d50-9cbd-ded11a99bf87","title":"Roleplay Abilities","description":"Roleplay Abilities grant powerful and specialized boons to characters to use in social situations, allowing characters to mix-and-match their combat gameplay and roleplay gameplay more freely.","publish":true,"date_created":"Sunday, April 21st 2024, 10:02:46 pm","date_modified":"Monday, April 22nd 2024, 10:53:16 pm","cssclasses":["mado-heading"],"path":"Tabletop/Homebrew/Dungeons & Dragons/Roleplay Abilities/index.md","permalink":"/tabletop/homebrew/dungeons-and-dragons/roleplay-abilities/index/","PassFrontmatter":true}
+{"id":"c667df60-9a2f-4d50-9cbd-ded11a99bf87","title":"Roleplay Abilities","description":"Roleplay Abilities grant powerful and specialized boons to characters to use in social situations, allowing characters to mix-and-match their combat gameplay and roleplay gameplay more freely.","publish":true,"date_created":"Sunday, April 21st 2024, 10:02:46 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Homebrew/Dungeons & Dragons/Roleplay Abilities/index.md","permalink":"/tabletop/homebrew/dungeons-and-dragons/roleplay-abilities/index/","PassFrontmatter":true}
 ---
 
 
