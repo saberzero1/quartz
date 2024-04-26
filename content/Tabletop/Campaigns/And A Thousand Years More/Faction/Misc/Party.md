@@ -1,5 +1,5 @@
 ---
-{"id":"b113a870-5f79-47a8-8c34-97b832976b33","title":"Party","description":"A band of intrepid heroes set out on a daring quest.","publish":true,"date_created":"Monday, February 27th 2023, 10:19:16 am","date_modified":"Friday, April 19th 2024, 6:19:11 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/party/","PassFrontmatter":true}
+{"id":"b113a870-5f79-47a8-8c34-97b832976b33","title":"Party","description":"A band of intrepid heroes set out on a daring quest.","publish":true,"date_created":"Monday, February 27th 2023, 10:19:16 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Misc/Party.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/misc/party/","PassFrontmatter":true}
 ---
 
 
