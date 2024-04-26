@@ -1,5 +1,5 @@
 ---
-{"id":"abe43c94-03c1-4ec1-a83e-31f6d427f33b","title":"Free Narre","description":"Free Narre from the rule of the Mages.","sessionReceived":5,"sessionCompleted":7,"publish":true,"date_created":"Thursday, March 2nd 2023, 6:38:07 pm","date_modified":"Friday, April 19th 2024, 6:43:33 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/free-narre/","PassFrontmatter":true}
+{"id":"abe43c94-03c1-4ec1-a83e-31f6d427f33b","title":"Free Narre","description":"Free Narre from the rule of the Mages.","sessionReceived":5,"sessionCompleted":7,"publish":true,"date_created":"Thursday, March 2nd 2023, 6:38:07 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Completed/Free Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/completed/free-narre/","PassFrontmatter":true}
 ---
 
 
