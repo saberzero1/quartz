@@ -1,5 +1,5 @@
 ---
-{"id":"fff9ba84-84db-4b36-94d3-0f7a0970f1f1","title":"Licensed Fool","description":"You are a fool ... by law.","publish":true,"date_created":"Saturday, March 30th 2024, 10:07:10 pm","date_modified":"Friday, April 19th 2024, 6:24:58 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Licensed Fool.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/licensed-fool/","PassFrontmatter":true}
+{"id":"fff9ba84-84db-4b36-94d3-0f7a0970f1f1","title":"Licensed Fool","description":"You are a fool ... by law.","publish":true,"date_created":"Saturday, March 30th 2024, 10:07:10 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Licensed Fool.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/licensed-fool/","PassFrontmatter":true}
 ---
 
 
