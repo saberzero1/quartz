@@ -1,5 +1,5 @@
 ---
-{"id":"2dc6e3b0-8f85-4f2f-ae80-79c0d089e8e6","title":"Night Vision","description":"See better in darkness.","publish":true,"date_created":"Sunday, March 31st 2024, 5:13:18 pm","date_modified":"Friday, April 19th 2024, 6:51:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/night-vision/","PassFrontmatter":true}
+{"id":"2dc6e3b0-8f85-4f2f-ae80-79c0d089e8e6","title":"Night Vision","description":"See better in darkness.","publish":true,"date_created":"Sunday, March 31st 2024, 5:13:18 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Night Vision.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/night-vision/","PassFrontmatter":true}
 ---
 
 
