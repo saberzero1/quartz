@@ -1,5 +1,5 @@
 ---
-{"id":"8795cbce-beb7-11ee-9557-df619281a2af","title":"Day 01: Trebuchet?!","description":"Advent of Code 2023 Day 1 solutions","publish":true,"date_created":"Monday, January 29th 2024, 4:02:37 pm","date_modified":"Wednesday, April 10th 2024, 9:25:07 pm","cssclasses":["mado-heading"],"path":"Advent of Code/2023/Day 01.md","permalink":"/advent-of-code/2023/day-01/","PassFrontmatter":true}
+{"id":"8795cbce-beb7-11ee-9557-df619281a2af","title":"Day 01: Trebuchet?!","description":"Advent of Code 2023 Day 1 solutions","publish":true,"date_created":"Monday, January 29th 2024, 4:02:37 pm","date_modified":"Friday, April 26th 2024, 11:23:52 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Advent of Code/2023/Day 01.md","permalink":"/advent-of-code/2023/day-01/","PassFrontmatter":true}
 ---
 
 
