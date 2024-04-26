@@ -1,5 +1,5 @@
 ---
-{"id":"b50ea2ed-d8dd-473e-bc87-ebb217e561b1","title":"Opeden Guild Building","description":"The Hornwaldia Guild Building located in Opeden. It is place where adventurers gather.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:47:00 pm","date_modified":"Friday, April 19th 2024, 6:35:23 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/opeden-guild-building/","PassFrontmatter":true}
+{"id":"b50ea2ed-d8dd-473e-bc87-ebb217e561b1","title":"Opeden Guild Building","description":"The Hornwaldia Guild Building located in Opeden. It is place where adventurers gather.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 1:47:00 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Opeden Guild Building.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/opeden-guild-building/","PassFrontmatter":true}
 ---
 
 
