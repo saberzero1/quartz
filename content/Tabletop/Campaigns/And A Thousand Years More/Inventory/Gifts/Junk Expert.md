@@ -1,5 +1,5 @@
 ---
-{"id":"b53443ec-b597-4901-8d94-848e1283f422","title":"Junk Expert","description":"You have a sack of unspecified junk.","publish":true,"date_created":"Sunday, March 31st 2024, 3:38:12 pm","date_modified":"Friday, April 19th 2024, 6:51:13 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/junk-expert/","PassFrontmatter":true}
+{"id":"b53443ec-b597-4901-8d94-848e1283f422","title":"Junk Expert","description":"You have a sack of unspecified junk.","publish":true,"date_created":"Sunday, March 31st 2024, 3:38:12 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Junk Expert.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/junk-expert/","PassFrontmatter":true}
 ---
 
 
