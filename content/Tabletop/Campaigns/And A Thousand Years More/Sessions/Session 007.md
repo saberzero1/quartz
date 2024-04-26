@@ -1,5 +1,5 @@
 ---
-{"id":"12fe1ad9-bd36-44a6-bba3-6cad6ea353cd","title":"Session 007","description":"Session 7","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Friday, April 19th 2024, 4:19:07 pm","cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-007/","PassFrontmatter":true}
+{"id":"12fe1ad9-bd36-44a6-bba3-6cad6ea353cd","title":"Session 007","description":"Session 7","publish":true,"date_created":"Saturday, June 10th 2023, 12:51:38 pm","date_modified":"Friday, April 26th 2024, 11:23:01 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Sessions/Session 007.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/sessions/session-007/","PassFrontmatter":true}
 ---
 
 
