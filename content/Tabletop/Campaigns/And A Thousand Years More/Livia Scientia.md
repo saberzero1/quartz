@@ -1,5 +1,5 @@
 ---
-{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Friday, May 10th 2024, 11:25:41 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","mado-table-auto","mado-table-border"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
+{"id":"a3f87708-e8be-4700-a33b-e5a65b6a159e","title":"Livia Scientia","description":"Player Character.","publish":true,"date_created":"Tuesday, March 26th 2024, 11:05:44 pm","date_modified":"Friday, May 10th 2024, 11:25:41 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Livia Scientia.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/livia-scientia/","PassFrontmatter":true}
 ---
 
 
