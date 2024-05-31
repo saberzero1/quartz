@@ -1,5 +1,5 @@
 ---
-{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Friday, May 31st 2024, 11:22:04 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
+{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Friday, May 31st 2024, 11:29:29 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
 ---
 
 
@@ -11,27 +11,34 @@
  - **<mark class="hltr-green">Career</mark>:** Sword Dancer
  - **XP:** -
 
-| Stats                                     | Dice         |
-| ----------------------------------------- | ------------ |
-| <mark class="hltr-yellow">Species</mark>  | `dice: 1d4`  |
-| <mark class="hltr-green">Career</mark>     | `dice: 1d8`  |
-| <mark class="hltr-orange">Body</mark>     | `dice: 1d8`  |
-| <mark class="hltr-aqua">Speed</mark>       | `dice: 1d6`  |
-| <mark class="hltr-purple">Mind</mark>     | `dice: 1d8`  |
-| <mark class="hltr-aquamarine">Will</mark> | `dice: 1d6`  |
-| [[Tabletop/Campaigns/One Shots/Inventory/Gifts/Personality - Confident\|Personality (Confident)]]            | `dice: 1d12` |
+| Stats                                                                                             | Dice         |
+| ------------------------------------------------------------------------------------------------- | ------------ |
+| <mark class="hltr-yellow">Species</mark>                                                          | `dice: 1d4`  |
+| <mark class="hltr-green">Career</mark>                                                            | `dice: 1d8`  |
+| <mark class="hltr-orange">Body</mark>                                                             | `dice: 1d8`  |
+| <mark class="hltr-aqua">Speed</mark>                                                              | `dice: 1d6`  |
+| <mark class="hltr-purple">Mind</mark>                                                             | `dice: 1d8`  |
+| <mark class="hltr-aquamarine">Will</mark>                                                         | `dice: 1d6`  |
+| [[Tabletop/Campaigns/One Shots/Inventory/Gifts/Personality - Confident\|Personality (Confident)]] | `dice: 1d12` |
 
-| Combat               | Dice                              | Effect | Stats |
-| -------------------- | --------------------------------- | ----- | ----- |
-| <mark class="hltr-orange">Attack</mark> (Martial Sword) | `dice: 3d8`                       | Damage +2 Critical | Fencing, Soft, 1/4 Stone |
-| <mark class="hltr-orange">Attack</mark> (Scholarly Sword) | `dice: 3d8`                       | Damage +2 Impaling | Fencing, Soft, 1/4 Stone |
-| <mark class="hltr-orange">Parry</mark> | `dice: 5d8`                   |  |  |
-| <mark class="hltr-orange">Parry</mark> (Dual-Wield)  | `dice: 5d8+1d12`                   | Ambidexterity bonus |  |
-| <mark class="hltr-aqua">Dodge</mark>                | `dice: 1d6+2d8`                   |  |  |
-| <mark class="hltr-orange">Soak</mark>                 | `dice: 1d8`                       |  |  |
-| Soak (Silk Armor Bonus)   | `dice: 2d4`                       |  |  |
-| Aim/Bonus            | `dice: 1d8`                       |  |  |
-| <mark class="hltr-aqua-purple hltr-gradient">Initiative</mark>           | `dice: 1d6+1d8`                  |  |  |
+| Movement | Distance | Dice                  |
+| -------- | -------- | --------------------- |
+| Stride   | 1        | `dice: 1d1`           |
+| Dash     | 4        | `dice: 1d3+1`         |
+| Sprint   | 6        | `dice: 1d6`           |
+| Run      | 18       | `dice: 1d8+1d6+1d3+1` |
+
+| Combat                                                         | Dice             | Effect              | Stats                    |
+| -------------------------------------------------------------- | ---------------- | ------------------- | ------------------------ |
+| <mark class="hltr-orange">Attack</mark> (Martial Sword)        | `dice: 3d8`      | Damage +2 Critical  | Fencing, Soft, 1/4 Stone |
+| <mark class="hltr-orange">Attack</mark> (Scholarly Sword)      | `dice: 3d8`      | Damage +2 Impaling  | Fencing, Soft, 1/4 Stone |
+| <mark class="hltr-orange">Parry</mark>                         | `dice: 5d8`      |                     |                          |
+| <mark class="hltr-orange">Parry</mark> (Dual-Wield)            | `dice: 5d8+1d12` | Ambidexterity bonus |                          |
+| <mark class="hltr-aqua">Dodge</mark>                           | `dice: 1d6+2d8`  |                     |                          |
+| <mark class="hltr-orange">Soak</mark>                          | `dice: 1d8`      |                     |                          |
+| Soak (Silk Armor Bonus)                                        | `dice: 2d4`      |                     |                          |
+| Aim/Bonus                                                      | `dice: 1d8`      |                     |                          |
+| <mark class="hltr-aqua-purple hltr-gradient">Initiative</mark> | `dice: 1d6+1d8`  |                     |                          |
 
 <!--
 | <mark class="hltr-orange">Attack with Eight Breezes of the World</mark> (Martial Sword) | `dice: 1d6+5d8` | Flat 4 | |
