@@ -1,5 +1,5 @@
 ---
-{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Friday, May 31st 2024, 11:29:29 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
+{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Saturday, June 1st 2024, 1:06:37 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
 ---
 
 
@@ -21,12 +21,12 @@
 | <mark class="hltr-aquamarine">Will</mark>                                                         | `dice: 1d6`  |
 | [[Tabletop/Campaigns/One Shots/Inventory/Gifts/Personality - Confident\|Personality (Confident)]] | `dice: 1d12` |
 
-| Movement | Distance | Dice                  |
-| -------- | -------- | --------------------- |
-| Stride   | 1        | `dice: 1d1`           |
-| Dash     | 4        | `dice: 1d3+1`         |
-| Sprint   | 6        | `dice: 1d6`           |
-| Run      | 18       | `dice: 1d8+1d6+1d3+1` |
+| Movement | Distance | Dice        |
+| -------- | -------- | ----------- |
+| Stride   | 1        | -           |
+| Dash     | 4        | -           |
+| Sprint   | -        | `dice: 1d6` |
+| Run      | 18       | -           |
 
 | Combat                                                         | Dice             | Effect              | Stats                    |
 | -------------------------------------------------------------- | ---------------- | ------------------- | ------------------------ |
