@@ -2,6 +2,10 @@ import { i18n } from "../../i18n"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
+  // If baseUrl contains a pathname after the domain, use this as the home link
+  const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
+  const baseDir = url.pathname
+
   return (
     <article class="popover-hint">
       <h1 class="article-title">Jeremiah 40:4</h1>
@@ -11,7 +15,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
         country lies before you; go wherever you please.
       </p>
       <p>
-        <a href="/">
+        <a href={baseDir}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="12"
@@ -27,7 +31,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           >
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
-          Return home
+          {i18n(cfg.locale).pages.error.home}
         </a>
       </p>
     </article>
