@@ -1,5 +1,5 @@
 ---
-{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Saturday, June 1st 2024, 1:06:37 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
+{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Saturday, June 1st 2024, 12:04:06 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
 ---
 
 
@@ -49,7 +49,7 @@
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------ | ------------------- | -------------------------------------- | ---------------------------------------- |
 | <mark class="hltr-purple">Academics</mark>                   | `dice: 1d8` (<mark class="hltr-purple">Mind</mark>)                                           |              | 0                   |                                        |                                          |
 | <mark class="hltr-orange">Brawling</mark>                    | `dice: 1d8` (<mark class="hltr-orange">Body</mark>)                                           |              | 0                   |                                        |                                          |
-| <mark class="hltr-orange-aqua hltr-gradient">Climbing</mark> | `dice: 1d8+1d6` (<mark class="hltr-orange">Body</mark>, <mark class="hltr-aqua">Speed</mark>) | TBD          | 0                   |                                        | `dice: 1d4`                              |
+| <mark class="hltr-orange-aqua hltr-gradient">Climbing</mark> | `dice: 1d8+1d6` (<mark class="hltr-orange">Body</mark>, <mark class="hltr-aqua">Speed</mark>) |              | 0                   |                                        | `dice: 1d4`                              |
 | <mark class="hltr-purple">Craft</mark>                       | `dice: 1d8` (<mark class="hltr-purple">Mind</mark>)                                           |              | 0                   |                                        |                                          |
 | <mark class="hltr-aquamarine">Deceit</mark>                  | `dice: 1d6` (<mark class="hltr-aquamarine">Will</mark>)                                       |              | 0                   |                                        |                                          |
 | <mark class="hltr-orange">Digging</mark>                     | `dice: 1d8` (<mark class="hltr-orange">Body</mark>)                                           |              | 0                   |                                        |                                          |
@@ -61,7 +61,7 @@
 | <mark class="hltr-aquamarine">Leadership</mark>              | `dice: 1d6` (<mark class="hltr-aquamarine">Will</mark>)                                       | TBD          | **II** `dice: 1d6`  |                                        |                                          |
 | <mark class="hltr-orange">Melee Combat</mark>                | `dice: 1d8` (<mark class="hltr-orange">Body</mark>)                                           | TBD          | **III** `dice: 1d8` | `dice: 1d8`                            |                                          |
 | <mark class="hltr-aquamarine">Negotiation</mark>             | `dice: 1d6` (<mark class="hltr-aquamarine">Will</mark>)                                       |              | 0                   |                                        |                                          |
-| <mark class="hltr-purple">Observation</mark>                 | `dice: 1d8` (<mark class="hltr-purple">Mind</mark>)                                           |              |                     |                                        |                                          |
+| <mark class="hltr-purple">Observation</mark>                 | `dice: 1d8` (<mark class="hltr-purple">Mind</mark>)                                           |              | 0                   |                                        |                                          |
 | <mark class="hltr-aquamarine">Presence</mark>                | `dice: 1d6` (<mark class="hltr-aquamarine">Will</mark>)                                       | TBD          | **III** `dice: 1d8` | `dice: 1d8`                            |                                          |
 | <mark class="hltr-aqua">Ranged Combat</mark>                 | `dice: 1d6` (<mark class="hltr-aqua">Speed</mark>)                                            |              | 0                   |                                        |                                          |
 | <mark class="hltr-orange">Riding</mark>                      | `dice: 1d8` (<mark class="hltr-orange">Body</mark>)                                           |              | 0                   |                                        |                                          |
@@ -115,6 +115,7 @@
 ## Knowledge
 
 - Insider with Sword Dancers
+- Insider with Drunkards
 
 ## Stored
 
