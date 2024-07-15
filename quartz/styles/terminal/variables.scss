@@ -1,0 +1,74 @@
+:root {
+  --obsidian-zero-rosewater: #f5e0dc;
+  --obsidian-zero-flamingo: #f2cdcd;
+  --obsidian-zero-pink: #f5c2e7;
+  --obsidian-zero-mauve: #cba6f7;
+  --obsidian-zero-red: #f38ba8;
+  --obsidian-zero-maroon: #eba0ac;
+  --obsidian-zero-peach: #fab387;
+  --obsidian-zero-yellow: #f9e2af;
+  --obsidian-zero-green: #a6e3a1;
+  --obsidian-zero-teal: #94e2d5;
+  --obsidian-zero-sky: #89dceb;
+  --obsidian-zero-sapphire: #74c7ec;
+  --obsidian-zero-blue: #89b4fa;
+  --obsidian-zero-lavender: #b4befe;
+  --obsidian-zero-text: #cdd6f4;
+  --obsidian-zero-subtext1: #bac2de;
+  --obsidian-zero-subtext0: #a6adc8;
+  --obsidian-zero-overlay2: #9399b2;
+  --obsidian-zero-overlay1: #7f849c;
+  --obsidian-zero-overlay0: #6c7086;
+  --obsidian-zero-surface2: #585b70;
+  --obsidian-zero-surface1: #45475a;
+  --obsidian-zero-surface0: #313244;
+  --obsidian-zero-base: #1e1e2e;
+  --obsidian-zero-mantle: #181825;
+  --obsidian-zero-crust: #11111b;
+  --obsidian-zero-cursorline: #2a2b3c;
+  --obsidian-zero-secondary-cursor: #b5a6a8;
+  --obsidian-zero-secondary-cursor-normal: #878ec0;
+  --obsidian-zero-secondary-cursor-insert: #7ea87f;
+  --obsidian-zero-error: var(--obsidian-zero-red);
+  --obsidian-zero-warning: var(--obsidian-zero-yellow);
+  --obsidian-zero-info: var(--obsidian-zero-sky);
+  --obsidian-zero-hint: var(--obsidian-zero-teal);
+}
+
+:root {
+  --the-color: #15d00d;
+  --the-color-rgb: 35, 255, 24;
+  --the-background-color: #000000;
+  --the-font: Fira Code Obsidian Zero;
+  --the-font-size: 14px;
+  /*--editor-line-height: 1.3;*/
+  --editor-line-height: 28px;
+  --char-width: calc(0.625 * var(--the-font-size));
+  /* the ratio is determined by the font-family */
+  --default-font: var(--the-font);
+  --font-monospace: var(--the-font);
+  /*--status-bar-height: 21px;*/
+  --status-bar-height: 28px;
+  --header-height: 36px;
+  /* Prompts */
+  --input-prompt: "$";
+  --not-created-note: "+";
+  --pin-command: "*";
+  --selected: ">";
+  --active-tab: "^";
+  --collapse-right: ">";
+  --collapse-down: "v";
+  --show-more-top: "+\\";
+  --show-more-bottom: "+/";
+  --search: "/";
+  --replace: ":";
+  --prev: "<";
+  --next: ">";
+  --all: "-a";
+  --close: "x";
+  --quit: "/q";
+  --preview-mode: "/p";
+  --edit-mode: "/e";
+  --more: "/?";
+  --pwd: "PWD";
+}
