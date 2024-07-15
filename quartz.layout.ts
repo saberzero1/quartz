@@ -19,6 +19,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
     Component.Darkmode(),
   ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       Github: "https://github.com/saberzero1",

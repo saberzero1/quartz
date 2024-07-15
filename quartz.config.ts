@@ -34,6 +34,7 @@ const config: QuartzConfig = {
           secondary: "var(--mado-blue-1)",
           tertiary: "var(--mado-blue-2)",
           highlight: "rgba(225, 228, 232, 0.10)",
+          textHighlight: "#fff23688"
         },
         darkMode: {
           light: "var(--mado-white-1)",
@@ -44,6 +45,7 @@ const config: QuartzConfig = {
           secondary: "var(--mado-blue-1)",
           tertiary: "var(--mado-blue-2)",
           highlight: "rgba(225, 228, 232, 0.10)",
+          textHighlight: "#b3aa0288"
         },
       },
     },
@@ -73,7 +75,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage({ enableFolderList: false }),
+      Plugin.FolderPage({ enableFolderList: true }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
