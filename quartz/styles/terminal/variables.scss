@@ -129,6 +129,13 @@
   * Add "brightness(0) saturate(100%)" in front if element is not black (#000);
   */
   /* Loss: 0.0. This is a perfect result. */
-  --obsidian-zero-text-filter: brightness(0) saturate(100%) invert(87%) sepia(6%) saturate(1061%)
-    hue-rotate(191deg) brightness(97%) contrast(98%);
+  &[saved-theme="dark"] {
+    --obsidian-zero-text-filter: brightness(0) saturate(100%) invert(87%) sepia(6%) saturate(1061%)
+      hue-rotate(191deg) brightness(97%) contrast(98%);
+  }
+  /* Loss: 0.0. This is a perfect result. */
+  &[saved-theme="light"] {
+    --obsidian-zero-text-filter: brightness(0) saturate(100%) invert(32%) sepia(11%) saturate(1096%)
+      hue-rotate(196deg) brightness(90%) contrast(89%);
+  }
 }
