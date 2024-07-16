@@ -36,7 +36,7 @@ const defaultOptions: BreadcrumbOptions = {
   /*spacerSymbol: "❯",
   rootName: "Home",*/
   spacerSymbol: "/",
-  rootName: "~",
+  rootName: "",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
   showCurrentPage: true,
