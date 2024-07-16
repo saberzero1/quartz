@@ -29,6 +29,9 @@ $status-bar-background-main: var(--obsidian-zero-base);
         border-top: calc(0.5 * var(--status-bar-height)) solid $status-bar-background-main;
         border-bottom: calc(0.5 * var(--status-bar-height)) solid $status-bar-background-main;
       }
+      > * {
+        color: $status-bar-background-main;
+      }
     }
     &:nth-last-child(even) {
       color: $status-bar-color-main;
@@ -36,6 +39,9 @@ $status-bar-background-main: var(--obsidian-zero-base);
       &:after {
         border-top: calc(0.5 * var(--status-bar-height)) solid $status-bar-color-main;
         border-bottom: calc(0.5 * var(--status-bar-height)) solid $status-bar-color-main;
+      }
+      > * {
+        color: $status-bar-color-main;
       }
     }
     padding: 0;
