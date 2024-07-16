@@ -54,7 +54,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       <div class={classes}>
         <article>{content}</article>
         {options.enableFolderList && (
-          <div class="page-listing mado-heading mado-heading-listing">
+          <div class="page-listing">
             {options.showFolderCount && (
               <p>
                 {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({

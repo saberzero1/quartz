@@ -1,4 +1,8 @@
-:root {
+:root[saved-theme="dark"] {
+  /*
+  * Mocha
+  * https://catppuccin.com/palette#flavor-mocha
+  */
   --obsidian-zero-rosewater: #f5e0dc;
   --obsidian-zero-flamingo: #f2cdcd;
   --obsidian-zero-pink: #f5c2e7;
@@ -25,14 +29,59 @@
   --obsidian-zero-base: #1e1e2e;
   --obsidian-zero-mantle: #181825;
   --obsidian-zero-crust: #11111b;
-  --obsidian-zero-cursorline: #2a2b3c;
-  --obsidian-zero-secondary-cursor: #b5a6a8;
-  --obsidian-zero-secondary-cursor-normal: #878ec0;
-  --obsidian-zero-secondary-cursor-insert: #7ea87f;
+  --obsidian-zero-cursorline: var(--obsidian-zero-base);
+  --obsidian-zero-secondary-cursor: var(--obsidian-zero-rosewater);
+  --obsidian-zero-secondary-cursor-normal: var(--obsidian-zero-lavender);
+  --obsidian-zero-secondary-cursor-insert: var(--obsidian-zero-green);
   --obsidian-zero-error: var(--obsidian-zero-red);
   --obsidian-zero-warning: var(--obsidian-zero-yellow);
   --obsidian-zero-info: var(--obsidian-zero-sky);
   --obsidian-zero-hint: var(--obsidian-zero-teal);
+  --obsidian-zero-highlight: var(--obsidian-zero-yellow);
+  --obsidian-zero-text-highlight: var(--obsidian-zero-pink);
+}
+
+:root[saved-theme="light"] {
+  /*
+  * Latte
+  * https://catppuccin.com/palette#flavor-latte
+  */
+  --obsidian-zero-rosewater: #dc8a78;
+  --obsidian-zero-flamingo: #dd7878;
+  --obsidian-zero-pink: #ea76cb;
+  --obsidian-zero-mauve: #8839ef;
+  --obsidian-zero-red: #d20f39;
+  --obsidian-zero-maroon: #e64553;
+  --obsidian-zero-peach: #fe640b;
+  --obsidian-zero-yellow: #df8e1d;
+  --obsidian-zero-green: #40a02b;
+  --obsidian-zero-teal: #179299;
+  --obsidian-zero-sky: #04a5e5;
+  --obsidian-zero-sapphire: #209fb5;
+  --obsidian-zero-blue: #1e66f5;
+  --obsidian-zero-lavender: #7287fd;
+  --obsidian-zero-text: #4c4f69;
+  --obsidian-zero-subtext1: #5c5f77;
+  --obsidian-zero-subtext0: #6c6f85;
+  --obsidian-zero-overlay2: #7c7f93;
+  --obsidian-zero-overlay1: #8c8fa1;
+  --obsidian-zero-overlay0: #9ca0b0;
+  --obsidian-zero-surface2: #acb0be;
+  --obsidian-zero-surface1: #bcc0cc;
+  --obsidian-zero-surface0: #ccd0da;
+  --obsidian-zero-base: #eff1f5;
+  --obsidian-zero-mantle: #e6e9ef;
+  --obsidian-zero-crust: #dce0e8;
+  --obsidian-zero-cursorline: var(--obsidian-zero-base);
+  --obsidian-zero-secondary-cursor: var(--obsidian-zero-rosewater);
+  --obsidian-zero-secondary-cursor-normal: var(--obsidian-zero-lavender);
+  --obsidian-zero-secondary-cursor-insert: var(--obsidian-zero-green);
+  --obsidian-zero-error: var(--obsidian-zero-red);
+  --obsidian-zero-warning: var(--obsidian-zero-yellow);
+  --obsidian-zero-info: var(--obsidian-zero-sky);
+  --obsidian-zero-hint: var(--obsidian-zero-teal);
+  --obsidian-zero-highlight: var(--obsidian-zero-yellow);
+  --obsidian-zero-text-highlight: var(--obsidian-zero-pink);
 }
 
 :root {
