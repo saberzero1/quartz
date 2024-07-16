@@ -1,0 +1,71 @@
+@use "./../../variables.scss" as *;
+
+$graph-border-color: var(--obsidian-zero-blue);
+$graph-background: var(--obsidian-zero-base);
+
+.graph {
+  &.desktop-only {
+    background-color: $graph-background;
+    > h3 {
+      border-width: 1px;
+      border-color: $graph-border-color;
+      border-style: solid;
+      border-radius: 0;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      border-bottom-width: 0;
+      padding-left: 5px;
+      &:after {
+        content: "";
+        width: calc(100% - (2 * 5px));
+        height: 2px;
+        background-color: $graph-border-color;
+        margin-left: 5px;
+        margin-right: 5px;
+        display: inline-block;
+        position: absolute;
+        top: 28px;
+        left: 0;
+      }
+    }
+    > .graph-outer {
+      border-width: 1px;
+      border-color: $graph-border-color;
+      border-style: solid;
+      border-radius: 0;
+      border-bottom-left-radius: 5px;
+      border-bottom-right-radius: 5px;
+      border-top-width: 0;
+      margin-top: 0;
+      margin-bottom: 0;
+      overflow: revert;
+      &:before,
+      &:after {
+        content: "";
+        display: block;
+        clear: both;
+      }
+      > svg#global-graph-icon {
+        margin: 5px;
+        padding: 0;
+        position: absolute;
+        top: calc(-1 * (2 * 5px + 18px + 1px));
+        opacity: 1;
+        filter: var(--obsidian-zero-text-filter);
+        stroke-width: 2px;
+        stroke: black;
+      }
+    }
+    > #global-graph-outer {
+      &.active {
+        #global-graph-container {
+          background-color: $graph-background;
+          border-width: 1px;
+          border-color: $graph-border-color;
+          border-style: solid;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}

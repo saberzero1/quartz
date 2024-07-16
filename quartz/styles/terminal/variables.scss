@@ -72,3 +72,14 @@
   --more: "/?";
   --pwd: "PWD";
 }
+
+:root {
+  /*
+  * https://codepen.io/sosuke/pen/Pjoqqp
+  *
+  * Add "brightness(0) saturate(100%)" in front if element is not black (#000);
+  */
+  /* Loss: 0.0. This is a perfect result. */
+  --obsidian-zero-text-filter: brightness(0) saturate(100%) invert(87%) sepia(6%) saturate(1061%)
+    hue-rotate(191deg) brightness(97%) contrast(98%);
+}

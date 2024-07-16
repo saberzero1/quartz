@@ -5,10 +5,34 @@
 // put your custom CSS here
 @use "./terminal/variables.scss";
 @use "./terminal/fonts.scss";
-@use "./terminal/status-bar.scss";
+
+@use "./terminal/components/status-bar.scss";
+@use "./terminal/components/center.scss";
+@use "./terminal/components/graph.scss";
+@use "./terminal/components/layout.scss";
 
 body {
   line-height: var(--editor-line-height);
+  font-size: var(--the-font-size);
+  font-family: var(--the-font);
+  color: var(--obsidian-zero-text);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+ul,
+ol,
+li,
+.folder-container div > a,
+button#toc h3,
+.backlinks > h3,
+.graph > h3 {
   font-size: var(--the-font-size);
   font-family: var(--the-font);
 }
