@@ -1,0 +1,8 @@
+.breadcrumb-container {
+  gap: 0;
+  > .breadcrumb-element {
+    p {
+      margin: 0;
+    }
+  }
+}
