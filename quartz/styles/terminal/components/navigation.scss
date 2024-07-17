@@ -1,0 +1,20 @@
+@use "./../../variables.scss" as *;
+
+.left {
+  .sidebar {
+    grid-template-rows: auto 1fr auto auto;
+    height: calc(100vh - 2rem - var(--editor-line-height) - 1rem);
+    .explorer {
+      &.desktop-only {
+        max-height: 100%;
+        min-height: 400px;
+        height: auto;
+        #explorer-content ul {
+          overflow-y: auto;
+          overflow-x: hidden;
+          max-height: 100%;
+        }
+      }
+    }
+  }
+}
