@@ -9,12 +9,22 @@
         max-height: 100%;
         min-height: 400px;
         height: auto;
-        #explorer-content ul {
-          overflow-y: auto;
-          overflow-x: hidden;
-          max-height: 100%;
+        #explorer-content {
+          height: 100%;
+          ul {
+            animation: hide-scroll 0.35s backwards;
+            overflow-y: auto;
+            overflow-x: hidden;
+            max-height: 100%;
+          }
         }
       }
     }
+  }
+}
+@keyframes hide-scroll {
+  from,
+  to {
+    overflow: hidden;
   }
 }
