@@ -1,7 +1,7 @@
 @use "./../../variables.scss" as *;
 
 .left {
-  .sidebar {
+  &.sidebar {
     grid-template-rows: auto 1fr auto auto;
     height: calc(100vh - 2rem - var(--editor-line-height) - 1rem);
     .explorer {
