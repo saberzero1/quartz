@@ -10,6 +10,7 @@
 @use "./terminal/components/center.scss";
 @use "./terminal/components/graph.scss";
 @use "./terminal/components/layout.scss";
+@use "./terminal/components/scrollbar.scss";
 
 body {
   line-height: var(--editor-line-height);
@@ -35,4 +36,8 @@ button#toc h3,
 .graph > h3 {
   font-size: var(--the-font-size);
   font-family: var(--the-font);
+}
+
+a.internal {
+  background-color: unset;
 }
