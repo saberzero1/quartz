@@ -13,8 +13,6 @@
           height: 100%;
           ul {
             animation: hide-scroll 0.35s backwards;
-            overflow-y: auto;
-            overflow-x: hidden;
             max-height: 100%;
           }
         }
