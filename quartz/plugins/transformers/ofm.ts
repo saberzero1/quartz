@@ -19,6 +19,7 @@ import { capitalize } from "../../util/lang"
 import { PluggableList } from "unified"
 
 export interface Options {
+  dice: boolean
   comments: boolean
   highlight: boolean
   wikilinks: boolean
@@ -34,11 +35,12 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
+  dice: true,
   comments: true,
   highlight: true,
   wikilinks: true,
   callouts: true,
-  mermaid: true,
+  mermaid: false,
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
@@ -95,6 +97,8 @@ function canonicalizeCallout(calloutName: string): keyof typeof calloutMapping {
   return calloutMapping[normalizedCallout] ?? calloutName
 }
 
+export const diceRegex = new RegExp(/(`dice: (?<dice>[^`]+)`)/, "g")
+
 export const externalLinkRegex = /^https?:\/\//i
 
 export const arrowRegex = new RegExp(/(-{1,2}>|={1,2}>|<-{1,2}|<={1,2})/g)
@@ -136,7 +140,11 @@ const wikilinkImageEmbedRegex = new RegExp(
   /^(?<alt>(?!^\d*x?\d*$).*?)?(\|?\s*?(?<width>\d+)(x(?<height>\d+))?)?$/,
 )
 
-export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
+const quartzSyncerRegex = new RegExp(/\{\s*\#\w+\s*\}/, "g")
+
+export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (
+  userOpts,
+) => {
   const opts = { ...defaultOptions, ...userOpts }
 
   const mdastToHtml = (ast: PhrasingContent | Paragraph) => {
@@ -155,6 +163,29 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
         src = src.replace(commentRegex, "")
       }
+
+      // dice buttons
+      if (opts.dice) {
+        if (src instanceof Buffer) {
+          src = src.toString()
+        }
+
+        src = src.replace(diceRegex, (value, ...capture) => {
+          const [_match, dice]: (string | undefined)[] = capture
+          return dice
+            ? `<div class="dice"><input type="button" value="${dice}" class="dice-button"></div>`
+            : value
+        })
+      }
+
+      // remove quartz syncer embedding links
+      if (src instanceof Buffer) {
+        src = src.toString()
+      }
+
+      src = src.replace(quartzSyncerRegex, (value) => {
+        return ""
+      })
 
       // pre-transform blockquotes
       if (opts.callouts) {
@@ -180,6 +211,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           return value.replace(tableWikilinkRegex, (_value, raw) => {
             // const [raw]: (string | undefined)[] = capture
             let escaped = raw ?? ""
+
             escaped = escaped.replace("#", "\\#")
             // escape pipe characters if they are not already escaped
             escaped = escaped.replace(/((^|[^\\])(\\\\)*)\|/g, "$1\\|")
@@ -703,6 +735,44 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           moduleType: "module",
           contentType: "inline",
         })
+      }
+
+      if (opts.dice) {
+        js.push(
+          {
+            src: "https://unpkg.com/mathjs@11.8.2/lib/browser/math.js",
+            loadTime: "afterDOMReady",
+            contentType: "external",
+          },
+          {
+            src: "https://cdn.jsdelivr.net/npm/random-js@2.1.0/dist/random-js.umd.min.js",
+            loadTime: "afterDOMReady",
+            contentType: "external",
+          },
+          {
+            script: `
+            let diceImport = undefined
+            document.addEventListener('nav', async () => {
+              if (document.querySelector("input.dice-button")) {
+                diceImport ||= await import('https://cdn.jsdelivr.net/npm/@dice-roller/rpg-dice-roller@5.5.0/lib/umd/bundle.min.js')
+                let diceRoller = new rpgDiceRoller.DiceRoller()
+
+                const diceButtons = document.querySelectorAll('input.dice-button')
+
+                diceButtons.forEach(btn => {
+                  btn.addEventListener('click', event => {
+                    event.target.value = diceRoller.roll(event.target.value.split(':')[0]).output
+                  })
+                  btn.value = diceRoller.roll(btn.value).output
+                })
+              }
+            });
+            `,
+            loadTime: "afterDOMReady",
+            moduleType: "module",
+            contentType: "inline",
+          },
+        )
       }
 
       return { js }

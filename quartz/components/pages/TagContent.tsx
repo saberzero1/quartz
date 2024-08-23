@@ -71,30 +71,29 @@ export default ((opts?: Partial<TagContentOptions>) => {
                   ? contentPage?.description
                   : htmlToJsx(contentPage.filePath!, root)
 
-              return (
-                <div>
-                  <h2>
-                    <a class="internal tag-link" href={`../tags/${tag}`}>
-                      {tag}
-                    </a>
-                  </h2>
-                  {content && <p>{content}</p>}
-                  <div class="page-listing">
-                    <p>
-                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
-                      {pages.length > options.numPages && (
-                        <>
-                          {" "}
-                          <span>
+            return (
+              <div>
+                <h2>
+                  <a class="internal tag-link" href={`../tags/${tag}`}>
+                    {tag}
+                  </a>
+                </h2>
+                {content && <p>{content}</p>}
+                <div class="page-listing mado-heading mado-heading-listing">
+                  <p>
+                    {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
+                    {pages.length > options.numPages && (
+                      <>
+                        {" "}
+                        <span>
                             {i18n(cfg.locale).pages.tagContent.showingFirst({
                               count: options.numPages,
                             })}
-                          </span>
-                        </>
-                      )}
-                    </p>
-                    <PageList limit={options.numPages} {...listProps} sort={opts?.sort} />
-                  </div>
+                        </span>
+                      </>
+                    )}
+                  </p>
+                  <PageList limit={options.numPages} {...listProps} sort={opts?.sort} />
                 </div>
               )
             })}
@@ -108,16 +107,16 @@ export default ((opts?: Partial<TagContentOptions>) => {
         allFiles: pages,
       }
 
-      return (
-        <div class={classes}>
-          <article>{content}</article>
-          <div class="page-listing">
-            <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
-            <div>
-              <PageList {...listProps} />
-            </div>
+    return (
+      <div class={classes}>
+        <article>{content}</article>
+        <div class="page-listing mado-heading mado-heading-listing">
+          <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+          <div>
+            <PageList {...listProps} />
           </div>
         </div>
+      </div>
       )
     }
   }

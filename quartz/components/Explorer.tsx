@@ -13,6 +13,7 @@ const defaultOptions = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
+  usePagePath: true,
   mapFn: (node) => {
     return node
   },
@@ -68,7 +69,7 @@ export default ((userOpts?: Partial<Options>) => {
 
     // Get all folders of tree. Initialize with collapsed state
     // Stringify to pass json tree as data attribute ([data-tree])
-    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed")
+    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed", "")
     jsonTree = JSON.stringify(folders)
   }
 
@@ -92,6 +93,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-behavior={opts.folderClickBehavior}
           data-collapsed={opts.folderDefaultState}
           data-savestate={opts.useSavedState}
+          data-usepagepath={opts.usePagePath}
           data-tree={jsonTree}
           aria-controls="explorer-content"
           aria-expanded={opts.folderDefaultState === "open"}
