@@ -48,8 +48,8 @@
     z-index: 999;
     left: 0;
     top: 0;
-    width: 100vw;
-    height: 100vh;
+    width: 100dvw;
+    height: 100dvh;
     overflow-y: auto;
     scrollbar-gutter: stable both-edges;
     display: none;
@@ -61,7 +61,7 @@
 
     & > #search-space {
       width: 65%;
-      margin-top: 12vh;
+      margin-top: 12dvh;
       margin-left: auto;
       margin-right: auto;
 

@@ -6,11 +6,11 @@ html {
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
-  //width: 100vw;
+  //width: 100dvw;
 }
 
 body {
-  height: 100vh;
+  height: 100dvh;
 }
 
 body,
@@ -193,7 +193,7 @@ a {
       box-sizing: border-box;
       padding: $topSpacing 2rem 0 2rem;
       display: flex;
-      height: 100vh;
+      height: 100dvh;
       position: sticky;
     }
 
