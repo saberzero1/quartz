@@ -93,7 +93,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                         </>
                       )}
                     </p>
-                    <PageList limit={options.numPages} {...listProps} />
+                    <PageList limit={options.numPages} {...listProps} sort={opts?.sort} />
                   </div>
                 </div>
               )
@@ -121,5 +121,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       )
     }
   }
+
+  TagContent.css = style + PageList.css
   return TagContent
 }) satisfies QuartzComponentConstructor

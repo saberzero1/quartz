@@ -13,6 +13,7 @@ interface FolderContentOptions {
    * Whether to display number of folders
    */
   showFolderCount: boolean
+  sort?: SortFn
   enableFolderList: boolean
   sort?: SortFn
 }

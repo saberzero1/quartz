@@ -23,6 +23,8 @@ const defaultOptions: Options = {
   keepBackground: false,
 }
 
+//export const SyntaxHighlighting: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
+//  const opts: CodeOptions = { ...defaultOptions, ...userOpts }
 // Load the theme object from a file, a network request, or anywhere
 const tokyoNightDefault = JSON.parse(
   readFileSync(
