@@ -28,7 +28,6 @@ export const sharedPageComponents: SharedLayout = {
       "CV (Nederlands)": "https://rxresu.me/saberzero1/curriculum-vitae-dutch",
     },
   }),
-  afterBody: [],
 }
 
 // components for pages that display a single page (e.g. a single note)

@@ -5,10 +5,10 @@
     max-width: unset;
   }
   .center {
-    @media all and (min-width: $fullPageWidth) {
+    @media all and ($desktop) {
       width: calc(100% - (250px + 50px) * 2);
     }
-    @media all and (max-width: $fullPageWidth) and (min-width: $mobileBreakpoint) {
+    @media all and ($tablet) {
       margin: 0 auto;
       width: calc(100% - (2 * 1rem));
       max-width: 100%;
