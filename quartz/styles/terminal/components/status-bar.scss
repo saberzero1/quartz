@@ -1,0 +1,87 @@
+@use "./../../variables.scss" as *;
+
+$status-bar-color-main: var(--obsidian-zero-green);
+$status-bar-background-main: var(--obsidian-zero-base);
+
+.status-bar {
+  --status-bar-position: relative;
+  --status-bar-radius: 0;
+  justify-content: flex-start;
+  gap: 0px;
+  padding: 0;
+  border-left: none;
+  border-top: 1px solid $status-bar-color-main;
+  background-color: $status-bar-background-main;
+  height: var(--status-bar-height);
+  position: absolute;
+  bottom: 0;
+  opacity: 1;
+}
+.status-bar > ul {
+  line-height: var(--status-bar-height);
+  column-gap: 0px;
+  height: var(--editor-line-height);
+  > li.status-bar-item {
+    &:nth-last-child(odd) {
+      color: $status-bar-background-main;
+      background-color: $status-bar-color-main;
+      &:after {
+        border-top: calc(0.5 * var(--status-bar-height)) solid $status-bar-background-main;
+        border-bottom: calc(0.5 * var(--status-bar-height)) solid $status-bar-background-main;
+      }
+      > * {
+        color: $status-bar-background-main;
+      }
+    }
+    &:nth-last-child(even) {
+      color: $status-bar-color-main;
+      background-color: $status-bar-background-main;
+      &:after {
+        border-top: calc(0.5 * var(--status-bar-height)) solid $status-bar-color-main;
+        border-bottom: calc(0.5 * var(--status-bar-height)) solid $status-bar-color-main;
+      }
+      > * {
+        color: $status-bar-color-main;
+      }
+    }
+    padding: 0;
+    padding-left: 5px;
+    margin-top: -0.2px;
+    border-radius: 0;
+    line-height: var(--status-bar-height);
+    > a {
+      line-height: var(--status-bar-height);
+      position: relative;
+      top: -10px;
+      overflow-y: overlay;
+    }
+    &:after {
+      content: "";
+      border-left: calc(0.5 * var(--status-bar-height)) solid transparent;
+      margin-left: 5px;
+      display: inline-block;
+    }
+  }
+}
+/*.status-bar > ul {
+  line-height: var(--status-bar-height);
+  column-gap: 0px;
+  height: var(--editor-line-height);
+}*/
+
+footer ul {
+  margin: 0;
+}
+.page footer {
+  width: 100vw;
+  margin: 0 auto;
+  overflow-y: hidden;
+  overflow-x: auto;
+  min-width: max-content;
+  position: fixed;
+  left: 0;
+  opacity: 1;
+}
+footer {
+  margin-bottom: 0;
+}

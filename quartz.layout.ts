@@ -19,6 +19,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
     Component.Darkmode(),
   ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       Github: "https://github.com/saberzero1",
@@ -27,7 +28,6 @@ export const sharedPageComponents: SharedLayout = {
       "CV (Nederlands)": "https://rxresu.me/saberzero1/curriculum-vitae-dutch",
     },
   }),
-  afterBody: [],
 }
 
 // components for pages that display a single page (e.g. a single note)

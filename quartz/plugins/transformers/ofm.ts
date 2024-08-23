@@ -187,10 +187,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       // pre-transform blockquotes
       if (opts.callouts) {
-        if (src instanceof Buffer) {
-          src = src.toString()
-        }
-
         src = src.replace(calloutLineRegex, (value) => {
           // force newline after title of callout
           return value + "\n> "
@@ -199,10 +195,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       // pre-transform wikilinks (fix anchors to things that may contain illegal syntax e.g. codeblocks, latex)
       if (opts.wikilinks) {
-        if (src instanceof Buffer) {
-          src = src.toString()
-        }
-
         // replace all wikilinks inside a table first
         src = src.replace(tableRegex, (value) => {
           // escape all aliases and headers in wikilinks inside a table

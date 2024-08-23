@@ -19,7 +19,6 @@ const defaultOptions: TagContentOptions = {
 
 export default ((opts?: Partial<TagContentOptions>) => {
   const options: TagContentOptions = { ...defaultOptions, ...opts }
-
   const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
     const slug = fileData.slug
@@ -80,7 +79,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                     </a>
                   </h2>
                   {content && <p>{content}</p>}
-                  <div class="page-listing mado-heading mado-heading-listing">
+                  <div class="page-listing">
                     <p>
                       {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
                       {pages.length > options.numPages && (
@@ -112,7 +111,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       return (
         <div class={classes}>
           <article>{content}</article>
-          <div class="page-listing mado-heading mado-heading-listing">
+          <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>
               <PageList {...listProps} />

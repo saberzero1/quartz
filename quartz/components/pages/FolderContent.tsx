@@ -15,11 +15,13 @@ interface FolderContentOptions {
   showFolderCount: boolean
   sort?: SortFn
   enableFolderList: boolean
+  sort?: SortFn
 }
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
   enableFolderList: false,
+  sort: undefined,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -53,7 +55,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       <div class={classes}>
         <article>{content}</article>
         {options.enableFolderList && (
-          <div class="page-listing mado-heading mado-heading-listing">
+          <div class="page-listing">
             {options.showFolderCount && (
               <p>
                 {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
