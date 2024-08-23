@@ -3,21 +3,22 @@ Highlight support
  ------------ */
 
 :root {
-  --hltr-red: #FF0000BF;
-  --hltr-orange: #FF8000BF;
-  --hltr-yellow: #FFFF00BF;
-  --hltr-lime: #80FF00BF;
-  --hltr-green: #00FF00BF;
-  --hltr-aquamarine: #00FF80BF;
-  --hltr-aqua: #00FFFFBF;
-  --hltr-sky: #0080FFBF;
-  --hltr-blue: #0000FFBF;
-  --hltr-orchid: #8000FFBF;
-  --hltr-purple: #FF00FFBF;
-  --hltr-pink: #FF0080BF;
+  --hltr-red: #ff0000bf;
+  --hltr-orange: #ff8000bf;
+  --hltr-yellow: #ffff00bf;
+  --hltr-lime: #80ff00bf;
+  --hltr-green: #00ff00bf;
+  --hltr-aquamarine: #00ff80bf;
+  --hltr-aqua: #00ffffbf;
+  --hltr-sky: #0080ffbf;
+  --hltr-blue: #0000ffbf;
+  --hltr-orchid: #8000ffbf;
+  --hltr-purple: #ff00ffbf;
+  --hltr-pink: #ff0080bf;
 }
 
-mark[class*=' hltr-'],mark[class^='hltr-'] {
+mark[class*=" hltr-"],
+mark[class^="hltr-"] {
   background-color: transparent !important;
   background-image: none !important;
   border: none !important;

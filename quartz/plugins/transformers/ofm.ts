@@ -142,9 +142,7 @@ const wikilinkImageEmbedRegex = new RegExp(
 
 const quartzSyncerRegex = new RegExp(/\{\s*\#\w+\s*\}/, "g")
 
-export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (
-  userOpts,
-) => {
+export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
 
   const mdastToHtml = (ast: PhrasingContent | Paragraph) => {

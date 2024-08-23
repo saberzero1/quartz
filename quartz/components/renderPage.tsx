@@ -235,11 +235,11 @@ export function renderPage(
             <div class="center">
               <Content {...componentData} />
               <hr />
-              <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
-              </div>
+            </div>
+            <div class="page-footer">
+              {afterBody.map((BodyComponent) => (
+                <BodyComponent {...componentData} />
+              ))}
             </div>
             {RightComponent}
             <Footer {...componentData} />
