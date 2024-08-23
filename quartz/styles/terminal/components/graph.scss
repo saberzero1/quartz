@@ -17,15 +17,22 @@ $graph-background: var(--obsidian-zero-base);
       padding-left: 5px;
       &:after {
         content: "";
-        width: calc(100% - (2 * 5px));
+        width: max(calc(100% - (2 * (2rem + 5px))), calc(100% / 2 - (2 * 2 * 5px)));
         height: 2px;
+        margin: $topSpacing calc(2rem + 5px) 0 calc(2rem + 5px);
         background-color: $graph-border-color;
-        margin-left: 5px;
-        margin-right: 5px;
+        //margin-left: 5px;
+        //margin-right: 5px;
         display: inline-block;
         position: absolute;
         top: 28px;
         left: 0;
+      }
+      @media all and ($desktop) {
+        &:after {
+          width: calc(100% / 2 - (2 * 2 * 5px));
+          margin: 0 5px;
+        }
       }
     }
     > .graph-outer {
@@ -54,6 +61,9 @@ $graph-background: var(--obsidian-zero-base);
         filter: var(--obsidian-zero-text-filter);
         stroke-width: 2px;
         stroke: black;
+      }
+      > #graph-container {
+        overflow: hidden;
       }
     }
     > #global-graph-outer {

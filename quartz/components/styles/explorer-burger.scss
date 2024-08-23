@@ -53,7 +53,8 @@
     background-color: var(--light);
     //max-width: calc(100% - 36px);
     max-width: 100%;
-    width: calc(100% - 36px + 4px);
+    //width: calc(100% - 36px + 4px);
+    width: 100%;
     //margin-right: 36px;
     transition: all 300ms ease-in-out;
     overflow: hidden;
@@ -106,8 +107,10 @@ html:has(.no-scroll) {
   .no-scroll {
     opacity: 1 !important;
     overflow: auto !important;
+    scrollbar-gutter: stable both-edges;
   }
   html:has(.no-scroll) {
     overflow: auto !important;
+    scrollbar-gutter: stable both-edges;
   }
 }

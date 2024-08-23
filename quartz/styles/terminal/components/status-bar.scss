@@ -6,6 +6,7 @@ $status-bar-background-main: var(--obsidian-zero-base);
 .status-bar {
   --status-bar-position: relative;
   --status-bar-radius: 0;
+  box-sizing: border-box;
   justify-content: flex-start;
   gap: 0px;
   padding: 0;
@@ -13,7 +14,8 @@ $status-bar-background-main: var(--obsidian-zero-base);
   border-top: 1px solid $status-bar-color-main;
   background-color: $status-bar-background-main;
   height: var(--status-bar-height);
-  position: absolute;
+  position: relative;
+  //position: absolute;
   bottom: 0;
   opacity: 1;
 }
@@ -28,6 +30,9 @@ $status-bar-background-main: var(--obsidian-zero-base);
       &:after {
         border-top: calc(0.5 * var(--status-bar-height)) solid $status-bar-background-main;
         border-bottom: calc(0.5 * var(--status-bar-height)) solid $status-bar-background-main;
+        @media all and ($mobile) {
+          margin-top: calc(-1 * var(--status-bar-height));
+        }
       }
       > * {
         color: $status-bar-background-main;
@@ -39,6 +44,9 @@ $status-bar-background-main: var(--obsidian-zero-base);
       &:after {
         border-top: calc(0.5 * var(--status-bar-height)) solid $status-bar-color-main;
         border-bottom: calc(0.5 * var(--status-bar-height)) solid $status-bar-color-main;
+        @media all and ($mobile) {
+          margin-top: calc(-1 * var(--status-bar-height));
+        }
       }
       > * {
         color: $status-bar-color-main;
@@ -52,17 +60,92 @@ $status-bar-background-main: var(--obsidian-zero-base);
     > a {
       line-height: var(--status-bar-height);
       position: relative;
-      top: -10px;
+      //top: -10px;
       overflow-y: overlay;
+      scrollbar-gutter: stable both-edges;
     }
     &:after {
       content: "";
       border-left: calc(0.5 * var(--status-bar-height)) solid transparent;
       margin-left: 5px;
-      display: inline-block;
+      display: block;
+      float: inline-end;
+      margin-top: calc(-1 * var(--status-bar-height));
+      @media all and ($mobile) {
+        margin-top: 0;
+      }
     }
   }
 }
+
+.status-bar-item-normal {
+  display: inherit;
+  position: relative;
+  padding-right: 10px;
+  margin-left: -5px;
+}
+.status-bar-item-mobile {
+  display: none;
+  position: static;
+  > .status-bar-item-icon {
+    svg {
+      fill: currentColor;
+    }
+    &[data-icon] {
+      display: block;
+      margin-top: 0;
+      padding-top: 0;
+      overflow: hidden;
+      width: var(--status-bar-height);
+      height: var(--status-bar-height);
+      margin-left: -10px;
+      &:before {
+        margin-top: 5px;
+        display: block;
+        width: calc(var(--status-bar-height) - 10px);
+        height: calc(var(--status-bar-height) - 10px);
+        background-size: calc(var(--status-bar-height) - 10px) calc(var(--status-bar-height) - 10px);
+      }
+    }
+    &[data-icon="Github"]:before {
+      //content: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3Csvg fill='currentColor' height='800px' width='800px' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='-267 288.9 264.5 225.1' xml:space='preserve'%3E%3Cg%3E%3Cpath d='M-21.8,354.4c-0.8-0.9-1.3-2.3-1.2-3.5c0.9-20.1-1.8-39.6-8.6-58.6c-0.9-2.4-2-3.3-4.5-2.6c-5.6,1.7-11.4,3-16.9,5 c-15.2,5.5-29.1,13.5-42.6,22.2c-1.4,0.9-3.5,1.5-5.2,1.2c-22.1-3.9-44.3-3.7-66.5-0.3c-2.2,0.3-5-0.2-6.8-1.3 c-15.7-10.2-31.7-20.2-50-25c-15.1-4-12-4.8-16.3,8.9c-5.1,16.4-7.1,33.4-6,50.6c0.1,1.2-0.8,2.7-1.6,3.8 c-6.6,7.9-11.7,16.6-14.8,26.4c-6,19-4.8,38.2-1,57.3c7.5,37.5,32.8,63.8,70.2,70.3c19.3,3.4,39.2,3.7,57.3,5.2 c20.2-1.5,38.9-1.6,57.1-4.5c31.8-5.1,55.8-22,67.8-52.7c4.2-10.7,6.5-22.4,7.9-33.8C-0.3,397.9-4.6,374.3-21.8,354.4z M-39.5,458.8c-3.3,15.6-12.4,26.3-27.6,31.8c-14.7,5.4-29.9,7.6-45.4,8.6c-7.5,0.5-15,0.1-22.5,0.1c-20.2,0.4-40.4-0.4-59.9-6.2 c-24.5-7.3-35.5-21.9-36.2-47.5c-0.3-9.1,0.7-17.9,5-26.1c8.5-16.5,23.2-22.3,40.6-22.6c9.5-0.1,19.1,0.7,28.7,1.6 c20.1,1.8,40-0.1,60-1.2c8.8-0.5,17.8-0.7,26.4,0.8c18.5,3.2,32.5,21.6,32.8,42.3C-37.6,446.5-38.3,452.8-39.5,458.8z'/%3E%3Cpath d='M-191.5,424.5c-5.5,5.7-7.4,12.9-7.7,19.3c0,9.6,2.8,17.3,7.7,22.3c6.8,6.9,16.1,6.7,22.6-0.3c9.8-10.6,9.7-30.5,0-41 C-175.4,417.7-184.9,417.6-191.5,424.5z'/%3E%3Cpath d='M-99.4,423.7c-11.2,10.3-11.2,33,0,43.2c6.5,5.9,15.3,5.6,21.4-0.7c5.6-5.8,7.6-13.1,7.8-21c-0.2-7.9-2.2-15.1-7.9-20.9 C-84.2,418-93,417.8-99.4,423.7z'/%3E%3C/g%3E%3C/svg%3E");
+      content: " ";
+      background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8' standalone='no'%3F%3E%3Csvg width='800px' height='800px' viewBox='0 0 20 20' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3Egithub %5B%23142%5D%3C/title%3E%3Cdesc%3ECreated with Sketch.%3C/desc%3E%3Cdefs%3E%3C/defs%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E%3Cg id='Dribbble-Light-Preview' transform='translate(-140.000000, -7559.000000)' fill='%23000000'%3E%3Cg id='icons' transform='translate(56.000000, 160.000000)'%3E%3Cpath d='M94,7399 C99.523,7399 104,7403.59 104,7409.253 C104,7413.782 101.138,7417.624 97.167,7418.981 C96.66,7419.082 96.48,7418.762 96.48,7418.489 C96.48,7418.151 96.492,7417.047 96.492,7415.675 C96.492,7414.719 96.172,7414.095 95.813,7413.777 C98.04,7413.523 100.38,7412.656 100.38,7408.718 C100.38,7407.598 99.992,7406.684 99.35,7405.966 C99.454,7405.707 99.797,7404.664 99.252,7403.252 C99.252,7403.252 98.414,7402.977 96.505,7404.303 C95.706,7404.076 94.85,7403.962 94,7403.958 C93.15,7403.962 92.295,7404.076 91.497,7404.303 C89.586,7402.977 88.746,7403.252 88.746,7403.252 C88.203,7404.664 88.546,7405.707 88.649,7405.966 C88.01,7406.684 87.619,7407.598 87.619,7408.718 C87.619,7412.646 89.954,7413.526 92.175,7413.785 C91.889,7414.041 91.63,7414.493 91.54,7415.156 C90.97,7415.418 89.522,7415.871 88.63,7414.304 C88.63,7414.304 88.101,7413.319 87.097,7413.247 C87.097,7413.247 86.122,7413.234 87.029,7413.87 C87.029,7413.87 87.684,7414.185 88.139,7415.37 C88.139,7415.37 88.726,7417.2 91.508,7416.58 C91.513,7417.437 91.522,7418.245 91.522,7418.489 C91.522,7418.76 91.338,7419.077 90.839,7418.982 C86.865,7417.627 84,7413.783 84,7409.253 C84,7403.59 88.478,7399 94,7399' id='github-%5B%23142%5D'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      color: $status-bar-color-main;
+      filter: var(--obsidian-zero-green-filter);
+    }
+    &[data-icon="LinkedIn"]:before {
+      content: " ";
+      background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3Csvg fill='currentColor' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='-271 283.9 256 235.1' xml:space='preserve'%3E%3Cg%3E%3Crect x='-264.4' y='359.3' width='49.9' height='159.7'/%3E%3Cpath d='M-240.5,283.9c-18.4,0-30.5,11.9-30.5,27.7c0,15.5,11.7,27.7,29.8,27.7h0.4c18.8,0,30.5-12.3,30.4-27.7 C-210.8,295.8-222.1,283.9-240.5,283.9z'/%3E%3Cpath d='M-78.2,357.8c-28.6,0-46.5,15.6-49.8,26.6v-25.1h-56.1c0.7,13.3,0,159.7,0,159.7h56.1v-86.3c0-4.9-0.2-9.7,1.2-13.1 c3.8-9.6,12.1-19.6,27-19.6c19.5,0,28.3,14.8,28.3,36.4V519h56.6v-88.8C-14.9,380.8-42.7,357.8-78.2,357.8z'/%3E%3C/g%3E%3C/svg%3E");
+      color: $status-bar-background-main;
+      filter: var(--obsidian-zero-base-filter);
+    }
+    &[data-icon="Resume (English)"]:before {
+      content: " ";
+      background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' %3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg fill='currentColor' width='800px' height='800px' viewBox='0 0 846.66 846.66' style='shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd' version='1.1' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cstyle type='text/css'%3E%3C!%5BCDATA%5B .fil0 %7Bfill:black;fill-rule:nonzero%7D %5D%5D%3E%3C/style%3E%3C/defs%3E%3Cg id='Layer_x0020_1'%3E%3Cpath class='fil0' d='M539.75 794.68c27.15,0 27.15,41.29 0,41.29l-497.47 0c-11.4,0 -20.64,-9.25 -20.64,-20.65l0 -621.69c0,-5.7 2.31,-10.87 6.04,-14.6l162.3 -162.29c4.03,-4.03 9.31,-6.05 14.59,-6.05l466.89 0c11.4,0 20.65,9.25 20.65,20.65l0 361.36c0,27.16 -41.29,27.16 -41.29,0l0 -340.72 -437.7 0 -150.19 150.2 0 592.5 476.82 0zm-351.21 -181.98c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 -274.68c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 91.56c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 91.56c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 -274.68c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm496.57 238.25c49.84,0 90.24,40.4 90.24,90.24 0,18.1 -5.33,34.95 -14.5,49.07 37.57,24.93 61.47,66.08 64.13,111.2 1.59,27.06 -39.55,29.47 -41.13,2.42 -2.11,-35.69 -22.61,-67.48 -54.13,-84.24 -13.16,7.5 -28.38,11.78 -44.61,11.78 -17.56,0 -33.95,-5.01 -47.81,-13.69 -33.44,16.12 -55.6,49.04 -57.79,86.15 -1.59,27.05 -42.72,24.64 -41.13,-2.42 2.79,-47.18 28.75,-89.88 69.08,-114.28 -7.99,-13.47 -12.58,-29.19 -12.58,-45.99 0,-49.83 40.4,-90.24 90.23,-90.24zm0 41.29c-27.03,0 -48.94,21.92 -48.94,48.95 0,27.03 21.91,48.94 48.94,48.94 27.03,0 48.95,-21.91 48.95,-48.94 0,-27.03 -21.91,-48.95 -48.95,-48.95z'/%3E%3C/g%3E%3C/svg%3E");
+      color: $status-bar-color-main;
+      filter: var(--obsidian-zero-green-filter);
+    }
+    &[data-icon="CV (Nederlands)"]:before {
+      content: " ";
+      background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' %3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg fill='currentColor' width='800px' height='800px' viewBox='0 0 846.66 846.66' style='shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd' version='1.1' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cstyle type='text/css'%3E%3C!%5BCDATA%5B .fil0 %7Bfill:black;fill-rule:nonzero%7D %5D%5D%3E%3C/style%3E%3C/defs%3E%3Cg id='Layer_x0020_1'%3E%3Cpath class='fil0' d='M539.75 794.68c27.15,0 27.15,41.29 0,41.29l-497.47 0c-11.4,0 -20.64,-9.25 -20.64,-20.65l0 -621.69c0,-5.7 2.31,-10.87 6.04,-14.6l162.3 -162.29c4.03,-4.03 9.31,-6.05 14.59,-6.05l466.89 0c11.4,0 20.65,9.25 20.65,20.65l0 361.36c0,27.16 -41.29,27.16 -41.29,0l0 -340.72 -437.7 0 -150.19 150.2 0 592.5 476.82 0zm-351.21 -181.98c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 -274.68c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 91.56c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 91.56c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm0 -274.68c-27.16,0 -27.16,-41.29 0,-41.29l306.67 0c27.16,0 27.16,41.29 0,41.29l-306.67 0zm496.57 238.25c49.84,0 90.24,40.4 90.24,90.24 0,18.1 -5.33,34.95 -14.5,49.07 37.57,24.93 61.47,66.08 64.13,111.2 1.59,27.06 -39.55,29.47 -41.13,2.42 -2.11,-35.69 -22.61,-67.48 -54.13,-84.24 -13.16,7.5 -28.38,11.78 -44.61,11.78 -17.56,0 -33.95,-5.01 -47.81,-13.69 -33.44,16.12 -55.6,49.04 -57.79,86.15 -1.59,27.05 -42.72,24.64 -41.13,-2.42 2.79,-47.18 28.75,-89.88 69.08,-114.28 -7.99,-13.47 -12.58,-29.19 -12.58,-45.99 0,-49.83 40.4,-90.24 90.23,-90.24zm0 41.29c-27.03,0 -48.94,21.92 -48.94,48.95 0,27.03 21.91,48.94 48.94,48.94 27.03,0 48.95,-21.91 48.95,-48.94 0,-27.03 -21.91,-48.95 -48.95,-48.95z'/%3E%3C/g%3E%3C/svg%3E");
+      color: $status-bar-background-main;
+      filter: var(--obsidian-zero-base-filter);
+    }
+  }
+}
+
+@media all and ($mobile) {
+  .status-bar-item-normal {
+    display: none;
+    position: static;
+  }
+  .status-bar-item-mobile {
+    display: inherit;
+    position: relative;
+  }
+}
+
 /*.status-bar > ul {
   line-height: var(--status-bar-height);
   column-gap: 0px;
@@ -73,14 +156,18 @@ footer ul {
   margin: 0;
 }
 .page footer {
-  width: 100vw;
-  margin: 0 auto;
+  width: 100%;
+  //margin: 0 auto;
   overflow-y: hidden;
-  overflow-x: auto;
-  min-width: max-content;
-  position: fixed;
-  left: 0;
+  //overflow-x: auto;
+  scrollbar-gutter: stable both-edges;
+  //min-width: max-content;
+  //position: fixed;
+  //left: 0;
   opacity: 1;
+  @media all and ($desktop) {
+    width: calc(100% + 2 * #{$gridGap});
+  }
 }
 footer {
   margin-bottom: 0;

@@ -13,9 +13,9 @@
 @use "./terminal/components/layout.scss";
 @use "./terminal/components/scrollbar.scss";
 
-html {
+/*html {
   margin-left: calc(100vw - 100%);
-}
+}*/
 
 body {
   line-height: var(--editor-line-height);

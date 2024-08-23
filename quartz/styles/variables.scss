@@ -15,17 +15,19 @@ $tablet: "(min-width: #{map-get($breakpoints, mobile)}) and (max-width: #{map-ge
 $desktop: "(max-width: #{map-get($breakpoints, desktop)})";
 
 $pageWidth: #{map-get($breakpoints, mobile)};
-$sidePanelWidth: 320px; //380px;
+$sidePanelWidth: 20rem; //380px;
+$gridGap: 0; //10px;
+$lineHeight: 28px;
 $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
 
 $mobileGrid: (
-  templateRows: "auto auto auto auto auto",
+  templateRows: "auto auto auto auto #{$lineHeight}",
   templateColumns: "auto",
-  rowGap: "5px",
-  columnGap: "5px",
+  rowGap: $gridGap,
+  columnGap: $gridGap,
   templateAreas:
     '"sidebar-left"\
       "page-header"\
@@ -36,22 +38,22 @@ $mobileGrid: (
 $tabletGrid: (
   templateRows: "auto auto auto auto",
   templateColumns: "#{$sidePanelWidth} auto",
-  rowGap: "5px",
-  columnGap: "5px",
+  rowGap: $gridGap,
+  columnGap: $gridGap,
   templateAreas:
     '"sidebar-left page-header"\
       "sidebar-left page-center"\
       "sidebar-left sidebar-right"\
-      "sidebar-left page-footer"',
+      "page-footer page-footer"',
 );
 $desktopGrid: (
   templateRows: "auto auto auto",
   templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidth}",
-  rowGap: "5px",
-  columnGap: "5px",
+  rowGap: $gridGap,
+  columnGap: $gridGap,
   templateAreas:
     '"sidebar-left page-header sidebar-right"\
       "sidebar-left page-center sidebar-right"\
-      "sidebar-left page-footer sidebar-right"',
+      "page-footer page-footer page-footer"',
 );
 $pageSpacer: 125px;

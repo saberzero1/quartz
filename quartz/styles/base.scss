@@ -6,7 +6,11 @@ html {
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
-  width: 100vw;
+  //width: 100vw;
+}
+
+body {
+  height: 100vh;
 }
 
 body,
@@ -123,6 +127,7 @@ a {
 .page {
   max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
+  height: 100%;
   & article {
     & > h1 {
       font-size: 2rem;
@@ -150,6 +155,10 @@ a {
   }
 
   & > #quartz-body {
+    height: 100%;
+    border-left: 1px solid var(--obsidian-zero-green);
+    border-right: 1px solid var(--obsidian-zero-green);
+    box-sizing: border-box;
     display: grid;
     grid-template-columns: #{map-get($desktopGrid, templateColumns)};
     grid-template-rows: #{map-get($desktopGrid, templateRows)};
@@ -182,7 +191,7 @@ a {
       gap: 2rem;
       top: 0;
       box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
+      padding: $topSpacing 2rem 0 2rem;
       display: flex;
       height: 100vh;
       position: sticky;
@@ -191,15 +200,17 @@ a {
     & .sidebar.left {
       grid-area: sidebar-left;
       flex-direction: column;
+      @media all and ($desktop) {
+        padding: 6rem 2rem 3rem;
+      }
       @media all and ($mobile) {
         gap: 0;
         align-items: center;
-        position: initial;
+        position: relative;
         display: flex;
-        height: unset;
+        height: 0;
         flex-direction: row;
         padding: 0;
-        padding-top: 2rem;
       }
     }
 
@@ -212,13 +223,15 @@ a {
         margin-right: inherit;
       }
       @media all and ($desktop) {
-        position: initial;
+        position: relative;
         height: unset;
         width: 100%;
         flex-direction: row;
+        justify-content: space-between;
         padding: 0;
         & > * {
           flex: 1;
+          min-width: 0;
         }
         & > .toc {
           display: none;
@@ -377,7 +390,6 @@ figure[data-rehype-pretty-code-figure] {
   margin: 0;
   position: relative;
   line-height: 1.6rem;
-  position: relative;
 
   & > [data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
@@ -400,6 +412,7 @@ pre {
   padding: 0 0.5rem;
   border-radius: 5px;
   overflow-x: auto;
+  scrollbar-gutter: stable both-edges;
   border: 1px solid var(--lightgray);
   position: relative;
 
@@ -415,7 +428,8 @@ pre {
     counter-increment: line 0;
     display: grid;
     padding: 0.5rem 0;
-    overflow-x: scroll;
+    overflow-x: auto;
+    scrollbar-gutter: stable both-edges;
 
     & [data-highlighted-chars] {
       background-color: var(--highlight);
@@ -426,6 +440,7 @@ pre {
       padding: 0 0.25rem;
       box-sizing: border-box;
       border-left: 3px solid transparent;
+      text-wrap: pretty;
 
       &[data-highlighted-line] {
         background-color: var(--highlight);
@@ -470,6 +485,7 @@ p {
 
 .table-container {
   overflow-x: auto;
+  scrollbar-gutter: stable both-edges;
 
   & > table {
     margin: 1rem;
@@ -541,6 +557,7 @@ ul.overflow,
 ol.overflow {
   max-height: 400;
   overflow-y: auto;
+  scrollbar-gutter: stable both-edges;
 
   // clearfix
   content: "";
@@ -560,7 +577,7 @@ ol.overflow {
     bottom: 0;
     opacity: 1;
     transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
+    //background: linear-gradient(transparent 0px, var(--light));
   }
 }
 
@@ -573,6 +590,7 @@ ol.overflow {
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
+  scrollbar-gutter: stable both-edges;
 }
 
 .external-embed.youtube,

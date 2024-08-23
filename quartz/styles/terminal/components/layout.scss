@@ -1,42 +1,57 @@
 @use "./../../variables.scss" as *;
 
 .page {
-  @media all and (max-width: 1425px) {
+  @media all and ($desktop) {
     max-width: unset;
   }
   .center {
-    @media all and ($desktop) {
+    /*@media all and ($desktop) {
       width: calc(100% - (250px + 50px) * 2);
     }
     @media all and ($tablet) {
       margin: 0 auto;
       width: calc(100% - (2 * 1rem));
       max-width: 100%;
-    }
+    }*/
     width: 100%;
-    li.section-li {
+    /*li.section-li {
       > .section {
         grid-template-columns: fit-content(10em) 3fr 1fr;
         display: grid;
       }
-    }
+    }*/
   }
   .page-header {
     width: 100%;
     margin-top: 0;
   }
-  & > #quartz-body {
-    .sidebar {
-      margin-top: 2rem;
-      &.left {
-        left: 0;
-        margin-left: 25px;
-      }
-      &.right {
-        right: 0;
-        margin-right: 25px;
-      }
+  .page-footer {
+    //position: sticky;
+    position: absolute;
+    width: calc(min(100%, 1500px) - 2px);
+    bottom: 0;
+    margin-top: 0;
+    z-index: 1;
+    height: var(--status-bar-height);
+    @media all and ($mobile) {
+      margin-left: calc(-1 * $gridGap);
     }
+  }
+  .page-header,
+  .center {
+    @media all and ($mobile) {
+      padding: 0 10px;
+    }
+  }
+  & > #quartz-body {
+    padding: 0;
+  }
+  @media all and ($tablet) {
+    padding-right: $gridGap;
+  }
+  @media all and ($mobile) {
+    padding-left: $gridGap;
+    padding-right: $gridGap;
   }
 }
 

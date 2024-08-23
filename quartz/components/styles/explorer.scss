@@ -3,6 +3,7 @@
 .explorer {
   &.desktop-only {
     overflow-y: auto;
+    scrollbar-gutter: stable both-edges;
   }
   &:after {
     pointer-events: none;
@@ -14,7 +15,7 @@
     bottom: 0;
     opacity: 1;
     transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
+    //background: linear-gradient(transparent 0px, var(--light));
   }
 }
 
@@ -62,11 +63,12 @@ button#explorer {
 #explorer-content {
   list-style: none;
   overflow: hidden;
+  overflow-y: auto;
   max-height: none;
   transition:
     max-height 0.35s ease,
     visibility 0s linear 0s;
-  margin-top: 0.5rem;
+  //margin-top: 0.5rem;
   visibility: visible;
 
   &.collapsed {
@@ -96,6 +98,20 @@ button#explorer {
   }
   > #explorer-ul {
     max-height: none;
+  }
+}
+
+@media all and ($mobile) {
+  #explorer-content {
+    position: absolute;
+    top: 6rem;
+    left: 0;
+    padding: 0;
+    margin-top: 0 !important;
+    height: calc(100vh - 8rem);
+    > #explorer-ul {
+      max-height: inherit;
+    }
   }
 }
 
