@@ -12,15 +12,15 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`status-bar${" " + (displayClass ?? "")}`}>
+      <footer class={`${displayClass ?? ""}`}>
         <ul>
           {Object.entries(links).map(([text, link]) => (
-            <li class="status-bar-item">
-              <a class="status-bar-item-normal" href={link}>
+            <li class="footer-item">
+              <a class="footer-item-normal" href={link}>
                 {text}
               </a>
-              <a class="status-bar-item-mobile" href={link}>
-                <div class="status-bar-item-icon" data-icon={text}></div>
+              <a class="footer-item-mobile" href={link}>
+                <div class="footer-item-icon" data-icon={text}></div>
               </a>
             </li>
           ))}

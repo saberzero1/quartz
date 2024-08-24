@@ -3,6 +3,7 @@
 .backlinks {
   @media all and not ($desktop) {
     overflow-y: auto;
+    overflow-x: hidden;
     scrollbar-gutter: stable both-edges;
     display: initial;
     &:after {

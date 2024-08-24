@@ -24,7 +24,7 @@ $semiBoldWeight: 600;
 $normalWeight: 400;
 
 $mobileGrid: (
-  templateRows: "auto auto auto auto #{$lineHeight}",
+  templateRows: "auto auto auto auto auto",
   templateColumns: "auto",
   rowGap: $gridGap,
   columnGap: $gridGap,
@@ -32,8 +32,8 @@ $mobileGrid: (
     '"sidebar-left"\
       "page-header"\
       "page-center"\
-      "sidebar-right"\
-      "page-footer"',
+      "page-footer"\
+      "sidebar-right"',
 );
 $tabletGrid: (
   templateRows: "auto auto auto auto",
@@ -43,8 +43,8 @@ $tabletGrid: (
   templateAreas:
     '"sidebar-left page-header"\
       "sidebar-left page-center"\
-      "sidebar-left sidebar-right"\
-      "page-footer page-footer"',
+      "sidebar-left page-footer"\
+      "sidebar-left sidebar-right"',
 );
 $desktopGrid: (
   templateRows: "auto auto auto",
@@ -54,6 +54,6 @@ $desktopGrid: (
   templateAreas:
     '"sidebar-left page-header sidebar-right"\
       "sidebar-left page-center sidebar-right"\
-      "page-footer page-footer page-footer"',
+      "sidebar-left page-footer sidebar-right"',
 );
 $pageSpacer: 125px;

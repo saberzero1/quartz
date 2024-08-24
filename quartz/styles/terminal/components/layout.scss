@@ -1,9 +1,11 @@
 @use "./../../variables.scss" as *;
 
 .page {
-  @media all and ($desktop) {
-    max-width: unset;
-  }
+  //height: unset;
+  //@media all and ($desktop) {
+  //  max-width: unset;
+  //  height: 100%;
+  //}
   .center {
     /*@media all and ($desktop) {
       width: calc(100% - (250px + 50px) * 2);
@@ -27,15 +29,15 @@
   }
   .page-footer {
     //position: sticky;
-    position: absolute;
-    width: calc(min(100%, 1500px) - 2px);
-    bottom: 0;
+    //position: absolute;
+    //width: calc(min(100%, (#{map-get($breakpoints, desktop)} + 300px)) - 2px);
+    //bottom: 0;
     margin-top: 0;
-    z-index: 1;
-    height: var(--status-bar-height);
-    @media all and ($mobile) {
-      margin-left: calc(-1 * $gridGap);
-    }
+    //z-index: 1;
+    //height: var(--status-bar-height);
+    //@media all and ($mobile) {
+    //  margin-left: calc(-1 * $gridGap);
+    //}
   }
   .page-header,
   .center {
