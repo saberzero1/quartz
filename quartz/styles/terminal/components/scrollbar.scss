@@ -1,0 +1,41 @@
+/* Chrome, Edge and Safari */
+/**::-webkit-scrollbar {
+  height: 4px;
+  width: 4px;
+  &:hover,
+  &:active {
+    height: 8px;
+    width: 8px;
+  }
+}
+*::-webkit-scrollbar-track {
+  border-radius: 4px;
+  background-color: transparent;
+  &:hover,
+  &:active {
+    height: 8px;
+    width: 8px;
+    border-radius: 8px;
+    background-color: var(--lightgray);
+  }
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: var(--secondary);
+  border: 2px solid var(--secondary);
+  background-clip: padding-box;
+  &:hover,
+  &:active {
+    height: 8px;
+    width: 8px;
+    border-radius: 8px;
+    background-color: var(--tertiary);
+    border: 4px solid var(--tertiary);
+  }
+}*/
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--secondary) var(--lightgray);
+}
