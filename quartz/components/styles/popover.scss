@@ -34,6 +34,7 @@
 .popover {
   position: absolute;
   overflow: visible;
+  scrollbar-gutter: stable both-edges;
   padding: 0px;
   height: 0px;
   width: 0px;
@@ -53,7 +54,7 @@
     border: 0px;
     border-radius: 0px;
     padding: 0px;
-    box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
+    //box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
     overflow: auto;
     white-space: normal;
     display: inline-block;
@@ -85,8 +86,9 @@
     font-size: 1.5rem;
   }
 
-  transition: height 0.3s ease,
-  display 0.3s ease;
+  transition:
+    height 0.3s ease,
+    display 0.3s ease;
 
   /*visibility: hidden;
   opacity: 0;
@@ -94,7 +96,7 @@
     opacity 0.3s ease,
     visibility 0.3s ease;*/
 
-  @media all and (max-width: $mobileBreakpoint) {
+  @media all and ($mobile) {
     display: none !important;
   }
 }

@@ -6,13 +6,16 @@ html {
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
-  width: 100vw;
+  //width: 100dvw;
+}
+
+body {
+  height: 100dvh;
 }
 
 body,
 section {
   margin: 0;
-  max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -20,11 +23,10 @@ section {
 }
 
 .text-highlight {
-  background-color: #fff23688;
+  background-color: var(--textHighlight);
   padding: 0 0.1rem;
   border-radius: 5px;
 }
-
 ::selection {
   background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
@@ -43,8 +45,20 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
-  overflow-wrap: anywhere;
   hyphens: auto;
+}
+
+p,
+ul,
+text,
+a,
+li,
+ol,
+ul,
+.katex,
+.math {
+  overflow-wrap: anywhere;
+  /* tr and td removed from list of selectors for overflow-wrap, allowing them to use default 'normal' property value */
 }
 
 .math {
@@ -98,25 +112,22 @@ a {
 
 .desktop-only {
   display: initial;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and ($mobile) {
     display: none;
   }
 }
 
 .mobile-only {
   display: none;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and ($mobile) {
     display: initial;
   }
 }
 
 .page {
-  @media all and (max-width: $fullPageWidth) {
-    margin: 0 auto;
-    padding: 0 1rem;
-    max-width: $pageWidth;
-  }
-
+  max-width: min(100%, calc(#{map-get($breakpoints, desktop)} + 300px));
+  margin: 0 auto;
+  //height: 100%;
   & article {
     & > h1 {
       font-size: 2rem;
@@ -144,70 +155,129 @@ a {
   }
 
   & > #quartz-body {
-    width: 100%;
-    display: flex;
-    @media all and (max-width: $fullPageWidth) {
-      flex-direction: column;
+    height: 100%;
+    //border-left: 1px solid var(--obsidian-zero-green);
+    //border-right: 1px solid var(--obsidian-zero-green);
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: #{map-get($desktopGrid, templateColumns)};
+    grid-template-rows: #{map-get($desktopGrid, templateRows)};
+    column-gap: #{map-get($desktopGrid, columnGap)};
+    row-gap: #{map-get($desktopGrid, rowGap)};
+    grid-template-areas: #{map-get($desktopGrid, templateAreas)};
+    @media all and ($desktop) {
+      grid-template-columns: #{map-get($tabletGrid, templateColumns)};
+      grid-template-rows: #{map-get($tabletGrid, templateRows)};
+      column-gap: #{map-get($tabletGrid, columnGap)};
+      row-gap: #{map-get($tabletGrid, rowGap)};
+      grid-template-areas: #{map-get($tabletGrid, templateAreas)};
+    }
+    @media all and ($mobile) {
+      grid-template-columns: #{map-get($mobileGrid, templateColumns)};
+      grid-template-rows: #{map-get($mobileGrid, templateRows)};
+      column-gap: #{map-get($mobileGrid, columnGap)};
+      row-gap: #{map-get($mobileGrid, rowGap)};
+      grid-template-areas: #{map-get($mobileGrid, templateAreas)};
+    }
+
+    @media all and ($desktop) {
+      padding: 0 1rem;
+    }
+    @media all and ($mobile) {
+      margin: 0 auto;
     }
 
     & .sidebar {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
       gap: 2rem;
       top: 0;
-      width: $sidePanelWidth;
-      margin-top: $topSpacing;
       box-sizing: border-box;
-      //padding: 0 4rem;
-      position: fixed;
-      @media all and (max-width: $fullPageWidth) {
-        position: initial;
-        flex-direction: row;
-        padding: 0;
-        width: initial;
-        margin-top: 2rem;
-      }
+      padding: $topSpacing 2rem 0 2rem;
+      //display: flex;
+      display: grid;
+      height: 100dvh;
+      position: sticky;
     }
 
     & .sidebar.left {
-      left: calc(calc(100vw - $pageWidth - $pageSpacer) / 2 - $sidePanelWidth);
-      @media all and (max-width: $fullPageWidth) {
+      grid-area: sidebar-left;
+      flex-direction: column;
+      @media all and ($desktop) {
+        padding: 6rem 2rem 3rem;
+      }
+      @media all and ($mobile) {
         gap: 0;
         align-items: center;
+        position: relative;
+        display: flex;
+        height: 0;
+        flex-direction: row;
+        padding: 0;
       }
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth - $pageSpacer) / 2 - $sidePanelWidth);
-      flex-wrap: wrap;
-      & > * {
-        @media all and (max-width: $fullPageWidth) {
+      grid-area: sidebar-right;
+      margin-right: 0;
+      flex-direction: column;
+      @media all and ($mobile) {
+        margin-left: inherit;
+        margin-right: inherit;
+        display: none !important;
+      }
+      @media all and ($desktop) {
+        position: relative;
+        height: unset;
+        width: 100%;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0;
+        & > * {
           flex: 1;
-          min-width: 140px;
+          min-width: 0;
+        }
+        & > .toc {
+          display: none;
         }
       }
     }
-  }
+    //& .page-header,
+    //& .page-footer {
+    //  margin-top: 1rem;
+    //}
 
-  & .page-header {
-    width: $pageWidth;
-    margin: $topSpacing auto 0 auto;
-    @media all and (max-width: $fullPageWidth) {
-      width: initial;
-      margin-top: 2rem;
+    & .page-header {
+      display: grid;
+      grid-area: page-header;
+      margin: 4rem 0 0 0;
+      @media all and ($mobile) {
+        margin-top: 0;
+        padding: 0;
+      }
     }
-  }
 
-  & .center,
-  & footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: $pageWidth;
-    @media all and (max-width: $fullPageWidth) {
-      width: initial;
+    & .center > article {
+      display: grid;
+      grid-area: page-center;
+    }
+
+    & .page-footer {
+      display: grid;
+      grid-area: page-footer;
+    }
+
+    & .center,
+    & footer {
+      margin-left: auto;
+      margin-right: auto;
+      @media all and ($desktop) {
+        margin-right: 0;
+      }
+      @media all and ($mobile) {
+        margin-left: 0;
+      }
+    }
+    & footer {
       margin-left: 0;
-      margin-right: 0;
     }
   }
 }
@@ -325,7 +395,6 @@ figure[data-rehype-pretty-code-figure] {
   margin: 0;
   position: relative;
   line-height: 1.6rem;
-  position: relative;
 
   & > [data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
@@ -348,6 +417,7 @@ pre {
   padding: 0 0.5rem;
   border-radius: 5px;
   overflow-x: auto;
+  scrollbar-gutter: stable both-edges;
   border: 1px solid var(--lightgray);
   position: relative;
 
@@ -363,7 +433,8 @@ pre {
     counter-increment: line 0;
     display: grid;
     padding: 0.5rem 0;
-    overflow-x: scroll;
+    overflow-x: auto;
+    scrollbar-gutter: stable both-edges;
 
     & [data-highlighted-chars] {
       background-color: var(--highlight);
@@ -374,6 +445,7 @@ pre {
       padding: 0 0.25rem;
       box-sizing: border-box;
       border-left: 3px solid transparent;
+      text-wrap: pretty;
 
       &[data-highlighted-line] {
         background-color: var(--highlight);
@@ -418,6 +490,7 @@ p {
 
 .table-container {
   overflow-x: auto;
+  scrollbar-gutter: stable both-edges;
 
   & > table {
     margin: 1rem;
@@ -481,11 +554,15 @@ video {
   flex: 1 1 auto;
 }
 
+div:has(> .overflow) {
+  position: relative;
+}
+
 ul.overflow,
 ol.overflow {
   max-height: 400;
   overflow-y: auto;
-  position: relative;
+  scrollbar-gutter: stable both-edges;
 
   // clearfix
   content: "";
@@ -505,7 +582,7 @@ ol.overflow {
     bottom: 0;
     opacity: 1;
     transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
+    //background: linear-gradient(transparent 0px, var(--light));
   }
 }
 
@@ -518,4 +595,13 @@ ol.overflow {
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
+  scrollbar-gutter: stable both-edges;
+}
+
+.external-embed.youtube,
+iframe.pdf {
+  aspect-ratio: 16 / 9;
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
 }

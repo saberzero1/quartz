@@ -14,6 +14,7 @@ interface RenderComponents {
   header: QuartzComponent[]
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
+  afterBody: QuartzComponent[]
   left: QuartzComponent[]
   right: QuartzComponent[]
   footer: QuartzComponent
@@ -187,6 +188,7 @@ export function renderPage(
     header,
     beforeBody,
     pageBody: Content,
+    afterBody,
     left,
     right,
     footer: Footer,
@@ -218,26 +220,30 @@ export function renderPage(
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
-            <div class="center">
-              <div class="page-header">
-                <div class="header-container">
-                  <Header {...componentData}>
-                    {header.map((HeaderComponent) => (
-                      <HeaderComponent {...componentData} />
-                    ))}
-                  </Header>
-                </div>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
-                </div>
+            <div class="page-header">
+              <Header {...componentData}>
+                {header.map((HeaderComponent) => (
+                  <HeaderComponent {...componentData} />
+                ))}
+              </Header>
+              <div class="popover-hint">
+                {beforeBody.map((BodyComponent) => (
+                  <BodyComponent {...componentData} />
+                ))}
               </div>
+            </div>
+            <div class="center">
               <Content {...componentData} />
+              <hr />
+            </div>
+            <div class="page-footer">
+              {afterBody.map((BodyComponent) => (
+                <BodyComponent {...componentData} />
+              ))}
+              <Footer {...componentData} />
             </div>
             {RightComponent}
           </Body>
-          <Footer {...componentData} />
         </div>
       </body>
       {pageResources.js

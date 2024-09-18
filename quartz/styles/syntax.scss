@@ -17,7 +17,7 @@ code[data-theme*=" "] span {
 [saved-theme="dark"] code[data-theme*=" "] span {
   color: var(--shiki-dark);
 }
-  
+
 // npx convert-sh-theme https://raw.githubusercontent.com/shikijs/shiki/main/packages/shiki/themes/github-light.json
 /*:root {
   --shiki-color-text: #24292e;

@@ -1,0 +1,18 @@
+@use "./../../variables.scss" as *;
+
+.breadcrumb-container {
+  gap: 0;
+  > .breadcrumb-element {
+    p {
+      margin: 0;
+    }
+    &:first-child {
+      > a:before {
+        content: "guest@emilebangma.com:~$\00a0";
+        background: var(--breadcrumb-prefix-gradient);
+        background-clip: text;
+        color: transparent;
+      }
+    }
+  }
+}

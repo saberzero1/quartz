@@ -1,0 +1,151 @@
+@use "./../../variables.scss" as *;
+
+.page {
+  //height: unset;
+  //@media all and ($desktop) {
+  //  max-width: unset;
+  //  height: 100%;
+  //}
+  .center {
+    /*@media all and ($desktop) {
+      width: calc(100% - (250px + 50px) * 2);
+    }
+    @media all and ($tablet) {
+      margin: 0 auto;
+      width: calc(100% - (2 * 1rem));
+      max-width: 100%;
+    }*/
+    width: 100%;
+    /*li.section-li {
+      > .section {
+        grid-template-columns: fit-content(10em) 3fr 1fr;
+        display: grid;
+      }
+    }*/
+  }
+  .page-header {
+    width: 100%;
+    margin-top: 0;
+  }
+  .page-footer {
+    //position: sticky;
+    //position: absolute;
+    //width: calc(min(100%, (#{map-get($breakpoints, desktop)} + 300px)) - 2px);
+    //bottom: 0;
+    margin-top: 0;
+    //z-index: 1;
+    //height: var(--status-bar-height);
+    //@media all and ($mobile) {
+    //  margin-left: calc(-1 * $gridGap);
+    //}
+  }
+  .page-header,
+  .center {
+    @media all and ($mobile) {
+      padding: 0 10px;
+    }
+  }
+  & > #quartz-body {
+    padding: 0;
+  }
+  @media all and ($tablet) {
+    padding-right: $gridGap;
+  }
+  @media all and ($mobile) {
+    padding-left: $gridGap;
+    padding-right: $gridGap;
+  }
+}
+
+/*
+article {
+  * {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    line-height: var(--editor-line-height);
+  }
+  white-space: pre;
+  counter-reset: line;
+  & > *:not(ul),
+  & > ul > li {
+    position: relative;
+  }
+  & > *:not(ul):before,
+  & > ul > li:before {
+    counter-increment: line;
+    content: counter(line);
+    padding-inline-start: 0;
+    display: inline-block;
+    width: 20px;
+    text-align: right;
+    padding-right: 8px;
+    margin-right: 8px;
+    border-right: 1px solid red;
+  }
+  & > *:not(ul):after,
+  & > ul > li:last-child:after {
+    counter-increment: line;
+    content: "\a" counter(line);
+    padding-inline-start: 0;
+    display: inline-block;
+    width: 20px;
+    text-align: right;
+    padding-right: 8px;
+    margin-right: 8px;
+    border-right: 1px solid red;
+    position: absolute;
+  }
+  & > *:not(ul):after {
+    left: 0;
+  }
+  & > ul > li:before {
+    left: 0;
+  }
+  & > ul {
+    padding-left: 54px;
+    & > li {
+      &:before {
+        position: relative;
+        margin-left: -54px;
+      }
+      &:after {
+        position: relative;
+        left: -54px;
+      }
+      &::marker {
+        content: "-";
+      }
+      & > * {
+        margin-left: 24px;
+      }
+    }
+  }*/
+/**:not(:first-child) {
+    margin-top: calc(-1 * var(--editor-line-height));
+    margin-bottom: 0;
+  }
+  & ul:not(:first-child) {
+    margin-top: calc(-1 * var(--editor-line-height));
+    margin-bottom: calc(-1 * var(--editor-line-height));
+  }*/ /*
+  & > *:not(:first-child) {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  & > ul:not(:first-child) {
+    margin-top: 0;
+    & > li {
+      margin-top: calc(-1 * var(--editor-line-height));
+      margin-bottom: 0;
+    }
+    & + * {
+      margin-top: calc(-1 * var(--editor-line-height));
+      margin-bottom: 0;
+    }
+  }*/
+/*& > ul + * {
+    margin-top: calc(-2 * var(--editor-line-height));
+    margin-bottom: 0;
+  }*/ /*
+}
+*/

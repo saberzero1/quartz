@@ -13,11 +13,15 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
         <ul>
           {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
+            <li class="footer-item">
+              <a class="footer-item-normal" href={link}>
+                {text}
+              </a>
+              <a class="footer-item-mobile" href={link}>
+                <div class="footer-item-icon" data-icon={text}></div>
+              </a>
             </li>
           ))}
         </ul>

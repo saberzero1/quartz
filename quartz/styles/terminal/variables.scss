@@ -1,0 +1,192 @@
+:root {
+  &[saved-theme="dark"] {
+    /*
+    * Mocha
+    * https://catppuccin.com/palette#flavor-mocha
+    */
+    --obsidian-zero-rosewater: #f5e0dc;
+    --obsidian-zero-flamingo: #f2cdcd;
+    --obsidian-zero-pink: #f5c2e7;
+    --obsidian-zero-mauve: #cba6f7;
+    --obsidian-zero-red: #f38ba8;
+    --obsidian-zero-maroon: #eba0ac;
+    --obsidian-zero-peach: #fab387;
+    --obsidian-zero-yellow: #f9e2af;
+    --obsidian-zero-green: #a6e3a1;
+    --obsidian-zero-teal: #94e2d5;
+    --obsidian-zero-sky: #89dceb;
+    --obsidian-zero-sapphire: #74c7ec;
+    --obsidian-zero-blue: #89b4fa;
+    --obsidian-zero-lavender: #b4befe;
+    --obsidian-zero-text: #cdd6f4;
+    --obsidian-zero-subtext1: #bac2de;
+    --obsidian-zero-subtext0: #a6adc8;
+    --obsidian-zero-overlay2: #9399b2;
+    --obsidian-zero-overlay1: #7f849c;
+    --obsidian-zero-overlay0: #6c7086;
+    --obsidian-zero-surface2: #585b70;
+    --obsidian-zero-surface1: #45475a;
+    --obsidian-zero-surface0: #313244;
+    --obsidian-zero-base: #1e1e2e;
+    --obsidian-zero-mantle: #181825;
+    --obsidian-zero-crust: #11111b;
+    --obsidian-zero-cursorline: var(--obsidian-zero-base);
+    --obsidian-zero-secondary-cursor: var(--obsidian-zero-rosewater);
+    --obsidian-zero-secondary-cursor-normal: var(--obsidian-zero-lavender);
+    --obsidian-zero-secondary-cursor-insert: var(--obsidian-zero-green);
+    --obsidian-zero-error: var(--obsidian-zero-red);
+    --obsidian-zero-warning: var(--obsidian-zero-yellow);
+    --obsidian-zero-info: var(--obsidian-zero-sky);
+    --obsidian-zero-hint: var(--obsidian-zero-teal);
+    --obsidian-zero-highlight: var(--obsidian-zero-surface2);
+    --obsidian-zero-text-highlight: var(--obsidian-zero-pink);
+  }
+
+  &[saved-theme="light"] {
+    /*
+    * Latte
+    * https://catppuccin.com/palette#flavor-latte
+    */
+    --obsidian-zero-rosewater: #dc8a78;
+    --obsidian-zero-flamingo: #dd7878;
+    --obsidian-zero-pink: #ea76cb;
+    --obsidian-zero-mauve: #8839ef;
+    --obsidian-zero-red: #d20f39;
+    --obsidian-zero-maroon: #e64553;
+    --obsidian-zero-peach: #fe640b;
+    --obsidian-zero-yellow: #df8e1d;
+    --obsidian-zero-green: #40a02b;
+    --obsidian-zero-teal: #179299;
+    --obsidian-zero-sky: #04a5e5;
+    --obsidian-zero-sapphire: #209fb5;
+    --obsidian-zero-blue: #1e66f5;
+    --obsidian-zero-lavender: #7287fd;
+    --obsidian-zero-text: #4c4f69;
+    --obsidian-zero-subtext1: #5c5f77;
+    --obsidian-zero-subtext0: #6c6f85;
+    --obsidian-zero-overlay2: #7c7f93;
+    --obsidian-zero-overlay1: #8c8fa1;
+    --obsidian-zero-overlay0: #9ca0b0;
+    --obsidian-zero-surface2: #acb0be;
+    --obsidian-zero-surface1: #bcc0cc;
+    --obsidian-zero-surface0: #ccd0da;
+    --obsidian-zero-base: #eff1f5;
+    --obsidian-zero-mantle: #e6e9ef;
+    --obsidian-zero-crust: #dce0e8;
+    --obsidian-zero-cursorline: var(--obsidian-zero-base);
+    --obsidian-zero-secondary-cursor: var(--obsidian-zero-rosewater);
+    --obsidian-zero-secondary-cursor-normal: var(--obsidian-zero-lavender);
+    --obsidian-zero-secondary-cursor-insert: var(--obsidian-zero-green);
+    --obsidian-zero-error: var(--obsidian-zero-red);
+    --obsidian-zero-warning: var(--obsidian-zero-yellow);
+    --obsidian-zero-info: var(--obsidian-zero-sky);
+    --obsidian-zero-hint: var(--obsidian-zero-teal);
+    --obsidian-zero-highlight: var(--obsidian-zero-surface2);
+    --obsidian-zero-text-highlight: var(--obsidian-zero-pink);
+  }
+}
+
+:root {
+  --the-color: #15d00d;
+  --the-color-rgb: 35, 255, 24;
+  --the-background-color: #000000;
+  --the-font: Fira Code Obsidian Zero;
+  --the-font-size: 14px;
+  /*--editor-line-height: 1.3;*/
+  --editor-line-height: 28px;
+  --char-width: calc(0.625 * var(--the-font-size));
+  /* the ratio is determined by the font-family */
+  --default-font: var(--the-font);
+  --font-monospace: var(--the-font);
+  /*--status-bar-height: 21px;*/
+  --footer-item-height: 28px;
+  --header-height: 36px;
+  /* Prompts */
+  --input-prompt: "$";
+  --not-created-note: "+";
+  --pin-command: "*";
+  --selected: ">";
+  --active-tab: "^";
+  --collapse-right: ">";
+  --collapse-down: "v";
+  --show-more-top: "+\\";
+  --show-more-bottom: "+/";
+  --search: "/";
+  --replace: ":";
+  --prev: "<";
+  --next: ">";
+  --all: "-a";
+  --close: "x";
+  --quit: "/q";
+  --preview-mode: "/p";
+  --edit-mode: "/e";
+  --more: "/?";
+  --pwd: "PWD";
+}
+
+:root {
+  /*
+  * https://codepen.io/sosuke/pen/Pjoqqp
+  *
+  * Add "brightness(0) saturate(100%)" in front if element is not black (#000);
+  */
+  &[saved-theme="dark"] {
+    /* Loss: 0.0. This is a perfect result. */
+    --obsidian-zero-text-filter: brightness(0) saturate(100%) invert(87%) sepia(6%) saturate(1061%)
+      hue-rotate(191deg) brightness(97%) contrast(98%);
+    /* Loss: 0.0. This is a perfect result. */
+    --obsidian-zero-green-filter: invert(93%) sepia(11%) saturate(1237%) hue-rotate(56deg)
+      brightness(95%) contrast(86%);
+    /* Loss: 0.0. This is a perfect result. */
+    --obsidian-zero-base-filter: invert(7%) sepia(31%) saturate(1036%) hue-rotate(202deg)
+      brightness(96%) contrast(88%);
+  }
+  &[saved-theme="light"] {
+    /* Loss: 0.0. This is a perfect result. */
+    --obsidian-zero-text-filter: brightness(0) saturate(100%) invert(32%) sepia(11%) saturate(1096%)
+      hue-rotate(196deg) brightness(90%) contrast(89%);
+    /* Loss: 0.0. This is a perfect result. */
+    --obsidian-zero-green-filter: invert(67%) sepia(53%) saturate(6309%) hue-rotate(75deg)
+      brightness(95%) contrast(66%);
+    /* Loss: 0.0. This is a perfect result. */
+    --obsidian-zero-base-filter: invert(96%) sepia(20%) saturate(271%) hue-rotate(177deg)
+      brightness(100%) contrast(93%);
+  }
+}
+
+:root {
+  &[saved-theme="dark"] {
+    --breadcrumb-prefix-gradient: linear-gradient(
+      90deg,
+      var(--obsidian-zero-mauve) 0%,
+      var(--obsidian-zero-mauve) 20%,
+      var(--obsidian-zero-text) 20%,
+      var(--obsidian-zero-text) 24%,
+      var(--obsidian-zero-green) 24%,
+      var(--obsidian-zero-green) 84%,
+      var(--obsidian-zero-text) 84%,
+      var(--obsidian-zero-text) 88%,
+      var(--obsidian-zero-blue) 88%,
+      var(--obsidian-zero-blue) 92%,
+      var(--obsidian-zero-text) 92%,
+      var(--obsidian-zero-text) 100%
+    );
+  }
+  &[saved-theme="light"] {
+    --breadcrumb-prefix-gradient: linear-gradient(
+      90deg,
+      var(--obsidian-zero-mauve) 0%,
+      var(--obsidian-zero-mauve) 20%,
+      var(--obsidian-zero-text) 20%,
+      var(--obsidian-zero-text) 24%,
+      var(--obsidian-zero-green) 24%,
+      var(--obsidian-zero-green) 84%,
+      var(--obsidian-zero-text) 84%,
+      var(--obsidian-zero-text) 88%,
+      var(--obsidian-zero-blue) 88%,
+      var(--obsidian-zero-blue) 92%,
+      var(--obsidian-zero-text) 92%,
+      var(--obsidian-zero-text) 100%
+    );
+  }
+}
