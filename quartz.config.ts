@@ -9,6 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🌷 Emile Bangma",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -34,6 +35,7 @@ const config: QuartzConfig = {
           secondary: "var(--mado-blue-1)",
           tertiary: "var(--mado-blue-2)",
           highlight: "rgba(225, 228, 232, 0.10)",
+          textHighlight: "rgba(255, 228,232, 0.50)",
         },
         darkMode: {
           light: "var(--mado-white-1)",
@@ -44,6 +46,7 @@ const config: QuartzConfig = {
           secondary: "var(--mado-blue-1)",
           tertiary: "var(--mado-blue-2)",
           highlight: "rgba(225, 228, 232, 0.10)",
+          textHighlight: "rgba(255, 228,232, 0.50)",
         },
       },
     },

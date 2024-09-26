@@ -42,10 +42,8 @@ const tokyoNight = highlighter.getTheme(tokyoNightDefault)
 const tokyoStorm = highlighter.getTheme(tokyoNightStorm)
 const tokyoLight = highlighter.getTheme(tokyoNightLight)
 
-export const SyntaxHighlighting: QuartzTransformerPlugin<Options> = (
-  userOpts?: Partial<Options>,
-) => {
-  const opts: Partial<CodeOptions> = { ...defaultOptions, ...userOpts }
+export const SyntaxHighlighting: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
+  const opts: CodeOptions = { ...defaultOptions, ...userOpts }
 
   return {
     name: "SyntaxHighlighting",
