@@ -52,6 +52,12 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
                 modified ||= file.data.frontmatter.updated as MaybeDate
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
+                modified ||=
+                  typeof file.data.frontmatter["date_modified"] === "string"
+                    ? (formatToISOString(
+                        parseMomentTimestamp(file.data.frontmatter["date_modified"]),
+                      ) as MaybeDate)
+                    : (file.data.frontmatter["date_modified"] as MaybeDate)
                 published ||= file.data.frontmatter.publishDate as MaybeDate
               } else if (source === "git") {
                 if (!repo) {
@@ -84,6 +90,44 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
       ]
     },
   }
+}
+
+// Function to parse "dddd, MMMM Do YYYY, h:mm:ss a" to a Date object
+function parseMomentTimestamp(input: string): Date {
+  const [weekday, monthDayYear, time] = input.split(", ")
+  const [month, dayWithSuffix, year] = monthDayYear.split(" ")
+  const [hour, minute, secondMeridiem] = time.split(":")
+  const [second, meridiem] = secondMeridiem.split(" ")
+
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ]
+  const monthIndex = months.indexOf(month)
+  const day = parseInt(dayWithSuffix.replace(/\D/g, ""), 10)
+  let hour24 = parseInt(hour, 10)
+
+  if (meridiem.toLowerCase() === "pm" && hour24 < 12) {
+    hour24 += 12
+  } else if (meridiem.toLowerCase() === "am" && hour24 === 12) {
+    hour24 = 0
+  }
+
+  return new Date(parseInt(year), monthIndex, day, hour24, parseInt(minute), parseInt(second))
+}
+
+function formatToISOString(date: Date): string {
+  return date.toISOString()
 }
 
 declare module "vfile" {

@@ -198,7 +198,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
     if (sidebar) {
-      sidebar.style.zIndex = "1"
+      sidebar.style.zIndex = "7"
     }
     container?.classList.add("active")
     searchBar?.focus()

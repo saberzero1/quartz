@@ -565,6 +565,10 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
   const container = document.getElementById("global-graph-outer")
   const sidebar = container?.closest(".sidebar") as HTMLElement
+  /*container?.classList.add("active")
+  if (sidebar) {
+    sidebar.style.zIndex = "7"
+  }*/
 
   function renderGlobalGraph() {
     const slug = getFullSlug(window)
