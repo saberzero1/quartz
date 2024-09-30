@@ -4,21 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.MobileOnly(
-      Component.ExplorerBurger({
-        folderClickBehavior: "link",
-        folderDefaultState: "collapsed",
-        useSavedState: true,
-        usePagePath: true,
-        title: "",
-      }),
-    ),
-    Component.MobileOnly(Component.PageTitle()),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-  ],
+  header: [Component.MobileOnly(Component.PageTitle()), Component.MobileOnly(Component.Spacer())],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -40,6 +26,17 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Darkmode()),
+    Component.MobileOnly(
+      Component.ExplorerBurger({
+        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+        useSavedState: true,
+        usePagePath: true,
+        title: "",
+      }),
+    ),
     Component.DesktopOnly(
       Component.ExplorerBurger({
         folderClickBehavior: "link",
@@ -49,6 +46,8 @@ export const defaultContentPageLayout: PageLayout = {
         title: "",
       }),
     ),
+    Component.MobileOnly(Component.Search()),
+    Component.MobileOnly(Component.Darkmode()),
   ],
   right: [
     Component.DesktopOnly(Component.Graph()),
