@@ -11,6 +11,9 @@
       position: sticky;
       & > .explorer {
         flex: 1;
+        &:has(> button.collapsed) {
+          overflow-x: clip;
+        }
       }
     }
   }
@@ -28,7 +31,7 @@
 @media all and not ($mobile) {
   .page > #quartz-body {
     .sidebar.left {
-      max-height: calc(100vh - 8rem);
+      max-height: 100vh;
       display: flex;
       flex-wrap: wrap;
       flex-direction: row;
@@ -44,6 +47,12 @@
         flex-basis: 10%;
         margin-left: auto;
       }
+      & > div.explorer {
+        max-height: 85%;
+      }
     }
+  }
+  .search > #search-container > #search-space > #search-layout > #preview-container {
+    width: 100%;
   }
 }
