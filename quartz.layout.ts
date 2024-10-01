@@ -4,21 +4,8 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.MobileOnly(
-      Component.ExplorerBurger({
-        folderClickBehavior: "link",
-        folderDefaultState: "collapsed",
-        useSavedState: true,
-        usePagePath: true,
-        title: "",
-      }),
-    ),
-    Component.MobileOnly(Component.PageTitle()),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-  ],
+  header: [Component.MobileOnly(Component.PageTitle()), Component.MobileOnly(Component.Spacer())],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       Github: "https://github.com/saberzero1",
@@ -39,6 +26,17 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.MobileOnly(
+      Component.ExplorerBurger({
+        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+        useSavedState: true,
+        usePagePath: true,
+        title: "",
+      }),
+    ),
     Component.DesktopOnly(
       Component.ExplorerBurger({
         folderClickBehavior: "link",
@@ -62,3 +60,46 @@ export const defaultListPageLayout: PageLayout = {
   left: defaultContentPageLayout.left,
   right: [],
 }
+
+// components for pages that display a single page (e.g. a single note)
+/*export const defaultContentPageLayout: PageLayout = {
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+    Component.TagList(),
+  ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(
+      Component.ExplorerBurger({
+        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+        useSavedState: true,
+        usePagePath: true,
+        title: "",
+      }),
+    ),
+  ],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
+}*/
+
+// components for pages that display lists of pages  (e.g. tags or folders)
+/*export const defaultListPageLayout: PageLayout = {
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Explorer()),
+  ],
+  right: [],
+}*/
