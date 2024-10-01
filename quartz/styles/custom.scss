@@ -5,8 +5,14 @@
 
 // put your custom CSS here!
 @media all and ($mobile) {
-  .sidebar.left > .explorer {
-    flex: 1;
+  .page > #quartz-body {
+    .sidebar.left {
+      flex-direction: row-reverse;
+      position: sticky;
+      & > .explorer {
+        flex: 1;
+      }
+    }
   }
   .search > #search-container > #search-space > #search-layout {
     &[data-preview] > #results-container {
@@ -15,6 +21,29 @@
     }
     > #preview-container {
       display: none;
+    }
+  }
+}
+
+@media all and not ($mobile) {
+  .page > #quartz-body {
+    .sidebar.left {
+      max-height: calc(100vh - 8rem);
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-content: flex-start;
+      & > * {
+        flex-basis: 100%;
+        margin: auto 0;
+      }
+      & > div.search {
+        flex-basis: 70%;
+      }
+      & > button.darkmode {
+        flex-basis: 10%;
+        margin-left: auto;
+      }
     }
   }
 }

@@ -26,8 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.DesktopOnly(Component.PageTitle()),
-    Component.DesktopOnly(Component.Search()),
-    Component.DesktopOnly(Component.Darkmode()),
+    Component.Search(),
+    Component.Darkmode(),
     Component.MobileOnly(
       Component.ExplorerBurger({
         folderClickBehavior: "link",
@@ -46,8 +46,6 @@ export const defaultContentPageLayout: PageLayout = {
         title: "",
       }),
     ),
-    Component.MobileOnly(Component.Search()),
-    Component.MobileOnly(Component.Darkmode()),
   ],
   right: [
     Component.DesktopOnly(Component.Graph()),
