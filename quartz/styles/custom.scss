@@ -29,6 +29,9 @@
 }
 
 @media all and not ($mobile) {
+  header {
+    display: block;
+  }
   .page > #quartz-body {
     .sidebar.left {
       max-height: 100vh;
