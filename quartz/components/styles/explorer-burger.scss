@@ -71,6 +71,7 @@
 
     ul.overflow {
       max-height: calc(100dvh - 8rem);
+      width: 100%;
     }
 
     &.collapsed {
