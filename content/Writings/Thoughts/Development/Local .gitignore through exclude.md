@@ -1,5 +1,5 @@
 ---
-{"id":"273efd7e-84e1-4959-8210-6b33741ae003","title":"Local .gitignore through exclude","description":"I recently learned that a local-only gitignore is possible through .git/info/exclude.","publish":true,"tags":["Thoughts"],"date_created":"Thursday, October 3rd 2024, 9:11:46 pm","date_modified":"Thursday, October 3rd 2024, 9:33:16 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Writings/Thoughts/Development/Local .gitignore through exclude.md","permalink":"/writings/thoughts/development/local-gitignore-through-exclude/","PassFrontmatter":true}
+{"id":"273efd7e-84e1-4959-8210-6b33741ae003","title":"Local .gitignore through exclude","description":"I recently learned that a local-only gitignore is possible through .git/info/exclude.","publish":true,"tags":["Thoughts","Tools/Git"],"date_created":"Thursday, October 3rd 2024, 9:11:46 pm","date_modified":"Thursday, October 3rd 2024, 9:33:16 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Writings/Thoughts/Development/Local .gitignore through exclude.md","permalink":"/writings/thoughts/development/local-gitignore-through-exclude/","PassFrontmatter":true}
 ---
 
 
