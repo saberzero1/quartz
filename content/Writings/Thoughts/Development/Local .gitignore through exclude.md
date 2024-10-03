@@ -1,5 +1,5 @@
 ---
-{"id":"273efd7e-84e1-4959-8210-6b33741ae003","title":"Local .gitignore through exclude","description":"I recently learned that a local-only gitignore is possible through .git/info/exclude.","publish":true,"tags":["Thoughts","Tools/Git"],"date_created":"Thursday, October 3rd 2024, 9:11:46 pm","date_modified":"Thursday, October 3rd 2024, 9:33:16 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Writings/Thoughts/Development/Local .gitignore through exclude.md","permalink":"/writings/thoughts/development/local-gitignore-through-exclude/","PassFrontmatter":true}
+{"id":"273efd7e-84e1-4959-8210-6b33741ae003","title":"Local .gitignore through exclude","description":"I recently learned that a local-only gitignore is possible through .git/info/exclude.","publish":true,"tags":["Thoughts","Tools/Git"],"date_created":"Thursday, October 3rd 2024, 9:11:46 pm","date_modified":"Friday, October 4th 2024, 12:46:10 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Writings/Thoughts/Development/Local .gitignore through exclude.md","permalink":"/writings/thoughts/development/local-gitignore-through-exclude/","PassFrontmatter":true}
 ---
 
 
@@ -33,7 +33,7 @@ Personally, I like to keep a [justfile](https://just.systems/man/en/) inside my 
 justfile
 ```
 
-In fact, every option that is valid for a `gitignore` file, is valid in the `.git/info/exclude` file. [They even share a page in the Git documentation](https://git-scm.com/docs/gitignore#_synopsis)
+In fact, every option that is valid for a `.gitignore` file, is valid for a `.git/info/exclude` file. [They even share a page in the Git documentation](https://git-scm.com/docs/gitignore#_synopsis)
 
 <!--
 https://luisdalmolin.dev/blog/ignoring-files-in-git-without-gitignore/
