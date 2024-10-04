@@ -27,7 +27,7 @@ function toggleExplorer(this: HTMLElement) {
   if (!content) return
   content.classList.toggle("collapsed")
   //content.style.maxHeight = content.style.maxHeight === "0px" ? content.scrollHeight + "px" : "0px"
-  content.style.maxHeight = content.style.maxHeight === "0px" ? "calc(100vh - 8rem)" : "0px"
+  content.style.maxHeight = content.style.maxHeight === "0px" ? "calc(100vh - 4rem)" : "0px"
 
   //prevent scroll under
   if (this.dataset.mobile === "true" && document.querySelector(".mobile-only #explorer")) {
