@@ -59,6 +59,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                       ) as MaybeDate)
                     : (file.data.frontmatter["date_modified"] as MaybeDate)
                 published ||= file.data.frontmatter.publishDate as MaybeDate
+                published ||= file.data.frontmatter["date_published"] as MaybeDate
               } else if (source === "git") {
                 if (!repo) {
                   // Get a reference to the main git repo.
