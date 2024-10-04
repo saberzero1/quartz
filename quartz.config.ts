@@ -8,7 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌷 Emile Bangma",
+    //pageTitle: "🌷 Emile Bangma",
+    pageTitle: "❯ Emile Bangma",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +17,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "emilebangma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published", //"modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

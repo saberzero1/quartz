@@ -8,10 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      Github: "https://github.com/saberzero1",
-      LinkedIn: "https://www.linkedin.com/in/emilebangma/",
-      "Resume (English)": "https://rxresu.me/saberzero1/curriculum-vitae-english",
-      "CV (Nederlands)": "https://rxresu.me/saberzero1/curriculum-vitae-dutch",
+      "❯ github": "https://github.com/saberzero1",
+      "❯ whoami": "https://www.linkedin.com/in/emilebangma/",
+      "❯ CV en-US": "https://rxresu.me/saberzero1/curriculum-vitae-english",
+      "❯ CV nl-NL": "https://rxresu.me/saberzero1/curriculum-vitae-dutch",
     },
   }),
 }
