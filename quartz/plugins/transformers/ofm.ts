@@ -763,9 +763,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
                 diceButtons.forEach(btn => {
                   btn.addEventListener('click', event => {
-                    event.target.value = event.target.value.split(':')[0] + ":" + rollAll(event.target.value.split(':')[0])
+                    event.target.value = event.target.value.split(':')[0] + ": " + rollAll(event.target.value.split(':')[0])
                   })
-                  btn.value = btn.value + ":" +rollAll(btn.value)
+                  btn.value = btn.value + ": " +rollAll(btn.value)
                 })
               }
             });
