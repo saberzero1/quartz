@@ -756,7 +756,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     res += r[0]
                     sum += r[1]
                   })
-                  return "[" + res.slice(0, -2)} + "] = " + sum
+                  return "[" + res.slice(0, -2) + "] = " + toString(sum)
                 }
 
                 const diceButtons = document.querySelectorAll('input.dice-button')
@@ -768,7 +768,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   btn.value = rollAll(btn.value).output
                 })
               }
-            );
+            });
             `,
           loadTime: "afterDOMReady",
           moduleType: "module",

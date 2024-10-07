@@ -54,17 +54,16 @@ document.addEventListener("nav", async () => {
         res += r[0]
         sum += r[1]
       })
-      return "[" + res.slice(0, -2)
+      return "[" + res.slice(0, -2) + "] = " + toString(sum)
     }
-    ;+"] = " + sum
-  }
 
-  const diceButtons = document.querySelectorAll("input.dice-button")
+    const diceButtons = document.querySelectorAll("input.dice-button")
 
-  diceButtons.forEach((btn) => {
-    btn.addEventListener("click", (event) => {
-      event.target.value = rollAll(event.target.value.split(":")[0]).output
+    diceButtons.forEach((btn) => {
+      btn.addEventListener("click", (event) => {
+        event.target.value = rollAll(event.target.value.split(":")[0]).output
+      })
+      btn.value = rollAll(btn.value).output
     })
-    btn.value = rollAll(btn.value).output
-  })
+  }
 })
