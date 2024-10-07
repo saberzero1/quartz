@@ -768,7 +768,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   btn.value = rollAll(btn.value).output
                 })
               }
-            });
+            );
             `,
           loadTime: "afterDOMReady",
           moduleType: "module",
