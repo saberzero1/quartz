@@ -22,7 +22,7 @@ function rollAll(d) {
     res += r[0]
     sum += r[1]
   })
-  return "[" + res.slice(0, -2) + "] = " + sum
+  return "[" + res.slice(0, -2) + "] = " + sum.toString()
 }
 
 console.log(rollAll("2d8+1d12"))

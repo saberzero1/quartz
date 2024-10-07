@@ -756,7 +756,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     res += r[0]
                     sum += r[1]
                   })
-                  return "[" + res.slice(0, -2) + "] = " + sum
+                  return "[" + res.slice(0, -2) + "] = " + sum.toString()
                 }
 
                 const diceButtons = document.querySelectorAll('input.dice-button')
