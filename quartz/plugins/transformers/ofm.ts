@@ -187,10 +187,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       // pre-transform blockquotes
       if (opts.callouts) {
-        if (src instanceof Buffer) {
-          src = src.toString()
-        }
-
         src = src.replace(calloutLineRegex, (value) => {
           // force newline after title of callout
           return value + "\n> "
@@ -199,10 +195,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       // pre-transform wikilinks (fix anchors to things that may contain illegal syntax e.g. codeblocks, latex)
       if (opts.wikilinks) {
-        if (src instanceof Buffer) {
-          src = src.toString()
-        }
-
         // replace all wikilinks inside a table first
         src = src.replace(tableRegex, (value) => {
           // escape all aliases and headers in wikilinks inside a table
@@ -736,41 +728,52 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
       }
 
       if (opts.dice) {
-        js.push(
-          {
-            src: "https://unpkg.com/mathjs@11.8.2/lib/browser/math.js",
-            loadTime: "afterDOMReady",
-            contentType: "external",
-          },
-          {
-            src: "https://cdn.jsdelivr.net/npm/random-js@2.1.0/dist/random-js.umd.min.js",
-            loadTime: "afterDOMReady",
-            contentType: "external",
-          },
-          {
-            script: `
-            let diceImport = undefined
+        js.push({
+          script: `
             document.addEventListener('nav', async () => {
               if (document.querySelector("input.dice-button")) {
-                diceImport ||= await import('https://cdn.jsdelivr.net/npm/@dice-roller/rpg-dice-roller@5.5.0/lib/umd/bundle.min.js')
-                let diceRoller = new rpgDiceRoller.DiceRoller()
+                function roll(n, s) {
+                  if (n === "") {
+                    n = 1
+                  }
+                  let res = ""
+                  let sum = 0
+                  for (let i = 0; i < n; i++) {
+                    let r = Math.floor(Math.random() * s + 1)
+                    sum += r
+                    res += r + ", "
+                  }
+                  return [res, sum]
+                }
+
+                function rollAll(d) {
+                  const i = d.replaceAll(" ", "").split("+")
+                  let res = ""
+                  let sum = 0
+                  i.forEach((is) => {
+                    let n = is.split("d")
+                    let r = roll(n[0], n[1])
+                    res += r[0]
+                    sum += r[1]
+                  })
+                  return "[" + res.slice(0, -2) + "] = " + sum.toString()
+                }
 
                 const diceButtons = document.querySelectorAll('input.dice-button')
 
                 diceButtons.forEach(btn => {
                   btn.addEventListener('click', event => {
-                    event.target.value = diceRoller.roll(event.target.value.split(':')[0]).output
+                    event.target.value = event.target.value.split(':')[0] + ": " + rollAll(event.target.value.split(':')[0])
                   })
-                  btn.value = diceRoller.roll(btn.value).output
+                  btn.value = btn.value + ": " +rollAll(btn.value)
                 })
               }
             });
             `,
-            loadTime: "afterDOMReady",
-            moduleType: "module",
-            contentType: "inline",
-          },
-        )
+          loadTime: "afterDOMReady",
+          moduleType: "module",
+          contentType: "inline",
+        })
       }
 
       return { js }
