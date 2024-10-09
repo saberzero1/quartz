@@ -7,8 +7,8 @@
 
 ## Recent Posts
 
-- [[Writings/Blog/In Faith We Trust\|In Faith We Trust]] - April 26, 2024
 - [[Writings/Blog/Why Dress Well\|Why Dress Well?]] - April 26, 2024
+- [[Writings/Blog/In Faith We Trust\|In Faith We Trust]] - April 26, 2024
 
 
 ## Recent Thoughts

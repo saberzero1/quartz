@@ -1,5 +1,5 @@
 ---
-{"id":"c74c2365-7bee-4338-8a00-563f18d87f54","title":"Modifications","description":"Overview of frequently requested modifications.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:07:16 pm","date_modified":"Wednesday, October 9th 2024, 10:15:23 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/Modifications/index.md","permalink":"/quartz/modifications/index/","PassFrontmatter":true}
+{"id":"c74c2365-7bee-4338-8a00-563f18d87f54","title":"Modifications","description":"Overview of frequently requested modifications.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:07:16 pm","date_modified":"Thursday, October 10th 2024, 1:22:26 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/Modifications/index.md","permalink":"/quartz/modifications/index/","PassFrontmatter":true}
 ---
 
 
