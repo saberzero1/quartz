@@ -3,7 +3,7 @@
 ---
 
 
+- [[Quartz/FAQ/index\|FAQ]] - Overview of frequently asked questions with answers.
 - [[Quartz/Troubleshooting/index\|Troubleshooting]] - Overview of frequent issues and troubleshooting steps.
 - [[Quartz/Modifications/index\|Modifications]] - Overview of frequently requested modifications.
-- [[Quartz/FAQ/index\|FAQ]] - Overview of frequently asked questions with answers.
 

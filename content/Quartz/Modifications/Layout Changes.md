@@ -1,5 +1,5 @@
 ---
-{"id":"e32bb619-8ae1-45e2-8c31-4e45a767f152","title":"Layout Changes","description":"Overview of frequently requested layout changes.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:19:03 pm","date_modified":"Wednesday, October 9th 2024, 10:37:30 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/Modifications/Layout Changes.md","permalink":"/quartz/modifications/layout-changes/","PassFrontmatter":true}
+{"id":"e32bb619-8ae1-45e2-8c31-4e45a767f152","title":"Layout Changes","description":"Overview of frequently requested layout changes.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:19:03 pm","date_modified":"Wednesday, October 9th 2024, 10:44:45 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/Modifications/Layout Changes.md","permalink":"/quartz/modifications/layout-changes/","PassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@ To change the width of the center content, add the following to `custom.scss`:
 }
 ```
 
-### Apply changes only to desktop/tablet/mobile layout
+## Apply changes only to desktop/tablet/mobile layout
 
 To apply CSS to a specific layout only, use one of the following:
 
