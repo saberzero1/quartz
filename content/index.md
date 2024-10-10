@@ -1,5 +1,5 @@
 ---
-{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Thursday, October 10th 2024, 9:21:33 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"index.md","permalink":"/index/","PassFrontmatter":true}
+{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Friday, October 11th 2024, 12:32:07 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
 
 
