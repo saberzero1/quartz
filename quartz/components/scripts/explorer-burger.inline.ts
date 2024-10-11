@@ -5,7 +5,7 @@ type MaybeHTMLElement = HTMLElement | undefined
 let currentExplorerState: FolderState[]
 
 function escapeCharacters(str: string) {
-  return str.replace(/'/g, "\\'").replace(/"/g, '\\"')
+  return str.replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/"/g, '\\"')
 }
 
 const observer = new IntersectionObserver((entries) => {
