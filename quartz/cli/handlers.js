@@ -375,7 +375,13 @@ export async function handleBuild(argv) {
         // /trailing/
         // does /trailing/index.html exist? if so, serve it
         const indexFp = path.posix.join(fp, "index.html")
-        if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
+        const fullIndexFp = path.resolve(argv.output, indexFp)
+        if (!fullIndexFp.startsWith(path.resolve(argv.output))) {
+          res.statusCode = 403
+          res.end()
+          return
+        }
+        if (fs.existsSync(fullIndexFp)) {
           req.url = fp
           return serve()
         }
@@ -385,7 +391,13 @@ export async function handleBuild(argv) {
         if (path.extname(base) === "") {
           base += ".html"
         }
-        if (fs.existsSync(path.posix.join(argv.output, base))) {
+        const fullBaseFp = path.resolve(argv.output, base)
+        if (!fullBaseFp.startsWith(path.resolve(argv.output))) {
+          res.statusCode = 403
+          res.end()
+          return
+        }
+        if (fs.existsSync(fullBaseFp)) {
           return redirect(fp.slice(0, -1))
         }
       } else {
@@ -395,14 +407,26 @@ export async function handleBuild(argv) {
         if (path.extname(base) === "") {
           base += ".html"
         }
-        if (fs.existsSync(path.posix.join(argv.output, base))) {
+        const fullBaseFp = path.resolve(argv.output, base)
+        if (!fullBaseFp.startsWith(path.resolve(argv.output))) {
+          res.statusCode = 403
+          res.end()
+          return
+        }
+        if (fs.existsSync(fullBaseFp)) {
           req.url = fp
           return serve()
         }
 
         // does /regular/index.html exist? if so, redirect to /regular/
         let indexFp = path.posix.join(fp, "index.html")
-        if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
+        const fullIndexFp = path.resolve(argv.output, indexFp)
+        if (!fullIndexFp.startsWith(path.resolve(argv.output))) {
+          res.statusCode = 403
+          res.end()
+          return
+        }
+        if (fs.existsSync(fullIndexFp)) {
           return redirect(fp + "/")
         }
       }
