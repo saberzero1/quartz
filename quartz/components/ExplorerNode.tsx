@@ -135,7 +135,7 @@ export class FileNode {
       if (!node.file) {
         const folderPath = joinSegments(currentPath, node.name)
         const collapseState = !currentFile.includes(
-          folderPath.replace("'", "-").replaceAll("../", ""),
+          folderPath.replace(/'/g, "-").replaceAll("../", ""),
         )
         //console.log(currentFile, folderPath, collapseState)
         if (folderPath !== "") {
