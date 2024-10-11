@@ -133,7 +133,7 @@ function setupExplorer() {
 
     currentExplorerState.map((folderState) => {
       const folderLi = document.querySelector(
-        `[data-folderpath='${folderState.path.replace("'", "-")}']`,
+        `[data-folderpath='${folderState.path.replace(/'/g, "-")}']`,
       ) as MaybeHTMLElement
       const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
       if (folderUl) {
