@@ -1,5 +1,5 @@
 ---
-{"id":"cb857fa9-4fab-49cd-b855-c1dcb01160a4","title":"Ambidexterity","description":"All Hands are now Good Hands.","publish":true,"date_created":"Friday, May 31st 2024, 10:19:54 pm","date_modified":"Friday, May 31st 2024, 10:30:47 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Ambidexterity.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/ambidexterity/","PassFrontmatter":true}
+{"id":"cb857fa9-4fab-49cd-b855-c1dcb01160a4","title":"Ambidexterity","description":"All Hands are now Good Hands.","publish":true,"date_created":"Friday, May 31st 2024, 10:19:54 pm","date_modified":"Monday, October 14th 2024, 2:22:12 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Ambidexterity.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/ambidexterity/","PassFrontmatter":true}
 ---
 
 

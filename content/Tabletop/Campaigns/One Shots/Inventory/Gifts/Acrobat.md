@@ -1,5 +1,5 @@
 ---
-{"id":"340a4261-79a8-4c9d-b2fc-aaa14925b3ce","title":"Acrobat","description":"You are very mobile.","publish":true,"date_created":"Friday, May 31st 2024, 11:03:17 pm","date_modified":"Friday, May 31st 2024, 11:11:48 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Acrobat.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/acrobat/","PassFrontmatter":true}
+{"id":"340a4261-79a8-4c9d-b2fc-aaa14925b3ce","title":"Acrobat","description":"You are very mobile.","publish":true,"date_created":"Friday, May 31st 2024, 11:03:17 pm","date_modified":"Monday, October 14th 2024, 2:22:12 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Acrobat.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/acrobat/","PassFrontmatter":true}
 ---
 
 

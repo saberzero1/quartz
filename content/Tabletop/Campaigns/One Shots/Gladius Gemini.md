@@ -1,5 +1,5 @@
 ---
-{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Saturday, June 1st 2024, 12:04:06 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
+{"id":"05e094b2-52a5-4055-a7e7-eaa46c52b17b","title":"Gladius Gemini","description":"One Shot character - Sword Dancer.","publish":true,"date_created":"Tuesday, May 28th 2024, 4:16:14 pm","date_modified":"Monday, October 14th 2024, 2:22:09 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Gladius Gemini.md","permalink":"/tabletop/campaigns/one-shots/gladius-gemini/","PassFrontmatter":true}
 ---
 
 

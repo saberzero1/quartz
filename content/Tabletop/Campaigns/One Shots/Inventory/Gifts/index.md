@@ -1,5 +1,5 @@
 ---
-{"id":"fb2e2d93-585c-4671-84d3-834ddde6d38a","title":"Gifts","description":"Inventory - Gifts","publish":true,"date_created":"Tuesday, May 28th 2024, 3:09:47 pm","date_modified":"Friday, May 31st 2024, 11:22:05 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/index.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/index/","PassFrontmatter":true}
+{"id":"fb2e2d93-585c-4671-84d3-834ddde6d38a","title":"Gifts","description":"Inventory - Gifts","publish":true,"date_created":"Tuesday, May 28th 2024, 3:09:47 pm","date_modified":"Monday, October 14th 2024, 2:22:12 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/index.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/index/","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"a91e824a-a2a2-4156-9bde-b601cd4d6288","title":"Personality - Confident","description":"Conditional bonus to rolls.","publish":true,"date_created":"Friday, May 31st 2024, 9:59:35 pm","date_modified":"Friday, May 31st 2024, 11:22:05 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Personality - Confident.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/personality-confident/","PassFrontmatter":true}
+{"id":"a91e824a-a2a2-4156-9bde-b601cd4d6288","title":"Personality - Confident","description":"Conditional bonus to rolls.","publish":true,"date_created":"Friday, May 31st 2024, 9:59:35 pm","date_modified":"Monday, October 14th 2024, 2:22:12 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Personality - Confident.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/personality-confident/","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"10872f29-6412-4d76-a2d0-f4571b2293d5","title":"Showmanship","description":"The show must go on.","publish":true,"date_created":"Friday, May 31st 2024, 11:13:54 pm","date_modified":"Friday, May 31st 2024, 11:22:05 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Showmanship.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/showmanship/","PassFrontmatter":true}
+{"id":"10872f29-6412-4d76-a2d0-f4571b2293d5","title":"Showmanship","description":"The show must go on.","publish":true,"date_created":"Friday, May 31st 2024, 11:13:54 pm","date_modified":"Monday, October 14th 2024, 2:22:12 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Showmanship.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/showmanship/","PassFrontmatter":true}
 ---
 
 
