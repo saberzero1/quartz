@@ -1,5 +1,5 @@
 ---
-{"id":"e32bb619-8ae1-45e2-8c31-4e45a767f152","title":"Layout Changes","description":"Overview of frequently requested layout changes.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:19:03 pm","date_modified":"Monday, October 14th 2024, 2:22:25 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/Modifications/Layout Changes.md","permalink":"/quartz/modifications/layout-changes/","PassFrontmatter":true}
+{"id":"e32bb619-8ae1-45e2-8c31-4e45a767f152","title":"Layout Changes","description":"Overview of frequently requested layout changes.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:19:03 pm","date_modified":"Tuesday, October 15th 2024, 5:03:02 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/Modifications/Layout Changes.md","permalink":"/quartz/modifications/layout-changes/","PassFrontmatter":true}
 ---
 
 
@@ -32,5 +32,27 @@ To apply CSS to a specific layout only, use one of the following:
 }
 @media all and not ($desktop) {
   // All styles here only apply to non-desktop (mobile and tablet) layouts.
+}
+```
+
+## Centering images
+
+In `custom.scss`:
+
+```scss
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+```
+
+Note that this will center **all** images.
+
+If you only want to center images in the main page content (a.k.a. images embedded inside your notes):
+
+```scss
+article.popover-hint img {
+  margin-left: auto;
+  margin-right: auto;
 }
 ```
