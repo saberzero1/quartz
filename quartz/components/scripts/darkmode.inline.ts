@@ -27,8 +27,8 @@ document.addEventListener("nav", () => {
 
   // Darkmode toggle
   const themeButton = document.querySelector("#darkmode") as HTMLButtonElement
-  themeButton.addEventListener("click", switchTheme)
-  window.addCleanup(() => themeButton.removeEventListener("click", switchTheme))
+  themeButton.addEventListener("mousedown", switchTheme)
+  window.addCleanup(() => themeButton.removeEventListener("mousedown", switchTheme))
 
   // Listen for changes in prefers-color-scheme
   const colorSchemeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)")

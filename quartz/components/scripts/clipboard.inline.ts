@@ -27,8 +27,8 @@ document.addEventListener("nav", () => {
           (error) => console.error(error),
         )
       }
-      button.addEventListener("click", onClick)
-      window.addCleanup(() => button.removeEventListener("click", onClick))
+      button.addEventListener("mousedown", onClick)
+      window.addCleanup(() => button.removeEventListener("mousedown", onClick))
       els[i].prepend(button)
     }
   }

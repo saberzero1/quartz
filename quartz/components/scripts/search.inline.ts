@@ -312,7 +312,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     itemTile.innerHTML = `<h3>${title}</h3>${htmlTags}${
       enablePreview && window.innerWidth > 600 ? "" : `<p>${content}</p>`
     }`
-    itemTile.addEventListener("click", (event) => {
+    itemTile.addEventListener("mousedown", (event) => {
       if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
       hideSearch()
     })
@@ -330,8 +330,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
     itemTile.addEventListener("mouseenter", onMouseEnter)
     window.addCleanup(() => itemTile.removeEventListener("mouseenter", onMouseEnter))
-    itemTile.addEventListener("click", handler)
-    window.addCleanup(() => itemTile.removeEventListener("click", handler))
+    itemTile.addEventListener("mousedown", handler)
+    window.addCleanup(() => itemTile.removeEventListener("mousedown", handler))
 
     return itemTile
   }

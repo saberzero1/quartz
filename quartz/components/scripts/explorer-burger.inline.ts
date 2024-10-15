@@ -5,7 +5,7 @@ type MaybeHTMLElement = HTMLElement | undefined
 let currentExplorerState: FolderState[]
 
 function escapeCharacters(str: string) {
-  return str.replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/"/g, '\\"')
+  return str.replace(/\\/g, "\\\\").replace(/'/g, "\\'").replace(/"/g, '\\"')
 }
 
 const observer = new IntersectionObserver((entries) => {
@@ -97,23 +97,23 @@ function setupExplorer() {
         Array.prototype.forEach.call(
           document.getElementsByClassName("folder-button"),
           function (item) {
-            item.removeEventListener("click", toggleFolder)
-            item.addEventListener("click", toggleFolder)
+            item.removeEventListener("mousedown", toggleFolder)
+            item.addEventListener("mousedown", toggleFolder)
           },
         )
       }
 
       // Add click handler to main explorer
-      explorer.removeEventListener("click", toggleExplorer)
-      explorer.addEventListener("click", toggleExplorer)
+      explorer.removeEventListener("mousedown", toggleExplorer)
+      explorer.addEventListener("mousedown", toggleExplorer)
     }
 
     // Set up click handlers for each folder (click handler on folder "icon")
     for (const item of document.getElementsByClassName(
       "folder-icon",
     ) as HTMLCollectionOf<HTMLElement>) {
-      item.addEventListener("click", toggleFolder)
-      window.addCleanup(() => item.removeEventListener("click", toggleFolder))
+      item.addEventListener("mousedown", toggleFolder)
+      window.addCleanup(() => item.removeEventListener("mousedown", toggleFolder))
     }
 
     // Get folder state from local storage

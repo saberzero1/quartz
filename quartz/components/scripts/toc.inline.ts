@@ -31,8 +31,8 @@ function setupToc() {
     const collapsed = toc.classList.contains("collapsed")
     const content = toc.nextElementSibling as HTMLElement | undefined
     if (!content) return
-    toc.addEventListener("click", toggleToc)
-    window.addCleanup(() => toc.removeEventListener("click", toggleToc))
+    toc.addEventListener("mousedown", toggleToc)
+    window.addCleanup(() => toc.removeEventListener("mousedown", toggleToc))
   }
 }
 

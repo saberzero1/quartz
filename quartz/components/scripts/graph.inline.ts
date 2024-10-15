@@ -483,7 +483,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     )
   } else {
     for (const node of nodeRenderData) {
-      node.gfx.on("click", () => {
+      node.gfx.on("mousedown", () => {
         const targ = resolveRelative(fullSlug, node.simulationData.id)
         window.spaNavigate(new URL(targ, window.location.toString()))
       })
@@ -597,8 +597,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   }
 
   const containerIcon = document.getElementById("global-graph-icon")
-  containerIcon?.addEventListener("click", renderGlobalGraph)
-  window.addCleanup(() => containerIcon?.removeEventListener("click", renderGlobalGraph))
+  containerIcon?.addEventListener("mousedown", renderGlobalGraph)
+  window.addCleanup(() => containerIcon?.removeEventListener("mousedown", renderGlobalGraph))
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
