@@ -195,7 +195,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     searchButton?.focus()
   }
 
-  function showSearch(searchTypeNew: SearchType) {
+  function showSearch(searchTypeNew: SearchType, ev?: MouseEvent) {
+    ev?.preventDefault()
     searchType = searchTypeNew
     if (sidebar) {
       sidebar.style.zIndex = "7"
@@ -460,8 +461,10 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  searchButton?.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton?.removeEventListener("click", () => showSearch("basic")))
+  searchButton?.addEventListener("mousedown", (ev) => showSearch("basic", ev))
+  window.addCleanup(() =>
+    searchButton?.removeEventListener("mousedown", (ev) => showSearch("basic", ev)),
+  )
   searchBar?.addEventListener("input", onType)
   window.addCleanup(() => searchBar?.removeEventListener("input", onType))
 
