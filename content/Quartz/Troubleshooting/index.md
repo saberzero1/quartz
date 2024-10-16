@@ -3,6 +3,7 @@
 ---
 
 
+- [[Quartz/Troubleshooting/Build errors\|Build errors]] - Fixes to common build errors of Quartz.
 - [[Quartz/Troubleshooting/GitHub Pages Deployment\|GitHub Pages Deployment]] - Fixes for issues related to GitHub Pages deployment of Quartz.
 - [[Quartz/Troubleshooting/Vercel Deployment\|Vercel Deployment]] - Fixes for issues related to Vercel deployment of Quartz.
 
