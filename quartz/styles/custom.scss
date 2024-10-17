@@ -59,3 +59,20 @@
     width: 100%;
   }
 }
+
+.social-icon {
+  display: inline-flex;
+  color: var(--dark);
+  transition: color 0.2s ease;
+  margin: 0.5rem 0 0;
+  width: 24px;
+  height: 24px;
+  & svg {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.social-icon:hover {
+  color: var(--secondary);
+}
