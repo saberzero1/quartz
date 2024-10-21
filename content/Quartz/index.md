@@ -1,5 +1,5 @@
 ---
-{"id":"59ba1422-8b7c-4add-92b1-ca77b7d8c7a1","title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:03:56 pm","date_modified":"Monday, October 21st 2024, 9:19:14 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/index.md","permalink":"/quartz/index/","PassFrontmatter":true}
+{"id":"59ba1422-8b7c-4add-92b1-ca77b7d8c7a1","title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:03:56 pm","date_modified":"Monday, October 21st 2024, 10:23:34 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/index.md","permalink":"/quartz/index/","PassFrontmatter":true}
 ---
 
 
@@ -9,7 +9,7 @@
 - [[Quartz/Troubleshooting/index\|Troubleshooting]] - Overview of frequent issues and troubleshooting steps.
 
 
-## Current Priorities
+## Current Development Priorities
 
 > [!info]- Legend
 >
@@ -52,7 +52,13 @@
 		- [ ] 💬Commonmark (priorities platform-agnostic compatibility)
 	- [ ] 📝Fix known parser issues
 		- [ ] 📝Obsidian style callouts
+			- [ ] 👾[Empty callouts cannot be collapsed even if marked as such](https://github.com/jackyzha0/quartz/issues/1538)
+			- [ ] 👾[Nested callouts break without spacing](https://github.com/jackyzha0/quartz/issues/1537)
+			- [ ] 👾[Cursed Obsidian wikilinks parsing rules](https://github.com/jackyzha0/quartz/issues/1536)
+			- [ ] 👾[Nested collapsed callouts break when uncollapsed](https://github.com/jackyzha0/quartz/issues/1535)
 		- [ ] 📝Embedding with non-wikilink
+			- [ ] 👾Block reference embeds
+			- [ ] 👾Layered headers (`#header#subheader`)
 	- [ ] 📝Update docs
 		- [ ] 📝Current features
 		- [ ] 📝New functionality
