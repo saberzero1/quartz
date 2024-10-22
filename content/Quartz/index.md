@@ -1,5 +1,5 @@
 ---
-{"id":"59ba1422-8b7c-4add-92b1-ca77b7d8c7a1","title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:03:56 pm","date_modified":"Monday, October 21st 2024, 10:28:46 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/index.md","permalink":"/quartz/index/","PassFrontmatter":true}
+{"id":"59ba1422-8b7c-4add-92b1-ca77b7d8c7a1","title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:03:56 pm","date_modified":"Tuesday, October 22nd 2024, 10:58:13 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Quartz/index.md","permalink":"/quartz/index/","PassFrontmatter":true}
 ---
 
 
@@ -47,9 +47,9 @@
 - [ ] ⏳🎯[Markdown Parser Rework](https://github.com/jackyzha0/quartz/pull/1496)
 	- [x] ✅Convert current functionality
 	- [ ] ⏳Add default recipes
-		- [ ] ⏳Quartz default (current default)
-		- [ ] ⏳Obsidian default (priorities Obsidian compatibility)
-		- [ ] 💬Commonmark (priorities platform-agnostic compatibility)
+		- [x] ✅Quartz default (current default)
+		- [ ] ⏳Obsidian default (prioritizes Obsidian compatibility)
+		- [ ] 💬Commonmark (prioritizes platform-agnostic compatibility)
 	- [ ] 📝Fix known parser issues
 		- [ ] 📝Obsidian style callouts
 			- [ ] 👾[Empty callouts cannot be collapsed even if marked as such](https://github.com/jackyzha0/quartz/issues/1538)
@@ -60,6 +60,7 @@
 			- [ ] 👾Block reference embeds
 			- [ ] 👾Layered headers (`#header#subheader`)
 			- [ ] 👾[Obsidian handles links as case-insensitive](https://github.com/jackyzha0/quartz/issues/1541)
+		- [ ] 👾[Tag escaping is broken](https://github.com/jackyzha0/quartz/issues/1542)
 	- [ ] 📝Update docs
 		- [ ] 📝Current features
 		- [ ] 📝New functionality
