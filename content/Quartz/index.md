@@ -46,10 +46,11 @@
 
 - [ ] ⏳🎯[Markdown Parser Rework](https://github.com/jackyzha0/quartz/pull/1496)
 	- [x] ✅Convert current functionality
-	- [ ] ⏳Add default recipes
+	- [ ] ⏳Add default presets
 		- [x] ✅Quartz default (current default)
 		- [ ] ⏳Obsidian default (prioritizes Obsidian compatibility)
 		- [ ] 💬Commonmark (prioritizes platform-agnostic compatibility)
+		- [ ] ⏳Custom preset for users (`custom.scss` but for parsers)
 	- [ ] 📝Fix known parser issues
 		- [ ] 📝Obsidian style callouts
 			- [ ] 👾[Empty callouts cannot be collapsed even if marked as such](https://github.com/jackyzha0/quartz/issues/1538)
