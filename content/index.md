@@ -1,5 +1,5 @@
 ---
-{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","description":"Personal portfolio and blog.","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Sunday, October 27th 2024, 10:28:59 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","home-page"],"path":"index.md","permalink":"/index/","PassFrontmatter":true}
+{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","description":"Personal portfolio and blog.","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Sunday, October 27th 2024, 10:38:54 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","home-page","hide-title","hide-date"],"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
 
 
