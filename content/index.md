@@ -1,9 +1,17 @@
 ---
-{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","description":"Personal portfolio and blog.","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Monday, October 21st 2024, 10:07:37 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"index.md","permalink":"/index/","PassFrontmatter":true}
+{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","description":"Personal portfolio and blog.","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Sunday, October 27th 2024, 10:28:59 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","home-page"],"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
 
 
-> [!cite] Hey there
+Hey there,
+
+Welcome to my corner of the internet.
+
+\- Emile
+
+PS: If you're looking for hellp customizing Quartz, check [[Quartz/index\|here]].
+
+> [!cite]- About me
 >
 > - I'm a [Quartz Core Maintainer](https://quartz.jzhao.xyz/) - You can check what I'm currently working on in my [[Quartz/index#Current Development Priorities\|Personal Quartz Development Roadmap]].
 > 	- I also maintain the [[Quartz/Quartz Syncer\|Quartz Syncer]] Obsidian plugin and the [[Quartz/Quartz Themes\|Quartz Themes]] Catalog.
