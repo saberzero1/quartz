@@ -1,5 +1,5 @@
 ---
-{"id":"b05cfbb7-455f-48c1-a272-e3895d80d15f","title":"And A Thousand Years More","description":"And A Thousand Years More campaign overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:56:48 pm","date_modified":"Friday, April 26th 2024, 11:23:01 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/index/","PassFrontmatter":true}
+{"id":"b05cfbb7-455f-48c1-a272-e3895d80d15f","title":"And A Thousand Years More","description":"And A Thousand Years More campaign overview.","publish":true,"date_created":"Wednesday, March 20th 2024, 11:56:48 pm","date_modified":"Friday, April 26th 2024, 11:23:01 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","hide-date"],"path":"Tabletop/Campaigns/And A Thousand Years More/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/index/","PassFrontmatter":true}
 ---
 
 

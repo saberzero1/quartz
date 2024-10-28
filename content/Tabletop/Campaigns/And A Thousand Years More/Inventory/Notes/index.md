@@ -1,5 +1,5 @@
 ---
-{"id":"bfeca35b-ae2d-4dd9-9829-dd7b39ad8248","title":"Notes","description":"Inventory - Notes","publish":true,"date_created":"Friday, April 19th 2024, 4:59:09 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/notes/index/","PassFrontmatter":true}
+{"id":"bfeca35b-ae2d-4dd9-9829-dd7b39ad8248","title":"Notes","description":"Inventory - Notes","publish":true,"date_created":"Friday, April 19th 2024, 4:59:09 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","hide-date"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Notes/index.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/notes/index/","PassFrontmatter":true}
 ---
 
 
