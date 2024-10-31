@@ -7,7 +7,7 @@ import * as Resources from "../resources"
 export const DefaultPreset: QuartzTransformerPlugin = () => {
   return {
     textTransformers: [
-      Text.ObsidianFlavoredMarkdownComments(),
+      Text.HtmlComments(),
       Text.ObsidianFlavoredMarkdownCallouts(),
       Text.ObsidianFlavoredMarkdownWikilinks(),
     ],

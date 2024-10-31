@@ -1,3 +1,4 @@
+export { HtmlComments } from "./htmlComments"
 export { ObsidianFlavoredMarkdownCallouts } from "./ofmCallouts"
 export { ObsidianFlavoredMarkdownComments } from "./ofmComments"
 export { ObsidianFlavoredMarkdownWikilinks } from "./ofmWikilinks"

@@ -59,7 +59,8 @@ const config: QuartzConfig = {
     },
   },
   plugins: {
-    transformers: Presets.DefaultPreset(),
+    //transformers: Presets.DefaultPreset(),
+    transformers: Presets.ObsidianPreset(),
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
