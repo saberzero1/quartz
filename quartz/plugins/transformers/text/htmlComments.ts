@@ -11,16 +11,16 @@ export const HtmlComments: TextTransformerPlugin = () => {
       if (src instanceof Buffer) {
         src = src.toString()
       } // capture all codeblocks before parsing comments
-      const codeBlocks = Array.from(src.matchAll(codeBlockRegex), (x) => x[1].toString())
+      const codeBlocks = Array.from(src.matchAll(codeBlockRegex), (x) => x[1])
 
       src = src.replaceAll(codeBlockRegex, "###codeblockplaceholder###")
 
       src = src.replaceAll(commentRegex, "")
 
       // Restore codeblocks
-      codeBlocks.forEach((codeblock) => {
+      for (const codeblock of codeBlocks) {
         src = src.replace("###codeblockplaceholder###", codeblock)
-      })
+      }
 
       return src
     },

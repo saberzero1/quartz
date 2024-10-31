@@ -19,10 +19,10 @@ export const ObsidianFlavoredMarkdownComments: TextTransformerPlugin = () => {
 
       src = src.replaceAll(commentRegex, "")
 
-      // Restore codeblocks
-      codeBlocks.forEach((codeblock) => {
+      // Restore codeblock
+      for (const codeblock of codeBlocks) {
         src = src.replace("###codeblockplaceholder###", codeblock)
-      })
+      }
 
       return src
     },
