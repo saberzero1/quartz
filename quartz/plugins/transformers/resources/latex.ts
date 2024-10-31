@@ -12,8 +12,10 @@ export const Latex: ExternalResourcePlugin<Partial<Options>> = (opts) => {
       if (engine === "katex") {
         return {
           css: [
-            // base css
-            "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css",
+            {
+              // base css
+              content: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css",
+            },
           ],
           js: [
             {
