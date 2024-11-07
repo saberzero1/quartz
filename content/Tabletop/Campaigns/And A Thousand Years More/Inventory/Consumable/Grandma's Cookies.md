@@ -1,5 +1,5 @@
 ---
-{"id":"5783b6f0-08b2-4896-bb67-75839f573fb9","title":"Grandma's Cookies","description":"Grandma's favorite recipe...with a twist.","isInCurrentInventory":false,"isProscribed":true,"amountHeld":0,"causeOfConsumption":"Consumed","publish":true,"date_created":"Saturday, April 13th 2024, 7:53:23 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Consumable/Grandma's Cookies.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/consumable/grandma-s-cookies/","PassFrontmatter":true}
+{"id":"5783b6f0-08b2-4896-bb67-75839f573fb9","title":"Grandma's Cookies","description":"Grandma's favorite recipe...with a twist.","isInCurrentInventory":false,"isProscribed":true,"amountHeld":0,"causeOfConsumption":"Consumed","publish":true,"date_created":"Saturday, April 13th 2024, 7:53:23 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

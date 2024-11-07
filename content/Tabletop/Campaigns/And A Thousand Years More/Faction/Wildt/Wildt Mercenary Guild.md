@@ -1,5 +1,5 @@
 ---
-{"id":"ad73536a-ffdc-40db-9790-9b1193de25ed","title":"Wildt Apothecary Guild","description":"A guild of mercenaries located in Wildt.","publish":true,"date_created":"Sunday, July 2nd 2023, 2:33:10 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Wildt/Wildt Mercenary Guild.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/wildt/wildt-mercenary-guild/","PassFrontmatter":true}
+{"id":"ad73536a-ffdc-40db-9790-9b1193de25ed","title":"Wildt Apothecary Guild","description":"A guild of mercenaries located in Wildt.","publish":true,"date_created":"Sunday, July 2nd 2023, 2:33:10 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

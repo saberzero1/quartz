@@ -1,5 +1,5 @@
 ---
-{"id":"1a354618-d478-44c6-8f11-8b660e0c123c","title":"Town Ruins","description":"Ruins of a town. It appears it was destroyed by unholy magic.","isCurrentLocation":false,"publish":true,"date_created":"Thursday, March 2nd 2023, 5:49:18 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Opeden/Town Ruins.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/opeden/town-ruins/","PassFrontmatter":true}
+{"id":"1a354618-d478-44c6-8f11-8b660e0c123c","title":"Town Ruins","description":"Ruins of a town. It appears it was destroyed by unholy magic.","isCurrentLocation":false,"publish":true,"date_created":"Thursday, March 2nd 2023, 5:49:18 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

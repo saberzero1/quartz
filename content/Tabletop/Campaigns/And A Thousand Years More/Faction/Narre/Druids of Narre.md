@@ -1,5 +1,5 @@
 ---
-{"id":"87388867-8092-49b5-bc59-8826b006e097","title":"Druids of Narre","description":"Nestled in the misty groves of Narre, a circle of druids gathered in solemn silence. Shrouded in mystery, their secrets were whispered on the wind, and tales of their mysterious powers spread far and wide.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:53:45 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Druids of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/druids-of-narre/","PassFrontmatter":true}
+{"id":"87388867-8092-49b5-bc59-8826b006e097","title":"Druids of Narre","description":"Nestled in the misty groves of Narre, a circle of druids gathered in solemn silence. Shrouded in mystery, their secrets were whispered on the wind, and tales of their mysterious powers spread far and wide.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:53:45 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

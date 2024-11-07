@@ -1,5 +1,5 @@
 ---
-{"id":"6022c1a9-2168-4e64-9ac0-8634cffca984","title":"Narre's Keep","description":"A well-guarded keep near Narre. It imprisons many Miners.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 7:22:07 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Location/Towns and Cities/Narre/Narre's Keep.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/location/towns-and-cities/narre/narre-s-keep/","PassFrontmatter":true}
+{"id":"6022c1a9-2168-4e64-9ac0-8634cffca984","title":"Narre's Keep","description":"A well-guarded keep near Narre. It imprisons many Miners.","isCurrentLocation":false,"publish":true,"date_created":"Tuesday, February 28th 2023, 7:22:07 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

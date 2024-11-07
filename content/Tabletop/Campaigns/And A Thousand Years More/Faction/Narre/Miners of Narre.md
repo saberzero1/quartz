@@ -1,5 +1,5 @@
 ---
-{"id":"61c3d76e-b08e-4011-9e56-ec535dd21653","title":"Miners of Narre","description":"A ragtag band of mineworkers, seeking justice and freedom, staged a daring coup against the magical overlords.","publish":true,"date_created":"Tuesday, February 28th 2023, 1:26:59 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Miners of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/miners-of-narre/","PassFrontmatter":true}
+{"id":"61c3d76e-b08e-4011-9e56-ec535dd21653","title":"Miners of Narre","description":"A ragtag band of mineworkers, seeking justice and freedom, staged a daring coup against the magical overlords.","publish":true,"date_created":"Tuesday, February 28th 2023, 1:26:59 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

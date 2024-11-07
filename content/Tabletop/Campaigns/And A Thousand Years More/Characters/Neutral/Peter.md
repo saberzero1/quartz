@@ -1,5 +1,5 @@
 ---
-{"id":"73e43eca-8a33-43e2-844d-4f16a52c1382","title":"Peter","description":"A Gorilla guarding Opeden's Guild Building.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:29:16 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Neutral/Peter.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/neutral/peter/","PassFrontmatter":true}
+{"id":"73e43eca-8a33-43e2-844d-4f16a52c1382","title":"Peter","description":"A Gorilla guarding Opeden's Guild Building.","isActivePartyMember":false,"isAlive":true,"publish":true,"date_created":"Sunday, January 15th 2023, 1:29:16 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"29f723a3-7f07-4a35-87c9-bfc2d482923e","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Tuesday, May 28th 2024, 3:05:17 pm","date_modified":"Monday, October 14th 2024, 2:22:10 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/index.md","permalink":"/tabletop/campaigns/one-shots/inventory/index/","PassFrontmatter":true}
+{"id":"29f723a3-7f07-4a35-87c9-bfc2d482923e","title":"Inventory","description":"Inventory overview.","publish":true,"date_created":"Tuesday, May 28th 2024, 3:05:17 pm","date_modified":"Monday, October 14th 2024, 2:22:10 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"b4bab88f-3733-4e33-8670-db2f3335a629","title":"Ravahn","description":"Cornelius Ravahn.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:36:53 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Ravahn.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/ravahn/","PassFrontmatter":true}
+{"id":"b4bab88f-3733-4e33-8670-db2f3335a629","title":"Ravahn","description":"Cornelius Ravahn.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:36:53 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

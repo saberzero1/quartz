@@ -1,5 +1,5 @@
 ---
-{"id":"d22f9b59-28b3-45e4-9c5a-b3c1240edd12","title":"Gourdling","description":"Pumpkin-like monster that throws other gourdlings as projectiles.","publish":true,"date_created":"Sunday, June 11th 2023, 11:49:38 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Bestiary/Plantlike/Gourdling.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/bestiary/plantlike/gourdling/","PassFrontmatter":true}
+{"id":"d22f9b59-28b3-45e4-9c5a-b3c1240edd12","title":"Gourdling","description":"Pumpkin-like monster that throws other gourdlings as projectiles.","publish":true,"date_created":"Sunday, June 11th 2023, 11:49:38 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

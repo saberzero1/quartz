@@ -1,5 +1,5 @@
 ---
-{"id":"c2c5e79d-f211-4161-a959-fe4e9350fed6","title":"Find my parents","description":"Backstory quest.","sessionReceived":0,"sessionCompleted":0,"publish":true,"date_created":"Sunday, March 19th 2023, 12:49:13 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Quests/Active/Find my parents.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/quests/active/find-my-parents/","PassFrontmatter":true}
+{"id":"c2c5e79d-f211-4161-a959-fe4e9350fed6","title":"Find my parents","description":"Backstory quest.","sessionReceived":0,"sessionCompleted":0,"publish":true,"date_created":"Sunday, March 19th 2023, 12:49:13 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

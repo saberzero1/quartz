@@ -1,5 +1,5 @@
 ---
-{"id":"006c90f8-89c2-4180-af3c-64463a2d2a69","title":"Stitch in Time","description":"You have an amazing ability to recover just before someone attacks.","publish":true,"date_created":"Saturday, June 10th 2023, 2:08:05 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Gifts/Stitch in Time.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/gifts/stitch-in-time/","PassFrontmatter":true}
+{"id":"006c90f8-89c2-4180-af3c-64463a2d2a69","title":"Stitch in Time","description":"You have an amazing ability to recover just before someone attacks.","publish":true,"date_created":"Saturday, June 10th 2023, 2:08:05 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"220492c6-5708-4835-b964-9490cd1e1d12","title":"Green Level Guild Badge","description":"A guild badge for the Hornwaldia Adventurer's Guild. This one is the lowest level.","isInCurrentInventory":false,"isProscribed":false,"amountHeld":0,"causeOfConsumption":"Upgraded","publish":true,"date_created":"Thursday, June 22nd 2023, 5:42:13 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Misc/Green Level Guild Badge.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/misc/green-level-guild-badge/","PassFrontmatter":true}
+{"id":"220492c6-5708-4835-b964-9490cd1e1d12","title":"Green Level Guild Badge","description":"A guild badge for the Hornwaldia Adventurer's Guild. This one is the lowest level.","isInCurrentInventory":false,"isProscribed":false,"amountHeld":0,"causeOfConsumption":"Upgraded","publish":true,"date_created":"Thursday, June 22nd 2023, 5:42:13 pm","date_modified":"Friday, April 26th 2024, 11:23:03 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

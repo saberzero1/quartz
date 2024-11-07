@@ -1,5 +1,5 @@
 ---
-{"id":"0d473a60-f2a0-4dd9-8c7b-2ef58670f7ab","title":"Norrix","description":"Norrix Natalis.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:35:25 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Characters/Party/Norrix.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/characters/party/norrix/","PassFrontmatter":true}
+{"id":"0d473a60-f2a0-4dd9-8c7b-2ef58670f7ab","title":"Norrix","description":"Norrix Natalis.","isActivePartyMember":true,"isAlive":true,"publish":true,"date_created":"Saturday, January 14th 2023, 10:35:25 am","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

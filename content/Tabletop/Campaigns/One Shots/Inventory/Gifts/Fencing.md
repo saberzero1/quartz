@@ -1,5 +1,5 @@
 ---
-{"id":"dcbdaf8f-0419-486b-bf5d-45bb87795c02","title":"Fencing","description":"Bonus Dodge dice to Parry with Fencing.","publish":true,"date_created":"Friday, May 31st 2024, 10:10:41 pm","date_modified":"Monday, October 14th 2024, 2:22:12 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/One Shots/Inventory/Gifts/Fencing.md","permalink":"/tabletop/campaigns/one-shots/inventory/gifts/fencing/","PassFrontmatter":true}
+{"id":"dcbdaf8f-0419-486b-bf5d-45bb87795c02","title":"Fencing","description":"Bonus Dodge dice to Parry with Fencing.","publish":true,"date_created":"Friday, May 31st 2024, 10:10:41 pm","date_modified":"Monday, October 14th 2024, 2:22:12 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

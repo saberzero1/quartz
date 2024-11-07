@@ -1,5 +1,5 @@
 ---
-{"id":"6c60801b-bfc4-427d-aab9-cffb0c5c2578","title":"Farmers of Narre","description":"On the distant outskirts of the bustling city of Narre, a group of hard-working farmers toiled away in the fields.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:58:03 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Faction/Narre/Farmers of Narre.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/faction/narre/farmers-of-narre/","PassFrontmatter":true}
+{"id":"6c60801b-bfc4-427d-aab9-cffb0c5c2578","title":"Farmers of Narre","description":"On the distant outskirts of the bustling city of Narre, a group of hard-working farmers toiled away in the fields.","publish":true,"date_created":"Thursday, March 2nd 2023, 5:58:03 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

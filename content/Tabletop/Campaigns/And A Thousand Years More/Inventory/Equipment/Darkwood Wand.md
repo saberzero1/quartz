@@ -1,5 +1,5 @@
 ---
-{"id":"cb90da06-c3af-4937-a10b-b4da42c73300","title":"Darkwood Wand","description":"A wooden wand made from a darkened wood. It is used for necromancy.","isInCurrentInventory":true,"isProscribed":true,"amountHeld":1,"causeOfConsumption":"null","publish":true,"date_created":"Friday, April 19th 2024, 4:43:42 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"path":"Tabletop/Campaigns/And A Thousand Years More/Inventory/Equipment/Darkwood Wand.md","permalink":"/tabletop/campaigns/and-a-thousand-years-more/inventory/equipment/darkwood-wand/","PassFrontmatter":true}
+{"id":"cb90da06-c3af-4937-a10b-b4da42c73300","title":"Darkwood Wand","description":"A wooden wand made from a darkened wood. It is used for necromancy.","isInCurrentInventory":true,"isProscribed":true,"amountHeld":1,"causeOfConsumption":"null","publish":true,"date_created":"Friday, April 19th 2024, 4:43:42 pm","date_modified":"Friday, April 26th 2024, 11:23:02 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 
