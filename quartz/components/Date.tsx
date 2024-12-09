@@ -23,9 +23,10 @@ export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
     year: "numeric",
     month: "short",
     day: "2-digit",
+    timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
   })
 }
 
 export function Date({ date, locale }: Props) {
-  return <time datetime={formatDate(date)}>{formatDate(date, locale)}</time>
+  return <time datetime={date.toISOString()}>{formatDate(date, locale)}</time>
 }
