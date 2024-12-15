@@ -3,6 +3,4 @@
 ---
 
 
-- [[Quartz/Modifications/Layout Changes\|Layout Changes]] - Overview of frequently requested layout changes.
-- [[Quartz/Modifications/Sorting Functions\|Sorting Functions]] - Overview of frequently requested sorting functions.
 
