@@ -3,6 +3,11 @@
 ---
 
 
+- [[Quartz/Community Showcase/index\|Community Showcase]] - Cool tools and extension by and for the Quartz Community.
+- [[Quartz/FAQ/index\|FAQ]] - Overview of frequently asked questions with answers.
+- [[Quartz/Modifications/index\|Modifications]] - Overview of frequently requested modifications.
+- [[Quartz/Quartz Syncer Docs/index\|Quartz Syncer Docs]] - Quartz Syncer documentation.
+- [[Quartz/Troubleshooting/index\|Troubleshooting]] - Overview of frequent issues and troubleshooting steps.
 
 
 ## Current Development Priorities

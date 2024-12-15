@@ -5,4 +5,6 @@
 
 ## Categories
 
+- [[Writings/Blog/index\|Blog]]
+- [[Writings/Thoughts/index\|Thoughts]]
 
