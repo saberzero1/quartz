@@ -1,5 +1,5 @@
 ---
-{"id":"a65e4b1f-294d-46e7-8e24-b107fd29661f","title":"On the Availablity Cascade in Modern Political Discourse","description":"On the self-reinforcing cycle of collective beliefs and the dangers of terminological-based accusations in political discourse.","publish":true,"tags":["Essays/Politics","Opinion"],"date_created":"Wednesday, February 19th 2025, 12:59:52 am","date_modified":"Wednesday, February 19th 2025, 5:34:02 pm","date_published":"2025-02-20","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"id":"a65e4b1f-294d-46e7-8e24-b107fd29661f","title":"On the Availablity Cascade in Modern Political Discourse","description":"On the self-reinforcing cycle of collective beliefs and the dangers of terminological-based accusations in political discourse.","publish":true,"tags":["Essays/Politics","Opinion"],"date_created":"Wednesday, February 19th 2025, 12:59:52 am","date_modified":"Wednesday, February 19th 2025, 5:54:20 pm","date_published":"2025-02-20","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 
@@ -97,11 +97,11 @@ The view that any expression of a right-wing viewpoint is immediately fascist is
 >
 > An **availability cascade** is a self-reinforcing cycle that explains the development of certain kinds of collective beliefs. A novel idea or insight, usually one that seems to explain a complex process in a simple or straightforward manner, gains rapid currency in the popular discourse by its very simplicity and by its apparent insightfulness. Its rising popularity triggers a chain reaction within the social network: individuals adopt the new insight because other people within the network have adopted it, and on its face it seems plausible. The reason for this increased use and popularity of the new idea involves both the availability of the previously obscure term or idea, and the need of individuals using the term or idea to appear to be current with the stated beliefs and ideas of others, regardless of whether they in fact fully believe in the idea that they are expressing. Their need for social acceptance, and the apparent sophistication of the new insight, overwhelm their critical thinking.
 
-The effects of a decade of this repeating belief, especially in mainstream media, was recently on full display during CBS Face the Nation with Margaret Brennan last Sunday, where Secretary of State Marco Rubio responds to the statement made by the host that
+The effects of a decade of this repeating belief, especially in mainstream media, was recently on full display during CBS Face the Nation with Margaret Brennan last Sunday, where Secretary of State Marco Rubio responds to the claim made by the host about free speech in Germany:
 
 > "he \[VP Vance\] was standing in a country where free speech was weaponized to conduct a genocide".
 
-![](https://youtube.com/watch?v=PXyPyZ2Udg8&t=835)
+<iframe width="600px" height="350px" src="https://www.youtube-nocookie.com/embed/PXyPyZ2Udg8?si=3gHNxo7UYPwJxgBQ&amp;start=835" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 If you haven't been paying attention to American mainstream media for the past decade, these words might surprise you, perhaps even disturb you. Free speech was not the driving force behind the atrocities of the Holocaust. In fact, it is quite the opposite, as the nation-wide burning of "disreputable" and non-German books started as early as May 1933,[^5] over 6 years before the [first invasion](https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939) by Nazi-Germany took place.
 
