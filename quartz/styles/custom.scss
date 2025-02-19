@@ -76,3 +76,8 @@
 .social-icon:hover {
   color: var(--secondary);
 }
+
+article.popover-hint p {
+  text-align: justify;
+  text-align-last: initial;
+}
