@@ -101,7 +101,7 @@ The effects of a decade of this repeating belief, especially in mainstream media
 
 > "he \[VP Vance\] was standing in a country where free speech was weaponized to conduct a genocide".
 
-<iframe width="600px" height="350px" src="https://www.youtube-nocookie.com/embed/PXyPyZ2Udg8?si=3gHNxo7UYPwJxgBQ&amp;start=835" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p><iframe class="external-embed youtube" allow="fullscreen" frameborder="0" width="600px" src="https://www.youtube.com/embed/PXyPyZ2Udg8?start=835"></iframe></p>
 
 If you haven't been paying attention to American mainstream media for the past decade, these words might surprise you, perhaps even disturb you. Free speech was not the driving force behind the atrocities of the Holocaust. In fact, it is quite the opposite, as the nation-wide burning of "disreputable" and non-German books started as early as May 1933,[^5] over 6 years before the [first invasion](https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939) by Nazi-Germany took place.
 
