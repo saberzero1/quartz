@@ -6,5 +6,6 @@
 ## Categories
 
 - [[Writings/Blog/index\|Blog]]
+- [[Writings/Essays/index\|Essays]]
 - [[Writings/Thoughts/index\|Thoughts]]
 
