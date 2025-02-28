@@ -1,0 +1,1 @@
+import { QuartzCanvasComponent } from "../types"
