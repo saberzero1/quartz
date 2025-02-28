@@ -44,19 +44,23 @@ export type CanvasNode = {
 }
 
 export type CanvasTextNode = CanvasNode & {
+  type: "text"
   text: string
 }
 
 export type CanvasFileNode = CanvasNode & {
+  type: "file"
   file: string
   subpath?: string
 }
 
 export type CanvasLinkNode = CanvasNode & {
+  type: "link"
   url: string
 }
 
 export type CanvasGroupNode = CanvasNode & {
+  type: "group"
   label?: string
   background?: string
   backgroundStyle?: "cover" | "ratio" | "repeat"
