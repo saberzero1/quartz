@@ -91,7 +91,7 @@ export function renderCanvas(
   console.log(root)
 
   // process transcludes in componentData
-  /*visit(root, "element", (node, _index, _parent) => {
+  visit(root, "element", (node, _index, _parent) => {
     if (node.tagName === "blockquote") {
       const classNames = (node.properties?.className ?? []) as string[]
       if (classNames.includes("transclude")) {
@@ -204,7 +204,7 @@ export function renderCanvas(
         }
       }
     }
-  })*/
+  })
 
   // set componentData.tree to the edited html that has transclusions rendered
   componentData.tree = root
