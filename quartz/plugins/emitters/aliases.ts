@@ -1,4 +1,4 @@
-import { FilePath, joinSegments, resolveRelative, simplifySlug } from "../../util/path"
+import { FilePath, joinSegments, simplifySlug, FullSlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import DepGraph from "../../depgraph"
@@ -28,8 +28,11 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
     for (const [_tree, file] of content) {
       const ogSlug = simplifySlug(file.data.slug!)
 
-      for (const slug of file.data.aliases ?? []) {
-        const redirUrl = resolveRelative(slug, file.data.slug!)
+      const slugs = [file.data.frontmatter?.permalink || [], ...(file.data.aliases || [])]
+
+      for (const slug of slugs ?? []) {
+        if (typeof slug !== "string") continue
+        const redirUrl = file.data.slug!
         const fp = await write({
           ctx,
           content: `
@@ -44,7 +47,7 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
             </head>
             </html>
             `,
-          slug,
+          slug: slug as FullSlug,
           ext: ".html",
         })
 
