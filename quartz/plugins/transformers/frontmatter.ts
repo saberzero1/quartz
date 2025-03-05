@@ -51,7 +51,7 @@ export function getAliasSlugs(aliases: string[], _argv: Argv, file: VFile): Full
   )
   const permalink = file.data.frontmatter?.permalink
   if (typeof permalink === "string") {
-    const absolutePermalink = permalink.startsWith("?") ? permalink : `/${permalink}`
+    const absolutePermalink = permalink.startsWith("/") ? permalink : `/${permalink}`
     slugs.push(absolutePermalink as FullSlug)
   }
   // fix any slugs that have trailing slash
