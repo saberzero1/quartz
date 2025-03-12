@@ -3,5 +3,6 @@
 ---
 
 
+- [[tags/Essays/Philosophy\|Philosophy]]
 - [[tags/Essays/Politics\|Politics]]
 

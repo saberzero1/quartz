@@ -1,5 +1,5 @@
 ---
-{"id":"a65e4b1f-294d-46e7-8e24-b107fd29661f","title":"On the Availablity Cascade in Modern Political Discourse","description":"On the self-reinforcing cycle of collective beliefs and the dangers of terminological-based accusations in political discourse.","publish":true,"tags":["Essays/Politics","Opinion"],"date_created":"Wednesday, February 19th 2025, 12:59:52 am","date_modified":"Wednesday, February 19th 2025, 8:50:15 pm","date_published":"2025-02-20","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"id":"a65e4b1f-294d-46e7-8e24-b107fd29661f","title":"On the Availablity Cascade in Modern Political Discourse","description":"On the self-reinforcing cycle of collective beliefs and the dangers of terminological-based accusations in political discourse.","publish":true,"tags":["Essays/Politics","Opinion"],"date_created":"Wednesday, February 19th 2025, 12:59:52 am","date_modified":"Wednesday, February 19th 2025, 8:50:44 pm","date_published":"2025-02-20","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
 ---
 
 

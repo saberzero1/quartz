@@ -10,5 +10,7 @@
 
 ## Categories
 
+- [[Writings/Essays/Development/index\|Development]]
+- [[Writings/Essays/Philosophy/index\|Philosophy]]
 - [[Writings/Essays/Politics/index\|Politics]]
 
