@@ -81,3 +81,16 @@ article.popover-hint p {
   text-align: justify;
   text-align-last: initial;
 }
+
+.center > .page-header {
+  &:has(~ .hide-date) {
+    .content-meta {
+      display: none;
+    }
+  }
+  &:has(~ .hide-title) {
+    .article-title {
+      display: none;
+    }
+  }
+}
