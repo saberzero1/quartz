@@ -41,8 +41,9 @@ document.addEventListener("nav", () => {
 document.addEventListener("nav", () => {
   const els = document.querySelectorAll("a[role=anchor]")
   for (let i = 0; i < els.length; i++) {
-    if (els[i].getAttribute("href")) {
-      const anchorLink = `${window.location.href}${els[i].getAttribute("href")}`
+    const href = els[i].getAttribute("href")
+    if (href) {
+      const anchorLink = new URL(href, window.location.href).toString()
       const svgAnchor = els[i].innerHTML
       function onClick() {
         navigator.clipboard.writeText(anchorLink).then(
