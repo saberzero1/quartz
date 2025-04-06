@@ -30,8 +30,8 @@ function setupCallout() {
     const title = div.firstElementChild
     if (!title) continue
 
-    title.addEventListener("click", toggleCallout)
-    window.addCleanup(() => title.removeEventListener("click", toggleCallout))
+    title.addEventListener("mousedown", toggleCallout)
+    window.addCleanup(() => title.removeEventListener("mousedown", toggleCallout))
 
     const collapsed = div.classList.contains("is-collapsed")
     const height = collapsed ? title.scrollHeight : div.scrollHeight

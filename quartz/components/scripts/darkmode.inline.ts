@@ -26,8 +26,8 @@ document.addEventListener("nav", () => {
   }
 
   for (const darkmodeButton of document.getElementsByClassName("darkmode")) {
-    darkmodeButton.addEventListener("click", switchTheme)
-    window.addCleanup(() => darkmodeButton.removeEventListener("click", switchTheme))
+    darkmodeButton.addEventListener("mousedown", switchTheme)
+    window.addCleanup(() => darkmodeButton.removeEventListener("mousedown", switchTheme))
   }
 
   // Listen for changes in prefers-color-scheme

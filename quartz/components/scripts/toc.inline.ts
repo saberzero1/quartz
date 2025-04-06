@@ -29,8 +29,8 @@ function setupToc() {
     const button = toc.querySelector(".toc-header")
     const content = toc.querySelector(".toc-content")
     if (!button || !content) return
-    button.addEventListener("click", toggleToc)
-    window.addCleanup(() => button.removeEventListener("click", toggleToc))
+    button.addEventListener("mousedown", toggleToc)
+    window.addCleanup(() => button.removeEventListener("mousedown", toggleToc))
   }
 }
 

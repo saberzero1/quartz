@@ -29,6 +29,7 @@ import { capitalize } from "../../util/lang"
 import { PluggableList } from "unified"
 
 export interface Options {
+  dice: boolean
   comments: boolean
   highlight: boolean
   wikilinks: boolean
@@ -44,11 +45,12 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
+  dice: true,
   comments: true,
   highlight: true,
   wikilinks: true,
   callouts: true,
-  mermaid: true,
+  mermaid: false,
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
@@ -104,6 +106,8 @@ function canonicalizeCallout(calloutName: string): keyof typeof calloutMapping {
   // if callout is not recognized, make it a custom one
   return calloutMapping[normalizedCallout] ?? calloutName
 }
+
+export const diceRegex = new RegExp(/(`dice: (?<dice>[^`]+)`)/, "g")
 
 export const externalLinkRegex = /^https?:\/\//i
 
@@ -162,6 +166,16 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         src = src.replace(commentRegex, "")
       }
 
+      // dice buttons
+      if (opts.dice) {
+        src = src.replace(diceRegex, (value, ...capture) => {
+          const [_match, dice]: (string | undefined)[] = capture
+          return dice
+            ? `<div class="dice"><input type="button" value="${dice}" class="dice-button"></div>`
+            : value
+        })
+      }
+
       // pre-transform blockquotes
       if (opts.callouts) {
         src = src.replace(calloutLineRegex, (value) => {
@@ -178,6 +192,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           return value.replace(tableWikilinkRegex, (_value, raw) => {
             // const [raw]: (string | undefined)[] = capture
             let escaped = raw ?? ""
+
             escaped = escaped.replace("#", "\\#")
             // escape pipe characters if they are not already escaped
             escaped = escaped.replace(/((^|[^\\])(\\\\)*)\|/g, "$1\\|")
@@ -761,6 +776,55 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         css.push({
           content: mermaidStyle,
           inline: true,
+        })
+      }
+
+      if (opts.dice) {
+        js.push({
+          script: `
+            document.addEventListener('nav', async () => {
+              if (document.querySelector("input.dice-button")) {
+                function roll(n, s) {
+                  if (n === "") {
+                    n = 1
+                  }
+                  let res = ""
+                  let sum = 0
+                  for (let i = 0; i < n; i++) {
+                    let r = Math.floor(Math.random() * s + 1)
+                    sum += r
+                    res += r + ", "
+                  }
+                  return [res, sum]
+                }
+
+                function rollAll(d) {
+                  const i = d.replaceAll(" ", "").split("+")
+                  let res = ""
+                  let sum = 0
+                  i.forEach((is) => {
+                    let n = is.split("d")
+                    let r = roll(n[0], n[1])
+                    res += r[0]
+                    sum += r[1]
+                  })
+                  return "[" + res.slice(0, -2) + "] = " + sum.toString()
+                }
+
+                const diceButtons = document.querySelectorAll('input.dice-button')
+
+                diceButtons.forEach(btn => {
+                  btn.addEventListener('mousedown', event => {
+                    event.target.value = event.target.value.split(':')[0] + ": " + rollAll(event.target.value.split(':')[0])
+                  })
+                  btn.value = btn.value + ": " +rollAll(btn.value)
+                })
+              }
+            });
+            `,
+          loadTime: "afterDOMReady",
+          moduleType: "module",
+          contentType: "inline",
         })
       }
 

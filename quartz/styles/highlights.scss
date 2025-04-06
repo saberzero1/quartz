@@ -1,0 +1,90 @@
+/* ------------
+Highlight support
+ ------------ */
+
+:root {
+  --hltr-red: #ff0000bf;
+  --hltr-orange: #ff8000bf;
+  --hltr-yellow: #ffff00bf;
+  --hltr-lime: #80ff00bf;
+  --hltr-green: #00ff00bf;
+  --hltr-aquamarine: #00ff80bf;
+  --hltr-aqua: #00ffffbf;
+  --hltr-sky: #0080ffbf;
+  --hltr-blue: #0000ffbf;
+  --hltr-orchid: #8000ffbf;
+  --hltr-purple: #ff00ffbf;
+  --hltr-pink: #ff0080bf;
+}
+
+mark[class*=" hltr-"],
+mark[class^="hltr-"] {
+  background-color: transparent !important;
+  background-image: none !important;
+  border: none !important;
+  font-weight: bold;
+}
+
+mark.hltr-red {
+  color: var(--hltr-red) !important;
+}
+
+mark.hltr-orange {
+  color: var(--hltr-orange) !important;
+}
+
+mark.hltr-yellow {
+  color: var(--hltr-yellow) !important;
+}
+
+mark.hltr-lime {
+  color: var(--hltr-lime) !important;
+}
+
+mark.hltr-green {
+  color: var(--hltr-green) !important;
+}
+
+mark.hltr-aquamarine {
+  color: var(--hltr-aquamarine) !important;
+}
+
+mark.hltr-aqua {
+  color: var(--hltr-aqua) !important;
+}
+
+mark.hltr-sky {
+  color: var(--hltr-sky) !important;
+}
+
+mark.hltr-blue {
+  color: var(--hltr-blue) !important;
+}
+
+mark.hltr-orchid {
+  color: var(--hltr-orchid) !important;
+}
+
+mark.hltr-purple {
+  color: var(--hltr-purple) !important;
+}
+
+mark.hltr-pink {
+  color: var(--hltr-pink) !important;
+}
+
+mark.hltr-orange-aqua {
+  background: inherit !important;
+  background: linear-gradient(90deg, var(--hltr-orange) 40%, var(--hltr-aqua) 60%) !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+mark.hltr-aqua-purple {
+  background: inherit !important;
+  background: linear-gradient(90deg, var(--hltr-aqua) 45%, var(--hltr-purple) 55%) !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}

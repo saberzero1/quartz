@@ -8,24 +8,24 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    //pageTitle: "🌷 Emile Bangma",
+    pageTitle: "❯ Emile Bangma",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "emilebangma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published", //"modified",
     theme: {
-      fontOrigin: "googleFonts",
+      //fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
@@ -69,16 +69,16 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "absolute" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      //Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage(/*{ enableFolderList: false }*/),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,

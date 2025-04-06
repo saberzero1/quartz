@@ -189,7 +189,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     searchButton.focus()
   }
 
-  function showSearch(searchTypeNew: SearchType) {
+  function showSearch(searchTypeNew: SearchType, ev?: MouseEvent) {
+    ev?.preventDefault()
     searchType = searchTypeNew
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
@@ -303,7 +304,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     itemTile.innerHTML = `<h3>${title}</h3>${htmlTags}${
       enablePreview && window.innerWidth > 600 ? "" : `<p>${content}</p>`
     }`
-    itemTile.addEventListener("click", (event) => {
+    itemTile.addEventListener("mousedown", (event) => {
       if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
       hideSearch()
     })
@@ -321,8 +322,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
     itemTile.addEventListener("mouseenter", onMouseEnter)
     window.addCleanup(() => itemTile.removeEventListener("mouseenter", onMouseEnter))
-    itemTile.addEventListener("click", handler)
-    window.addCleanup(() => itemTile.removeEventListener("click", handler))
+    itemTile.addEventListener("mousedown", handler)
+    window.addCleanup(() => itemTile.removeEventListener("mousedown", handler))
 
     return itemTile
   }
@@ -449,8 +450,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  searchButton.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
+  searchButton.addEventListener("mousedown", () => showSearch("basic"))
+  window.addCleanup(() => searchButton.removeEventListener("mousedown", () => showSearch("basic")))
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
