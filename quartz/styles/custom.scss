@@ -1,7 +1,6 @@
 @use "./base.scss";
+@use "./themes";
 @use "./variables.scss" as *;
-@use "./highlights.scss";
-@use "quartz-themes";
 
 // put your custom CSS here!
 @media all and ($mobile) {
@@ -17,12 +16,12 @@
       }
     }
   }
-  .search > #search-container > #search-space > #search-layout {
-    &[data-preview] > #results-container {
+  .search > .search-container > .search-space > .search-layout {
+    &[data-preview] > .results-container {
       flex: unset;
       width: 100%;
     }
-    > #preview-container {
+    > .preview-container {
       display: none;
     }
   }
@@ -55,7 +54,7 @@
       }
     }
   }
-  .search > #search-container > #search-space > #search-layout > #preview-container {
+  .search > .search-container > .search-space > .search-layout > .preview-container {
     width: 100%;
   }
 }
