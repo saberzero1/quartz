@@ -1,7 +1,7 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 @use "./highlights.scss";
-@use "quartz-themes";
+//@use "quartz-themes";
 
 // put your custom CSS here!
 @media all and ($mobile) {
@@ -92,5 +92,14 @@ article.popover-hint p {
     .article-title {
       display: none;
     }
+  }
+}
+
+// Replaces default Footnotes heading text
+#footnote-label {
+  font-size: 0;
+  &:before {
+    font-size: 1.4rem;
+    content: "References";
   }
 }
