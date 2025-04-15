@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
-        code: "Fira Code",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
@@ -76,7 +76,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(/*{ enableFolderList: false }*/),
+      Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
