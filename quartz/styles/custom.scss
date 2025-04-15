@@ -39,7 +39,7 @@ article.popover-hint p {
 }
 
 // Replaces default Footnotes heading text
-#footnote-label {
+section.footnotes > h2 {
   font-size: 0;
   &:before {
     font-size: 1.4rem;
