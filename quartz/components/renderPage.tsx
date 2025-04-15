@@ -9,7 +9,6 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
-import { unescapeHTML } from "../util/escape"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -241,13 +240,11 @@ export function renderPage(
             {LeftComponent}
             <div class="center">
               <div class="page-header">
-                <div class="header-container">
-                  <Header {...componentData}>
-                    {header.map((HeaderComponent) => (
-                      <HeaderComponent {...componentData} />
-                    ))}
-                  </Header>
-                </div>
+                <Header {...componentData}>
+                  {header.map((HeaderComponent) => (
+                    <HeaderComponent {...componentData} />
+                  ))}
+                </Header>
                 <div class="popover-hint">
                   {beforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
@@ -273,5 +270,5 @@ export function renderPage(
     </html>
   )
 
-  return "<!DOCTYPE html>\n" + unescapeHTML(render(doc))
+  return "<!DOCTYPE html>\n" + render(doc)
 }
