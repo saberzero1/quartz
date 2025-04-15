@@ -25,6 +25,16 @@ article.popover-hint p {
   text-align-last: initial;
 }
 
+@media all and ($mobile) {
+  body:has(~ .hide-date) {
+    .sidebar.left {
+      .page-title {
+        display: none;
+      }
+    }
+  }
+}
+
 .center > .page-header {
   &:has(~ .hide-date) {
     .content-meta {
