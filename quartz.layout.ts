@@ -4,12 +4,14 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [Component.MobileOnly(Component.PageTitle()), Component.MobileOnly(Component.Spacer())],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      github: "https://github.com/saberzero1",
+      linkedin: "https://www.linkedin.com/in/emilebangma/",
+      cv_white: "https://rxresu.me/saberzero1/curriculum-vitae-english",
+      cv_black: "https://rxresu.me/saberzero1/curriculum-vitae-dutch",
     },
   }),
 }

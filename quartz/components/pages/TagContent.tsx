@@ -85,7 +85,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                     </a>
                   </h2>
                   {content && <p>{content}</p>}
-                  <div class="page-listing">
+                  <div class="page-listing mado-heading mado-heading-listing">
                     <p>
                       {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
                       {pages.length > options.numPages && (

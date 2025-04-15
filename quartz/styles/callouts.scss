@@ -36,7 +36,8 @@
     --callout-icon: var(--callout-icon-note);
   }
 
-  &[data-callout="abstract"] {
+  &[data-callout="abstract"],
+  &[data-callout="summary"] {
     --color: #00b0ff;
     --border: #00b0ff44;
     --bg: #00b0ff10;

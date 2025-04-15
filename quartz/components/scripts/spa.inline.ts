@@ -147,7 +147,7 @@ window.spaNavigate = navigate
 
 function createRouter() {
   if (typeof window !== "undefined") {
-    window.addEventListener("click", async (event) => {
+    window.addEventListener("mousedown", async (event) => {
       const { url } = getOpts(event) ?? {}
       // dont hijack behaviour, just let browser act normally
       if (!url || event.ctrlKey || event.metaKey) return

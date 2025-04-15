@@ -226,8 +226,8 @@ async function setupExplorer(currentSlug: FullSlug) {
       "explorer-toggle",
     ) as HTMLCollectionOf<HTMLElement>
     for (const button of explorerButtons) {
-      button.addEventListener("click", toggleExplorer)
-      window.addCleanup(() => button.removeEventListener("click", toggleExplorer))
+      button.addEventListener("mousedown", toggleExplorer)
+      window.addCleanup(() => button.removeEventListener("mousedown", toggleExplorer))
     }
 
     // Set up folder click handlers
@@ -236,8 +236,8 @@ async function setupExplorer(currentSlug: FullSlug) {
         "folder-button",
       ) as HTMLCollectionOf<HTMLElement>
       for (const button of folderButtons) {
-        button.addEventListener("click", toggleFolder)
-        window.addCleanup(() => button.removeEventListener("click", toggleFolder))
+        button.addEventListener("mousedown", toggleFolder)
+        window.addCleanup(() => button.removeEventListener("mousedown", toggleFolder))
       }
     }
 
@@ -245,8 +245,8 @@ async function setupExplorer(currentSlug: FullSlug) {
       "folder-icon",
     ) as HTMLCollectionOf<HTMLElement>
     for (const icon of folderIcons) {
-      icon.addEventListener("click", toggleFolder)
-      window.addCleanup(() => icon.removeEventListener("click", toggleFolder))
+      icon.addEventListener("mousedown", toggleFolder)
+      window.addCleanup(() => icon.removeEventListener("mousedown", toggleFolder))
     }
   }
 }
