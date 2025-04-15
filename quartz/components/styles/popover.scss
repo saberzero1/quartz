@@ -2,61 +2,46 @@
 
 @keyframes dropin {
   0% {
-    height: 0px;
-    width: 0px;
-    padding: 0px;
+    opacity: 0;
+    visibility: hidden;
   }
   1% {
-    height: 0px;
-    width: 30rem;
-    padding: 1rem;
+    opacity: 0;
   }
   100% {
-    height: auto;
-    width: 30rem;
-    padding: 1rem;
-  }
-}
-
-@keyframes dropin-inner {
-  0% {
-    border: 0px;
-    border-radius: 0px;
-    padding: 0px;
-  }
-  100% {
-    border: 1px solid var(--lightgray);
-    border-radius: 5px;
-    padding: 0 1rem 1rem 1rem;
+    opacity: 1;
+    visibility: visible;
   }
 }
 
 .popover {
-  position: absolute;
+  z-index: 999;
+  position: fixed;
   overflow: visible;
-  padding: 0px;
-  height: 0px;
-  width: 0px;
+  padding: 1rem;
+  left: 0;
+  top: 0;
+  will-change: transform;
 
   & > .popover-inner {
     position: relative;
     width: 30rem;
-    height: inherit;
     max-height: 20rem;
+    padding: 0 1rem 1rem 1rem;
     font-weight: initial;
     font-style: initial;
     line-height: normal;
     font-size: initial;
     font-family: var(--bodyFont);
+    border: 1px solid var(--lightgray);
     background-color: var(--light);
-    z-index: 1000;
-    border: 0px;
-    border-radius: 0px;
-    padding: 0px;
+    border-radius: 5px;
     box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
     overflow: auto;
+    overscroll-behavior: contain;
     white-space: normal;
-    display: inline-block;
+    user-select: none;
+    cursor: default;
   }
 
   & > .popover-inner[data-content-type] {
@@ -85,31 +70,20 @@
     font-size: 1.5rem;
   }
 
-  transition:
-    height 0.3s ease,
-    display 0.3s ease;
-
-  /*visibility: hidden;
+  visibility: hidden;
   opacity: 0;
   transition:
     opacity 0.3s ease,
-    visibility 0.3s ease;*/
+    visibility 0.3s ease;
 
   @media all and ($mobile) {
     display: none !important;
   }
 }
 
-a:hover .popover,
+.active-popover,
 .popover:hover {
-  animation: dropin 0s ease;
+  animation: dropin 0.3s ease;
   animation-fill-mode: forwards;
-  animation-delay: 0s;
-}
-
-a:hover .popover .popover-inner,
-.popover:hover .popover-inner {
-  animation: dropin-inner 0s ease;
-  animation-fill-mode: forwards;
-  animation-delay: 0s;
+  animation-delay: 0.2s;
 }

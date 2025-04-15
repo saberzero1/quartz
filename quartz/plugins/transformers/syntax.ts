@@ -3,7 +3,7 @@ import path from "path"
 import { QuartzTransformerPlugin } from "../types"
 import rehypePrettyCode, { Options as CodeOptions, Theme as CodeTheme } from "rehype-pretty-code"
 // @noErrors
-import { getHighlighter } from "shikiji"
+import { getSingletonHighlighterCore } from "shiki/core"
 
 interface Theme extends Record<string, CodeTheme> {
   light: CodeTheme
@@ -40,7 +40,7 @@ const tokyoNightLight = JSON.parse(
   ).toString(),
 )
 
-const highlighter = await getHighlighter({
+const highlighter = await getSingletonHighlighterCore({
   themes: [tokyoNightDefault, tokyoNightStorm, tokyoNightLight],
 })
 

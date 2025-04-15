@@ -28,17 +28,15 @@ function setupCallout() {
   ) as HTMLCollectionOf<HTMLElement>
   for (const div of collapsible) {
     const title = div.firstElementChild
+    if (!title) continue
 
-    if (title) {
-      title.addEventListener("mousedown", toggleCallout)
-      window.addCleanup(() => title.removeEventListener("mousedown", toggleCallout))
+    title.addEventListener("mousedown", toggleCallout)
+    window.addCleanup(() => title.removeEventListener("mousedown", toggleCallout))
 
-      const collapsed = div.classList.contains("is-collapsed")
-      const height = collapsed ? title.scrollHeight : div.scrollHeight
-      div.style.maxHeight = height + "px"
-    }
+    const collapsed = div.classList.contains("is-collapsed")
+    const height = collapsed ? title.scrollHeight : div.scrollHeight
+    div.style.maxHeight = height + "px"
   }
 }
 
 document.addEventListener("nav", setupCallout)
-window.addEventListener("resize", setupCallout)

@@ -10,7 +10,7 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
 }
 
 document.addEventListener("nav", () => {
-  const switchTheme = (e: Event) => {
+  const switchTheme = () => {
     const newTheme =
       document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
     document.documentElement.setAttribute("saved-theme", newTheme)
@@ -25,10 +25,10 @@ document.addEventListener("nav", () => {
     emitThemeChangeEvent(newTheme)
   }
 
-  // Darkmode toggle
-  const themeButton = document.querySelector("#darkmode") as HTMLButtonElement
-  themeButton.addEventListener("mousedown", switchTheme)
-  window.addCleanup(() => themeButton.removeEventListener("mousedown", switchTheme))
+  for (const darkmodeButton of document.getElementsByClassName("darkmode")) {
+    darkmodeButton.addEventListener("mousedown", switchTheme)
+    window.addCleanup(() => darkmodeButton.removeEventListener("mousedown", switchTheme))
+  }
 
   // Listen for changes in prefers-color-scheme
   const colorSchemeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)")

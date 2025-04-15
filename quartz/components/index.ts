@@ -9,7 +9,7 @@ import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
 import Spacer from "./Spacer"
 import TableOfContents from "./TableOfContents"
-//import Explorer from "./Explorer"
+import Explorer from "./Explorer"
 import TagList from "./TagList"
 import Graph from "./Graph"
 import Backlinks from "./Backlinks"
@@ -20,7 +20,8 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
-import ExplorerBurger from "./ExplorerBurger"
+import Flex from "./Flex"
+import ConditionalRender from "./ConditionalRender"
 
 export {
   ArticleTitle,
@@ -33,7 +34,7 @@ export {
   ContentMeta,
   Spacer,
   TableOfContents,
-  //Explorer,
+  Explorer,
   TagList,
   Graph,
   Backlinks,
@@ -45,5 +46,6 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  ExplorerBurger,
+  Flex,
+  ConditionalRender,
 }
