@@ -1,7 +1,6 @@
 @use "./base.scss";
+@use "./themes";
 @use "./variables.scss" as *;
-@use "./highlights.scss";
-//@use "quartz-themes";
 
 // put your custom CSS here!
 @media all and ($mobile) {
