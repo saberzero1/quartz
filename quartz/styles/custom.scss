@@ -26,7 +26,7 @@ article.popover-hint p {
 }
 
 @media all and ($mobile) {
-  body:has(~ .hide-date) {
+  body:has(~ .hide-title) {
     .sidebar.left {
       .page-title {
         display: none;
