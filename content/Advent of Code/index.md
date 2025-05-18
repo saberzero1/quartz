@@ -1,5 +1,5 @@
 ---
-{"id":"08b3f08e-beb6-11ee-92e1-33385b527099","title":"Advent of Code","description":"Advent of Code solutions","publish":true,"date_created":"Monday, January 29th 2024, 3:52:20 pm","date_modified":"Friday, April 26th 2024, 11:23:52 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","hide-date"],"PassFrontmatter":true}
+{"publish":true,"title":"Advent of Code","description":"Advent of Code solutions","created":"2025-02-10T01:14:33.214+01:00","modified":"2024-10-28T01:13:28.145+01:00","cssclasses":"mado-heading index-page hide-date"}
 ---
 
 

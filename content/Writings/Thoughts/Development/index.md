@@ -1,5 +1,5 @@
 ---
-{"id":"167df65b-0426-4600-8d87-a1e592ba8eb5","title":"Development","description":"Overview of Development Thoughts.","publish":true,"tags":["Thoughts/Development"],"date_created":"Thursday, October 3rd 2024, 10:30:53 pm","date_modified":"Monday, October 14th 2024, 9:29:28 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","hide-date"],"PassFrontmatter":true}
+{"publish":true,"title":"Development","description":"Overview of Development Thoughts.","created":"2025-02-10T01:14:22.383+01:00","modified":"2025-02-19T01:17:38.340+01:00","tags":["Thoughts/Development"],"cssclasses":"mado-heading index-page hide-date"}
 ---
 
 

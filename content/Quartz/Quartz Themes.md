@@ -1,5 +1,5 @@
 ---
-{"id":"2180ab1b-9a0f-41f6-ab10-85e4619f479e","title":"Quartz Themes","description":"Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.","publish":true,"date_created":"Monday, October 21st 2024, 8:57:53 pm","date_modified":"Monday, October 21st 2024, 9:19:31 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Quartz Themes","description":"Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.","created":"2025-02-10T01:17:09.663+01:00","modified":"2024-10-21T21:19:33.660+02:00","cssclasses":"mado-heading"}
 ---
 
 

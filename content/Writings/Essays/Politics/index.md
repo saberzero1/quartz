@@ -1,5 +1,5 @@
 ---
-{"id":"271d95f7-e106-4010-bd61-c7f053baefdf","title":"Politics","description":"Overview of Essays on Politics.","publish":true,"tags":["Essays/Politics"],"date_created":"Wednesday, February 19th 2025, 12:35:52 am","date_modified":"Wednesday, February 19th 2025, 5:26:39 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","hide-date","index-page"],"PassFrontmatter":true}
+{"publish":true,"title":"Politics","description":"Overview of Essays on Politics.","created":"2025-02-19T12:34:39.416+01:00","modified":"2025-02-19T17:26:39.137+01:00","tags":["Essays/Politics"],"cssclasses":"mado-heading hide-date index-page"}
 ---
 
 

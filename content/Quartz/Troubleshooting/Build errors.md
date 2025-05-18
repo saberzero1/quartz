@@ -1,5 +1,5 @@
 ---
-{"id":"ee3896ee-8704-409b-bdd4-c69da4c5c5a1","title":"Build errors","description":"Fixes to common build errors of Quartz.","publish":true,"date_created":"Wednesday, October 16th 2024, 8:43:14 pm","date_modified":"Wednesday, October 16th 2024, 8:56:44 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Build errors","description":"Fixes to common build errors of Quartz.","created":"2025-02-10T01:17:09.680+01:00","modified":"2024-10-16T20:56:46.696+02:00","cssclasses":"mado-heading"}
 ---
 
 

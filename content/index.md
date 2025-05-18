@@ -1,5 +1,5 @@
 ---
-{"id":"1b2e73e0-c539-11ee-9084-c7cb8bee67b0","title":"Second Brain","description":"Personal portfolio and blog.","home":true,"publish":true,"date_created":"Saturday, December 3rd 2022, 3:27:32 pm","date_modified":"Wednesday, February 19th 2025, 5:44:43 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","home-page","hide-title","hide-date"],"PassFrontmatter":true}
+{"publish":true,"title":"Second Brain","description":"Personal portfolio and blog.","created":"2025-02-10T01:14:22.301+01:00","modified":"2025-02-19T17:44:45.176+01:00","cssclasses":"mado-heading index-page home-page hide-title hide-date"}
 ---
 
 

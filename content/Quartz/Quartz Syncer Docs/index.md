@@ -1,5 +1,5 @@
 ---
-{"id":"2895c084-0164-4e84-a731-0d3057a633ca","title":"Quartz Syncer Docs","description":"Quartz Syncer documentation.","publish":true,"date_created":"Sunday, December 15th 2024, 8:05:41 am","date_modified":"Sunday, December 15th 2024, 1:53:29 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading","hide-date","index-page"],"PassFrontmatter":true}
+{"publish":true,"title":"Quartz Syncer Docs","description":"Quartz Syncer documentation.","created":"2025-02-10T01:17:09.687+01:00","modified":"2024-12-15T13:53:31.613+01:00","cssclasses":"mado-heading hide-date index-page"}
 ---
 
 

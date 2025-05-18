@@ -1,4 +1,4 @@
 ---
-{"id":"9a21fc9f-a568-4c85-81ab-7fe405e62773","title":"Politics","description":"Overview of Political Essays tag.","publish":true,"date_created":"Wednesday, February 19th 2025, 9:08:22 pm","date_modified":"Wednesday, March 12th 2025, 2:34:46 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Politics","description":"Overview of Political Essays tag.","created":"2025-02-19T21:08:22.543+01:00","modified":"2025-03-12T02:34:46.528+01:00","cssclasses":"mado-heading"}
 ---
 

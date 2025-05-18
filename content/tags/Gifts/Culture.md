@@ -1,4 +1,4 @@
 ---
-{"id":"c7856824-a0a3-475f-b417-06ffca622c64","title":"Culture","description":"Overview of Culture Gifts tag.","publish":true,"date_created":"Thursday, April 11th 2024, 5:57:07 pm","date_modified":"Friday, October 4th 2024, 12:24:54 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Culture","description":"Overview of Culture Gifts tag.","created":"2025-02-10T01:13:37.011+01:00","modified":"2024-10-04T00:24:54.695+02:00","cssclasses":"mado-heading"}
 ---
 

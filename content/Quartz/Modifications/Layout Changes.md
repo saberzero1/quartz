@@ -1,5 +1,5 @@
 ---
-{"id":"e32bb619-8ae1-45e2-8c31-4e45a767f152","title":"Layout Changes","description":"Overview of frequently requested layout changes.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:19:03 pm","date_modified":"Friday, November 22nd 2024, 10:39:48 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Layout Changes","description":"Overview of frequently requested layout changes.","created":"2025-02-10T01:17:09.671+01:00","modified":"2024-11-22T22:39:50.961+01:00","cssclasses":"mado-heading"}
 ---
 
 

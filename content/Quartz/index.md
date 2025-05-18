@@ -1,5 +1,5 @@
 ---
-{"id":"59ba1422-8b7c-4add-92b1-ca77b7d8c7a1","title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:03:56 pm","date_modified":"Sunday, December 15th 2024, 8:26:53 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading","index-page","hide-date"],"PassFrontmatter":true}
+{"publish":true,"title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","created":"2025-02-10T01:17:09.666+01:00","modified":"2024-12-15T08:26:55.746+01:00","cssclasses":"mado-heading index-page hide-date"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"id":"f2fa9fd3-a54f-4cf4-9f86-e80d867f0775","title":"GitHub Pages Deployment","description":"Fixes for issues related to GitHub Pages deployment of Quartz.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:10:10 pm","date_modified":"Sunday, October 27th 2024, 11:36:19 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"GitHub Pages Deployment","description":"Fixes for issues related to GitHub Pages deployment of Quartz.","created":"2025-02-10T01:17:09.678+01:00","modified":"2024-10-27T11:36:21.639+01:00","cssclasses":"mado-heading"}
 ---
 
 

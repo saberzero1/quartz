@@ -1,5 +1,5 @@
 ---
-{"id":"f9970d0b-7499-417d-8866-11003a6328f8","title":"Vercel Deployment","description":"Fixes for issues related to Vercel deployment of Quartz.","publish":true,"date_created":"Wednesday, October 9th 2024, 10:28:48 pm","date_modified":"Wednesday, October 16th 2024, 9:12:29 pm","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Vercel Deployment","description":"Fixes for issues related to Vercel deployment of Quartz.","created":"2025-02-10T01:17:09.679+01:00","modified":"2024-10-16T21:12:29.898+02:00","cssclasses":"mado-heading"}
 ---
 
 

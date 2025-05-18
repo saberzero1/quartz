@@ -1,5 +1,5 @@
 ---
-{"id":"8a325d0a-beaf-11ee-8860-2f7ba437eb08","title":"Portfolio","description":"Personal portfolio","publish":true,"date_created":"Monday, January 29th 2024, 3:05:46 pm","date_modified":"Friday, April 26th 2024, 11:00:57 pm","editing_lock":false,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Portfolio","description":"Personal portfolio","created":"2025-02-10T01:14:22.248+01:00","modified":"2024-04-26T23:00:59.573+02:00","cssclasses":"mado-heading"}
 ---
 
 

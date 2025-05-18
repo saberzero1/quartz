@@ -1,4 +1,4 @@
 ---
-{"id":"09454565-14a8-4160-9b41-f76966ae875e","title":"Event","description":"Overview of Event tag.","publish":true,"date_created":"Thursday, April 11th 2024, 5:54:36 pm","date_modified":"Friday, October 4th 2024, 12:24:43 am","editing_lock":true,"live_preview":true,"cssclasses":["mado-heading"],"PassFrontmatter":true}
+{"publish":true,"title":"Event","description":"Overview of Event tag.","created":"2025-02-10T01:13:37.042+01:00","modified":"2024-10-04T00:24:44.494+02:00","cssclasses":"mado-heading"}
 ---
 
