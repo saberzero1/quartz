@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quartz Syncer Docs","description":"Quartz Syncer documentation.","created":"2025-02-10T01:17:09.687+01:00","modified":"2024-12-15T13:53:31.613+01:00","cssclasses":"mado-heading hide-date index-page"}
+{"publish":true,"title":"Quartz Syncer Docs","description":"Quartz Syncer documentation.","created":"2024-12-15T08:05:41.858+01:00","modified":"2024-12-15T13:53:31.613+01:00","cssclasses":"mado-heading hide-date index-page"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Day 01: Trebuchet?!","description":"Advent of Code 2023 Day 1 solutions","created":"2025-02-10T01:14:33.209+01:00","modified":"2024-05-06T16:41:31.862+02:00","cssclasses":"mado-heading"}
+{"publish":true,"title":"Day 01: Trebuchet?!","description":"Advent of Code 2023 Day 1 solutions","created":"2024-01-29T16:02:37.607+01:00","modified":"2024-05-06T16:41:31.862+02:00","cssclasses":"mado-heading"}
 ---
 
 

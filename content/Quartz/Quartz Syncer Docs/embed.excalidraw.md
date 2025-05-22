@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-02-10T01:17:09.688+01:00","modified":"2024-12-15T14:00:39.652+01:00","tags":["excalidraw"],"cssclasses":""}
+{"publish":true,"created":"2024-12-15T08:12:01.842+01:00","modified":"2024-12-15T14:00:39.652+01:00","tags":["excalidraw"],"cssclasses":""}
 ---
 
 
@@ -7,15 +7,9 @@
 
 # Excalidraw Data
 ## Text Elements
-Excalidraw Embeds in Quartz using Quartz Syncer
-{ #mHpenEbn}
+Excalidraw Embeds in Quartz using Quartz Syncer ^mHpenEbn
 
+Just add publish: true to the *.excalidraw.md frontmatter ^6Yu0udwE
 
-Just add publish: true to the *.excalidraw.md frontmatter
-{ #6Yu0udwE}
-
-
-TODO: Convert inline Excalidraw data to js/css files to fix inline escapes...
-{ #EDCqN68W}
-
+TODO: Convert inline Excalidraw data to js/css files to fix inline escapes... ^EDCqN68W
 

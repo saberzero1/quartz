@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Component Customization","description":"Fixes for issues with passing parameters to components.","created":"2025-02-10T01:17:09.675+01:00","modified":"2024-11-03T20:29:56.042+01:00","cssclasses":"mado-heading"}
+{"publish":true,"title":"Component Customization","description":"Fixes for issues with passing parameters to components.","created":"2024-11-03T20:22:03.777+01:00","modified":"2024-11-03T20:29:56.042+01:00","cssclasses":"mado-heading"}
 ---
 
 

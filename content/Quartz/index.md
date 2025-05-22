@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","created":"2025-02-10T01:17:09.666+01:00","modified":"2024-12-15T08:26:55.746+01:00","cssclasses":"mado-heading index-page hide-date"}
+{"publish":true,"title":"Quartz","description":"Quartz Guides, Tricks, and Solutions.","created":"2024-10-09T22:03:56.407+02:00","modified":"2024-12-15T08:26:55.746+01:00","cssclasses":"mado-heading index-page hide-date"}
 ---
 
 

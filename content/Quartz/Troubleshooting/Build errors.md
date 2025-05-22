@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Build errors","description":"Fixes to common build errors of Quartz.","created":"2025-02-10T01:17:09.680+01:00","modified":"2024-10-16T20:56:46.696+02:00","cssclasses":"mado-heading"}
+{"publish":true,"title":"Build errors","description":"Fixes to common build errors of Quartz.","created":"2024-10-16T20:43:14.166+02:00","modified":"2024-10-16T20:56:46.696+02:00","cssclasses":"mado-heading"}
 ---
 
 

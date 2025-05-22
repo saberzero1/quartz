@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Quartz Themes","description":"Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.","created":"2025-02-10T01:17:09.663+01:00","modified":"2024-10-21T21:19:33.660+02:00","cssclasses":"mado-heading"}
+{"publish":true,"title":"Quartz Themes","description":"Obsidian 🤝 Quartz. Quartz compatible Obsidian Themes.","created":"2024-10-21T20:57:53.804+02:00","modified":"2024-10-21T21:19:33.660+02:00","cssclasses":"mado-heading"}
 ---
 
 
