@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Blog","description":"Overview of Blog posts.","cssclasses":"mado-heading index-page hide-date"}
+{"publish":true,"title":"Blog","description":"Overview of Blog posts.","created":"Friday, April 26th 2024, 11:53:16 pm","modified":"Saturday, May 31st 2025, 10:13:38 am","cssclasses":"mado-heading index-page hide-date"}
 ---
-
 
 
 

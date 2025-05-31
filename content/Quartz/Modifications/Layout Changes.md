@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Layout Changes","description":"Overview of frequently requested layout changes.","cssclasses":"mado-heading"}
+{"publish":true,"title":"Layout Changes","description":"Overview of frequently requested layout changes.","created":"Wednesday, October 9th 2024, 10:19:03 pm","modified":"Saturday, May 31st 2025, 10:14:23 am","cssclasses":"mado-heading"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Second Brain","description":"Personal portfolio and blog.","cssclasses":"mado-heading index-page home-page hide-title hide-date"}
+{"publish":true,"title":"Second Brain","description":"Personal portfolio and blog.","created":"Saturday, December 3rd 2022, 3:27:32 pm","modified":"Saturday, May 31st 2025, 10:15:02 am","cssclasses":"mado-heading index-page home-page hide-title hide-date"}
 ---
 
 
@@ -22,10 +22,8 @@ PS: If you're looking for help customizing Quartz, check [[Quartz/index\|here]].
 
 ## Recent Posts
 
-- [[Writings/Essays/Politics/On the Availability Cascade in Modern Political Discourse\|On the Availablity Cascade in Modern Political Discourse]] - February 20, 2025
 
 
 ## Recent Thoughts
 
-- [[Writings/Thoughts/Development/Local .gitignore through exclude\|Local .gitignore through exclude]] - October 03, 2024
 
