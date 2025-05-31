@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Portfolio","description":"Personal portfolio","created":"2024-01-29T15:05:46.569+01:00","modified":"2024-04-26T23:00:59.573+02:00","cssclasses":"mado-heading"}
+{"publish":true,"title":"Portfolio","description":"Personal portfolio","cssclasses":"mado-heading"}
 ---
 
 

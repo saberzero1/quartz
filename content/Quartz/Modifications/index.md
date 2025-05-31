@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Modifications","description":"Overview of frequently requested modifications.","created":"2024-10-09T22:07:16.280+02:00","modified":"2024-11-03T20:30:23.339+01:00","cssclasses":"mado-heading index-page hide-date"}
+{"publish":true,"title":"Modifications","description":"Overview of frequently requested modifications.","cssclasses":"mado-heading index-page hide-date"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"2023","description":"Advent of Code solutions for 2023","created":"2024-01-29T16:00:18.820+01:00","modified":"2024-10-28T01:13:35.449+01:00","cssclasses":"mado-heading index-page hide-date"}
+{"publish":true,"title":"2023","description":"Advent of Code solutions for 2023","cssclasses":"mado-heading index-page hide-date"}
 ---
 
 

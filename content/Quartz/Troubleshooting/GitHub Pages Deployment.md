@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"GitHub Pages Deployment","description":"Fixes for issues related to GitHub Pages deployment of Quartz.","created":"2024-10-09T22:10:10.716+02:00","modified":"2024-10-27T11:36:21.639+01:00","cssclasses":"mado-heading"}
+{"publish":true,"title":"GitHub Pages Deployment","description":"Fixes for issues related to GitHub Pages deployment of Quartz.","cssclasses":"mado-heading"}
 ---
 
 

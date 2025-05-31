@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-12-15T08:12:01.842+01:00","modified":"2024-12-15T14:00:39.652+01:00","tags":["excalidraw"],"cssclasses":""}
+{"publish":true,"tags":["excalidraw"],"cssclasses":""}
 ---
 
 

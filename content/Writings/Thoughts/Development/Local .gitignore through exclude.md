@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Local .gitignore through exclude","description":"I recently learned that a local-only gitignore is possible through .git/info/exclude.","created":"2024-10-03T21:11:46.192+02:00","modified":"2025-02-19T01:18:26.116+01:00","tags":["Thoughts/Development","Tools/Git"],"cssclasses":"mado-heading"}
+{"publish":true,"title":"Local .gitignore through exclude","description":"I recently learned that a local-only gitignore is possible through .git/info/exclude.","tags":["Thoughts/Development","Tools/Git"],"cssclasses":"mado-heading"}
 ---
 
 

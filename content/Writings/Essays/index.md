@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Essays","description":"Overview of essays.","created":"2025-02-19T03:34:05.461+01:00","modified":"2025-02-19T17:26:39.133+01:00","tags":["Essays"],"cssclasses":"mado-heading hide-date index-page"}
+{"publish":true,"title":"Essays","description":"Overview of essays.","tags":["Essays"],"cssclasses":"mado-heading hide-date index-page"}
 ---
 
 

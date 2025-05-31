@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vercel Deployment","description":"Fixes for issues related to Vercel deployment of Quartz.","created":"2024-10-09T22:28:48.580+02:00","modified":"2024-10-16T21:12:29.898+02:00","cssclasses":"mado-heading"}
+{"publish":true,"title":"Vercel Deployment","description":"Fixes for issues related to Vercel deployment of Quartz.","cssclasses":"mado-heading"}
 ---
 
 
