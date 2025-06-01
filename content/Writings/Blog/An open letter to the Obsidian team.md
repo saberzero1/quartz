@@ -41,7 +41,7 @@ Nothing is stopping any developer (or malicious actor gaining access to the acco
 
 And these are just a few examples.
 
-We cannot expect the Obsidian theme to review every single change to every single plugin by hand. And we shouldn't.
+We cannot expect the Obsidian team to review every single change to every single plugin by hand. And we shouldn't.
 
 ### A reason for concern
 
