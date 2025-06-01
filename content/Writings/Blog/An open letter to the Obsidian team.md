@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"An open letter to the Obsidian team","description":"Addressing the current plugin ecosystem and suggestion to improve.","created":"Sunday, June 1st 2025, 7:03:44 pm","modified":"Sunday, June 1st 2025, 10:48:34 pm","published":"2025-06-01","tags":["Opinion","Blog"],"cssclasses":"mado-heading"}
+{"publish":true,"title":"An open letter to the Obsidian team","description":"Addressing the current plugin ecosystem and suggestion to improve.","created":"Sunday, June 1st 2025, 7:03:44 pm","modified":"Sunday, June 1st 2025, 11:13:40 pm","published":"2025-06-01","tags":["Opinion","Blog"],"cssclasses":"mado-heading"}
 ---
 
 
@@ -74,14 +74,14 @@ I could go on and on, but my point is clear. If we want to keep this amazing plu
 
 So what is my proposal? Well, after praising the Obsidian community so much, it would only make sense to turn to that same community. So, to close off this post, a plea, and an invitation to the Obsidian team directly:
 
-**Dear Obsidian team.**
-
-**Let the community help. We are a community full of wonderful people. A lot of us are technical people. If the Obsidian team created a list of issues they are facing in the checking and maintain of community themes and plugins, I'm sure the community can come up with solutions. A lot of things can be (further) automated, both during the initial review, as well as when issues arise after a plugin or theme has been released. We all want to keep using Obsidian and keep making amazing things, but it only takes a handful of malicious plugins to completely wreck the community built around the plugin ecosystem. Tools like VS Code show it can be done.**
-
-**We know your team is small. You simply do not have the capacity to deal with the plugin workload. I think it is time to start delegating more responsibilities to the community. Let us help you make Obsidian the best it can be.**
-
-**Let us help you.**
-
-**Sincerely,**
-
-**saberzero1**
+> **Dear Obsidian team.**
+>
+> **Let the community help. We are a community full of wonderful people. A lot of us are technical people. If the Obsidian team created a list of issues they are facing in the checking and maintain of community themes and plugins, I'm sure the community can come up with solutions. A lot of things can be (further) automated, both during the initial review, as well as when issues arise after a plugin or theme has been released. We all want to keep using Obsidian and keep making amazing things, but it only takes a handful of malicious plugins to completely wreck the community built around the plugin ecosystem. Tools like VS Code show it can be done.**
+>
+> **We know your team is small. You simply do not have the capacity to deal with the plugin workload. I think it is time to start delegating more responsibilities to the community. Let us help you make Obsidian the best it can be.**
+>
+> **Let us help you.**
+>
+> **Sincerely,**
+>
+> **saberzero1**
