@@ -1,11 +1,11 @@
-# Tokyo Night
+# Blue Topaz
 
-- Theme: Tokyo Night
-- Author: tcmmichaelb139
+- Theme: Blue Topaz
+- Author: <a href="https://github.com/whyt-byte" target="_blank" rel="noopener noreferrer">WhyI & Pkmer</a>
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/tokyo-night/)
+[Open live preview](https://quartz-themes.github.io/blue-topaz/)
 
 ## Usage
 
@@ -13,7 +13,7 @@
 
 ```yaml
 env:
-  THEME_NAME: tokyo-night
+  THEME_NAME: blue-topaz
 ```
 
 ```yaml
@@ -26,7 +26,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh tokyo-night
+./action.sh blue-topaz
 ```
 
 ### Manual install
