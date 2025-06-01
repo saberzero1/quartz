@@ -3,4 +3,5 @@
 ---
 
 
+- [[Writings/Blog/An open letter to the Obsidian team\|An open letter to the Obsidian team]] - June 01, 2025
 
