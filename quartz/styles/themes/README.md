@@ -1,6 +1,7 @@
 # Tokyo Night
 
-[Tokyo Night](#)
+- Theme: Tokyo Night
+- Author: tcmmichaelb139
 
 ## Preview
 
@@ -11,11 +12,16 @@
 ### GitHub Actions
 
 ```yaml
-- name: Fetch Quartz Theme
-  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- tokyo-night
+env:
+  THEME_NAME: tokyo-night
 ```
 
-### Manual install
+```yaml
+- name: Fetch Quartz Theme
+  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
+```
+
+### Automatic install into Quartz repository
 
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
@@ -23,10 +29,19 @@ curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-them
 ./action.sh tokyo-night
 ```
 
-### Install script (Advanced)
+### Manual install
 
-After installing:
+Copy [\_index.scss](./_index.scss) into your Quartz repository's `quartz/styles/themes/` directory. (Create the `themes` directory if it does not exist.)
 
-```bash
-npm run theme tokyo-night
+Then, add the following to your `quartz/styles/custom.scss` file after the `@use "base";` line:
+
+```scss
+@use "themes";
 ```
+
+> [!IMPORTANT] For dark-only or light-only themes, remember to remove `Component.Darkmode()` from your `quartz.config.ts` file.
+
+### Quartz Syncer
+
+> [!IMPORTANT]
+> This setup method is not yet available. It is currently being tested and will be released in the future.
