@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"An open letter to the Obsidian team","description":"Addressing the current plugin ecosystem and suggestion to improve.","created":"Sunday, June 1st 2025, 7:03:44 pm","modified":"Sunday, June 1st 2025, 11:47:13 pm","published":"2025-06-01","tags":["Opinion","Blog"],"cssclasses":"mado-heading"}
+{"publish":true,"title":"An open letter to the Obsidian team","description":"Addressing the current plugin ecosystem.","created":"Sunday, June 1st 2025, 7:03:44 pm","modified":"Sunday, June 1st 2025, 11:59:23 pm","published":"2025-06-01","tags":["Opinion","Blog"],"cssclasses":"mado-heading"}
 ---
 
 
