@@ -3,11 +3,12 @@ import remarkFrontmatter from "remark-frontmatter"
 import { QuartzTransformerPlugin } from "../types"
 import yaml from "js-yaml"
 import toml from "toml"
-import { FullSlug, joinSegments, slugTag } from "../../util/path"
+import { FilePath, FullSlug, getFileExtension, joinSegments, slugifyFilePath, slugTag } from "../../util/path"
 import { QuartzPluginData } from "../vfile"
 import { i18n } from "../../i18n"
 import { Argv } from "../../util/ctx"
 import { VFile } from "vfile"
+
 
 export interface Options {
   delimiters: string | [string, string]
@@ -54,22 +55,22 @@ export function getAliasSlugs(aliases: string[], _argv: Argv, file: VFile): Full
     const absolutePermalink = permalink.startsWith("/") ? permalink : `/${permalink}`
     slugs.push(absolutePermalink as FullSlug)
   }
-  // fix any slugs that have trailing slash
-  return slugs.map((slug) =>
-    slug.endsWith("/") ? (joinSegments(slug, "index") as FullSlug) : slug,
-  )
+
+  return res
 }
 
 export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "FrontMatter",
-    markdownPlugins({ cfg, allSlugs, argv }) {
+    markdownPlugins(ctx) {
+      const { cfg, allSlugs } = ctx
       return [
         [remarkFrontmatter, ["yaml", "toml"]],
         () => {
           return (_, file) => {
-            const { data } = matter(Buffer.from(file.value), {
+            const fileData = Buffer.from(file.value as Uint8Array)
+            const { data } = matter(fileData, {
               ...opts,
               engines: {
                 yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
@@ -89,16 +90,29 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]))
             if (aliases) {
               data.aliases = aliases // frontmatter
-              const slugs = (file.data.aliases = getAliasSlugs(aliases, argv, file))
-              allSlugs.push(...slugs)
+              file.data.aliases = getAliasSlugs(aliases)
+              allSlugs.push(...file.data.aliases)
             }
+
+            if (data.permalink != null && data.permalink.toString() !== "") {
+              data.permalink = data.permalink.toString() as FullSlug
+              const aliases = file.data.aliases ?? []
+              aliases.push(data.permalink)
+              file.data.aliases = aliases
+              allSlugs.push(data.permalink)
+            }
+
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]))
             if (cssclasses) data.cssclasses = cssclasses
 
             const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"])
 
             const created = coalesceAliases(data, ["created", "date"])
-            if (created) data.created = created
+            if (created) {
+              data.created = created
+              data.modified ||= created // if modified is not set, use created
+            }
+
             const modified = coalesceAliases(data, [
               "modified",
               "lastmod",
@@ -110,6 +124,10 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             if (published) data.published = published
 
             if (socialImage) data.socialImage = socialImage
+
+            // Remove duplicate slugs
+            const uniqueSlugs = [...new Set(allSlugs)]
+            allSlugs.splice(0, allSlugs.length, ...uniqueSlugs)
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
@@ -132,6 +150,7 @@ declare module "vfile" {
         created: string
         published: string
         description: string
+        socialDescription: string
         permalink: string
         publish: boolean | string
         draft: boolean | string
