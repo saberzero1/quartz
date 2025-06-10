@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Second Brain","description":"Personal portfolio and blog.","created":"Saturday, December 3rd 2022, 3:27:32 pm","modified":"Sunday, June 1st 2025, 9:23:33 pm","cssclasses":"mado-heading index-page home-page hide-title hide-date"}
+{"publish":true,"title":"Second Brain","description":"Personal portfolio and blog.","created":"Saturday, December 3rd 2022, 3:27:32 pm","modified":"Wednesday, June 11th 2025, 12:29:44 am","cssclasses":"mado-heading index-page home-page hide-title hide-date"}
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-{"publish":true,"title":"An open letter to the Obsidian team","description":"Addressing the current plugin ecosystem.","created":"Sunday, June 1st 2025, 7:03:44 pm","modified":"Sunday, June 1st 2025, 11:59:23 pm","published":"2025-06-01","tags":["Opinion","Blog"],"cssclasses":"mado-heading"}
+{"publish":true,"title":"An open letter to the Obsidian team","description":"Addressing the current plugin ecosystem.","created":"Sunday, June 1st 2025, 7:03:44 pm","modified":"Tuesday, June 10th 2025, 12:30:19 am","published":"2025-06-01","tags":["Opinion","Blog"],"cssclasses":"mado-heading"}
 ---
 
 
 ## Dear Obsidian team
 
-> Hello, my name is Emile, but most of you probably know me as saberzero1. I am one of the core maintainers of [Quartz](https://quartz.jzhao.xyz/) and I develop various [tools](https://saberzero1.github.io/quartz-syncer-docs/) and [integrations](https://github.com/saberzero1/quartz-themes) that improve using Obsidian with Quartz. I have seen [growing trend](https://www.reddit.com/r/ObsidianMD/comments/1kxjr2m/for_a_better_obsidian_plugin_market/) over the past few months that I hope to address in this letter. This letter is a love letter to the Obsidian team and the Obsidian community. The points raised are not to tear down the Obsidian developers nor the amazing community, rather it is ensure that the Obsidian community can continue to grow and thrive.
+> Hello, my name is Emile, but most of you probably know me as saberzero1. I am one of the core maintainers of [Quartz](https://quartz.jzhao.xyz/) and I develop various [tools](https://saberzero1.github.io/quartz-syncer-docs/) and [integrations](https://github.com/saberzero1/quartz-themes) that improve using Obsidian with Quartz. I have seen a [growing trend](https://www.reddit.com/r/ObsidianMD/comments/1kxjr2m/for_a_better_obsidian_plugin_market/) over the past few months that I hope to address in this letter. This letter is a love letter to the Obsidian team and the Obsidian community. The points raised are not to tear down the Obsidian developers nor the amazing community, rather it is ensure that the Obsidian community can continue to grow and thrive.
 
 For the past four years I have had the pleasure of being part of the Obsidian community. I have watched the community grow and have seen a lot of amazing projects being shared. Despite presenting itself as a note-taking app with an offline, you-own-your-notes approach, it has gathered a massive community of passionate writers, bloggers, tabletop RPG players, developers, content creators, artists, and many more. Who would've thought that a note-taking app would create such a vibrant and amazing community?
 
