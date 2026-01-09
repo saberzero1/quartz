@@ -1,5 +1,13 @@
 ---
-{"publish":true,"title":"Essays","description":"Overview of essays.","created":"Wednesday, February 19th 2025, 3:34:05 am","modified":"Saturday, May 31st 2025, 10:28:35 am","tags":["Essays"],"cssclasses":"mado-heading hide-date index-page"}
+publish: true
+title: Essays
+description: Overview of essays.
+created: 2025-02-19T03:34:05.461+01:00
+modified: 2025-05-31T10:28:36.231+02:00
+published: 2025-05-31T10:28:36.231+02:00
+tags:
+  - Essays
+cssclasses: mado-heading hide-date index-page
 ---
 
 

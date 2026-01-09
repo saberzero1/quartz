@@ -1,5 +1,14 @@
 ---
-{"publish":true,"title":"An open letter to the Obsidian team","description":"Addressing the current plugin ecosystem.","created":"Sunday, June 1st 2025, 7:03:44 pm","modified":"Tuesday, June 10th 2025, 12:30:19 am","published":"2025-06-01","tags":["Opinion","Blog"],"cssclasses":"mado-heading"}
+publish: true
+title: An open letter to the Obsidian team
+description: Addressing the current plugin ecosystem.
+created: 2025-06-01T19:03:44.623+02:00
+modified: 2025-06-10T00:30:21.140+02:00
+published: 2025-06-01
+tags:
+  - Opinion
+  - Blog
+cssclasses: mado-heading
 ---
 
 

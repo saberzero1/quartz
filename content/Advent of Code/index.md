@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Advent of Code","description":"Advent of Code solutions","created":"Monday, January 29th 2024, 3:52:20 pm","modified":"Saturday, May 31st 2025, 10:14:37 am","cssclasses":"mado-heading index-page hide-date"}
+publish: true
+title: Advent of Code
+description: Advent of Code solutions
+created: 2024-01-29T15:52:20.748+01:00
+modified: 2025-05-31T10:14:37.447+02:00
+published: 2025-05-31T10:14:37.447+02:00
+cssclasses: mado-heading index-page hide-date
 ---
 
 

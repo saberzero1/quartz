@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Writings","description":"Writings overview.","created":"Friday, April 26th 2024, 11:52:26 pm","modified":"Saturday, May 31st 2025, 10:13:38 am","cssclasses":"mado-heading index-page hide-date"}
+publish: true
+title: Writings
+description: Writings overview.
+created: 2024-04-26T23:52:26.947+02:00
+modified: 2025-05-31T10:13:39.343+02:00
+published: 2025-05-31T10:13:39.343+02:00
+cssclasses: mado-heading index-page hide-date
 ---
 
 

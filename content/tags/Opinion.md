@@ -1,4 +1,10 @@
 ---
-{"publish":true,"title":"Opinion","description":"Overview of Opinion tag.","created":"Wednesday, February 19th 2025, 9:07:44 pm","modified":"Wednesday, March 12th 2025, 2:34:46 am","cssclasses":"mado-heading"}
+publish: true
+title: Opinion
+description: Overview of Opinion tag.
+created: 2025-02-19T21:07:44.831+01:00
+modified: 2025-05-31T10:11:47.075+02:00
+published: 2025-05-31T10:11:47.075+02:00
+cssclasses: mado-heading
 ---
 

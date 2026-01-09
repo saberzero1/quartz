@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Sorting Functions","description":"Overview of frequently requested sorting functions.","created":"Wednesday, October 9th 2024, 10:16:12 pm","modified":"Saturday, May 31st 2025, 10:14:23 am","cssclasses":"mado-heading"}
+publish: true
+title: Sorting Functions
+description: Overview of frequently requested sorting functions.
+created: 2024-10-09T22:16:12.103+02:00
+modified: 2025-05-31T10:14:23.147+02:00
+published: 2025-05-31T10:14:23.147+02:00
+cssclasses: mado-heading
 ---
 
 

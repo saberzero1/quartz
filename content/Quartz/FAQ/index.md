@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"FAQ","description":"Overview of frequently asked questions with answers.","created":"Wednesday, October 9th 2024, 10:09:17 pm","modified":"Saturday, May 31st 2025, 10:14:23 am","cssclasses":"mado-heading index-page hide-date"}
+publish: true
+title: FAQ
+description: Overview of frequently asked questions with answers.
+created: 2024-10-09T22:09:17.992+02:00
+modified: 2025-05-31T10:14:23.155+02:00
+published: 2025-05-31T10:14:23.155+02:00
+cssclasses: mado-heading index-page hide-date
 ---
 
 

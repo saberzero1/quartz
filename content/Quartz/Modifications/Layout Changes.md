@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Layout Changes","description":"Overview of frequently requested layout changes.","created":"Wednesday, October 9th 2024, 10:19:03 pm","modified":"Saturday, May 31st 2025, 10:14:23 am","cssclasses":"mado-heading"}
+publish: true
+title: Layout Changes
+description: Overview of frequently requested layout changes.
+created: 2024-10-09T22:19:03.710+02:00
+modified: 2025-05-31T10:14:23.151+02:00
+published: 2025-05-31T10:14:23.151+02:00
+cssclasses: mado-heading
 ---
 
 

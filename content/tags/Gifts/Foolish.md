@@ -1,4 +1,10 @@
 ---
-{"publish":true,"title":"Foolish","description":"Overview of Foolish Gifts tag.","created":"Thursday, April 11th 2024, 5:57:42 pm","modified":"Friday, October 4th 2024, 12:24:56 am","cssclasses":"mado-heading"}
+publish: true
+title: Foolish
+description: Overview of Foolish Gifts tag.
+created: 2024-04-11T17:57:42.865+02:00
+modified: 2025-05-31T10:11:46.975+02:00
+published: 2025-05-31T10:11:46.975+02:00
+cssclasses: mado-heading
 ---
 

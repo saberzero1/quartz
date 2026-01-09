@@ -1,5 +1,13 @@
 ---
-{"publish":true,"title":"Thoughts","description":"Thoughts Overview.","created":"Saturday, May 11th 2024, 10:10:36 pm","modified":"Saturday, May 31st 2025, 10:28:35 am","tags":["Thoughts"],"cssclasses":"mado-heading index-page hide-date"}
+publish: true
+title: Thoughts
+description: Thoughts Overview.
+created: 2024-05-11T22:10:36.670+02:00
+modified: 2025-05-31T10:28:36.227+02:00
+published: 2025-05-31T10:28:36.227+02:00
+tags:
+  - Thoughts
+cssclasses: mado-heading index-page hide-date
 ---
 
 

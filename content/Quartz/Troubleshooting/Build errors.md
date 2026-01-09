@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Build errors","description":"Fixes to common build errors of Quartz.","created":"Wednesday, October 16th 2024, 8:43:14 pm","modified":"Saturday, May 31st 2025, 10:14:23 am","cssclasses":"mado-heading"}
+publish: true
+title: Build errors
+description: Fixes to common build errors of Quartz.
+created: 2024-10-16T20:43:14.166+02:00
+modified: 2025-05-31T10:14:23.139+02:00
+published: 2025-05-31T10:14:23.139+02:00
+cssclasses: mado-heading
 ---
 
 

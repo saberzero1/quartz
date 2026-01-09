@@ -1,4 +1,10 @@
 ---
-{"publish":true,"title":"Influence","description":"Overview of Influence Gifts tag.","created":"Thursday, April 11th 2024, 5:58:17 pm","modified":"Friday, October 4th 2024, 12:24:57 am","cssclasses":"mado-heading"}
+publish: true
+title: Influence
+description: Overview of Influence Gifts tag.
+created: 2024-04-11T17:58:17.100+02:00
+modified: 2025-05-31T10:11:46.987+02:00
+published: 2025-05-31T10:11:46.987+02:00
+cssclasses: mado-heading
 ---
 

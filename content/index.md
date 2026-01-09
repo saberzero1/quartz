@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Second Brain","description":"Personal portfolio and blog.","created":"Saturday, December 3rd 2022, 3:27:32 pm","modified":"Wednesday, June 11th 2025, 12:29:44 am","cssclasses":"mado-heading index-page home-page hide-title hide-date"}
+publish: true
+title: Second Brain
+description: Personal portfolio and blog.
+created: 2024-01-28T17:59:12.115+01:00
+modified: 2025-06-11T00:29:47.029+02:00
+published: 2025-06-11T00:29:47.029+02:00
+cssclasses: mado-heading index-page home-page hide-title hide-date
 ---
 
 

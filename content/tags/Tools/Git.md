@@ -1,4 +1,10 @@
 ---
-{"publish":true,"title":"Git","description":"Overview of Git tag.","created":"Friday, October 4th 2024, 12:16:02 am","modified":"Wednesday, March 12th 2025, 2:34:46 am","cssclasses":"mado-heading"}
+publish: true
+title: Git
+description: Overview of Git tag.
+created: 2024-10-04T00:16:02.617+02:00
+modified: 2025-05-31T10:11:47.115+02:00
+published: 2025-05-31T10:11:47.115+02:00
+cssclasses: mado-heading
 ---
 
