@@ -3,8 +3,8 @@ publish: true
 title: Second Brain
 description: Personal portfolio and blog.
 created: 2024-01-28T17:59:12.115+01:00
-modified: 2025-06-11T00:29:47.029+02:00
-published: 2025-06-11T00:29:47.029+02:00
+modified: 2026-01-18T13:45:59.074+01:00
+published: 2026-01-18T13:45:59.074+01:00
 cssclasses: mado-heading index-page home-page hide-title hide-date
 ---
 
