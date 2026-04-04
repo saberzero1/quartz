@@ -1,10 +1,10 @@
 ---
 publish: true
-title: Quartz
+title: Quartz Syncer
 description: Manage your Quartz site content from inside Obsidian. Full support for Dataview.
 created: Saturday, April 4th 2026, 11:57:03 pm
 modified: Sunday, April 5th 2026, 12:00:36 am
-published: 2026-04-05T00:00:38.437+02:00
+published: 2026-04-05T00:32:30.571+02:00
 cssclasses:
   - mado-heading
 ---
