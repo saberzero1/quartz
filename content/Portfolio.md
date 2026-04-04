@@ -3,8 +3,8 @@ publish: true
 title: Portfolio
 description: Personal portfolio
 created: Monday, January 29th 2024, 3:05:46 pm
-modified: Sunday, April 5th 2026, 12:05:50 am
-published: 2026-04-05T00:05:50.587+02:00
+modified: Sunday, April 5th 2026, 12:25:09 am
+published: 2026-04-05T00:25:09.258+02:00
 cssclasses:
   - mado-heading
 ---
@@ -16,7 +16,7 @@ views:
     filters:
       and:
         - file.folder == "Projects"
-        - file.name != "index"
+        - '!file.path.endsWith("index.md")'
     order:
       - title
       - description

@@ -3,8 +3,8 @@ publish: true
 title: Projects
 description: Overview of Projects.
 created: Saturday, April 4th 2026, 11:56:30 pm
-modified: Sunday, April 5th 2026, 12:08:10 am
-published: 2026-04-05T00:08:30.531+02:00
+modified: Sunday, April 5th 2026, 12:24:48 am
+published: 2026-04-05T00:25:09.117+02:00
 cssclasses:
   - mado-heading
 ---
@@ -16,7 +16,7 @@ views:
     filters:
       and:
         - file.folder == "Projects"
-        - file.name != "index"
+        - title != "Projects"
     order:
       - title
       - description
