@@ -3,8 +3,8 @@ publish: true
 title: Second Brain
 description: Personal portfolio and blog.
 created: Saturday, December 3rd 2022, 3:27:32 pm
-modified: Saturday, April 4th 2026, 11:20:22 pm
-published: 2026-04-04T23:20:24.132+02:00
+modified: Saturday, April 4th 2026, 11:50:01 pm
+published: 2026-04-04T23:50:03.639+02:00
 cssclasses:
   - mado-heading
   - index-page
@@ -21,7 +21,7 @@ cssclasses:
 
 PS: If you're looking for help customizing Quartz, check [[Quartz/index|here]].
 
-> [!cite]- About me
+> [!cite] About me
 >
 > - I'm a [Quartz Core Maintainer](https://quartz.jzhao.xyz/) - I'm currently working on the [v5 release](https://v5.quartz-1h4.pages.dev/).
 >   - I maintain the [[Quartz/Quartz Syncer|Quartz Syncer]] Obsidian plugin and the [[Quartz/Quartz Themes|Quartz Themes]] Catalog.
